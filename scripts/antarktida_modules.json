@@ -1,33 +1,40 @@
-import type { Field } from "../types";
-
-/** Generováno z scripts/antarktida_modules.json — CARP, BAS, SCAR, NASA. */
-export const antarktida: Field = {
-  id: "antarktida",
-  title: "Antarktida",
-  subtitle: "Geografie · klima · biosféra · CARP · historie",
-  level: "Speciální modul",
-  accent: "#8fbfe0",
-  icon: "snow",
-  description: "Vědní disciplíny o Antarktidě (geologie, kryosféra, klima, oceán, hydrologie, biosféra, paleoklima), český výzkum CARP, historie průzkumu, mezinárodní smluvní systém a současné expedice.",
-  sourceUrl: "https://carp.sci.muni.cz/",
-  courses: [
+{
+  "field": {
+    "id": "antarktida",
+    "title": "Antarktida",
+    "subtitle": "Geografie · klima · biosféra · CARP · historie",
+    "level": "Speciální modul",
+    "accent": "#8fbfe0",
+    "icon": "snow",
+    "description": "Vědní disciplíny o Antarktidě (geologie, kryosféra, klima, oceán, hydrologie, biosféra, paleoklima), český výzkum CARP, historie průzkumu, mezinárodní smluvní systém a současné expedice.",
+    "sourceUrl": "https://carp.sci.muni.cz/"
+  },
+  "modules": [
     {
-      id: "mod-geografie",
-      title: "Geografie a geologie",
-      completion: "výukový modul",
-      moduleSection: "veda",
-      tags: ["Antarktida","geologie","geomorfologie"],
-      description: "Poloha kontinentu, tektonika, geomorfologie a geovědní výzkum CARP na ostrově Jamese Rosse.",
-      syllabus: [
-        "Poloha, vymezení a základní charakteristika",
-        "Geologický vývoj a tektonická stavba",
-        "Geovědy v antarktické oáze",
-        "Permafrost a aktivní vrstva",
-        "Paleolimnologie a antarktická jezera",
-        "Sedimentární kaskády a geomorfologie",
-        "Geovědní databáze CARP"
+      "id": "mod-geografie",
+      "title": "Geografie a geologie",
+      "description": "Poloha kontinentu, tektonika, geomorfologie a geovědní výzkum CARP na ostrově Jamese Rosse.",
+      "tags": [
+        "Antarktida",
+        "geologie",
+        "geomorfologie"
       ],
-      lessons: [
+      "resources": [
+        {
+          "kind": "link",
+          "title": "Antarctic Digital Database",
+          "url": "https://www.add.scar.org/",
+          "source": "SCAR"
+        },
+        {
+          "kind": "link",
+          "title": "CARP — Geologie",
+          "url": "https://carp.sci.muni.cz/vyzkum/",
+          "source": "CARP"
+        }
+      ],
+      "section": "veda",
+      "lessons": [
         {
           "id": "poloha-vymezeni",
           "title": "Poloha, vymezení a základní charakteristika",
@@ -284,34 +291,35 @@ export const antarktida: Field = {
           ]
         }
       ],
-      resources: [
-        {
-          "kind": "link",
-          "title": "Antarctic Digital Database",
-          "url": "https://www.add.scar.org/",
-          "source": "SCAR"
-        },
-        {
-          "kind": "link",
-          "title": "CARP — Geologie",
-          "url": "https://carp.sci.muni.cz/vyzkum/",
-          "source": "CARP"
-        }
-      ],
+      "syllabus": [
+        "Poloha, vymezení a základní charakteristika",
+        "Geologický vývoj a tektonická stavba",
+        "Geovědy v antarktické oáze",
+        "Permafrost a aktivní vrstva",
+        "Paleolimnologie a antarktická jezera",
+        "Sedimentární kaskády a geomorfologie",
+        "Geovědní databáze CARP"
+      ]
     },
     {
-      id: "mod-kryosfera",
-      title: "Kryosféra a led",
-      completion: "výukový modul",
-      moduleSection: "veda",
-      tags: ["Antarktida","kryosféra","glaciologie"],
-      description: "Ledovcové štíty, šelfové ledovce, mořský led a glaciologický výzkum v oblasti Antarktického poloostrova.",
-      syllabus: [
-        "Ledovcový štít a kryosféra",
-        "Šelfové ledovce a mořský led",
-        "Glaciologie a hydrologie"
+      "id": "mod-kryosfera",
+      "title": "Kryosféra a led",
+      "description": "Ledovcové štíty, šelfové ledovce, mořský led a glaciologický výzkum v oblasti Antarktického poloostrova.",
+      "tags": [
+        "Antarktida",
+        "kryosféra",
+        "glaciologie"
       ],
-      lessons: [
+      "resources": [
+        {
+          "kind": "link",
+          "title": "NSIDC — Antarctic ice",
+          "url": "https://nsidc.org/cryosphere/antarctica",
+          "source": "NSIDC"
+        }
+      ],
+      "section": "veda",
+      "lessons": [
         {
           "id": "ledovcovy-stit",
           "title": "Ledovcový štít a kryosféra",
@@ -424,33 +432,37 @@ export const antarktida: Field = {
           ]
         }
       ],
-      resources: [
-        {
-          "kind": "link",
-          "title": "NSIDC — Antarctic ice",
-          "url": "https://nsidc.org/cryosphere/antarctica",
-          "source": "NSIDC"
-        }
-      ],
+      "syllabus": [
+        "Ledovcový štít a kryosféra",
+        "Šelfové ledovce a mořský led",
+        "Glaciologie a hydrologie"
+      ]
     },
     {
-      id: "mod-klima",
-      title: "Klimatologie a atmosféra",
-      completion: "výukový modul",
-      moduleSection: "veda",
-      tags: ["Antarktida","klimatologie","atmosféra"],
-      description: "Radiační bilance, cirkulace, ozonová vrstva, klimatická změna a atmosférický monitoring CARP.",
-      syllabus: [
-        "Klima: teplota a radiační bilance",
-        "Atmosférická cirkulace a katabatické větry",
-        "Ozonová díra nad Antarktidou",
-        "Antarktida a současná změna klimatu",
-        "Atmosférické vědy v CARP",
-        "Dlouhodobý monitoring klimatu",
-        "Modelování atmosféry a extrémní jevy",
-        "UV záření a ozonová vrstva"
+      "id": "mod-klima",
+      "title": "Klimatologie a atmosféra",
+      "description": "Radiační bilance, cirkulace, ozonová vrstva, klimatická změna a atmosférický monitoring CARP.",
+      "tags": [
+        "Antarktida",
+        "klimatologie",
+        "atmosféra"
       ],
-      lessons: [
+      "resources": [
+        {
+          "kind": "link",
+          "title": "BAS — Weather and climate",
+          "url": "https://www.bas.ac.uk/polar-operations/science/climate-weather/",
+          "source": "BAS"
+        },
+        {
+          "kind": "link",
+          "title": "NASA — Climate Change",
+          "url": "https://climate.nasa.gov/",
+          "source": "NASA"
+        }
+      ],
+      "section": "veda",
+      "lessons": [
         {
           "id": "klima-teplota-radiace",
           "title": "Klima: teplota a radiační bilance",
@@ -739,32 +751,35 @@ export const antarktida: Field = {
           ]
         }
       ],
-      resources: [
-        {
-          "kind": "link",
-          "title": "BAS — Weather and climate",
-          "url": "https://www.bas.ac.uk/polar-operations/science/climate-weather/",
-          "source": "BAS"
-        },
-        {
-          "kind": "link",
-          "title": "NASA — Climate Change",
-          "url": "https://climate.nasa.gov/",
-          "source": "NASA"
-        }
-      ],
+      "syllabus": [
+        "Klima: teplota a radiační bilance",
+        "Atmosférická cirkulace a katabatické větry",
+        "Ozonová díra nad Antarktidou",
+        "Antarktida a současná změna klimatu",
+        "Atmosférické vědy v CARP",
+        "Dlouhodobý monitoring klimatu",
+        "Modelování atmosféry a extrémní jevy",
+        "UV záření a ozonová vrstva"
+      ]
     },
     {
-      id: "mod-ocean",
-      title: "Oceánografie",
-      completion: "výukový modul",
-      moduleSection: "veda",
-      tags: ["Antarktida","oceánografie"],
-      description: "Jižní oceán, Antarktický cirkumpolární proud a role oceánu v globální cirkulaci.",
-      syllabus: [
-        "Jižní oceán a ACC"
+      "id": "mod-ocean",
+      "title": "Oceánografie",
+      "description": "Jižní oceán, Antarktický cirkumpolární proud a role oceánu v globální cirkulaci.",
+      "tags": [
+        "Antarktida",
+        "oceánografie"
       ],
-      lessons: [
+      "resources": [
+        {
+          "kind": "link",
+          "title": "SOCCOM — Southern Ocean",
+          "url": "https://soccom.princeton.edu/",
+          "source": "SOCCOM"
+        }
+      ],
+      "section": "veda",
+      "lessons": [
         {
           "id": "jizni-ocean-acc",
           "title": "Jižní oceán a ACC",
@@ -799,26 +814,20 @@ export const antarktida: Field = {
           ]
         }
       ],
-      resources: [
-        {
-          "kind": "link",
-          "title": "SOCCOM — Southern Ocean",
-          "url": "https://soccom.princeton.edu/",
-          "source": "SOCCOM"
-        }
-      ],
+      "syllabus": [
+        "Jižní oceán a ACC"
+      ]
     },
     {
-      id: "mod-hydrologie",
-      title: "Hydrologie",
-      completion: "výukový modul",
-      moduleSection: "veda",
-      tags: ["Antarktida","hydrologie"],
-      description: "Subglaciální jezera, odtoky a vodní bilance antarktického ledového štítu.",
-      syllabus: [
-        "Hydrologie a subglaciální jezera"
+      "id": "mod-hydrologie",
+      "title": "Hydrologie",
+      "description": "Subglaciální jezera, odtoky a vodní bilance antarktického ledového štítu.",
+      "tags": [
+        "Antarktida",
+        "hydrologie"
       ],
-      lessons: [
+      "section": "veda",
+      "lessons": [
         {
           "id": "hydrologie-subglacialni-jezera",
           "title": "Hydrologie a subglaciální jezera",
@@ -852,24 +861,29 @@ export const antarktida: Field = {
           ]
         }
       ],
+      "syllabus": [
+        "Hydrologie a subglaciální jezera"
+      ]
     },
     {
-      id: "mod-biosfera",
-      title: "Biosféra a ekologie",
-      completion: "výukový modul",
-      moduleSection: "veda",
-      tags: ["Antarktida","ekologie","biologie"],
-      description: "Polární ekosystémy, mikrobiologie, extremofily a biologický výzkum CARP.",
-      syllabus: [
-        "Biosféra a polární ekosystémy",
-        "Rostliny a fyziologie autotrofů",
-        "LTRP a komory Open Top Chamber",
-        "Mikrobiologie a CAMB",
-        "LTEM — dlouhodobý monitoring prostředí",
-        "Extrémní organismy a biodiverzita",
-        "Biodata a univerzitní kurzy"
+      "id": "mod-biosfera",
+      "title": "Biosféra a ekologie",
+      "description": "Polární ekosystémy, mikrobiologie, extremofily a biologický výzkum CARP.",
+      "tags": [
+        "Antarktida",
+        "ekologie",
+        "biologie"
       ],
-      lessons: [
+      "resources": [
+        {
+          "kind": "link",
+          "title": "CARP — Biosféra",
+          "url": "https://carp.sci.muni.cz/vyzkum/",
+          "source": "CARP"
+        }
+      ],
+      "section": "veda",
+      "lessons": [
         {
           "id": "biosfera-ekosystemy",
           "title": "Biosféra a polární ekosystémy",
@@ -1108,26 +1122,34 @@ export const antarktida: Field = {
           ]
         }
       ],
-      resources: [
-        {
-          "kind": "link",
-          "title": "CARP — Biosféra",
-          "url": "https://carp.sci.muni.cz/vyzkum/",
-          "source": "CARP"
-        }
-      ],
+      "syllabus": [
+        "Biosféra a polární ekosystémy",
+        "Rostliny a fyziologie autotrofů",
+        "LTRP a komory Open Top Chamber",
+        "Mikrobiologie a CAMB",
+        "LTEM — dlouhodobý monitoring prostředí",
+        "Extrémní organismy a biodiverzita",
+        "Biodata a univerzitní kurzy"
+      ]
     },
     {
-      id: "mod-paleoklima",
-      title: "Paleoklimatologie",
-      completion: "výukový modul",
-      moduleSection: "veda",
-      tags: ["Antarktida","paleoklimatologie"],
-      description: "Ledovcová jádra, proxy záznamy a rekonstrukce klimatu z antarktického ledu.",
-      syllabus: [
-        "Paleoklimatologie a ledovcová jádra"
+      "id": "mod-paleoklima",
+      "title": "Paleoklimatologie",
+      "description": "Ledovcová jádra, proxy záznamy a rekonstrukce klimatu z antarktického ledu.",
+      "tags": [
+        "Antarktida",
+        "paleoklimatologie"
       ],
-      lessons: [
+      "resources": [
+        {
+          "kind": "link",
+          "title": "EPICA — Ice cores",
+          "url": "https://www.bas.ac.uk/project/epica/",
+          "source": "BAS"
+        }
+      ],
+      "section": "veda",
+      "lessons": [
         {
           "id": "paleoklimatologie-jadra",
           "title": "Paleoklimatologie a ledovcová jádra",
@@ -1159,30 +1181,29 @@ export const antarktida: Field = {
           ]
         }
       ],
-      resources: [
-        {
-          "kind": "link",
-          "title": "EPICA — Ice cores",
-          "url": "https://www.bas.ac.uk/project/epica/",
-          "source": "BAS"
-        }
-      ],
+      "syllabus": [
+        "Paleoklimatologie a ledovcová jádra"
+      ]
     },
     {
-      id: "mod-carp",
-      title: "CARP",
-      completion: "výukový modul",
-      moduleSection: "ostatni",
-      tags: ["Antarktida","CARP","MUNI"],
-      description: "Český antarktický výzkumný program Masarykovy univerzity — stanice Mendel a Nelson, brněnské laboratoře a multidisciplinární výzkumný program.",
-      syllabus: [
-        "Český antarktický výzkumný program (CARP)",
-        "Multidisciplinární výzkumný program",
-        "Stanice Johanna Gregora Mendela",
-        "CZ*ECO Nelson",
-        "Polar-Geo-Lab, Polar-Bio-Lab a EEL"
+      "id": "mod-carp",
+      "title": "CARP",
+      "description": "Český antarktický výzkumný program Masarykovy univerzity — stanice Mendel a Nelson, brněnské laboratoře a multidisciplinární výzkumný program.",
+      "tags": [
+        "Antarktida",
+        "CARP",
+        "MUNI"
       ],
-      lessons: [
+      "resources": [
+        {
+          "kind": "link",
+          "title": "CARP oficiální web",
+          "url": "https://carp.sci.muni.cz/",
+          "source": "CARP"
+        }
+      ],
+      "section": "ostatni",
+      "lessons": [
         {
           "id": "carp-uvod",
           "title": "Český antarktický výzkumný program (CARP)",
@@ -1384,29 +1405,20 @@ export const antarktida: Field = {
           ]
         }
       ],
-      resources: [
-        {
-          "kind": "link",
-          "title": "CARP oficiální web",
-          "url": "https://carp.sci.muni.cz/",
-          "source": "CARP"
-        }
-      ],
+      "syllabus": [
+        "Český antarktický výzkumný program (CARP)",
+        "Multidisciplinární výzkumný program",
+        "Stanice Johanna Gregora Mendela",
+        "CZ*ECO Nelson",
+        "Polar-Geo-Lab, Polar-Bio-Lab a EEL"
+      ]
     },
     {
-      id: "mod-historie",
-      title: "Historie",
-      completion: "výukový modul",
-      moduleSection: "ostatni",
-      tags: ["Antarktida"],
-      description: "Od Heroic Age a závodů k pólu po Mezinárodní geofyzikální rok a vznik české stanice Johanna Gregora Mendela.",
-      syllabus: [
-        "První průzkumy a Heroic Age",
-        "Závody k jižnímu pólu",
-        "Od IGY po Antarktickou smlouvu",
-        "Historie českého výzkumu v Antarktidě"
-      ],
-      lessons: [
+      "id": "mod-historie",
+      "title": "Historie",
+      "description": "Od Heroic Age a závodů k pólu po Mezinárodní geofyzikální rok a vznik české stanice Johanna Gregora Mendela.",
+      "section": "ostatni",
+      "lessons": [
         {
           "id": "historie-prvni-pruzkumy",
           "title": "První průzkumy a Heroic Age",
@@ -1549,21 +1561,30 @@ export const antarktida: Field = {
           ]
         }
       ],
+      "tags": [
+        "Antarktida"
+      ],
+      "syllabus": [
+        "První průzkumy a Heroic Age",
+        "Závody k jižnímu pólu",
+        "Od IGY po Antarktickou smlouvu",
+        "Historie českého výzkumu v Antarktidě"
+      ]
     },
     {
-      id: "mod-mezinarodni",
-      title: "Mezinárodní vztahy",
-      completion: "výukový modul",
-      moduleSection: "ostatni",
-      tags: ["Antarktida"],
-      description: "Antarktická smlouva, územní nároky, SCAR, COMNAP, CCAMLR a role České republiky v globální polární politice.",
-      syllabus: [
-        "Výzkum, stanice a smluvní systém",
-        "Územní nároky a status kontinentu",
-        "SCAR, COMNAP a CCAMLR",
-        "Mezinárodní spolupráce a publikace"
+      "id": "mod-mezinarodni",
+      "title": "Mezinárodní vztahy",
+      "description": "Antarktická smlouva, územní nároky, SCAR, COMNAP, CCAMLR a role České republiky v globální polární politice.",
+      "resources": [
+        {
+          "kind": "link",
+          "title": "Antarctic Treaty Secretariat",
+          "url": "https://www.ats.aq/",
+          "source": "ATS"
+        }
       ],
-      lessons: [
+      "section": "ostatni",
+      "lessons": [
         {
           "id": "vyzkum-smluvni-system",
           "title": "Výzkum, stanice a smluvní systém",
@@ -1724,27 +1745,22 @@ export const antarktida: Field = {
           ]
         }
       ],
-      resources: [
-        {
-          "kind": "link",
-          "title": "Antarctic Treaty Secretariat",
-          "url": "https://www.ats.aq/",
-          "source": "ATS"
-        }
+      "tags": [
+        "Antarktida"
       ],
+      "syllabus": [
+        "Výzkum, stanice a smluvní systém",
+        "Územní nároky a status kontinentu",
+        "SCAR, COMNAP a CCAMLR",
+        "Mezinárodní spolupráce a publikace"
+      ]
     },
     {
-      id: "mod-soucasnost",
-      title: "Současnost a expedice",
-      completion: "výukový modul",
-      moduleSection: "ostatni",
-      tags: ["Antarktida"],
-      description: "Jak dnes probíhají expedice, etika výzkumu, turismus a ochrana kontinentu v éře klimatické změny.",
-      syllabus: [
-        "Moderní expedice a sezónní provoz",
-        "Turismus, ochrana a budoucnost kontinentu"
-      ],
-      lessons: [
+      "id": "mod-soucasnost",
+      "title": "Současnost a expedice",
+      "description": "Jak dnes probíhají expedice, etika výzkumu, turismus a ochrana kontinentu v éře klimatické změny.",
+      "section": "ostatni",
+      "lessons": [
         {
           "id": "soucasny-vyzkum-expedice",
           "title": "Moderní expedice a sezónní provoz",
@@ -1816,6 +1832,13 @@ export const antarktida: Field = {
           ]
         }
       ],
+      "tags": [
+        "Antarktida"
+      ],
+      "syllabus": [
+        "Moderní expedice a sezónní provoz",
+        "Turismus, ochrana a budoucnost kontinentu"
+      ]
     }
-  ],
-};
+  ]
+}

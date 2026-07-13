@@ -57,6 +57,9 @@ export interface Lesson {
   quiz?: Quiz;
 }
 
+/** Seskupení modulů na stránce oboru (např. Antarktida: vědy vs. kontext). */
+export type ModuleSection = "veda" | "ostatni";
+
 export interface Course {
   id: string;
   code?: string;
@@ -64,6 +67,8 @@ export interface Course {
   garant?: string;
   credits?: number;
   semester?: string;
+  /** Tematická sekce modulu (Speciální modul Antarktida). */
+  moduleSection?: ModuleSection;
   completion?: string;
   tags?: string[];
   description: string;

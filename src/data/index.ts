@@ -1,4 +1,4 @@
-import type { Field, Course, Lesson } from "../types";
+import type { Field, Course, Lesson, ModuleSection } from "../types";
 import { gk } from "./gk";
 import { fg } from "./fg";
 import { antarktida } from "./antarktida";
@@ -82,7 +82,9 @@ export function countLessons(field: Field): number {
 /** Seskupí předměty podle semestru; předměty bez `semester` spadnou do jedné skupiny. */
 export function groupCoursesBySemester(
   courses: Course[],
+  field?: Field,
 ): { semester: string | null; label: string; courses: Course[] }[] {
+  const isModuleField = field?.level === "Speciální modul";
   const hasSemesters = courses.some((c) => c.semester && c.semester !== "modul");
   if (!hasSemesters) {
     return [{ semester: null, label: "", courses }];
@@ -98,7 +100,7 @@ export function groupCoursesBySemester(
 
   return semesterKeys.map((semester) => ({
     semester,
-    label: formatSemesterLabel(semester),
+    label: formatSemesterLabel(semester, isModuleField),
     courses: courses.filter((c) => c.semester === semester),
   }));
 }
@@ -108,9 +110,31 @@ function semesterSortKey(semester: string): number {
   return match ? parseInt(match[1], 10) : 999;
 }
 
-function formatSemesterLabel(semester: string): string {
+function formatSemesterLabel(semester: string, asModule = false): string {
+  if (asModule) {
+    const n = semester.match(/(\d+)/)?.[1];
+    return n ? `Modul ${n}` : semester;
+  }
   if (semester.includes("–")) {
     return `${semester.replace(/\.$/, "")} semestr`;
   }
   return `${semester.replace(/\.$/, "")}. semestr`;
+}
+
+const MODULE_SECTION_LABELS: Record<ModuleSection, string> = {
+  veda: "Vědní moduly",
+  ostatni: "Ostatní moduly",
+};
+
+const MODULE_SECTION_ORDER: ModuleSection[] = ["veda", "ostatni"];
+
+/** Seskupí moduly podle `moduleSection` (Antarktida: vědy vs. kontext). */
+export function groupCoursesByModuleSection(courses: Course[]) {
+  if (!courses.some((c) => c.moduleSection)) return null;
+
+  return MODULE_SECTION_ORDER.map((section) => ({
+    section,
+    label: MODULE_SECTION_LABELS[section],
+    courses: courses.filter((c) => c.moduleSection === section),
+  })).filter((g) => g.courses.length > 0);
 }

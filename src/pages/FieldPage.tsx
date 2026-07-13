@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { getField, groupCoursesBySemester, getStateExam, countStateExamLessons } from "../data";
+import { getField, groupCoursesBySemester, groupCoursesByModuleSection, getStateExam, countStateExamLessons } from "../data";
 import type { Course, Field } from "../types";
 import { Icon } from "../components/Icon";
 import { NotFound } from "./NotFound";
@@ -9,8 +9,10 @@ export function FieldPage() {
   const field = getField(fieldId ?? "");
   if (!field) return <NotFound />;
 
-  const semesterGroups = groupCoursesBySemester(field.courses);
-  const showSemesterDividers = semesterGroups.some((g) => g.semester != null);
+  const moduleSectionGroups = groupCoursesByModuleSection(field.courses);
+  const semesterGroups = groupCoursesBySemester(field.courses, field);
+  const showSemesterDividers =
+    !moduleSectionGroups && semesterGroups.some((g) => g.semester != null);
   const stateExam = getStateExam(field.id);
 
   return (
@@ -78,29 +80,46 @@ export function FieldPage() {
         </Link>
       )}
 
-      <h2 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-6">
-        {field.level === "Speciální modul" ? "Obsah modulu" : "Předměty"}
-      </h2>
+      {!moduleSectionGroups && (
+        <h2 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-6">
+          {field.level === "Speciální modul"
+            ? field.courses.length > 1
+              ? "Moduly"
+              : "Obsah modulu"
+            : "Předměty"}
+        </h2>
+      )}
 
       <div className="space-y-2">
-        {semesterGroups.map((group, gi) => (
-          <section key={group.semester ?? "all"}>
-            {showSemesterDividers && group.semester != null && (
-              <SemesterDivider label={group.label} isFirst={gi === 0} />
-            )}
-            <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-              {group.courses.map((c, i) => (
-                <CourseCard key={c.id} field={field} course={c} index={i} />
-              ))}
-            </div>
-          </section>
-        ))}
+        {moduleSectionGroups
+          ? moduleSectionGroups.map((group, gi) => (
+              <section key={group.section}>
+                <SectionDivider label={group.label} isFirst={gi === 0} />
+                <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+                  {group.courses.map((c, i) => (
+                    <CourseCard key={c.id} field={field} course={c} index={i} />
+                  ))}
+                </div>
+              </section>
+            ))
+          : semesterGroups.map((group, gi) => (
+              <section key={group.semester ?? "all"}>
+                {showSemesterDividers && group.semester != null && (
+                  <SectionDivider label={group.label} isFirst={gi === 0} />
+                )}
+                <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+                  {group.courses.map((c, i) => (
+                    <CourseCard key={c.id} field={field} course={c} index={i} />
+                  ))}
+                </div>
+              </section>
+            ))}
       </div>
     </div>
   );
 }
 
-function SemesterDivider({ label, isFirst }: { label: string; isFirst: boolean }) {
+function SectionDivider({ label, isFirst }: { label: string; isFirst: boolean }) {
   return (
     <div
       className={`flex items-center gap-4 ${isFirst ? "mb-5" : "my-8 pt-2"}`}
