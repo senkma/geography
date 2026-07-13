@@ -39,19 +39,30 @@ export function CoursePage() {
         {/* Syllabus + lessons */}
         <div className="lg:col-span-2 space-y-8">
           <section>
-            <h2 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-4">
-              Osnova
-            </h2>
-            <ol className="card p-5 space-y-3">
-              {course.syllabus.map((item, i) => (
-                <li key={i} className="flex gap-3.5 items-start">
-                  <span className="grid place-items-center w-6 h-6 rounded-lg text-xs font-semibold shrink-0 bg-emerald-50 border border-[var(--border)] text-emerald-700">
-                    {i + 1}
-                  </span>
-                  <span className="pt-0.5">{item}</span>
-                </li>
-              ))}
-            </ol>
+            <details className="card group">
+              <summary className="flex cursor-pointer list-none items-center justify-between gap-3 p-5 select-none [&::-webkit-details-marker]:hidden">
+                <div className="flex items-center gap-2">
+                  <h2 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)]">
+                    Osnova
+                  </h2>
+                  <span className="chip">{course.syllabus.length} témat</span>
+                </div>
+                <Icon
+                  name="arrow"
+                  className="w-4 h-4 text-[var(--text-dim)] shrink-0 transition-transform group-open:rotate-90"
+                />
+              </summary>
+              <ol className="space-y-3 border-t border-[var(--border)] px-5 pb-5 pt-4">
+                {course.syllabus.map((item, i) => (
+                  <li key={i} className="flex gap-3.5 items-start">
+                    <span className="grid place-items-center w-6 h-6 rounded-lg text-xs font-semibold shrink-0 bg-emerald-50 border border-[var(--border)] text-emerald-700">
+                      {i + 1}
+                    </span>
+                    <span className="pt-0.5 text-sm leading-relaxed">{item}</span>
+                  </li>
+                ))}
+              </ol>
+            </details>
           </section>
 
           {course.lessons.length > 0 ? (
@@ -118,13 +129,15 @@ export function CoursePage() {
           </div>
 
           {course.resources && course.resources.length > 0 && (
-            <div>
-              <h3 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-3">
+            <div className="card p-5">
+              <h3 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-4">
                 Materiály k předmětu
               </h3>
-              <div className="grid gap-2.5">
-                <ResourceList resources={course.resources} />
-              </div>
+              <ResourceList
+                resources={course.resources}
+                layout="list"
+                grouped
+              />
             </div>
           )}
 
