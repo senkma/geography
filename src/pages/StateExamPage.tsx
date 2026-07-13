@@ -141,11 +141,15 @@ export function StateExamPage() {
             )}
           </div>
 
-          <div>
-            <h3 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-3">
-              Oficiální zdroje
+          <div className="card p-5">
+            <h3 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-4">
+              Materiály
             </h3>
-            <ResourceList resources={exam.officialLinks} />
+            <ResourceList
+              resources={exam.officialLinks}
+              layout="list"
+              grouped
+            />
           </div>
         </aside>
       </div>

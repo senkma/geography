@@ -8,7 +8,10 @@ const EXAM_TITLE =
 export function isExamResource(r: Resource): boolean {
   if (r.url?.includes("/state-exams/")) return true;
   if (r.source && EXAM_SOURCE.test(r.source)) return true;
-  return EXAM_TITLE.test(`${r.title} ${r.note ?? ""}`);
+  const text = `${r.title} ${r.note ?? ""}`;
+  if (EXAM_TITLE.test(text)) return true;
+  if (/szz|okruh/i.test(text) && /\.pdf(\?|$)/i.test(r.url ?? "")) return true;
+  return false;
 }
 
 export function isPresentationResource(r: Resource): boolean {
@@ -24,16 +27,16 @@ export function splitResources(resources: Resource[]) {
 
   for (const r of resources) {
     if (!r.url) continue;
-    if (r.kind === "link") {
-      links.push(r);
-      continue;
-    }
     if (isPresentationResource(r)) {
       presentations.push(r);
       continue;
     }
     if (isExamResource(r)) {
       exam.push(r);
+      continue;
+    }
+    if (r.kind === "link") {
+      links.push(r);
       continue;
     }
     documents.push(r);

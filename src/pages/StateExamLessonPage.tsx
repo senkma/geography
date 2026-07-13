@@ -48,11 +48,15 @@ export function StateExamLessonPage() {
         )}
 
         {lesson.resources && lesson.resources.length > 0 && (
-          <section className="mt-10">
+          <section className="mt-10 card p-5">
             <h2 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-4">
-              Zdroje
+              Materiály
             </h2>
-            <ResourceList resources={lesson.resources} />
+            <ResourceList
+              resources={lesson.resources}
+              layout="list"
+              grouped
+            />
           </section>
         )}
 
