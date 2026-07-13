@@ -146,7 +146,10 @@ export function StateExamPage() {
               Materiály
             </h3>
             <ResourceList
-              resources={exam.officialLinks}
+              resources={[
+                ...exam.officialLinks,
+                ...(exam.materials ?? []),
+              ]}
               layout="list"
               grouped
             />
@@ -193,6 +196,15 @@ function SubjectBlock({
       )}
       {s.description && (
         <p className="text-sm text-[var(--text-dim)] mt-2 leading-relaxed">{s.description}</p>
+      )}
+
+      {s.resources && s.resources.length > 0 && (
+        <div className="mt-5 card p-4 bg-[var(--surface-muted)]/40">
+          <h4 className="text-xs font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-3">
+            Materiály k předmětu SZZ
+          </h4>
+          <ResourceList resources={s.resources} layout="list" grouped />
+        </div>
       )}
 
       <div className="mt-5 space-y-6">

@@ -1,6 +1,6 @@
 import type { StateExam } from "../types";
 
-/** Oficiální podklady ke státní závěrečné zkoušce — zdroj: scripts/muni_state_exams.json */
+/** Oficiální podklady ke státní závěrečné zkoušce — zdroj: scripts/muni_state_exams.json + content/fields/…/state-exam/ */
 export const stateExams: Record<string, StateExam> = {
   "geografie-kartografie": {
     "type": "státní závěrečná bakalářská zkouška (SZZ)",
@@ -60,7 +60,7 @@ export const stateExams: Record<string, StateExam> = {
           "PřF:Z2062c Geografická kartografie - cvičení",
           "PřF:Z2012 Regionální geografie ČR"
         ],
-        "topicsSource": "https://cdn.muni.cz/media/3491764/b-gek-spolecna_cast.pdf",
+        "topicsSource": "/materials/geografie-kartografie/state-exams/b-gek-spolecna_cast.pdf",
         "topicSections": [
           {
             "title": "I. Úvod do studia planety Země",
@@ -143,6 +143,15 @@ export const stateExams: Record<string, StateExam> = {
               "Vývoj a současná podoba ekonomiky ČR (zemědělství, průmysl, služby, doprava)"
             ]
           }
+        ],
+        "resources": [
+          {
+            "kind": "document",
+            "title": "Vzor testu — geografie (písemná část)",
+            "url": "/materials/geografie-kartografie/z0026p/Vzor_testu-Geografie.pdf",
+            "source": "Archiv studijních podkladů",
+            "note": "Vzorová písemná zkouška ze Základů geografie a kartografie."
+          }
         ]
       },
       {
@@ -151,7 +160,7 @@ export const stateExams: Record<string, StateExam> = {
         "role": "povinný",
         "examPart": "ústní (+ specializovaná část písemné zkoušky)",
         "description": "Specializovaná část písemné zkoušky a ústní zkouška ověřují pochopení základů fyzické geografie, vztahů, procesů a souvislostí ve fyzickogeografické sféře jako celku, stejně jako v jejich jednotlivých složkách.",
-        "topicsSource": "https://cdn.muni.cz/media/3491759/b-gek-fyzg.pdf",
+        "topicsSource": "/materials/geografie-kartografie/state-exams/b-gek-fyzg.pdf",
         "topicSections": [
           {
             "title": "Meteorologie a klimatologie",
@@ -244,6 +253,87 @@ export const stateExams: Record<string, StateExam> = {
               "Metody zpracování naměřených dat ve fyzické geografii a v její parciálních a příbuzných disciplínách (příklady z meteorologie, klimatologie, hydrologie, pedologie a pedogeografie)."
             ]
           }
+        ],
+        "resources": [
+          {
+            "kind": "document",
+            "title": "Otázky na téma 1 a 2",
+            "url": "/materials/geografie-kartografie/z0026p/otazky-na-tema-1-a-2.docx",
+            "source": "Okruhy ke zkoušce"
+          },
+          {
+            "kind": "document",
+            "title": "Otázky na téma 3 a 4",
+            "url": "/materials/geografie-kartografie/z0026p/otazky-na-tema-3-a-4.docx",
+            "source": "Okruhy ke zkoušce"
+          },
+          {
+            "kind": "document",
+            "title": "Větry a globální cirkulace atmosféry",
+            "url": "/materials/geografie-kartografie/z0026p/vetry-a-globalni-cirkulace-atmosfery.docx",
+            "source": "Okruhy ke zkoušce"
+          },
+          {
+            "kind": "document",
+            "title": "Otázky ze třetího termínu zkoušky",
+            "url": "/materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+            "source": "Okruhy ke zkoušce"
+          },
+          {
+            "kind": "document",
+            "title": "FG_1 — okruhy Brázdil (úvod)",
+            "url": "/materials/geografie-kartografie/z0026p/FG_1.doc",
+            "source": "Brázdil"
+          },
+          {
+            "kind": "document",
+            "title": "FG_2 — okruhy Brázdil (teplota)",
+            "url": "/materials/geografie-kartografie/z0026p/FG_2.doc",
+            "source": "Brázdil"
+          },
+          {
+            "kind": "document",
+            "title": "FG_3 — okruhy Brázdil (vlhkost)",
+            "url": "/materials/geografie-kartografie/z0026p/FG_3.doc",
+            "source": "Brázdil"
+          },
+          {
+            "kind": "document",
+            "title": "FG_4 — okruhy Brázdil (větry)",
+            "url": "/materials/geografie-kartografie/z0026p/FG_4.doc",
+            "source": "Brázdil"
+          },
+          {
+            "kind": "document",
+            "title": "FG_5 — okruhy Brázdil (počasí)",
+            "url": "/materials/geografie-kartografie/z0026p/FG_5.doc",
+            "source": "Brázdil"
+          },
+          {
+            "kind": "document",
+            "title": "FG_6 — okruhy Brázdil (klima)",
+            "url": "/materials/geografie-kartografie/z0026p/FG_6.doc",
+            "source": "Brázdil"
+          },
+          {
+            "kind": "document",
+            "title": "FG_7 — okruhy Brázdil (sladká voda)",
+            "url": "/materials/geografie-kartografie/z0026p/FG_7.doc",
+            "source": "Brázdil"
+          },
+          {
+            "kind": "document",
+            "title": "FG_8 — okruhy Brázdil (půdy)",
+            "url": "/materials/geografie-kartografie/z0026p/FG_8.doc",
+            "source": "Brázdil"
+          },
+          {
+            "kind": "document",
+            "title": "Distanční studijní opora — Hydrologie",
+            "url": "/materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+            "source": "Pavelková, Frajer (UP Olomouc)",
+            "note": "Sdílený text k hydrologickým okruhům SZZ i předmětu Z0059."
+          }
         ]
       }
     ],
@@ -277,6 +367,53 @@ export const stateExams: Record<string, StateExam> = {
         "title": "Okruhy SZZ – Fyzická geografie (PDF)",
         "url": "https://cdn.muni.cz/media/3491759/b-gek-fyzg.pdf",
         "source": "Oficiální zdroj"
+      }
+    ],
+    "materials": [
+      {
+        "kind": "document",
+        "title": "Okruhy SZZ — společná část (PDF, archiv MU)",
+        "url": "/materials/geografie-kartografie/state-exams/b-gek-spolecna_cast.pdf",
+        "source": "GÚ MUNI",
+        "note": "Oficiální okruhy písemné části — společná část pro všechny specializace B-GEK."
+      },
+      {
+        "kind": "document",
+        "title": "Okruhy SZZ — Fyzická geografie (PDF, archiv MU)",
+        "url": "/materials/geografie-kartografie/state-exams/b-gek-fyzg.pdf",
+        "source": "GÚ MUNI",
+        "note": "Oficiální okruhy ústní části a specializované části písemky z FG."
+      },
+      {
+        "kind": "document",
+        "title": "Otázky ze státnic — červen 2020",
+        "url": "/materials/geografie-kartografie/state-exams/otazky-statnice-2020.docx",
+        "source": "Archiv SZZ"
+      },
+      {
+        "kind": "document",
+        "title": "Otázky ze státní bakalářské zkoušky — červen 2018",
+        "url": "/materials/geografie-kartografie/state-exams/otazky-bakalarska-2018.docx",
+        "source": "Archiv SZZ"
+      },
+      {
+        "kind": "document",
+        "title": "Kompletní zápisy z fyzické geografie",
+        "url": "/materials/geografie-kartografie/z0026p/fyzicka-geografie-kompletni-zapisy.pdf",
+        "source": "Archiv studijních podkladů",
+        "note": "Přehledové zápisy — vhodné pro přípravu na SZZ i předmět Z0026p."
+      },
+      {
+        "kind": "document",
+        "title": "Vypracované otázky ke zkoušce",
+        "url": "/materials/geografie-kartografie/z0026p/fyzicka-geografie-vypracovane-otazky-ke-zkousce.docx",
+        "source": "Archiv studijních podkladů"
+      },
+      {
+        "kind": "document",
+        "title": "Vypracované otázky z minulých let",
+        "url": "/materials/geografie-kartografie/z0026p/vypracovane-otazky-z-minulych-let2.docx",
+        "source": "Archiv studijních podkladů"
       }
     ]
   },

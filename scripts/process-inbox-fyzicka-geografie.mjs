@@ -294,9 +294,9 @@ function writeLesson(field, course, lesson) {
   );
 }
 
-function appendMaterials(field, course, items) {
+function appendMaterials(field, container, items) {
   const path = join(
-    contentDir("fields", field, "courses", course),
+    contentDir("fields", field, "courses", container),
     "materials.json",
   );
   const existing = readJsonIfExists(path) ?? { description: "", items: [] };
@@ -309,6 +309,36 @@ function appendMaterials(field, course, items) {
   existing.description =
     existing.description ||
     "Materiály zpracované z inboxu — přednášky Brázdil/Máčka, skripta a podklady ke zkoušce.";
+  writeFileSync(path, `${JSON.stringify(existing, null, 2)}\n`);
+}
+
+function appendStateExamMaterials(fieldId, items) {
+  const path = join(contentDir("fields", fieldId, "state-exam"), "materials.json");
+  const existing = readJsonIfExists(path) ?? {
+    description: "Archivní podklady ke státní závěrečné zkoušce.",
+    items: [],
+  };
+  const urls = new Set(existing.items.map((i) => i.url).filter(Boolean));
+  for (const item of items) {
+    if (item.url && urls.has(item.url)) continue;
+    existing.items.push(item);
+    if (item.url) urls.add(item.url);
+  }
+  writeFileSync(path, `${JSON.stringify(existing, null, 2)}\n`);
+}
+
+function appendSzzSubjectMaterials(fieldId, subjectId, items) {
+  const path = join(
+    contentDir("fields", fieldId, "state-exam", "subjects", subjectId),
+    "materials.json",
+  );
+  const existing = readJsonIfExists(path) ?? { description: "", items: [] };
+  const urls = new Set(existing.items.map((i) => i.url).filter(Boolean));
+  for (const item of items) {
+    if (item.url && urls.has(item.url)) continue;
+    existing.items.push(item);
+    if (item.url) urls.add(item.url);
+  }
   writeFileSync(path, `${JSON.stringify(existing, null, 2)}\n`);
 }
 
@@ -381,6 +411,10 @@ const brazdilDocLessonIds = {
 };
 
 const courseMaterials = [];
+const stateExamMaterials = [];
+const szzFgSubjectMaterials = [];
+const SZZ_SUBJECT_FG = "fyzicka-geografie";
+const SZZ_SUBJECT_ZAKLADY = "zaklady-geografie-kartografie";
 
 for (let i = 1; i <= 9; i++) {
   const rel = resolveRel(
@@ -508,39 +542,48 @@ for (let n = 1; n <= 8; n++) {
   for (const lessonId of lessonIds) {
     mergeLesson(lessonId, { extraBlocks: extra, resources: [res] });
   }
+  szzFgSubjectMaterials.push(res);
 }
 
-// --- Kompletní zápisy + otázky ke zkoušce (celý předmět) ---
-for (const [rel, title] of [
+// --- Kompletní zápisy + otázky (SZZ / sdílené) ---
+for (const [rel, title, target] of [
   [
     "Příjmací zkouška/Fyzická geografie/fyzicka-geografie-kompletni-zapisy.pdf",
     "Kompletní zápisy z fyzické geografie",
+    "state",
   ],
   [
     "1. semestr/Fyzicka geografie/fyzicka-geografie-vypracovane-otazky-ke-zkousce.docx",
     "Vypracované otázky ke zkoušce",
+    "state",
   ],
   [
     "Příjmací zkouška/Fyzická geografie/vypracovane-otazky-z-minulych-let2.docx",
     "Vypracované otázky z minulých let",
+    "state",
   ],
   [
     "Příjmací zkouška/Fyzická geografie/Vzor_testu-Geografie.pdf",
     "Vzor testu — geografie",
+    "zaklady",
   ],
   [
     "1. semestr/Fyzicka geografie/uvod-do-studia-fyz-geografie.doc",
     "Úvod do studia FG",
+    "course",
   ],
 ]) {
   const url = copyMaterial(rel, FG_FIELD, FG_COURSE, basename(rel));
   if (!url) continue;
-  courseMaterials.push({
+  const res = {
     kind: kindForFile(basename(rel)),
     title,
     url,
     source: "Archiv studijních podkladů",
-  });
+  };
+  if (target === "state") stateExamMaterials.push(res);
+  else if (target === "zaklady") appendSzzSubjectMaterials(FG_FIELD, SZZ_SUBJECT_ZAKLADY, [res]);
+  else courseMaterials.push(res);
 }
 
 // --- SZZ / přijímací podklady (obecné pro obor) ---
@@ -562,7 +605,7 @@ for (const [rel, name] of [
   if (!existsSync(src)) continue;
   const dest = join(szzDir, name);
   copyFileSync(src, dest);
-  courseMaterials.push({
+  stateExamMaterials.push({
     kind: kindForFile(name),
     title: name,
     url: `/materials/${FG_FIELD}/state-exams/${encodeURIComponent(name)}`,
@@ -598,7 +641,7 @@ for (const [rel, lessonIds] of [
     url,
     source: "Okruhy ke zkoušce",
   };
-  courseMaterials.push(res);
+  szzFgSubjectMaterials.push(res);
   for (const lessonId of lessonIds) {
     mergeLesson(lessonId, {
       resources: [
@@ -630,6 +673,7 @@ if (hydroUrl) {
     note: "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu.",
   };
   appendMaterials(FG_FIELD, HYDRO_COURSE, [hydroRes]);
+  szzFgSubjectMaterials.push(hydroRes);
 
   const hydroLessonIds = hydroBaseLessons.slice(0, 4).map((l) => l.id);
   const chunks = text.split(/\n(?=\d+\s)/).filter((c) => c.length > 200);
@@ -709,6 +753,8 @@ if (bibUrl) {
   });
 }
 
+appendStateExamMaterials(FG_FIELD, stateExamMaterials);
+appendSzzSubjectMaterials(FG_FIELD, SZZ_SUBJECT_FG, szzFgSubjectMaterials);
 appendMaterials(FG_FIELD, FG_COURSE, courseMaterials);
 
 // --- Archivuj inbox složku (jen pokud je v toprocess/ nebo přímo v inbox/) ---
@@ -726,7 +772,7 @@ for (const src of archiveSources) {
 }
 
 console.log("✓ Zpracováno: Fyzická geografie");
-console.log("  → Brázdil (FG_*.doc/pdf), Máčka/Nývlt (FG_DN_*.pptx), hydrologie z0059, Antarktida");
+console.log("  → Brázdil, Máčka/Nývlt, SZZ (state-exam/), hydrologie z0059, Antarktida");
 console.log("  → public/materials/…");
 console.log("  → inbox složka přesunuta do processed/");
 console.log("Spusť: make gen-data");

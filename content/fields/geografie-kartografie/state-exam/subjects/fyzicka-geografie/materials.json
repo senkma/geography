@@ -1,0 +1,84 @@
+{
+  "description": "Podklady k ústní části SZZ a specializované části písemky — Fyzická geografie.",
+  "items": [
+    {
+      "kind": "document",
+      "title": "Otázky na téma 1 a 2",
+      "url": "/materials/geografie-kartografie/z0026p/otazky-na-tema-1-a-2.docx",
+      "source": "Okruhy ke zkoušce"
+    },
+    {
+      "kind": "document",
+      "title": "Otázky na téma 3 a 4",
+      "url": "/materials/geografie-kartografie/z0026p/otazky-na-tema-3-a-4.docx",
+      "source": "Okruhy ke zkoušce"
+    },
+    {
+      "kind": "document",
+      "title": "Větry a globální cirkulace atmosféry",
+      "url": "/materials/geografie-kartografie/z0026p/vetry-a-globalni-cirkulace-atmosfery.docx",
+      "source": "Okruhy ke zkoušce"
+    },
+    {
+      "kind": "document",
+      "title": "Otázky ze třetího termínu zkoušky",
+      "url": "/materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+      "source": "Okruhy ke zkoušce"
+    },
+    {
+      "kind": "document",
+      "title": "FG_1 — okruhy Brázdil (úvod)",
+      "url": "/materials/geografie-kartografie/z0026p/FG_1.doc",
+      "source": "Brázdil"
+    },
+    {
+      "kind": "document",
+      "title": "FG_2 — okruhy Brázdil (teplota)",
+      "url": "/materials/geografie-kartografie/z0026p/FG_2.doc",
+      "source": "Brázdil"
+    },
+    {
+      "kind": "document",
+      "title": "FG_3 — okruhy Brázdil (vlhkost)",
+      "url": "/materials/geografie-kartografie/z0026p/FG_3.doc",
+      "source": "Brázdil"
+    },
+    {
+      "kind": "document",
+      "title": "FG_4 — okruhy Brázdil (větry)",
+      "url": "/materials/geografie-kartografie/z0026p/FG_4.doc",
+      "source": "Brázdil"
+    },
+    {
+      "kind": "document",
+      "title": "FG_5 — okruhy Brázdil (počasí)",
+      "url": "/materials/geografie-kartografie/z0026p/FG_5.doc",
+      "source": "Brázdil"
+    },
+    {
+      "kind": "document",
+      "title": "FG_6 — okruhy Brázdil (klima)",
+      "url": "/materials/geografie-kartografie/z0026p/FG_6.doc",
+      "source": "Brázdil"
+    },
+    {
+      "kind": "document",
+      "title": "FG_7 — okruhy Brázdil (sladká voda)",
+      "url": "/materials/geografie-kartografie/z0026p/FG_7.doc",
+      "source": "Brázdil"
+    },
+    {
+      "kind": "document",
+      "title": "FG_8 — okruhy Brázdil (půdy)",
+      "url": "/materials/geografie-kartografie/z0026p/FG_8.doc",
+      "source": "Brázdil"
+    },
+    {
+      "kind": "document",
+      "title": "Distanční studijní opora — Hydrologie",
+      "url": "/materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+      "source": "Pavelková, Frajer (UP Olomouc)",
+      "note": "Sdílený text k hydrologickým okruhům SZZ i předmětu Z0059."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "description": "Sdílené archivní podklady ke státní závěrečné zkoušce B-GEK (Fyzická geografie).",
+  "items": [
+    {
+      "kind": "document",
+      "title": "Okruhy SZZ — společná část (PDF, archiv MU)",
+      "url": "/materials/geografie-kartografie/state-exams/b-gek-spolecna_cast.pdf",
+      "source": "GÚ MUNI",
+      "note": "Oficiální okruhy písemné části — společná část pro všechny specializace B-GEK."
+    },
+    {
+      "kind": "document",
+      "title": "Okruhy SZZ — Fyzická geografie (PDF, archiv MU)",
+      "url": "/materials/geografie-kartografie/state-exams/b-gek-fyzg.pdf",
+      "source": "GÚ MUNI",
+      "note": "Oficiální okruhy ústní části a specializované části písemky z FG."
+    },
+    {
+      "kind": "document",
+      "title": "Otázky ze státnic — červen 2020",
+      "url": "/materials/geografie-kartografie/state-exams/otazky-statnice-2020.docx",
+      "source": "Archiv SZZ"
+    },
+    {
+      "kind": "document",
+      "title": "Otázky ze státní bakalářské zkoušky — červen 2018",
+      "url": "/materials/geografie-kartografie/state-exams/otazky-bakalarska-2018.docx",
+      "source": "Archiv SZZ"
+    },
+    {
+      "kind": "document",
+      "title": "Kompletní zápisy z fyzické geografie",
+      "url": "/materials/geografie-kartografie/z0026p/fyzicka-geografie-kompletni-zapisy.pdf",
+      "source": "Archiv studijních podkladů",
+      "note": "Přehledové zápisy — vhodné pro přípravu na SZZ i předmět Z0026p."
+    },
+    {
+      "kind": "document",
+      "title": "Vypracované otázky ke zkoušce",
+      "url": "/materials/geografie-kartografie/z0026p/fyzicka-geografie-vypracovane-otazky-ke-zkousce.docx",
+      "source": "Archiv studijních podkladů"
+    },
+    {
+      "kind": "document",
+      "title": "Vypracované otázky z minulých let",
+      "url": "/materials/geografie-kartografie/z0026p/vypracovane-otazky-z-minulych-let2.docx",
+      "source": "Archiv studijních podkladů"
+    }
+  ]
+}

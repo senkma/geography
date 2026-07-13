@@ -115,6 +115,8 @@ export interface StateExamSubject {
   topicsSource?: string;
   topics?: string[];
   topicSections?: StateExamTopicSection[];
+  /** Archivní materiály k tomuto předmětu SZZ. */
+  resources?: Resource[];
 }
 
 export interface StateExamSelectionRules {
@@ -136,4 +138,6 @@ export interface StateExam {
   selectionRules: StateExamSelectionRules;
   subjects: StateExamSubject[];
   officialLinks: Resource[];
+  /** Archivní a sdílené materiály ke SZZ (kromě oficiálních odkazů). */
+  materials?: Resource[];
 }
