@@ -1,26 +1,7 @@
 import type { Resource } from "../types";
 import { Icon, resourceIcon } from "./Icon";
 import { isLocalMaterial, materialUrl } from "../lib/materialUrl";
-
-const kindLabel: Record<string, string> = {
-  presentation: "Prezentace",
-  document: "Dokument",
-  video: "Video",
-  link: "Odkaz",
-  dataset: "Data",
-  map: "Mapa",
-  tool: "Nástroj",
-};
-
-function splitByKind(resources: Resource[]) {
-  const links: Resource[] = [];
-  const documents: Resource[] = [];
-  for (const r of resources) {
-    if (r.kind === "link") links.push(r);
-    else documents.push(r);
-  }
-  return { links, documents };
-}
+import { splitResources } from "../lib/resourceGroups";
 
 function ResourceItem({
   r,
@@ -61,12 +42,7 @@ function ResourceItem({
             {r.title}
           </span>
           {layout === "grid" && (
-            <span className="chip">{kindLabel[r.kind] ?? "Materiál"}</span>
-          )}
-          {!r.url && (
-            <span className="chip border-emerald-500/40 text-emerald-700">
-              brzy doplníme
-            </span>
+            <span className="chip">{r.kind === "link" ? "Odkaz" : "Materiál"}</span>
           )}
         </div>
         {r.source && (
@@ -92,34 +68,26 @@ function ResourceItem({
   if (layout === "list") {
     const base =
       "block py-2.5 border-b border-[var(--border)] last:border-b-0 transition";
-    if (href) {
-      return (
-        <a
-          href={href}
-          {...(downloadFile ? { download: "" } : { target: "_blank", rel: "noreferrer" })}
-          className={`${base} hover:bg-[var(--surface-muted)] -mx-1 px-1 rounded-sm`}
-        >
-          {inner}
-        </a>
-      );
-    }
-    return <div className={`${base} opacity-80`}>{inner}</div>;
-  }
-
-  const base =
-    "block rounded-md border-2 border-[var(--border)] p-3.5 transition";
-  if (href) {
     return (
       <a
         href={href}
         {...(downloadFile ? { download: "" } : { target: "_blank", rel: "noreferrer" })}
-        className={`${base} bg-[var(--surface)] hover:bg-[var(--surface-muted)] hover:border-[var(--border-strong)]`}
+        className={`${base} hover:bg-[var(--surface-muted)] -mx-1 px-1 rounded-sm`}
       >
         {inner}
       </a>
     );
   }
-  return <div className={`${base} bg-[var(--surface-muted)]`}>{inner}</div>;
+
+  return (
+    <a
+      href={href}
+      {...(downloadFile ? { download: "" } : { target: "_blank", rel: "noreferrer" })}
+      className="block rounded-md border-2 border-[var(--border)] p-3.5 transition bg-[var(--surface)] hover:bg-[var(--surface-muted)] hover:border-[var(--border-strong)]"
+    >
+      {inner}
+    </a>
+  );
 }
 
 function ResourceGroup({
@@ -155,19 +123,23 @@ export function ResourceList({
   layout?: "grid" | "list";
   grouped?: boolean;
 }) {
+  const items = resources.filter((r) => r.url);
+
   if (grouped) {
-    const { links, documents } = splitByKind(resources);
+    const { links, presentations, documents, exam } = splitResources(items);
     return (
       <div className="space-y-5">
         <ResourceGroup title="Odkazy" resources={links} layout={layout} />
+        <ResourceGroup title="Prezentace" resources={presentations} layout={layout} />
         <ResourceGroup title="Dokumenty" resources={documents} layout={layout} />
+        <ResourceGroup title="Zkouška" resources={exam} layout={layout} />
       </div>
     );
   }
 
   return (
     <div className={layout === "list" ? "flex flex-col" : "grid gap-2.5 sm:grid-cols-2"}>
-      {resources.map((r, i) => (
+      {items.map((r, i) => (
         <ResourceItem key={i} r={r} layout={layout} />
       ))}
     </div>

@@ -147,8 +147,8 @@ export function CoursePage() {
               <h3 className="font-semibold text-sm">Vlastní materiály</h3>
             </div>
             <p className="text-sm text-[var(--text-dim)] leading-relaxed">
-              Prezentace, skripta a další podklady lze doplnit do datových
-              souborů oboru — místa označená „brzy doplníme“ jsou připravená.
+              Prezentace, skripta a další podklady lze doplnit do složky
+              content/inbox/toprocess/.
             </p>
           </div>
         </aside>

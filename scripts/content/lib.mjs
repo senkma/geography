@@ -70,9 +70,9 @@ export function normalizeMaterialUrl(url) {
 
 export function normalizeResources(resources) {
   if (!Array.isArray(resources)) return resources;
-  return resources.map((r) =>
-    r?.url ? { ...r, url: normalizeMaterialUrl(r.url) } : r,
-  );
+  return resources
+    .filter((r) => r?.url)
+    .map((r) => ({ ...r, url: normalizeMaterialUrl(r.url) }));
 }
 
 export function listJsonFiles(dir) {

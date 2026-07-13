@@ -10,7 +10,7 @@ export type ResourceKind =
 export interface Resource {
   kind: ResourceKind;
   title: string;
-  /** External URL. When omitted, the resource is shown as a placeholder ("materiál doplníme"). */
+  /** External URL. When omitted, the resource is not shown in the UI. */
   url?: string;
   source?: string;
   note?: string;

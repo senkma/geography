@@ -106,13 +106,6 @@ function buildLessonResources(course) {
       source: "IS MUNI",
     });
   }
-  if (course.syllabus_source) {
-    resources.push({
-      kind: "document",
-      title: `Osnova: ${course.syllabus_source}`,
-      note: "Oficiální témata z katalogu předmětů IS MUNI.",
-    });
-  }
   return resources;
 }
 

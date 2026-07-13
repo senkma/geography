@@ -66,11 +66,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1035",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -106,11 +101,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1035",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -146,11 +136,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1035",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -186,11 +171,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1035",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -226,11 +206,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1035",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -266,11 +241,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1035",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -306,11 +276,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1035",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -346,11 +311,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1035",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -386,11 +346,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1035",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -407,11 +362,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -481,11 +431,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -521,11 +466,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -561,11 +501,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -601,11 +536,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -641,11 +571,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -681,11 +606,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -721,11 +641,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -761,11 +676,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -801,11 +711,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -822,11 +727,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -2868,11 +2768,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -3002,11 +2897,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -3047,11 +2937,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -3448,11 +3333,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -3760,11 +3640,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -3952,11 +3827,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -3997,11 +3867,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -4131,11 +3996,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -4176,11 +4036,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -4197,11 +4052,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -4427,11 +4277,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0026c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -4467,11 +4312,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0026c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -4507,11 +4347,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0026c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -4528,11 +4363,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -4606,11 +4436,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -4646,11 +4471,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -4686,11 +4506,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -4726,11 +4541,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -4766,11 +4576,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -4806,11 +4611,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -4846,11 +4646,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -4886,11 +4681,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -4926,11 +4716,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -4966,11 +4751,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5006,11 +4786,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5046,11 +4821,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5086,11 +4856,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -5107,11 +4872,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -5192,11 +4952,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5237,11 +4992,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5282,11 +5032,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5327,11 +5072,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5372,11 +5112,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5417,11 +5152,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5462,11 +5192,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5507,11 +5232,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5552,11 +5272,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5597,11 +5312,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5642,11 +5352,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5687,11 +5392,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5732,11 +5432,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3090c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -5753,11 +5448,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -5829,11 +5519,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5869,11 +5554,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5909,11 +5589,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5949,11 +5624,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -5989,11 +5659,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -6029,11 +5694,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -6069,11 +5729,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -6109,11 +5764,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -6149,11 +5799,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -6189,11 +5834,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -6229,11 +5869,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -6250,11 +5885,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -6323,11 +5953,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -6363,11 +5988,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -6403,11 +6023,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -6443,11 +6058,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -6483,11 +6093,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -6523,11 +6128,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -6563,11 +6163,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -6603,11 +6198,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0135c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -6624,11 +6214,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -6690,11 +6275,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2062p",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -6711,11 +6291,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -6777,11 +6352,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2062c",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -6798,11 +6368,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -6864,11 +6429,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0147",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -6885,11 +6445,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -6951,11 +6506,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0262",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -6972,11 +6522,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -7050,11 +6595,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2166",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7090,11 +6630,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2166",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7130,11 +6665,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2166",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7170,11 +6700,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2166",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7210,11 +6735,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2166",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7250,11 +6770,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2166",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7290,11 +6805,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2166",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7330,11 +6840,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2166",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7370,11 +6875,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2166",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7410,11 +6910,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2166",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7450,11 +6945,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2166",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7490,11 +6980,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2166",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7530,11 +7015,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2166",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -7551,11 +7031,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -7628,11 +7103,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2111",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7668,11 +7138,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2111",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7708,11 +7173,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2111",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7748,11 +7208,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2111",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7788,11 +7243,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2111",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7828,11 +7278,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2111",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7868,11 +7313,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2111",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7908,11 +7348,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2111",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7948,11 +7383,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2111",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -7988,11 +7418,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2111",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8028,11 +7453,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2111",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8068,11 +7488,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2111",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -8089,11 +7504,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -8166,11 +7576,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2211",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8206,11 +7611,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2211",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8246,11 +7646,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2211",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8286,11 +7681,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2211",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8326,11 +7716,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2211",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8366,11 +7751,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2211",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8406,11 +7786,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2211",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8446,11 +7821,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2211",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8486,11 +7856,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2211",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8526,11 +7891,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2211",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8566,11 +7926,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2211",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8606,11 +7961,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2211",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -8627,11 +7977,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -8701,11 +8046,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8741,11 +8081,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8781,11 +8116,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8821,11 +8151,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8861,11 +8186,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8901,11 +8221,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8941,11 +8256,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -8981,11 +8291,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9021,11 +8326,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2069",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -9042,11 +8342,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -9124,11 +8419,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9164,11 +8454,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9204,11 +8489,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9244,11 +8524,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9284,11 +8559,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9324,11 +8594,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9364,11 +8629,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9404,11 +8664,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9444,11 +8699,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9484,11 +8734,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9524,11 +8769,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9564,11 +8804,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9604,11 +8839,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9644,11 +8874,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9684,11 +8909,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9724,11 +8944,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -9764,11 +8979,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z2012",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -9785,11 +8995,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -9851,11 +9056,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z3104",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -9872,11 +9072,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -9938,11 +9133,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8108",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -9959,11 +9149,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -10037,11 +9222,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0120",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10077,11 +9257,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0120",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10117,11 +9292,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0120",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10157,11 +9327,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0120",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10197,11 +9362,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0120",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10237,11 +9397,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0120",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10277,11 +9432,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0120",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10317,11 +9467,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0120",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10357,11 +9502,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0120",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10397,11 +9537,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0120",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10437,11 +9572,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0120",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10477,11 +9607,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0120",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10517,11 +9642,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0120",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -10538,11 +9658,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -10609,11 +9724,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5004",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10649,11 +9759,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5004",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10689,11 +9794,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5004",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10729,11 +9829,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5004",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10769,11 +9864,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5004",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -10809,11 +9899,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5004",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -10830,11 +9915,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -10896,11 +9976,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8118",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -10917,11 +9992,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -10990,11 +10060,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6004",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -11030,11 +10095,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6004",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -11070,11 +10130,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6004",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -11110,11 +10165,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6004",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -11150,11 +10200,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6004",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -11190,11 +10235,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6004",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -11230,11 +10270,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6004",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -11270,11 +10305,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6004",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -11291,11 +10321,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -11627,11 +10652,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0059",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -11667,11 +10687,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0059",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -11707,11 +10722,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0059",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -11747,11 +10757,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0059",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -11787,11 +10792,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0059",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -11827,11 +10827,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0059",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -11867,11 +10862,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0059",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -11907,11 +10897,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0059",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -11928,11 +10913,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -12023,11 +11003,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12068,11 +11043,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12113,11 +11083,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12158,11 +11123,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12203,11 +11163,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12248,11 +11203,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12293,11 +11243,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12338,11 +11283,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12383,11 +11323,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12428,11 +11363,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12473,11 +11403,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12518,11 +11443,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12563,11 +11483,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12608,11 +11523,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12653,11 +11563,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12698,11 +11603,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12743,11 +11643,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0076",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -12764,11 +11659,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -12838,11 +11728,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0086",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12878,11 +11763,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0086",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12918,11 +11798,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0086",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12958,11 +11833,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0086",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -12998,11 +11868,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0086",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13038,11 +11903,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0086",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13078,11 +11938,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0086",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13118,11 +11973,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0086",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13158,11 +12008,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0086",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -13179,11 +12024,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -13255,11 +12095,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0005",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13295,11 +12130,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0005",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13335,11 +12165,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0005",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13375,11 +12200,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0005",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13415,11 +12235,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0005",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13455,11 +12270,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0005",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13495,11 +12305,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0005",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13535,11 +12340,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0005",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13575,11 +12375,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0005",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13615,11 +12410,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0005",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13655,11 +12445,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0005",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -13676,11 +12461,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -13753,11 +12533,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0051",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13793,11 +12568,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0051",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13833,11 +12603,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0051",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13873,11 +12638,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0051",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13913,11 +12673,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0051",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13953,11 +12708,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0051",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -13993,11 +12743,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0051",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14033,11 +12778,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0051",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14073,11 +12813,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0051",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14113,11 +12848,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0051",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14153,11 +12883,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0051",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14193,11 +12918,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0051",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -14214,11 +12934,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -14295,11 +13010,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14335,11 +13045,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14375,11 +13080,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14415,11 +13115,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14455,11 +13150,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14495,11 +13185,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14535,11 +13220,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14575,11 +13255,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14615,11 +13290,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14655,11 +13325,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14695,11 +13360,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14740,11 +13400,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14785,11 +13440,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14830,11 +13480,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -14875,11 +13520,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z4066",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -14896,11 +13536,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -14970,11 +13605,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0064",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15010,11 +13640,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0064",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15050,11 +13675,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0064",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15090,11 +13710,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0064",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15130,11 +13745,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0064",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15170,11 +13780,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0064",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15210,11 +13815,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0064",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15250,11 +13850,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0064",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15290,11 +13885,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0064",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -15311,11 +13901,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -15390,11 +13975,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0073",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15435,11 +14015,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0073",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15480,11 +14055,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0073",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15525,11 +14095,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0073",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15570,11 +14135,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0073",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15615,11 +14175,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0073",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15660,11 +14215,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0073",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15705,11 +14255,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0073",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -15726,11 +14271,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -15800,11 +14340,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0124",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15845,11 +14380,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0124",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -15890,11 +14420,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0124",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -15911,11 +14436,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -15989,11 +14509,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5151",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16029,11 +14544,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5151",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16069,11 +14579,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5151",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16109,11 +14614,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5151",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16149,11 +14649,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5151",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16189,11 +14684,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5151",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16229,11 +14719,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5151",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16269,11 +14754,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5151",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16309,11 +14789,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5151",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16349,11 +14824,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5151",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16389,11 +14859,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5151",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16429,11 +14894,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5151",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16469,11 +14929,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5151",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -16490,11 +14945,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -16564,11 +15014,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0025",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16604,11 +15049,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0025",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16644,11 +15084,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0025",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16684,11 +15119,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0025",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16724,11 +15154,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0025",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16764,11 +15189,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0025",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16804,11 +15224,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0025",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16844,11 +15259,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0025",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -16884,11 +15294,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0025",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -16905,11 +15310,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -16971,11 +15371,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0082",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -16992,11 +15387,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -17074,11 +15464,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0109",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17119,11 +15504,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0109",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17164,11 +15544,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0109",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17209,11 +15584,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0109",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17254,11 +15624,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0109",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17299,11 +15664,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0109",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17344,11 +15704,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0109",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17389,11 +15744,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0109",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17434,11 +15784,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0109",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17479,11 +15824,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0109",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17524,11 +15864,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z0109",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -17545,11 +15880,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -17624,11 +15954,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1313",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17664,11 +15989,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1313",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17704,11 +16024,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1313",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17744,11 +16059,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1313",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17784,11 +16094,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1313",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17824,11 +16129,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1313",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17864,11 +16164,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1313",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17904,11 +16199,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1313",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17944,11 +16234,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1313",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -17984,11 +16269,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1313",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18024,11 +16304,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1313",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18064,11 +16339,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1313",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18104,11 +16374,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1313",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18144,11 +16409,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z1313",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -18165,11 +16425,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -18235,11 +16490,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5790",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18275,11 +16525,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5790",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18315,11 +16560,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5790",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18355,11 +16595,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5790",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18395,11 +16630,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z5790",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -18416,11 +16646,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -18492,11 +16717,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6010",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18532,11 +16752,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6010",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18572,11 +16787,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6010",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18612,11 +16822,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6010",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18652,11 +16857,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6010",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18692,11 +16892,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6010",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18732,11 +16927,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6010",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18772,11 +16962,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6010",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18812,11 +16997,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6010",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18852,11 +17032,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6010",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -18892,11 +17067,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6010",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -18913,11 +17083,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -18988,11 +17153,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6666",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19028,11 +17188,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6666",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19068,11 +17223,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6666",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19108,11 +17258,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6666",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19148,11 +17293,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6666",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19188,11 +17328,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6666",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19228,11 +17363,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6666",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19268,11 +17398,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6666",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19308,11 +17433,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6666",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19348,11 +17468,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z6666",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -19369,11 +17484,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -19435,11 +17545,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z7051",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -19456,11 +17561,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -19536,11 +17636,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19576,11 +17671,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19616,11 +17706,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19656,11 +17741,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19696,11 +17776,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19736,11 +17811,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19776,11 +17846,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19816,11 +17881,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19856,11 +17916,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19896,11 +17951,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19936,11 +17986,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -19976,11 +18021,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20016,11 +18056,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20056,11 +18091,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20096,11 +18126,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8105",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -20117,11 +18142,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -20183,11 +18203,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8109",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -20204,11 +18219,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -20281,11 +18291,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8114",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20321,11 +18326,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8114",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20361,11 +18361,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8114",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20401,11 +18396,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8114",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20441,11 +18431,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8114",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20481,11 +18466,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8114",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20521,11 +18501,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8114",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20561,11 +18536,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8114",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20601,11 +18571,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8114",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20641,11 +18606,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8114",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20681,11 +18641,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8114",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20721,11 +18676,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/Z8114",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -20742,11 +18692,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
@@ -20817,11 +18762,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/ZX511",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20857,11 +18797,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/ZX511",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20897,11 +18832,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/ZX511",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20937,11 +18867,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/ZX511",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -20977,11 +18902,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/ZX511",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -21017,11 +18937,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/ZX511",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -21057,11 +18972,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/ZX511",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -21097,11 +19007,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/ZX511",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -21137,11 +19042,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/ZX511",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         },
@@ -21177,11 +19077,6 @@ export const gk: Field = {
               "title": "IS MUNI — detail předmětu",
               "url": "https://is.muni.cz/predmet/sci/ZX511",
               "source": "IS MUNI"
-            },
-            {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
             }
           ]
         }
@@ -21198,11 +19093,6 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
-        },
-        {
-          "kind": "document",
-          "title": "Osnova: Klíčová témata",
-          "note": "Oficiální témata z katalogu předmětů IS MUNI."
         },
         {
           "kind": "link",
