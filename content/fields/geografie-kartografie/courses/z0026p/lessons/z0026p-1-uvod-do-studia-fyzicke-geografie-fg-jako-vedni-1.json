@@ -31,9 +31,13 @@
       "type": "list",
       "items": [
         "podzimní semestr",
-        "zkouška",
-        "9 kreditů"
+        "zkouška"
       ]
+    },
+    {
+      "type": "subheading",
+      "text": "9 kreditů",
+      "label": "1"
     },
     {
       "type": "callout",
@@ -80,14 +84,22 @@
     {
       "type": "list",
       "items": [
-        "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9.",
-        "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+        "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9."
       ]
+    },
+    {
+      "type": "subheading",
+      "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+      "label": "1"
+    },
+    {
+      "type": "subheading",
+      "text": "2.1 Elektromagnetické záření",
+      "label": "2"
     },
     {
       "type": "list",
       "items": [
-        "2.1 Elektromagnetické záření",
         "sluneční záření – elektromagnetické x korpuskulární (částicové)",
         "elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu",
         "vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6",
@@ -97,19 +109,27 @@
       ]
     },
     {
+      "type": "subheading",
+      "text": "2.1.1 Záření a teplota",
+      "label": "3"
+    },
+    {
       "type": "list",
       "items": [
-        "2.1.1 Záření a teplota",
         "dva základní principy emise elektromagnetického záření:",
         "a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky)",
         "b) teplejší tělesa vyzařují mnohem více než tělesa chladnější (závislost na čtvrté mocnině absolutní teploty – Stefan-Boltzmannův zákon)"
       ]
     },
     {
+      "type": "subheading",
+      "text": "2.1.2 Sluneční záření",
+      "label": "3"
+    },
+    {
       "type": "list",
       "label": "Klíčové body",
       "items": [
-        "2.1.2 Sluneční záření",
         "Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
         "než dorazí na Zemi",
         "vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W",
@@ -118,8 +138,17 @@
         "b) viditelné záření – 0,4-0,7 µm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená) – jen malá část pohlcována",
         "c) krátkovlnné infračervené záření – 0,7-3 µm – lidské oko není ne ně citlivé – snadno proniká atmosférou",
         "c) = krátkovlnné záření",
-        "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)",
-        "2.1.3 Charakteristiky slunečního záření",
+        "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "2.1.3 Charakteristiky slunečního záření",
+      "label": "3"
+    },
+    {
+      "type": "list",
+      "items": [
         "různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 µm)",
         "intenzita slunečního záření je největší ve viditelné části spektra",
         "solární konstanta",
@@ -208,9 +237,17 @@
       ]
     },
     {
+      "type": "subheading",
+      "text": "2.1.1 Záření a teplota",
+      "label": "3"
+    },
+    {
+      "type": "paragraph",
+      "text": "dva základní principy emise elektromagnetického záření:"
+    },
+    {
       "type": "list",
       "items": [
-        "2.1.1 Záření a teplota • dva základní principy emise elektromagnetického záření:",
         "a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky), každé těleso vyzařuje tepelnou energii",
         "b) teplejší tělesa vyzařují mnohem více než tělesa chladnější (závislost na čtvrté mocnině absolutní teploty – Stefan-Boltzmannův zákon)"
       ]
@@ -220,24 +257,58 @@
       "text": "absolutně černé těleso (nejlépe saze) = konstanta = absolutní teplota tělesa , teplota je v Kelvinech (0° C = 273 K, 15°C = 273 + 15 K)"
     },
     {
+      "type": "subheading",
+      "text": "2.1.2 Sluneční záření",
+      "label": "3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min."
+    },
+    {
       "type": "list",
       "label": "Klíčové body",
       "items": [
-        "2.1.2 Sluneční záření • Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
         "než dorazí na Zemi • [W] = [J/s] – množství energie v J za časovou jednotku • vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W – to, co naše Země dostává • spektrum elektromagnetického záření:",
         "a) ultrafialové záření – 0,2-0,4 μm – pohlceno téměř úplně plyny v atmosféře – škodlivé pro živé organismy, je pohlcováno ozonem a kyslíkem",
         "b) viditelné záření – 0,4-0,7 μm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená => modrá obloha, červánky – jen malá část pohlcována",
         "c) krátkovlnné infračervené záření – 0,7-3 μm – lidské oko není ne ně citlivé – snadno proniká atmosférou •",
         "c) = krátkovlnné záření",
         "d) tepelné infračervené záření – > 3 μm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování) Obr.",
-        "2.2/32 - Strahler, Strahler (1999)",
-        "2.1.3 Charakteristiky slunečního záření • různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 μm) • intenzita slunečního záření je největší ve viditelné části spektra, hlavně v oblasti zelené • solární konstanta",
+        "2.2/32 - Strahler, Strahler (1999)"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "2.1.3 Charakteristiky slunečního záření",
+      "label": "3"
+    },
+    {
+      "type": "list",
+      "items": [
+        "různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 μm)",
+        "intenzita slunečního záření je největší ve viditelné části spektra, hlavně v oblasti zelené",
+        "solární konstanta"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
         "celková intenzita elektromagnetického záření Slunce, dopadajícího na horní hranici atmosféry na jednotkovou plochu kolmou k paprskům při střední vzdálenosti Země-Slunce: IS = 1367 W.m-2  0,3 %, měří se podle umělých družic Země, kolísá v rámci cyklu sluneční soustavy (0,1 – 0,2%)"
       ]
     },
     {
-      "type": "paragraph",
-      "text": "2.1.4 Dlouhovlnné záření Země • zemský povrch a atmosféra vyzařují méně energie o větších vlnových délkách (v porovnání se Sluncem) • intenzita vyzařování má tři maxima pro L = 5, 10 a 20 μm – vlnové délky mezi tím pohlcovány hladně vodní párou a CO2 • je pohlcováno CO2 a vodní parou"
+      "type": "subheading",
+      "text": "2.1.4 Dlouhovlnné záření Země",
+      "label": "3"
+    },
+    {
+      "type": "list",
+      "items": [
+        "zemský povrch a atmosféra vyzařují méně energie o větších vlnových délkách (v porovnání se Sluncem)",
+        "intenzita vyzařování má tři maxima pro L = 5, 10 a 20 μm – vlnové délky mezi tím pohlcovány hladně vodní párou a CO2",
+        "je pohlcováno CO2 a vodní parou"
+      ]
     },
     {
       "type": "list",
@@ -253,8 +324,17 @@
         "d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu",
         "e) pedosféra – půdní pokryv na povrchu pevnin",
         "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy",
-        "fyzickogeografická + socioekonomická sféra = krajinná sféra Země",
-        "2.1.2 Sluneční záření",
+        "fyzickogeografická + socioekonomická sféra = krajinná sféra Země"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "2.1.2 Sluneční záření",
+      "label": "3"
+    },
+    {
+      "type": "list",
+      "items": [
         "Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
         "než dorazí na Zemi",
         "vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W",
@@ -263,8 +343,17 @@
         "b) viditelné záření – 0,4-0,7 µm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená) – jen malá část pohlcována",
         "c) krátkovlnné infračervené záření – 0,7-3 µm – lidské oko není ne ně citlivé – snadno proniká atmosférou",
         "c) = krátkovlnné záření",
-        "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)",
-        "2.1.3 Charakteristiky slunečního záření",
+        "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "2.1.3 Charakteristiky slunečního záření",
+      "label": "3"
+    },
+    {
+      "type": "list",
+      "items": [
         "různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 µm)",
         "intenzita slunečního záření je největší ve viditelné části spektra",
         "solární konstanta",
@@ -275,15 +364,45 @@
         "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy • fyzickogeografická (na Zemi už jen vyjímečně) + socioekonomická sféra (aktivita člověka) = krajinná sféra Země a, b, c, d, e, f = komplexní fyzická geografie",
         "globální energetická bilance země 2.1 Elektromagnetické záření • sluneční záření – elektromagnetické x korpuskulární (čističové – tok elektricky nabitých částic, je vyšší než elektromagnetické) • elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu • vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – μm (10-6",
         "m) nebo nm (10-9",
-        "2.1/31 - Strahler, Strahler (1999)",
-        "2.1.2 Sluneční záření • Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
+        "2.1/31 - Strahler, Strahler (1999)"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "2.1.2 Sluneční záření",
+      "label": "3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min."
+    },
+    {
+      "type": "list",
+      "items": [
         "než dorazí na Zemi • [W] = [J/s] – množství energie v J za časovou jednotku • vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W – to, co naše Země dostává • spektrum elektromagnetického záření:",
         "a) ultrafialové záření – 0,2-0,4 μm – pohlceno téměř úplně plyny v atmosféře – škodlivé pro živé organismy, je pohlcováno ozonem a kyslíkem",
         "b) viditelné záření – 0,4-0,7 μm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená => modrá obloha, červánky – jen malá část pohlcována",
         "c) krátkovlnné infračervené záření – 0,7-3 μm – lidské oko není ne ně citlivé – snadno proniká atmosférou •",
         "d) tepelné infračervené záření – > 3 μm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování) Obr.",
-        "2.2/32 - Strahler, Strahler (1999)",
-        "2.1.3 Charakteristiky slunečního záření • různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 μm) • intenzita slunečního záření je největší ve viditelné části spektra, hlavně v oblasti zelené • solární konstanta",
+        "2.2/32 - Strahler, Strahler (1999)"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "2.1.3 Charakteristiky slunečního záření",
+      "label": "3"
+    },
+    {
+      "type": "list",
+      "items": [
+        "různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 μm)",
+        "intenzita slunečního záření je největší ve viditelné části spektra, hlavně v oblasti zelené",
+        "solární konstanta"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
         "celková intenzita elektromagnetického záření Slunce, dopadajícího na horní hranici atmosféry na jednotkovou plochu kolmou k paprskům při střední vzdálenosti Země-Slunce: IS = 1367 W.m-2  0,3 %, měří se podle umělých družic Země, kolísá v rámci cyklu sluneční soustavy (0,1 – 0,2%)"
       ]
     },

@@ -43,12 +43,41 @@
       "type": "list",
       "label": "Klíčové body",
       "items": [
-        "izohyeta – čára spojující místa se stejným množstvím srážek • mnoho srážek v pásu podél rovníku (Jižní Amerika, Afrika, jihovýchodní Asie) – konvektivní srážky v TZK; zvláště velké srážky v jihovýchodní Asii – letní monzun • v oblasti pasátů velké orografické srážky v návětří hor • ve středních šířkách větší srážky při západních okrajích kontinentů (cyklonální srážky) • suché oblasti na západě Jižní Ameriky (Chile), při západním pobřeží jižní Afriky a na americkém jihozápadu (oblasti pod vlivem východních částí subtropických anticyklon) • suché oblasti tvoří široký pás táhnoucí se od Sahary přes Střední Východ do střední Asie (sestupné pohyby subtropického pásma vysokého tlaku a velká vzdálenost od oceánu v případě střední Asie) • vysoké šířky – málo srážek",
-        "7.2 Klimatické klasifikace • pomocí klimatických typů lze klasifikovat klimata z globálního hlediska:",
+        "izohyeta – čára spojující místa se stejným množstvím srážek • mnoho srážek v pásu podél rovníku (Jižní Amerika, Afrika, jihovýchodní Asie) – konvektivní srážky v TZK; zvláště velké srážky v jihovýchodní Asii – letní monzun • v oblasti pasátů velké orografické srážky v návětří hor • ve středních šířkách větší srážky při západních okrajích kontinentů (cyklonální srážky) • suché oblasti na západě Jižní Ameriky (Chile), při západním pobřeží jižní Afriky a na americkém jihozápadu (oblasti pod vlivem východních částí subtropických anticyklon) • suché oblasti tvoří široký pás táhnoucí se od Sahary přes Střední Východ do střední Asie (sestupné pohyby subtropického pásma vysokého tlaku a velká vzdálenost od oceánu v případě střední Asie) • vysoké šířky – málo srážek"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "7.2 Klimatické klasifikace",
+      "label": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "pomocí klimatických typů lze klasifikovat klimata z globálního hlediska:"
+    },
+    {
+      "type": "list",
+      "items": [
         "a) konvenční klasifikace – vymezují typy klimatu podle předem konvenčně stanovených mezních hodnot jednoho nebo více meteorologických prvků (např.teplota vzduchu, srážky)",
         "b) genetické klasifikace – opírají se o cirkulační klimatotvorné faktory (např.",
-        "vzduchové hmoty, fronty) a klasifikační metoda je i metodou výkladu vzniku určitého klimatické typu",
-        "7.2.1 Köppenova klasifikace • klasifikace klimatu od Wladimira Köppena (s různými následnými modifikacemi) je nejznámější konvenční klimatickou klasifikací → základ teplota vzduchu a srážky → klimatické hranice by měly odpovídat přibližně hranicím mezi vegetačními typy • hlavní klimatické pásy: a) A",
+        "vzduchové hmoty, fronty) a klasifikační metoda je i metodou výkladu vzniku určitého klimatické typu"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "7.2.1 Köppenova klasifikace",
+      "label": "3"
+    },
+    {
+      "type": "list",
+      "items": [
+        "klasifikace klimatu od Wladimira Köppena (s různými následnými modifikacemi) je nejznámější konvenční klimatickou klasifikací → základ teplota vzduchu a srážky → klimatické hranice by měly odpovídat přibližně hranicím mezi vegetačními typy",
+        "hlavní klimatické pásy: a) A"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
         "pás vlhkého tropického klimatu (průměrná teplota každého měsíce nad 18 ºC, bez zimního období, velké srážky převažující výpar)",
         "b) B – pás suchého klimatu (výpar větší než srážky, bez přebytku vody – žádné stálé toky)",
         "c) C – pás mírně teplého klimatu (omezen izotermou 18 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce, vyjádřená sezonalita)",
@@ -78,12 +107,41 @@
         "a) roční chod teploty vzduchu závisí na zeměpisné šířce (v návaznosti na insolaci)",
         "b) stanice v oceánském klimatu mají menší roční amplitudu teploty než stanice v kontinentálním klimatu (odlišnost povrchů oceán x atmosféra)",
         "c) teplý vzduch pojme více vlhkosti než studený vzduch (teplejší oblasti mají více srážek)",
-        "izohyeta – čára spojující místa se stejným množstvím srážek • mnoho srážek v pásu podél rovníku (Jižní Amerika, Afrika, jihovýchodní Asie) – konvektivní srážky v TZK; zvláště velké srážky v jihovýchodní Asii – letní monzun • v oblasti pasátů velké orografické srážky v návětří hor • ve středních šířkách větší srážky při západních okrajích kontinentů (cyklonální srážky) • suché oblasti na západě Jižní Ameriky (Chile), při západním pobřeží jižní Afriky a na americkém jihozápadu (oblasti pod vlivem východních částí subtropických anticyklon) • suché oblasti tvoří široký pás táhnoucí se od Sahary přes Střední Východ do střední Asie (sestupné pohyby subtropického pásma vysokého tlaku a velká vzdálenost od oceánu v případě střední Asie) • vysoké šířky – málo srážek",
-        "7.2 Klimatické klasifikace • pomocí klimatických typů lze klasifikovat klimata z globálního hlediska:",
+        "izohyeta – čára spojující místa se stejným množstvím srážek • mnoho srážek v pásu podél rovníku (Jižní Amerika, Afrika, jihovýchodní Asie) – konvektivní srážky v TZK; zvláště velké srážky v jihovýchodní Asii – letní monzun • v oblasti pasátů velké orografické srážky v návětří hor • ve středních šířkách větší srážky při západních okrajích kontinentů (cyklonální srážky) • suché oblasti na západě Jižní Ameriky (Chile), při západním pobřeží jižní Afriky a na americkém jihozápadu (oblasti pod vlivem východních částí subtropických anticyklon) • suché oblasti tvoří široký pás táhnoucí se od Sahary přes Střední Východ do střední Asie (sestupné pohyby subtropického pásma vysokého tlaku a velká vzdálenost od oceánu v případě střední Asie) • vysoké šířky – málo srážek"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "7.2 Klimatické klasifikace",
+      "label": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "pomocí klimatických typů lze klasifikovat klimata z globálního hlediska:"
+    },
+    {
+      "type": "list",
+      "items": [
         "a) konvenční klasifikace – vymezují typy klimatu podle předem konvenčně stanovených mezních hodnot jednoho nebo více meteorologických prvků (např.teplota vzduchu, srážky)",
         "b) genetické klasifikace – opírají se o cirkulační klimatotvorné faktory (např.",
-        "vzduchové hmoty, fronty) a klasifikační metoda je i metodou výkladu vzniku určitého klimatické typu",
-        "7.2.1 Köppenova klasifikace • klasifikace klimatu od Wladimira Köppena (s různými následnými modifikacemi) je nejznámější konvenční klimatickou klasifikací → základ teplota vzduchu a srážky → klimatické hranice by měly odpovídat přibližně hranicím mezi vegetačními typy • hlavní klimatické pásy: a) A",
+        "vzduchové hmoty, fronty) a klasifikační metoda je i metodou výkladu vzniku určitého klimatické typu"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "7.2.1 Köppenova klasifikace",
+      "label": "3"
+    },
+    {
+      "type": "list",
+      "items": [
+        "klasifikace klimatu od Wladimira Köppena (s různými následnými modifikacemi) je nejznámější konvenční klimatickou klasifikací → základ teplota vzduchu a srážky → klimatické hranice by měly odpovídat přibližně hranicím mezi vegetačními typy",
+        "hlavní klimatické pásy: a) A"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
         "pás vlhkého tropického klimatu (průměrná teplota každého měsíce nad 18 ºC, bez zimního období, velké srážky převažující výpar)",
         "b) B – pás suchého klimatu (výpar větší než srážky, bez přebytku vody – žádné stálé toky)",
         "c) C – pás mírně teplého klimatu (omezen izotermou 18 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce, vyjádřená sezonalita)",

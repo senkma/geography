@@ -24,17 +24,51 @@
       "text": "Otázky a okruhy — FG_5"
     },
     {
-      "type": "paragraph",
-      "text": "6. SystémY počasí • počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost vzduchu, oblačnost) a meteorologických jevů (např. rosa, bouřka, mlha) v daném místě – velká časová a prostorová proměnlivost počasí • povětrnost – ráz počasí během několika dnů"
+      "type": "subheading",
+      "text": "6. SystémY počasí",
+      "label": "1"
+    },
+    {
+      "type": "list",
+      "items": [
+        "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost vzduchu, oblačnost) a meteorologických jevů (např. rosa, bouřka, mlha) v daném místě – velká časová a prostorová proměnlivost počasí",
+        "povětrnost – ráz počasí během několika dnů"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "6.1 Putující cyklony a anticyklony",
+      "label": "2"
+    },
+    {
+      "type": "list",
+      "items": [
+        "putující cyklony a anticyklony jsou zdrojem změn počasí",
+        "cyklony: výstup vzduchu – hustá vrstevnatá oblaka – déšť nebo sníh → cyklonální srážky",
+        "cyklonální bouře – velký tlakový gradient, silný výstup vzduchu – silný vítr, velký déšť nebo sněžení",
+        "putující cyklony lze dělit na:"
+      ]
     },
     {
       "type": "list",
       "label": "Klíčové body",
       "items": [
-        "6.1 Putující cyklony a anticyklony • putující cyklony a anticyklony jsou zdrojem změn počasí • cyklony: výstup vzduchu – hustá vrstevnatá oblaka – déšť nebo sníh → cyklonální srážky • cyklonální bouře – velký tlakový gradient, silný výstup vzduchu – silný vítr, velký déšť nebo sněžení • putující cyklony lze dělit na:",
         "a) frontální cyklony mírných a polárních šířek – od slabých po cyklonální bouře",
-        "b) tropické cyklony tropického nebo subtropického pásma – od mírných po destruktivní • anticyklony: sestupné pohyby, jasné počasí (někdy kumuly), v centru slabé a proměnlivé větry • putující anticyklony ve středních šířkách",
-        "6.1.1 Vzduchové hmoty • vzduchová hmota",
+        "b) tropické cyklony tropického nebo subtropického pásma – od mírných po destruktivní • anticyklony: sestupné pohyby, jasné počasí (někdy kumuly), v centru slabé a proměnlivé větry • putující anticyklony ve středních šířkách"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "6.1.1 Vzduchové hmoty",
+      "label": "3"
+    },
+    {
+      "type": "paragraph",
+      "text": "vzduchová hmota"
+    },
+    {
+      "type": "list",
+      "items": [
         "velký objem vzduchu (horizontálně tisíce km, vertikálně po tropopauzu) s téměř jednotnými charakteristikami teploty a vlhkosti vzduchu • typické vlastnosti získávají při stagnaci nebo pomalém pohybu vzduchu v oblastech svého vzniku • při přemisťování do jiné oblasti (vliv tlakového gradientu) mění vzduchová hmota své vlastnosti – transformace • dělení vzduchových hmot podle zeměpisné šířky (geografické typy vzduchových hmot):"
       ]
     },
@@ -56,9 +90,20 @@
       "text": "a) teplé – při přemisťování do dané oblasti se ochlazují, přinášejí oteplení, stabilní zvrstvení nebo inverze b) studené - při přemisťování do dané oblasti se oteplují, přinášejí ochlazení, labilní zvrstvení c) neutrální – v dané oblasti si po několik dnů zachovávají své základní vlastnosti"
     },
     {
+      "type": "subheading",
+      "text": "6.1.2 Studená, teplá a oklusní fronta",
+      "label": "3"
+    },
+    {
       "type": "list",
       "items": [
-        "6.1.2 Studená, teplá a oklusní fronta • fronta – ostře vyjádřená hranice oddělující jednu vzduchovou hmotu od druhé • pohybuje-li se jedna vzduchová hmota do druhé, fronta svírá malý úhel s povrchem Obr.",
+        "fronta – ostře vyjádřená hranice oddělující jednu vzduchovou hmotu od druhé",
+        "pohybuje-li se jedna vzduchová hmota do druhé, fronta svírá malý úhel s povrchem Obr."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
         "6.3/138 – SS + 2.49/55 + 2.50/56 z Netopil: Fyzická geografie I"
       ]
     },
@@ -70,13 +115,39 @@
       ]
     },
     {
+      "type": "subheading",
+      "text": "6.1 Putující cyklony a anticyklony",
+      "label": "2"
+    },
+    {
+      "type": "list",
+      "items": [
+        "putující cyklony a anticyklony jsou zdrojem změn počasí",
+        "cyklony: výstup vzduchu – hustá vrstevnatá oblaka – déšť nebo sníh → cyklonální srážky",
+        "cyklonální bouře – velký tlakový gradient, silný výstup vzduchu – silný vítr, velký déšť nebo sněžení",
+        "putující cyklony lze dělit na:"
+      ]
+    },
+    {
       "type": "list",
       "label": "Klíčové body",
       "items": [
-        "6.1 Putující cyklony a anticyklony • putující cyklony a anticyklony jsou zdrojem změn počasí • cyklony: výstup vzduchu – hustá vrstevnatá oblaka – déšť nebo sníh → cyklonální srážky • cyklonální bouře – velký tlakový gradient, silný výstup vzduchu – silný vítr, velký déšť nebo sněžení • putující cyklony lze dělit na:",
         "a) frontální cyklony mírných a polárních šířek – od slabých po cyklonální bouře",
-        "b) tropické cyklony tropického nebo subtropického pásma – od mírných po destruktivní • anticyklony: sestupné pohyby, jasné počasí (někdy kumuly), v centru slabé a proměnlivé větry • putující anticyklony ve středních šířkách",
-        "6.1.1 Vzduchové hmoty • vzduchová hmota",
+        "b) tropické cyklony tropického nebo subtropického pásma – od mírných po destruktivní • anticyklony: sestupné pohyby, jasné počasí (někdy kumuly), v centru slabé a proměnlivé větry • putující anticyklony ve středních šířkách"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "6.1.1 Vzduchové hmoty",
+      "label": "3"
+    },
+    {
+      "type": "paragraph",
+      "text": "vzduchová hmota"
+    },
+    {
+      "type": "list",
+      "items": [
         "velký objem vzduchu (horizontálně tisíce km, vertikálně po tropopauzu) s téměř jednotnými charakteristikami teploty a vlhkosti vzduchu • typické vlastnosti získávají při stagnaci nebo pomalém pohybu vzduchu v oblastech svého vzniku • při přemisťování do jiné oblasti (vliv tlakového gradientu) mění vzduchová hmota své vlastnosti – transformace • dělení vzduchových hmot podle zeměpisné šířky (geografické typy vzduchových hmot):"
       ]
     },

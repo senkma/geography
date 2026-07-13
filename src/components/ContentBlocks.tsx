@@ -7,6 +7,19 @@ function Block({ block }: { block: ContentBlock }) {
   switch (block.type) {
     case "paragraph":
       return <p className="lesson-p">{block.text}</p>;
+    case "subheading": {
+      const m = block.text?.match(/^(\d+(?:\.\d+)*)\.?\s+(.+)$/);
+      const num = m?.[1] ?? "";
+      const title = m?.[2] ?? block.text ?? "";
+      const depth = Math.min(Number(block.label) || num.split(".").length || 2, 4);
+      const numLabel = depth === 1 ? `${num}.` : num;
+      return (
+        <h4 className={`lesson-subheading lesson-subheading--d${depth}`}>
+          {num && <span className="lesson-subheading-num">{numLabel}</span>}
+          <span>{title}</span>
+        </h4>
+      );
+    }
     case "quote":
       return (
         <blockquote className="lesson-quote">

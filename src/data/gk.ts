@@ -822,9 +822,13 @@ export const gk: Field = {
               "type": "list",
               "items": [
                 "podzimní semestr",
-                "zkouška",
-                "9 kreditů"
+                "zkouška"
               ]
+            },
+            {
+              "type": "subheading",
+              "text": "9 kreditů",
+              "label": "1"
             },
             {
               "type": "callout",
@@ -871,14 +875,22 @@ export const gk: Field = {
             {
               "type": "list",
               "items": [
-                "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9.",
-                "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+                "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9."
               ]
+            },
+            {
+              "type": "subheading",
+              "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+              "label": "1"
+            },
+            {
+              "type": "subheading",
+              "text": "2.1 Elektromagnetické záření",
+              "label": "2"
             },
             {
               "type": "list",
               "items": [
-                "2.1 Elektromagnetické záření",
                 "sluneční záření – elektromagnetické x korpuskulární (částicové)",
                 "elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu",
                 "vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6",
@@ -888,19 +900,27 @@ export const gk: Field = {
               ]
             },
             {
+              "type": "subheading",
+              "text": "2.1.1 Záření a teplota",
+              "label": "3"
+            },
+            {
               "type": "list",
               "items": [
-                "2.1.1 Záření a teplota",
                 "dva základní principy emise elektromagnetického záření:",
                 "a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky)",
                 "b) teplejší tělesa vyzařují mnohem více než tělesa chladnější (závislost na čtvrté mocnině absolutní teploty – Stefan-Boltzmannův zákon)"
               ]
             },
             {
+              "type": "subheading",
+              "text": "2.1.2 Sluneční záření",
+              "label": "3"
+            },
+            {
               "type": "list",
               "label": "Klíčové body",
               "items": [
-                "2.1.2 Sluneční záření",
                 "Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
                 "než dorazí na Zemi",
                 "vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W",
@@ -909,8 +929,17 @@ export const gk: Field = {
                 "b) viditelné záření – 0,4-0,7 µm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená) – jen malá část pohlcována",
                 "c) krátkovlnné infračervené záření – 0,7-3 µm – lidské oko není ne ně citlivé – snadno proniká atmosférou",
                 "c) = krátkovlnné záření",
-                "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)",
-                "2.1.3 Charakteristiky slunečního záření",
+                "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "2.1.3 Charakteristiky slunečního záření",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
                 "různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 µm)",
                 "intenzita slunečního záření je největší ve viditelné části spektra",
                 "solární konstanta",
@@ -999,9 +1028,17 @@ export const gk: Field = {
               ]
             },
             {
+              "type": "subheading",
+              "text": "2.1.1 Záření a teplota",
+              "label": "3"
+            },
+            {
+              "type": "paragraph",
+              "text": "dva základní principy emise elektromagnetického záření:"
+            },
+            {
               "type": "list",
               "items": [
-                "2.1.1 Záření a teplota • dva základní principy emise elektromagnetického záření:",
                 "a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky), každé těleso vyzařuje tepelnou energii",
                 "b) teplejší tělesa vyzařují mnohem více než tělesa chladnější (závislost na čtvrté mocnině absolutní teploty – Stefan-Boltzmannův zákon)"
               ]
@@ -1011,24 +1048,58 @@ export const gk: Field = {
               "text": "absolutně černé těleso (nejlépe saze) = konstanta = absolutní teplota tělesa , teplota je v Kelvinech (0° C = 273 K, 15°C = 273 + 15 K)"
             },
             {
+              "type": "subheading",
+              "text": "2.1.2 Sluneční záření",
+              "label": "3"
+            },
+            {
+              "type": "paragraph",
+              "text": "Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min."
+            },
+            {
               "type": "list",
               "label": "Klíčové body",
               "items": [
-                "2.1.2 Sluneční záření • Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
                 "než dorazí na Zemi • [W] = [J/s] – množství energie v J za časovou jednotku • vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W – to, co naše Země dostává • spektrum elektromagnetického záření:",
                 "a) ultrafialové záření – 0,2-0,4 μm – pohlceno téměř úplně plyny v atmosféře – škodlivé pro živé organismy, je pohlcováno ozonem a kyslíkem",
                 "b) viditelné záření – 0,4-0,7 μm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená => modrá obloha, červánky – jen malá část pohlcována",
                 "c) krátkovlnné infračervené záření – 0,7-3 μm – lidské oko není ne ně citlivé – snadno proniká atmosférou •",
                 "c) = krátkovlnné záření",
                 "d) tepelné infračervené záření – > 3 μm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování) Obr.",
-                "2.2/32 - Strahler, Strahler (1999)",
-                "2.1.3 Charakteristiky slunečního záření • různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 μm) • intenzita slunečního záření je největší ve viditelné části spektra, hlavně v oblasti zelené • solární konstanta",
+                "2.2/32 - Strahler, Strahler (1999)"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "2.1.3 Charakteristiky slunečního záření",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
+                "různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 μm)",
+                "intenzita slunečního záření je největší ve viditelné části spektra, hlavně v oblasti zelené",
+                "solární konstanta"
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
                 "celková intenzita elektromagnetického záření Slunce, dopadajícího na horní hranici atmosféry na jednotkovou plochu kolmou k paprskům při střední vzdálenosti Země-Slunce: IS = 1367 W.m-2  0,3 %, měří se podle umělých družic Země, kolísá v rámci cyklu sluneční soustavy (0,1 – 0,2%)"
               ]
             },
             {
-              "type": "paragraph",
-              "text": "2.1.4 Dlouhovlnné záření Země • zemský povrch a atmosféra vyzařují méně energie o větších vlnových délkách (v porovnání se Sluncem) • intenzita vyzařování má tři maxima pro L = 5, 10 a 20 μm – vlnové délky mezi tím pohlcovány hladně vodní párou a CO2 • je pohlcováno CO2 a vodní parou"
+              "type": "subheading",
+              "text": "2.1.4 Dlouhovlnné záření Země",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
+                "zemský povrch a atmosféra vyzařují méně energie o větších vlnových délkách (v porovnání se Sluncem)",
+                "intenzita vyzařování má tři maxima pro L = 5, 10 a 20 μm – vlnové délky mezi tím pohlcovány hladně vodní párou a CO2",
+                "je pohlcováno CO2 a vodní parou"
+              ]
             },
             {
               "type": "list",
@@ -1044,8 +1115,17 @@ export const gk: Field = {
                 "d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu",
                 "e) pedosféra – půdní pokryv na povrchu pevnin",
                 "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy",
-                "fyzickogeografická + socioekonomická sféra = krajinná sféra Země",
-                "2.1.2 Sluneční záření",
+                "fyzickogeografická + socioekonomická sféra = krajinná sféra Země"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "2.1.2 Sluneční záření",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
                 "Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
                 "než dorazí na Zemi",
                 "vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W",
@@ -1054,8 +1134,17 @@ export const gk: Field = {
                 "b) viditelné záření – 0,4-0,7 µm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená) – jen malá část pohlcována",
                 "c) krátkovlnné infračervené záření – 0,7-3 µm – lidské oko není ne ně citlivé – snadno proniká atmosférou",
                 "c) = krátkovlnné záření",
-                "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)",
-                "2.1.3 Charakteristiky slunečního záření",
+                "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "2.1.3 Charakteristiky slunečního záření",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
                 "různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 µm)",
                 "intenzita slunečního záření je největší ve viditelné části spektra",
                 "solární konstanta",
@@ -1066,15 +1155,45 @@ export const gk: Field = {
                 "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy • fyzickogeografická (na Zemi už jen vyjímečně) + socioekonomická sféra (aktivita člověka) = krajinná sféra Země a, b, c, d, e, f = komplexní fyzická geografie",
                 "globální energetická bilance země 2.1 Elektromagnetické záření • sluneční záření – elektromagnetické x korpuskulární (čističové – tok elektricky nabitých částic, je vyšší než elektromagnetické) • elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu • vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – μm (10-6",
                 "m) nebo nm (10-9",
-                "2.1/31 - Strahler, Strahler (1999)",
-                "2.1.2 Sluneční záření • Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
+                "2.1/31 - Strahler, Strahler (1999)"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "2.1.2 Sluneční záření",
+              "label": "3"
+            },
+            {
+              "type": "paragraph",
+              "text": "Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min."
+            },
+            {
+              "type": "list",
+              "items": [
                 "než dorazí na Zemi • [W] = [J/s] – množství energie v J za časovou jednotku • vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W – to, co naše Země dostává • spektrum elektromagnetického záření:",
                 "a) ultrafialové záření – 0,2-0,4 μm – pohlceno téměř úplně plyny v atmosféře – škodlivé pro živé organismy, je pohlcováno ozonem a kyslíkem",
                 "b) viditelné záření – 0,4-0,7 μm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená => modrá obloha, červánky – jen malá část pohlcována",
                 "c) krátkovlnné infračervené záření – 0,7-3 μm – lidské oko není ne ně citlivé – snadno proniká atmosférou •",
                 "d) tepelné infračervené záření – > 3 μm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování) Obr.",
-                "2.2/32 - Strahler, Strahler (1999)",
-                "2.1.3 Charakteristiky slunečního záření • různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 μm) • intenzita slunečního záření je největší ve viditelné části spektra, hlavně v oblasti zelené • solární konstanta",
+                "2.2/32 - Strahler, Strahler (1999)"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "2.1.3 Charakteristiky slunečního záření",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
+                "různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 μm)",
+                "intenzita slunečního záření je největší ve viditelné části spektra, hlavně v oblasti zelené",
+                "solární konstanta"
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
                 "celková intenzita elektromagnetického záření Slunce, dopadajícího na horní hranici atmosféry na jednotkovou plochu kolmou k paprskům při střední vzdálenosti Země-Slunce: IS = 1367 W.m-2  0,3 %, měří se podle umělých družic Země, kolísá v rámci cyklu sluneční soustavy (0,1 – 0,2%)"
               ]
             },
@@ -1180,14 +1299,22 @@ export const gk: Field = {
             {
               "type": "list",
               "items": [
-                "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9.",
-                "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+                "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9."
               ]
+            },
+            {
+              "type": "subheading",
+              "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+              "label": "1"
+            },
+            {
+              "type": "subheading",
+              "text": "2.1 Elektromagnetické záření",
+              "label": "2"
             },
             {
               "type": "list",
               "items": [
-                "2.1 Elektromagnetické záření",
                 "sluneční záření – elektromagnetické x korpuskulární (částicové)",
                 "elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu",
                 "vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6",
@@ -1197,19 +1324,27 @@ export const gk: Field = {
               ]
             },
             {
+              "type": "subheading",
+              "text": "2.1.1 Záření a teplota",
+              "label": "3"
+            },
+            {
               "type": "list",
               "items": [
-                "2.1.1 Záření a teplota",
                 "dva základní principy emise elektromagnetického záření:",
                 "a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky)",
                 "b) teplejší tělesa vyzařují mnohem více než tělesa chladnější (závislost na čtvrté mocnině absolutní teploty – Stefan-Boltzmannův zákon)"
               ]
             },
             {
+              "type": "subheading",
+              "text": "2.1.2 Sluneční záření",
+              "label": "3"
+            },
+            {
               "type": "list",
               "label": "Klíčové body",
               "items": [
-                "2.1.2 Sluneční záření",
                 "Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
                 "než dorazí na Zemi",
                 "vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W",
@@ -1218,8 +1353,17 @@ export const gk: Field = {
                 "b) viditelné záření – 0,4-0,7 µm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená) – jen malá část pohlcována",
                 "c) krátkovlnné infračervené záření – 0,7-3 µm – lidské oko není ne ně citlivé – snadno proniká atmosférou",
                 "c) = krátkovlnné záření",
-                "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)",
-                "2.1.3 Charakteristiky slunečního záření",
+                "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "2.1.3 Charakteristiky slunečního záření",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
                 "různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 µm)",
                 "intenzita slunečního záření je největší ve viditelné části spektra",
                 "solární konstanta",
@@ -1312,14 +1456,22 @@ export const gk: Field = {
             {
               "type": "list",
               "items": [
-                "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9.",
-                "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+                "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9."
               ]
+            },
+            {
+              "type": "subheading",
+              "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+              "label": "1"
+            },
+            {
+              "type": "subheading",
+              "text": "2.1 Elektromagnetické záření",
+              "label": "2"
             },
             {
               "type": "list",
               "items": [
-                "2.1 Elektromagnetické záření",
                 "sluneční záření – elektromagnetické x korpuskulární (částicové)",
                 "elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu",
                 "vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6",
@@ -1329,19 +1481,27 @@ export const gk: Field = {
               ]
             },
             {
+              "type": "subheading",
+              "text": "2.1.1 Záření a teplota",
+              "label": "3"
+            },
+            {
               "type": "list",
               "items": [
-                "2.1.1 Záření a teplota",
                 "dva základní principy emise elektromagnetického záření:",
                 "a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky)",
                 "b) teplejší tělesa vyzařují mnohem více než tělesa chladnější (závislost na čtvrté mocnině absolutní teploty – Stefan-Boltzmannův zákon)"
               ]
             },
             {
+              "type": "subheading",
+              "text": "2.1.2 Sluneční záření",
+              "label": "3"
+            },
+            {
               "type": "list",
               "label": "Klíčové body",
               "items": [
-                "2.1.2 Sluneční záření",
                 "Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
                 "než dorazí na Zemi",
                 "vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W",
@@ -1350,8 +1510,17 @@ export const gk: Field = {
                 "b) viditelné záření – 0,4-0,7 µm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená) – jen malá část pohlcována",
                 "c) krátkovlnné infračervené záření – 0,7-3 µm – lidské oko není ne ně citlivé – snadno proniká atmosférou",
                 "c) = krátkovlnné záření",
-                "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)",
-                "2.1.3 Charakteristiky slunečního záření",
+                "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "2.1.3 Charakteristiky slunečního záření",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
                 "různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 µm)",
                 "intenzita slunečního záření je největší ve viditelné části spektra",
                 "solární konstanta",
@@ -1424,9 +1593,13 @@ export const gk: Field = {
               "type": "list",
               "label": "Body přednášky",
               "items": [
-                "c) vodou (vodní parou) v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému",
-                "97 % tvoří slaná voda, 2,8 % sladká voda (mimo slaná jezera a vnitřní moře)"
+                "c) vodou (vodní parou) v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému"
               ]
+            },
+            {
+              "type": "subheading",
+              "text": "97 % tvoří slaná voda, 2,8 % sladká voda (mimo slaná jezera a vnitřní moře)",
+              "label": "1"
             },
             {
               "type": "paragraph",
@@ -1448,8 +1621,23 @@ export const gk: Field = {
                 "jeho teplota roste; v noci, kdy tok krátkovlnného záření ustává, teplota klesá • teplota tělesa se vedle pohlcování a vyzařování může měnit těmito procesy:",
                 "a) vedením – tok tepla mezi dvěma dotýkajícími se tělesy od teplejšího ke chladnějšímu (aktivní povrch – atmosféra)",
                 "b) výparem – změna skupenství vody z kapalného na plynné za pohlcování energie – pokles teploty vypařujícího povrchu",
-                "c) konvekcí – přenos tepla promícháváním při výstupném pohybu vzduchu",
-                "3.1 Měření teploty vzduchu • teplotní stupnice Celsiova (°C) – bod mrazu 0 °C, bod varu 100 °C • teplotní stupnice Fahrenheitova (°F) – bod mrazu 32 °F, bod varu 212 °F • teploměr – přístroj pro měření teploty vzduchu (rtuť nebo líh v kapiláře reaguje na změnu teploty různým roztažením) v bílé žaluziové meteorologické budce ve výšce 2 m nad zemí, která brání přímému dopadu slunečních paprsků a umožňuje cirkulaci vzduchu kolem teploměru • dnes kapalinové skleněné teploměry nahrazeny odporovými teploměry (termistory), které měří automaticky změny elektrického odporu s teplotou • průměrná denní teplota vzduchu: (t07 + t14 + 2t21)/4, v řadě zemí ale průměr tmax a tmin • z denních průměrných teplot se počítají průměrné měsíční teploty a z nich průměrné roční teploty"
+                "c) konvekcí – přenos tepla promícháváním při výstupném pohybu vzduchu"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "3.1 Měření teploty vzduchu",
+              "label": "2"
+            },
+            {
+              "type": "list",
+              "items": [
+                "teplotní stupnice Celsiova (°C) – bod mrazu 0 °C, bod varu 100 °C",
+                "teplotní stupnice Fahrenheitova (°F) – bod mrazu 32 °F, bod varu 212 °F",
+                "teploměr – přístroj pro měření teploty vzduchu (rtuť nebo líh v kapiláře reaguje na změnu teploty různým roztažením) v bílé žaluziové meteorologické budce ve výšce 2 m nad zemí, která brání přímému dopadu slunečních paprsků a umožňuje cirkulaci vzduchu kolem teploměru",
+                "dnes kapalinové skleněné teploměry nahrazeny odporovými teploměry (termistory), které měří automaticky změny elektrického odporu s teplotou",
+                "průměrná denní teplota vzduchu: (t07 + t14 + 2t21)/4, v řadě zemí ale průměr tmax a tmin",
+                "z denních průměrných teplot se počítají průměrné měsíční teploty a z nich průměrné roční teploty"
               ]
             },
             {
@@ -1457,36 +1645,84 @@ export const gk: Field = {
               "text": "3.2 Denní chod teploty vzduchu • denní změny radiační bilance (přes den pozitivní, v noci negativní) se projevují v denním chodu teploty vzduchu 3.2.1 Denní chod insolace a radiační bilance • insolace  radiační bilance → teplota vzduchu Obr. 3.3/53 – SS"
             },
             {
+              "type": "subheading",
+              "text": "3.2.2 Denní teplota",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
+                "minimum teploty asi půl hodiny po východu Slunce – důsledek ochlazování povrchu dlouhovlnným vyzařováním v období negativní radiační bilance",
+                "po východu Slunce ( kladná radiační bilance) výrazný vzestup teploty vzduchu do maxima mezi 13.-16."
+              ]
+            },
+            {
               "type": "list",
               "label": "Klíčové body",
               "items": [
-                "3.2.2 Denní teplota • minimum teploty asi půl hodiny po východu Slunce – důsledek ochlazování povrchu dlouhovlnným vyzařováním v období negativní radiační bilance • po východu Slunce ( kladná radiační bilance) výrazný vzestup teploty vzduchu do maxima mezi 13.-16.",
                 "hodinou ( promíchávání vzduchu a odvod tepla nahoru, jinak by při kladné bilanci měla teplota ještě dále vzrůstat) • po maximu opět pokles teploty vzduchu k rannímu minimu (vzestupná část křivky kratší než sestupná) • úroveň teploty a denní amplituda ovlivněny sezónně • denní amplituda = tmax – tmin, největší amplitudy na jaře, nejmenší v zimě"
               ]
             },
             {
-              "type": "paragraph",
-              "text": "3.2.3 Teplota při povrchu • při povrchu je chod teploty extrémnější – povrch se slunečním zářením více zahřívá a více se ochlazuje dlouhovlnným vyzařováním než vzduch ve výšce 2 m nad zemí • v noci aktivní povrch chladnější než podloží aktivního povrchu a teplota nad ním, ve dne naopak"
+              "type": "subheading",
+              "text": "3.2.3 Teplota při povrchu",
+              "label": "3"
             },
             {
               "type": "list",
-              "label": "Klíčové body",
               "items": [
-                "3.2.4 Kontrast teploty mezi městem a venkovskou krajinou • charakter aktivního povrchu je měněn lidskou aktivitou, zvláště ve městech (zástavba, vozovky, chodníky aj.) • venkovská krajina – vegetace – transpirace (výpar z povrchu rostlin) – odnímání tepla, povrch chladnější (výraznější ochlazující vliv v případě lesního porostu) • půdní povrch je vlhčí, při výparu jeho ochlazování • ve městě je srážková voda odváděna mimo město, povrch je sušší, insolací se otepluje povrch (teplota vyšší než v okolní venkovské krajině) • stavební materiály ve městě pohlcují a uchovávají zářivou energii, v noci ji vyzařují (noční teploty vyšší než v okolní venkovské krajině) • pohlcování tepla je posíleno několikerým odrazem záření mezi různými vertikálními povrchy ve městě"
+                "při povrchu je chod teploty extrémnější – povrch se slunečním zářením více zahřívá a více se ochlazuje dlouhovlnným vyzařováním než vzduch ve výšce 2 m nad zemí",
+                "v noci aktivní povrch chladnější než podloží aktivního povrchu a teplota nad ním, ve dne naopak"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "3.2.4 Kontrast teploty mezi městem a venkovskou krajinou",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
+                "charakter aktivního povrchu je měněn lidskou aktivitou, zvláště ve městech (zástavba, vozovky, chodníky aj.)",
+                "venkovská krajina – vegetace – transpirace (výpar z povrchu rostlin) – odnímání tepla, povrch chladnější (výraznější ochlazující vliv v případě lesního porostu)",
+                "půdní povrch je vlhčí, při výparu jeho ochlazování",
+                "ve městě je srážková voda odváděna mimo město, povrch je sušší, insolací se otepluje povrch (teplota vyšší než v okolní venkovské krajině)",
+                "stavební materiály ve městě pohlcují a uchovávají zářivou energii, v noci ji vyzařují (noční teploty vyšší než v okolní venkovské krajině)",
+                "pohlcování tepla je posíleno několikerým odrazem záření mezi různými vertikálními povrchy ve městě"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "3.2.5 Tepelný ostrov města",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
+                "teplota ve městě je vyšší než v okolí (příčiny viz 3.2.4) – tepelný ostrov města – existuje během noci díky záření pohlcenému během dne",
+                "odpadní teplo ve městě (topení aj.) – tepelný ostrov nejintenzivnější v zimě",
+                "pouštní oblasti – evapotranspirace zavlažované vegetace ve městě může držet teplotu níže než v okolí Obr."
               ]
             },
             {
               "type": "list",
               "items": [
-                "3.2.5 Tepelný ostrov města • teplota ve městě je vyšší než v okolí (příčiny viz 3.2.4) – tepelný ostrov města – existuje během noci díky záření pohlcenému během dne • odpadní teplo ve městě (topení aj.) – tepelný ostrov nejintenzivnější v zimě • pouštní oblasti – evapotranspirace zavlažované vegetace ve městě může držet teplotu níže než v okolí Obr.",
                 "3.6/56 – SS nebo něco lepšího na tepelný ostrov"
               ]
             },
             {
+              "type": "subheading",
+              "text": "3.3 Teplotní zvrstvení atmosféry",
+              "label": "2"
+            },
+            {
+              "type": "paragraph",
+              "text": "teplota vzduchu klesá s výškou – pokles lze popsat vertikálním teplotním gradientem (˚C/100"
+            },
+            {
               "type": "list",
               "label": "Klíčové body",
               "items": [
-                "3.3 Teplotní zvrstvení atmosféry • teplota vzduchu klesá s výškou – pokles lze popsat vertikálním teplotním gradientem (˚C/100",
                 "m) • vzduch se otepluje od aktivního povrchu, tedy čím je od povrchu dále, tím je chladnější • průměrný vertikální teplotní gradient 0,65 ˚C/100 m • od určité úrovně ale průměrná teplota roste, což umožnilo rozlišit dvě části spodní atmosféry – troposféru a stratosféru Obr.",
                 "Změna teploty s výškou v atmosféře"
               ]
@@ -1500,10 +1736,18 @@ export const gk: Field = {
               "text": "4. Atmosférická vlhkost a srážky • voda existuje ve třech skupenstvích – pevném (led), kapalném (voda), plynném (vodní pára) • při fázových změnách se spotřebovává nebo uvolňuje latentní teplo Obr. 4.1/77 – SS"
             },
             {
+              "type": "subheading",
+              "text": "4.1 Voda v globální perspektivě",
+              "label": "2"
+            },
+            {
+              "type": "paragraph",
+              "text": "voda hraje klíčovou roli na Zemi z následujících příčin:"
+            },
+            {
               "type": "list",
               "label": "Klíčové body",
               "items": [
-                "4.1 Voda v globální perspektivě • voda hraje klíčovou roli na Zemi z následujících příčin:",
                 "a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např.",
                 "b) voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému",
                 "c) vodou v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému"
@@ -1541,8 +1785,17 @@ export const gk: Field = {
               ]
             },
             {
-              "type": "paragraph",
-              "text": "4.2 Vlhkost vzduchu • vlhkost vzduchu – obecně značí množství vodní páry ve vzduchu • množství vodní páry ve vzduchu kolísání s místem a časem (téměř žádné v chladném a suchém arktickém vzduchu až do 4-5 % v teplém vlhkém vzduchu při rovníku) • maximální množství vlhkosti, které se může udržet ve vzduchu, závisí na teplotě vzduchu – teplý vzduch může udržet víc vlhkosti (vodní páry) než studený"
+              "type": "subheading",
+              "text": "4.2 Vlhkost vzduchu",
+              "label": "2"
+            },
+            {
+              "type": "list",
+              "items": [
+                "vlhkost vzduchu – obecně značí množství vodní páry ve vzduchu",
+                "množství vodní páry ve vzduchu kolísání s místem a časem (téměř žádné v chladném a suchém arktickém vzduchu až do 4-5 % v teplém vlhkém vzduchu při rovníku)",
+                "maximální množství vlhkosti, které se může udržet ve vzduchu, závisí na teplotě vzduchu – teplý vzduch může udržet víc vlhkosti (vodní páry) než studený"
+              ]
             },
             {
               "type": "paragraph",
@@ -1562,8 +1815,17 @@ export const gk: Field = {
                 "d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu",
                 "e) pedosféra – půdní pokryv na povrchu pevnin",
                 "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy",
-                "fyzickogeografická + socioekonomická sféra = krajinná sféra Země",
-                "2.1.2 Sluneční záření",
+                "fyzickogeografická + socioekonomická sféra = krajinná sféra Země"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "2.1.2 Sluneční záření",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
                 "Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
                 "než dorazí na Zemi",
                 "vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W",
@@ -1572,8 +1834,17 @@ export const gk: Field = {
                 "b) viditelné záření – 0,4-0,7 µm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená) – jen malá část pohlcována",
                 "c) krátkovlnné infračervené záření – 0,7-3 µm – lidské oko není ne ně citlivé – snadno proniká atmosférou",
                 "c) = krátkovlnné záření",
-                "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)",
-                "2.1.3 Charakteristiky slunečního záření",
+                "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "2.1.3 Charakteristiky slunečního záření",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
                 "různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 µm)",
                 "intenzita slunečního záření je největší ve viditelné části spektra",
                 "solární konstanta",
@@ -1584,15 +1855,87 @@ export const gk: Field = {
                 "jeho teplota roste; v noci, kdy tok krátkovlnného záření ustává, teplota klesá • teplota tělesa se vedle pohlcování a vyzařování může měnit těmito procesy:",
                 "a) vedením – tok tepla mezi dvěma dotýkajícími se tělesy od teplejšího ke chladnějšímu (aktivní povrch – atmosféra)",
                 "b) výparem – změna skupenství vody z kapalného na plynné za pohlcování energie – pokles teploty vypařujícího povrchu",
-                "c) konvekcí – přenos tepla promícháváním při výstupném pohybu vzduchu",
-                "3.1 Měření teploty vzduchu • teplotní stupnice Celsiova (°C) – bod mrazu 0 °C, bod varu 100 °C • teplotní stupnice Fahrenheitova (°F) – bod mrazu 32 °F, bod varu 212 °F • teploměr – přístroj pro měření teploty vzduchu (rtuť nebo líh v kapiláře reaguje na změnu teploty různým roztažením) v bílé žaluziové meteorologické budce ve výšce 2 m nad zemí, která brání přímému dopadu slunečních paprsků a umožňuje cirkulaci vzduchu kolem teploměru • dnes kapalinové skleněné teploměry nahrazeny odporovými teploměry (termistory), které měří automaticky změny elektrického odporu s teplotou • průměrná denní teplota vzduchu: (t07 + t14 + 2t21)/4, v řadě zemí ale průměr tmax a tmin • z denních průměrných teplot se počítají průměrné měsíční teploty a z nich průměrné roční teploty",
-                "3.2.2 Denní teplota • minimum teploty asi půl hodiny po východu Slunce – důsledek ochlazování povrchu dlouhovlnným vyzařováním v období negativní radiační bilance • po východu Slunce ( kladná radiační bilance) výrazný vzestup teploty vzduchu do maxima mezi 13.-16.",
-                "hodinou ( promíchávání vzduchu a odvod tepla nahoru, jinak by při kladné bilanci měla teplota ještě dále vzrůstat) • po maximu opět pokles teploty vzduchu k rannímu minimu (vzestupná část křivky kratší než sestupná) • úroveň teploty a denní amplituda ovlivněny sezónně • denní amplituda = tmax – tmin, největší amplitudy na jaře, nejmenší v zimě",
-                "3.2.4 Kontrast teploty mezi městem a venkovskou krajinou • charakter aktivního povrchu je měněn lidskou aktivitou, zvláště ve městech (zástavba, vozovky, chodníky aj.) • venkovská krajina – vegetace – transpirace (výpar z povrchu rostlin) – odnímání tepla, povrch chladnější (výraznější ochlazující vliv v případě lesního porostu) • půdní povrch je vlhčí, při výparu jeho ochlazování • ve městě je srážková voda odváděna mimo město, povrch je sušší, insolací se otepluje povrch (teplota vyšší než v okolní venkovské krajině) • stavební materiály ve městě pohlcují a uchovávají zářivou energii, v noci ji vyzařují (noční teploty vyšší než v okolní venkovské krajině) • pohlcování tepla je posíleno několikerým odrazem záření mezi různými vertikálními povrchy ve městě",
-                "3.3 Teplotní zvrstvení atmosféry • teplota vzduchu klesá s výškou – pokles lze popsat vertikálním teplotním gradientem (˚C/100",
+                "c) konvekcí – přenos tepla promícháváním při výstupném pohybu vzduchu"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "3.1 Měření teploty vzduchu",
+              "label": "2"
+            },
+            {
+              "type": "list",
+              "items": [
+                "teplotní stupnice Celsiova (°C) – bod mrazu 0 °C, bod varu 100 °C",
+                "teplotní stupnice Fahrenheitova (°F) – bod mrazu 32 °F, bod varu 212 °F",
+                "teploměr – přístroj pro měření teploty vzduchu (rtuť nebo líh v kapiláře reaguje na změnu teploty různým roztažením) v bílé žaluziové meteorologické budce ve výšce 2 m nad zemí, která brání přímému dopadu slunečních paprsků a umožňuje cirkulaci vzduchu kolem teploměru",
+                "dnes kapalinové skleněné teploměry nahrazeny odporovými teploměry (termistory), které měří automaticky změny elektrického odporu s teplotou",
+                "průměrná denní teplota vzduchu: (t07 + t14 + 2t21)/4, v řadě zemí ale průměr tmax a tmin",
+                "z denních průměrných teplot se počítají průměrné měsíční teploty a z nich průměrné roční teploty"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "3.2.2 Denní teplota",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
+                "minimum teploty asi půl hodiny po východu Slunce – důsledek ochlazování povrchu dlouhovlnným vyzařováním v období negativní radiační bilance",
+                "po východu Slunce ( kladná radiační bilance) výrazný vzestup teploty vzduchu do maxima mezi 13.-16."
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                "hodinou ( promíchávání vzduchu a odvod tepla nahoru, jinak by při kladné bilanci měla teplota ještě dále vzrůstat) • po maximu opět pokles teploty vzduchu k rannímu minimu (vzestupná část křivky kratší než sestupná) • úroveň teploty a denní amplituda ovlivněny sezónně • denní amplituda = tmax – tmin, největší amplitudy na jaře, nejmenší v zimě"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "3.2.4 Kontrast teploty mezi městem a venkovskou krajinou",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
+                "charakter aktivního povrchu je měněn lidskou aktivitou, zvláště ve městech (zástavba, vozovky, chodníky aj.)",
+                "venkovská krajina – vegetace – transpirace (výpar z povrchu rostlin) – odnímání tepla, povrch chladnější (výraznější ochlazující vliv v případě lesního porostu)",
+                "půdní povrch je vlhčí, při výparu jeho ochlazování",
+                "ve městě je srážková voda odváděna mimo město, povrch je sušší, insolací se otepluje povrch (teplota vyšší než v okolní venkovské krajině)",
+                "stavební materiály ve městě pohlcují a uchovávají zářivou energii, v noci ji vyzařují (noční teploty vyšší než v okolní venkovské krajině)",
+                "pohlcování tepla je posíleno několikerým odrazem záření mezi různými vertikálními povrchy ve městě"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "3.3 Teplotní zvrstvení atmosféry",
+              "label": "2"
+            },
+            {
+              "type": "paragraph",
+              "text": "teplota vzduchu klesá s výškou – pokles lze popsat vertikálním teplotním gradientem (˚C/100"
+            },
+            {
+              "type": "list",
+              "items": [
                 "m) • vzduch se otepluje od aktivního povrchu, tedy čím je od povrchu dále, tím je chladnější • průměrný vertikální teplotní gradient 0,65 ˚C/100 m • od určité úrovně ale průměrná teplota roste, což umožnilo rozlišit dvě části spodní atmosféry – troposféru a stratosféru Obr.",
-                "Změna teploty s výškou v atmosféře",
-                "4.1 Voda v globální perspektivě • voda hraje klíčovou roli na Zemi z následujících příčin:",
+                "Změna teploty s výškou v atmosféře"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "4.1 Voda v globální perspektivě",
+              "label": "2"
+            },
+            {
+              "type": "paragraph",
+              "text": "voda hraje klíčovou roli na Zemi z následujících příčin:"
+            },
+            {
+              "type": "list",
+              "items": [
                 "a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např.",
                 "b) voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému",
                 "c) vodou v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému",
@@ -1720,9 +2063,13 @@ export const gk: Field = {
               "type": "list",
               "label": "Body přednášky",
               "items": [
-                "c) vodou (vodní parou) v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému",
-                "97 % tvoří slaná voda, 2,8 % sladká voda (mimo slaná jezera a vnitřní moře)"
+                "c) vodou (vodní parou) v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému"
               ]
+            },
+            {
+              "type": "subheading",
+              "text": "97 % tvoří slaná voda, 2,8 % sladká voda (mimo slaná jezera a vnitřní moře)",
+              "label": "1"
             },
             {
               "type": "paragraph",
@@ -1741,10 +2088,18 @@ export const gk: Field = {
               "text": "4. Atmosférická vlhkost a srážky • voda existuje ve třech skupenstvích – pevném (led), kapalném (voda), plynném (vodní pára) • při fázových změnách se spotřebovává nebo uvolňuje latentní teplo Obr. 4.1/77 – SS"
             },
             {
+              "type": "subheading",
+              "text": "4.1 Voda v globální perspektivě",
+              "label": "2"
+            },
+            {
+              "type": "paragraph",
+              "text": "voda hraje klíčovou roli na Zemi z následujících příčin:"
+            },
+            {
               "type": "list",
               "label": "Klíčové body",
               "items": [
-                "4.1 Voda v globální perspektivě • voda hraje klíčovou roli na Zemi z následujících příčin:",
                 "a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např.",
                 "b) voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému",
                 "c) vodou v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému"
@@ -1782,8 +2137,17 @@ export const gk: Field = {
               ]
             },
             {
-              "type": "paragraph",
-              "text": "4.2 Vlhkost vzduchu • vlhkost vzduchu – obecně značí množství vodní páry ve vzduchu • množství vodní páry ve vzduchu kolísání s místem a časem (téměř žádné v chladném a suchém arktickém vzduchu až do 4-5 % v teplém vlhkém vzduchu při rovníku) • maximální množství vlhkosti, které se může udržet ve vzduchu, závisí na teplotě vzduchu – teplý vzduch může udržet víc vlhkosti (vodní páry) než studený"
+              "type": "subheading",
+              "text": "4.2 Vlhkost vzduchu",
+              "label": "2"
+            },
+            {
+              "type": "list",
+              "items": [
+                "vlhkost vzduchu – obecně značí množství vodní páry ve vzduchu",
+                "množství vodní páry ve vzduchu kolísání s místem a časem (téměř žádné v chladném a suchém arktickém vzduchu až do 4-5 % v teplém vlhkém vzduchu při rovníku)",
+                "maximální množství vlhkosti, které se může udržet ve vzduchu, závisí na teplotě vzduchu – teplý vzduch může udržet víc vlhkosti (vodní páry) než studený"
+              ]
             },
             {
               "type": "paragraph",
@@ -1794,10 +2158,16 @@ export const gk: Field = {
               "text": "Otázky a okruhy — FG_4"
             },
             {
+              "type": "subheading",
+              "text": "5.1 Atmosférický tlak",
+              "label": "2"
+            },
+            {
               "type": "list",
-              "label": "Klíčové body",
               "items": [
-                "5.1 Atmosférický tlak • tlak p – síla F rovnoměrně spojitě rozložená, působící kolmo na rovinnou plochu, dělená velikostí této plochy S, tedy p = F.S-1 [Pa = N.m-2] • atmosférický (barometrický) tlak – tlak atmosféry na všechna tělesa v ovzduší a na zemský povrch bez zřetele na orientaci stěn tělesa, který se rovná hmotnosti vzduchového sloupce nacházejícího se nad nimi [hPa = mbar] • normální barometrický tlak 1013,2 hPa (760 Torrů)"
+                "tlak p – síla F rovnoměrně spojitě rozložená, působící kolmo na rovinnou plochu, dělená velikostí této plochy S, tedy p = F.S-1 [Pa = N.m-2]",
+                "atmosférický (barometrický) tlak – tlak atmosféry na všechna tělesa v ovzduší a na zemský povrch bez zřetele na orientaci stěn tělesa, který se rovná hmotnosti vzduchového sloupce nacházejícího se nad nimi [hPa = mbar]",
+                "normální barometrický tlak 1013,2 hPa (760 Torrů)"
               ]
             },
             {
@@ -1805,13 +2175,32 @@ export const gk: Field = {
               "text": "5.1.1 Měření tlaku • rtuťový tlakoměr (barometr) – přístroj pro měření tlaku vzduchu • tlak působí na rtuť v nádobě, která je vytlačena do trubice, v níž je vakuum (původně mm Hg) • malá mezidenní kolísání tlaku – největší změny při putujících tlakových útvarech Obr. 5.2/108 – SS"
             },
             {
-              "type": "paragraph",
-              "text": "5.1.2 Změna tlaku vzduchu s výškou • pokles tlaku vzduchu s výškou, v nižších výškách velmi prudký, ve vyšších výškách pomalejší, tj. menší změna výšky v troposféře znamená významnou změnu tlaku • vliv poklesu tlaku s výškou na člověka – kyslík se dostává do plicních tkání pomaleji, zkrácení dechu a únava (kolem 3000 m a výše)"
+              "type": "subheading",
+              "text": "5.1.2 Změna tlaku vzduchu s výškou",
+              "label": "3"
             },
             {
               "type": "list",
               "items": [
-                "5.2 Větry a tlakové gradienty • vítr – horizontální složka proudění vzduchu • charakteristiky větru:",
+                "pokles tlaku vzduchu s výškou, v nižších výškách velmi prudký, ve vyšších výškách pomalejší, tj. menší změna výšky v troposféře znamená významnou změnu tlaku",
+                "vliv poklesu tlaku s výškou na člověka – kyslík se dostává do plicních tkání pomaleji, zkrácení dechu a únava (kolem 3000 m a výše)"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "5.2 Větry a tlakové gradienty",
+              "label": "2"
+            },
+            {
+              "type": "list",
+              "items": [
+                "vítr – horizontální složka proudění vzduchu",
+                "charakteristiky větru:"
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
                 "a) směr větru – směr, odkud vítr vane (např. západní vítr – vane od západu k východu); měřen větrnou směrovkou (staví se proti větru) Obr. 5.4/109 – SS"
               ]
             },
@@ -1842,10 +2231,18 @@ export const gk: Field = {
               "text": "5.2.1 Brízová cirkulace • pobřežní vánky (brízy) vanou mezi mořem a pobřežím v létě jako důsledek nestejnoměrného zahřívání vody a souše, měnícími směr tlakového gradientu • mořský vánek – odpoledne vane chladnější vzduch z moře na pevninu • pevninský vánek – vane v noci z pevniny na moře Obr. 5.6/110 – SS"
             },
             {
+              "type": "subheading",
+              "text": "4.1 Voda v globální perspektivě",
+              "label": "2"
+            },
+            {
+              "type": "paragraph",
+              "text": "voda hraje klíčovou roli na Zemi z následujících příčin:"
+            },
+            {
               "type": "list",
               "label": "Klíčové body",
               "items": [
-                "4.1 Voda v globální perspektivě • voda hraje klíčovou roli na Zemi z následujících příčin:",
                 "a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např.",
                 "b) voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému",
                 "c) vodou v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému",
@@ -1859,8 +2256,25 @@ export const gk: Field = {
                 "odtékat z povrchu spojujíce se do potoků a řek, odtékajících zpět do oceánů nebo bezodtokých jezer",
                 "popisuje toky vody mezi oceánem, atmosférou a pevninou • předpokládáme, že objem oceánských vod a objem sladkých povrchových a podpovrchových vod je konstantní rok od roku • oceán: srážky (do) + odtok (do) = výpar (z), tj.",
                 "km3 • pevnina: srážky (na) = výpar (z) + odtok (z), tj.",
-                "km3 • protože na pevnině výpar = srážky – odtok, lze odtok při bilancování vypustit a lze zapsat: celkový výpar celkové srážky 70 (pevnina) + 420 (oceán) = 110 (pevnina) + 380 (oceán) (vše v tis.",
-                "5.1 Atmosférický tlak • tlak p – síla F rovnoměrně spojitě rozložená, působící kolmo na rovinnou plochu, dělená velikostí této plochy S, tedy p = F.S-1 [Pa = N.m-2] • atmosférický (barometrický) tlak – tlak atmosféry na všechna tělesa v ovzduší a na zemský povrch bez zřetele na orientaci stěn tělesa, který se rovná hmotnosti vzduchového sloupce nacházejícího se nad nimi [hPa = mbar] • normální barometrický tlak 1013,2 hPa (760 Torrů)",
+                "km3 • protože na pevnině výpar = srážky – odtok, lze odtok při bilancování vypustit a lze zapsat: celkový výpar celkové srážky 70 (pevnina) + 420 (oceán) = 110 (pevnina) + 380 (oceán) (vše v tis."
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "5.1 Atmosférický tlak",
+              "label": "2"
+            },
+            {
+              "type": "list",
+              "items": [
+                "tlak p – síla F rovnoměrně spojitě rozložená, působící kolmo na rovinnou plochu, dělená velikostí této plochy S, tedy p = F.S-1 [Pa = N.m-2]",
+                "atmosférický (barometrický) tlak – tlak atmosféry na všechna tělesa v ovzduší a na zemský povrch bez zřetele na orientaci stěn tělesa, který se rovná hmotnosti vzduchového sloupce nacházejícího se nad nimi [hPa = mbar]",
+                "normální barometrický tlak 1013,2 hPa (760 Torrů)"
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
                 "izobary – čáry spojující místa se stejnou hodnotou tlaku vzduchu • charakteristické tlakové útvary:",
                 "a) tlaková výše (anticyklona) – uzavřené koncentricky uspořádané izobary s nejvyšším tlakem uprostřed",
                 "b) tlaková níže (cyklona) – uzavřené koncentricky uspořádané izobary s nejnižším tlakem uprostřed",
@@ -1956,17 +2370,51 @@ export const gk: Field = {
               "text": "Otázky a okruhy — FG_5"
             },
             {
-              "type": "paragraph",
-              "text": "6. SystémY počasí • počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost vzduchu, oblačnost) a meteorologických jevů (např. rosa, bouřka, mlha) v daném místě – velká časová a prostorová proměnlivost počasí • povětrnost – ráz počasí během několika dnů"
+              "type": "subheading",
+              "text": "6. SystémY počasí",
+              "label": "1"
+            },
+            {
+              "type": "list",
+              "items": [
+                "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost vzduchu, oblačnost) a meteorologických jevů (např. rosa, bouřka, mlha) v daném místě – velká časová a prostorová proměnlivost počasí",
+                "povětrnost – ráz počasí během několika dnů"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "6.1 Putující cyklony a anticyklony",
+              "label": "2"
+            },
+            {
+              "type": "list",
+              "items": [
+                "putující cyklony a anticyklony jsou zdrojem změn počasí",
+                "cyklony: výstup vzduchu – hustá vrstevnatá oblaka – déšť nebo sníh → cyklonální srážky",
+                "cyklonální bouře – velký tlakový gradient, silný výstup vzduchu – silný vítr, velký déšť nebo sněžení",
+                "putující cyklony lze dělit na:"
+              ]
             },
             {
               "type": "list",
               "label": "Klíčové body",
               "items": [
-                "6.1 Putující cyklony a anticyklony • putující cyklony a anticyklony jsou zdrojem změn počasí • cyklony: výstup vzduchu – hustá vrstevnatá oblaka – déšť nebo sníh → cyklonální srážky • cyklonální bouře – velký tlakový gradient, silný výstup vzduchu – silný vítr, velký déšť nebo sněžení • putující cyklony lze dělit na:",
                 "a) frontální cyklony mírných a polárních šířek – od slabých po cyklonální bouře",
-                "b) tropické cyklony tropického nebo subtropického pásma – od mírných po destruktivní • anticyklony: sestupné pohyby, jasné počasí (někdy kumuly), v centru slabé a proměnlivé větry • putující anticyklony ve středních šířkách",
-                "6.1.1 Vzduchové hmoty • vzduchová hmota",
+                "b) tropické cyklony tropického nebo subtropického pásma – od mírných po destruktivní • anticyklony: sestupné pohyby, jasné počasí (někdy kumuly), v centru slabé a proměnlivé větry • putující anticyklony ve středních šířkách"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "6.1.1 Vzduchové hmoty",
+              "label": "3"
+            },
+            {
+              "type": "paragraph",
+              "text": "vzduchová hmota"
+            },
+            {
+              "type": "list",
+              "items": [
                 "velký objem vzduchu (horizontálně tisíce km, vertikálně po tropopauzu) s téměř jednotnými charakteristikami teploty a vlhkosti vzduchu • typické vlastnosti získávají při stagnaci nebo pomalém pohybu vzduchu v oblastech svého vzniku • při přemisťování do jiné oblasti (vliv tlakového gradientu) mění vzduchová hmota své vlastnosti – transformace • dělení vzduchových hmot podle zeměpisné šířky (geografické typy vzduchových hmot):"
               ]
             },
@@ -1988,9 +2436,20 @@ export const gk: Field = {
               "text": "a) teplé – při přemisťování do dané oblasti se ochlazují, přinášejí oteplení, stabilní zvrstvení nebo inverze b) studené - při přemisťování do dané oblasti se oteplují, přinášejí ochlazení, labilní zvrstvení c) neutrální – v dané oblasti si po několik dnů zachovávají své základní vlastnosti"
             },
             {
+              "type": "subheading",
+              "text": "6.1.2 Studená, teplá a oklusní fronta",
+              "label": "3"
+            },
+            {
               "type": "list",
               "items": [
-                "6.1.2 Studená, teplá a oklusní fronta • fronta – ostře vyjádřená hranice oddělující jednu vzduchovou hmotu od druhé • pohybuje-li se jedna vzduchová hmota do druhé, fronta svírá malý úhel s povrchem Obr.",
+                "fronta – ostře vyjádřená hranice oddělující jednu vzduchovou hmotu od druhé",
+                "pohybuje-li se jedna vzduchová hmota do druhé, fronta svírá malý úhel s povrchem Obr."
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
                 "6.3/138 – SS + 2.49/55 + 2.50/56 z Netopil: Fyzická geografie I"
               ]
             },
@@ -2002,13 +2461,39 @@ export const gk: Field = {
               ]
             },
             {
+              "type": "subheading",
+              "text": "6.1 Putující cyklony a anticyklony",
+              "label": "2"
+            },
+            {
+              "type": "list",
+              "items": [
+                "putující cyklony a anticyklony jsou zdrojem změn počasí",
+                "cyklony: výstup vzduchu – hustá vrstevnatá oblaka – déšť nebo sníh → cyklonální srážky",
+                "cyklonální bouře – velký tlakový gradient, silný výstup vzduchu – silný vítr, velký déšť nebo sněžení",
+                "putující cyklony lze dělit na:"
+              ]
+            },
+            {
               "type": "list",
               "label": "Klíčové body",
               "items": [
-                "6.1 Putující cyklony a anticyklony • putující cyklony a anticyklony jsou zdrojem změn počasí • cyklony: výstup vzduchu – hustá vrstevnatá oblaka – déšť nebo sníh → cyklonální srážky • cyklonální bouře – velký tlakový gradient, silný výstup vzduchu – silný vítr, velký déšť nebo sněžení • putující cyklony lze dělit na:",
                 "a) frontální cyklony mírných a polárních šířek – od slabých po cyklonální bouře",
-                "b) tropické cyklony tropického nebo subtropického pásma – od mírných po destruktivní • anticyklony: sestupné pohyby, jasné počasí (někdy kumuly), v centru slabé a proměnlivé větry • putující anticyklony ve středních šířkách",
-                "6.1.1 Vzduchové hmoty • vzduchová hmota",
+                "b) tropické cyklony tropického nebo subtropického pásma – od mírných po destruktivní • anticyklony: sestupné pohyby, jasné počasí (někdy kumuly), v centru slabé a proměnlivé větry • putující anticyklony ve středních šířkách"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "6.1.1 Vzduchové hmoty",
+              "label": "3"
+            },
+            {
+              "type": "paragraph",
+              "text": "vzduchová hmota"
+            },
+            {
+              "type": "list",
+              "items": [
                 "velký objem vzduchu (horizontálně tisíce km, vertikálně po tropopauzu) s téměř jednotnými charakteristikami teploty a vlhkosti vzduchu • typické vlastnosti získávají při stagnaci nebo pomalém pohybu vzduchu v oblastech svého vzniku • při přemisťování do jiné oblasti (vliv tlakového gradientu) mění vzduchová hmota své vlastnosti – transformace • dělení vzduchových hmot podle zeměpisné šířky (geografické typy vzduchových hmot):"
               ]
             },
@@ -2089,12 +2574,41 @@ export const gk: Field = {
               "type": "list",
               "label": "Klíčové body",
               "items": [
-                "izohyeta – čára spojující místa se stejným množstvím srážek • mnoho srážek v pásu podél rovníku (Jižní Amerika, Afrika, jihovýchodní Asie) – konvektivní srážky v TZK; zvláště velké srážky v jihovýchodní Asii – letní monzun • v oblasti pasátů velké orografické srážky v návětří hor • ve středních šířkách větší srážky při západních okrajích kontinentů (cyklonální srážky) • suché oblasti na západě Jižní Ameriky (Chile), při západním pobřeží jižní Afriky a na americkém jihozápadu (oblasti pod vlivem východních částí subtropických anticyklon) • suché oblasti tvoří široký pás táhnoucí se od Sahary přes Střední Východ do střední Asie (sestupné pohyby subtropického pásma vysokého tlaku a velká vzdálenost od oceánu v případě střední Asie) • vysoké šířky – málo srážek",
-                "7.2 Klimatické klasifikace • pomocí klimatických typů lze klasifikovat klimata z globálního hlediska:",
+                "izohyeta – čára spojující místa se stejným množstvím srážek • mnoho srážek v pásu podél rovníku (Jižní Amerika, Afrika, jihovýchodní Asie) – konvektivní srážky v TZK; zvláště velké srážky v jihovýchodní Asii – letní monzun • v oblasti pasátů velké orografické srážky v návětří hor • ve středních šířkách větší srážky při západních okrajích kontinentů (cyklonální srážky) • suché oblasti na západě Jižní Ameriky (Chile), při západním pobřeží jižní Afriky a na americkém jihozápadu (oblasti pod vlivem východních částí subtropických anticyklon) • suché oblasti tvoří široký pás táhnoucí se od Sahary přes Střední Východ do střední Asie (sestupné pohyby subtropického pásma vysokého tlaku a velká vzdálenost od oceánu v případě střední Asie) • vysoké šířky – málo srážek"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "7.2 Klimatické klasifikace",
+              "label": "2"
+            },
+            {
+              "type": "paragraph",
+              "text": "pomocí klimatických typů lze klasifikovat klimata z globálního hlediska:"
+            },
+            {
+              "type": "list",
+              "items": [
                 "a) konvenční klasifikace – vymezují typy klimatu podle předem konvenčně stanovených mezních hodnot jednoho nebo více meteorologických prvků (např.teplota vzduchu, srážky)",
                 "b) genetické klasifikace – opírají se o cirkulační klimatotvorné faktory (např.",
-                "vzduchové hmoty, fronty) a klasifikační metoda je i metodou výkladu vzniku určitého klimatické typu",
-                "7.2.1 Köppenova klasifikace • klasifikace klimatu od Wladimira Köppena (s různými následnými modifikacemi) je nejznámější konvenční klimatickou klasifikací → základ teplota vzduchu a srážky → klimatické hranice by měly odpovídat přibližně hranicím mezi vegetačními typy • hlavní klimatické pásy: a) A",
+                "vzduchové hmoty, fronty) a klasifikační metoda je i metodou výkladu vzniku určitého klimatické typu"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "7.2.1 Köppenova klasifikace",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
+                "klasifikace klimatu od Wladimira Köppena (s různými následnými modifikacemi) je nejznámější konvenční klimatickou klasifikací → základ teplota vzduchu a srážky → klimatické hranice by měly odpovídat přibližně hranicím mezi vegetačními typy",
+                "hlavní klimatické pásy: a) A"
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
                 "pás vlhkého tropického klimatu (průměrná teplota každého měsíce nad 18 ºC, bez zimního období, velké srážky převažující výpar)",
                 "b) B – pás suchého klimatu (výpar větší než srážky, bez přebytku vody – žádné stálé toky)",
                 "c) C – pás mírně teplého klimatu (omezen izotermou 18 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce, vyjádřená sezonalita)",
@@ -2124,12 +2638,41 @@ export const gk: Field = {
                 "a) roční chod teploty vzduchu závisí na zeměpisné šířce (v návaznosti na insolaci)",
                 "b) stanice v oceánském klimatu mají menší roční amplitudu teploty než stanice v kontinentálním klimatu (odlišnost povrchů oceán x atmosféra)",
                 "c) teplý vzduch pojme více vlhkosti než studený vzduch (teplejší oblasti mají více srážek)",
-                "izohyeta – čára spojující místa se stejným množstvím srážek • mnoho srážek v pásu podél rovníku (Jižní Amerika, Afrika, jihovýchodní Asie) – konvektivní srážky v TZK; zvláště velké srážky v jihovýchodní Asii – letní monzun • v oblasti pasátů velké orografické srážky v návětří hor • ve středních šířkách větší srážky při západních okrajích kontinentů (cyklonální srážky) • suché oblasti na západě Jižní Ameriky (Chile), při západním pobřeží jižní Afriky a na americkém jihozápadu (oblasti pod vlivem východních částí subtropických anticyklon) • suché oblasti tvoří široký pás táhnoucí se od Sahary přes Střední Východ do střední Asie (sestupné pohyby subtropického pásma vysokého tlaku a velká vzdálenost od oceánu v případě střední Asie) • vysoké šířky – málo srážek",
-                "7.2 Klimatické klasifikace • pomocí klimatických typů lze klasifikovat klimata z globálního hlediska:",
+                "izohyeta – čára spojující místa se stejným množstvím srážek • mnoho srážek v pásu podél rovníku (Jižní Amerika, Afrika, jihovýchodní Asie) – konvektivní srážky v TZK; zvláště velké srážky v jihovýchodní Asii – letní monzun • v oblasti pasátů velké orografické srážky v návětří hor • ve středních šířkách větší srážky při západních okrajích kontinentů (cyklonální srážky) • suché oblasti na západě Jižní Ameriky (Chile), při západním pobřeží jižní Afriky a na americkém jihozápadu (oblasti pod vlivem východních částí subtropických anticyklon) • suché oblasti tvoří široký pás táhnoucí se od Sahary přes Střední Východ do střední Asie (sestupné pohyby subtropického pásma vysokého tlaku a velká vzdálenost od oceánu v případě střední Asie) • vysoké šířky – málo srážek"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "7.2 Klimatické klasifikace",
+              "label": "2"
+            },
+            {
+              "type": "paragraph",
+              "text": "pomocí klimatických typů lze klasifikovat klimata z globálního hlediska:"
+            },
+            {
+              "type": "list",
+              "items": [
                 "a) konvenční klasifikace – vymezují typy klimatu podle předem konvenčně stanovených mezních hodnot jednoho nebo více meteorologických prvků (např.teplota vzduchu, srážky)",
                 "b) genetické klasifikace – opírají se o cirkulační klimatotvorné faktory (např.",
-                "vzduchové hmoty, fronty) a klasifikační metoda je i metodou výkladu vzniku určitého klimatické typu",
-                "7.2.1 Köppenova klasifikace • klasifikace klimatu od Wladimira Köppena (s různými následnými modifikacemi) je nejznámější konvenční klimatickou klasifikací → základ teplota vzduchu a srážky → klimatické hranice by měly odpovídat přibližně hranicím mezi vegetačními typy • hlavní klimatické pásy: a) A",
+                "vzduchové hmoty, fronty) a klasifikační metoda je i metodou výkladu vzniku určitého klimatické typu"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "7.2.1 Köppenova klasifikace",
+              "label": "3"
+            },
+            {
+              "type": "list",
+              "items": [
+                "klasifikace klimatu od Wladimira Köppena (s různými následnými modifikacemi) je nejznámější konvenční klimatickou klasifikací → základ teplota vzduchu a srážky → klimatické hranice by měly odpovídat přibližně hranicím mezi vegetačními typy",
+                "hlavní klimatické pásy: a) A"
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
                 "pás vlhkého tropického klimatu (průměrná teplota každého měsíce nad 18 ºC, bez zimního období, velké srážky převažující výpar)",
                 "b) B – pás suchého klimatu (výpar větší než srážky, bez přebytku vody – žádné stálé toky)",
                 "c) C – pás mírně teplého klimatu (omezen izotermou 18 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce, vyjádřená sezonalita)",
@@ -3391,10 +3934,14 @@ export const gk: Field = {
               "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných srážek převyšují roční úbytek ledovce táním (ablací)"
             },
             {
+              "type": "subheading",
+              "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+              "label": "1"
+            },
+            {
               "type": "list",
               "label": "Body přednášky",
               "items": [
-                "96 % tvoří ledovcové štíty Antarktidy a Grónska",
                 "65,6 m ekvivalentu nárůstu mořské hladiny",
                 "Při transformaci sněhu v led dochází ke změně hustoty",
                 "Ulehnutí sněhu (drobení vloček, sesedání)",
@@ -3465,8 +4012,17 @@ export const gk: Field = {
                 "Teplé i chladné suché (aridní a semiaridní) oblasti",
                 "Větrná eroze a transport probíhá podobně jako ve fluviálním prostředí, ovšem…",
                 "Menší hustota vzduchu ve srovnání s vodou snižuje transportní kapacitu",
-                "Obvykle jsou transportována zrna do velikosti písku",
-                "3 druhy eolického transportu – rolování/posouvání,",
+                "Obvykle jsou transportována zrna do velikosti písku"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "3 druhy eolického transportu – rolování/posouvání,",
+              "label": "1"
+            },
+            {
+              "type": "list",
+              "items": [
                 "Prostorově neomezené ukládání materiálu, ale často kolem překážek",
                 "Probíhá vytřídění a ukládání do vrstev"
               ]
@@ -3564,9 +4120,13 @@ export const gk: Field = {
             {
               "type": "list",
               "items": [
-                "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
-                "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s."
+                "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236"
               ]
+            },
+            {
+              "type": "subheading",
+              "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+              "label": "1"
             },
             {
               "type": "list",
@@ -3587,8 +4147,21 @@ export const gk: Field = {
                 "organický podíl – minerální podíl silně převažuje nad organickým (45% - 5%) organický podíl obsahuje dvě složky: a.",
                 "živá organická hmota (edafon), b.",
                 "odumřelá organická hmota (humus) • humus: odumřelá, částečně rozložená organická hmota rostlinného i živočišného původu; převážně rostlinný původ; tmavá barva • půdní roztok • půdní vzduch – vyšší obsah CO2 a nižší obsah O2 než v atmosféře zdroje CO2: dýcháním kořenů a rozkladné procesy, úbytek O2: dýchání kořenů a chemické a biochemické reakce • optimální poměr vody a vzduchu v půdě 1:1 = dostatek vody, kořeny rostlin se nedusí • zvětrávání → zvětráváním vzniká minerální podíl půdy 1.",
-                "fyzikální (mechanické) 2.",
-                "2.1 Barva a zrnitost půdy • barva vzniká: a.",
+                "fyzikální (mechanické) 2."
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "2.1 Barva a zrnitost půdy",
+              "label": "2"
+            },
+            {
+              "type": "paragraph",
+              "text": "barva vzniká: a."
+            },
+            {
+              "type": "list",
+              "items": [
                 "zděděním od matečné horniny, b.",
                 "jako výsledek půdotvorných procesů Organické látky: šedá, hnědočerná nebo černá barva Sloučeniny Fe a Mn: oxidované – červená, červenohnědá nebo hnědá; redukované – zelená, modrá, žlutá světlé barevné tóny vznikají vyplavením barevným minerálů a humusu vodou • zrnitost (textura) zrnitostních frakce jíl, prach a písek = jemnozem; hrubší částice = skelet Strahler&Strahler obr 9.2 s."
               ]
@@ -3625,8 +4198,21 @@ export const gk: Field = {
                 "organický podíl – minerální podíl silně převažuje nad organickým (45% - 5%) organický podíl obsahuje dvě složky: a.",
                 "živá organická hmota (edafon), b.",
                 "odumřelá organická hmota (humus) • humus: odumřelá, částečně rozložená organická hmota rostlinného i živočišného původu; převážně rostlinný původ; tmavá barva • půdní roztok • půdní vzduch – vyšší obsah CO2 a nižší obsah O2 než v atmosféře zdroje CO2: dýcháním kořenů a rozkladné procesy, úbytek O2: dýchání kořenů a chemické a biochemické reakce • optimální poměr vody a vzduchu v půdě 1:1 = dostatek vody, kořeny rostlin se nedusí • zvětrávání → zvětráváním vzniká minerální podíl půdy 1.",
-                "fyzikální (mechanické) 2.",
-                "2.1 Barva a zrnitost půdy • barva vzniká: a.",
+                "fyzikální (mechanické) 2."
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "2.1 Barva a zrnitost půdy",
+              "label": "2"
+            },
+            {
+              "type": "paragraph",
+              "text": "barva vzniká: a."
+            },
+            {
+              "type": "list",
+              "items": [
                 "zděděním od matečné horniny, b.",
                 "jako výsledek půdotvorných procesů Organické látky: šedá, hnědočerná nebo černá barva Sloučeniny Fe a Mn: oxidované – červená, červenohnědá nebo hnědá; redukované – zelená, modrá, žlutá světlé barevné tóny vznikají vyplavením barevným minerálů a humusu vodou • zrnitost (textura) zrnitostních frakce jíl, prach a písek = jemnozem; hrubší částice = skelet Strahler&Strahler obr 9.2 s."
               ]

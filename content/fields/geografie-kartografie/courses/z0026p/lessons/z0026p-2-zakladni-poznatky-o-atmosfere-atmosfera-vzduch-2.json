@@ -43,14 +43,22 @@
     {
       "type": "list",
       "items": [
-        "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9.",
-        "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+        "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9."
       ]
+    },
+    {
+      "type": "subheading",
+      "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+      "label": "1"
+    },
+    {
+      "type": "subheading",
+      "text": "2.1 Elektromagnetické záření",
+      "label": "2"
     },
     {
       "type": "list",
       "items": [
-        "2.1 Elektromagnetické záření",
         "sluneční záření – elektromagnetické x korpuskulární (částicové)",
         "elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu",
         "vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6",
@@ -60,19 +68,27 @@
       ]
     },
     {
+      "type": "subheading",
+      "text": "2.1.1 Záření a teplota",
+      "label": "3"
+    },
+    {
       "type": "list",
       "items": [
-        "2.1.1 Záření a teplota",
         "dva základní principy emise elektromagnetického záření:",
         "a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky)",
         "b) teplejší tělesa vyzařují mnohem více než tělesa chladnější (závislost na čtvrté mocnině absolutní teploty – Stefan-Boltzmannův zákon)"
       ]
     },
     {
+      "type": "subheading",
+      "text": "2.1.2 Sluneční záření",
+      "label": "3"
+    },
+    {
       "type": "list",
       "label": "Klíčové body",
       "items": [
-        "2.1.2 Sluneční záření",
         "Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
         "než dorazí na Zemi",
         "vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W",
@@ -81,8 +97,17 @@
         "b) viditelné záření – 0,4-0,7 µm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená) – jen malá část pohlcována",
         "c) krátkovlnné infračervené záření – 0,7-3 µm – lidské oko není ne ně citlivé – snadno proniká atmosférou",
         "c) = krátkovlnné záření",
-        "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)",
-        "2.1.3 Charakteristiky slunečního záření",
+        "d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "2.1.3 Charakteristiky slunečního záření",
+      "label": "3"
+    },
+    {
+      "type": "list",
+      "items": [
         "různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 µm)",
         "intenzita slunečního záření je největší ve viditelné části spektra",
         "solární konstanta",

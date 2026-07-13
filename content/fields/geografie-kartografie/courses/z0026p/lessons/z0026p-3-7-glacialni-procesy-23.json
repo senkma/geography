@@ -28,10 +28,14 @@
       "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných srážek převyšují roční úbytek ledovce táním (ablací)"
     },
     {
+      "type": "subheading",
+      "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+      "label": "1"
+    },
+    {
       "type": "list",
       "label": "Body přednášky",
       "items": [
-        "96 % tvoří ledovcové štíty Antarktidy a Grónska",
         "65,6 m ekvivalentu nárůstu mořské hladiny",
         "Při transformaci sněhu v led dochází ke změně hustoty",
         "Ulehnutí sněhu (drobení vloček, sesedání)",

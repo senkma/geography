@@ -6,6 +6,114 @@
 const BOILERPLATE_RE =
   /^Studijní materiál k předmětu .+ — doplnění oficiální osnovy\.?$/;
 
+const SECTION_NUM_RE = /^(\d+(?:\.\d+)*)\.?\s+/;
+
+function isFigureOrPageRef(text) {
+  return (
+    /\d+\.\d+\/\d+/.test(text) ||
+    /^Obr\.\s*\d/i.test(text) ||
+    /^Tab\.\s*\d/i.test(text) ||
+    /^Kap\.\s*\d/i.test(text)
+  );
+}
+
+function splitSectionHeading(text) {
+  const t = cleanItem(text);
+  if (!SECTION_NUM_RE.test(t) || isFigureOrPageRef(t)) return null;
+
+  const m = t.match(/^(\d+(?:\.\d+)*)\.?\s+(.+)$/s);
+  if (!m) return null;
+
+  const num = m[1];
+  const rest = m[2].trim();
+  const depth = num.split(".").length;
+
+  let title = rest;
+  let body = null;
+
+  const bulletIdx = rest.indexOf(" • ");
+  if (bulletIdx > 0 && bulletIdx <= 120) {
+    title = rest.slice(0, bulletIdx).trim();
+    body = rest.slice(bulletIdx + 3).trim();
+  }
+
+  const looksLikeHeading =
+    !body &&
+    (rest.length <= 95 ||
+      (depth === 1 && rest.length <= 130) ||
+      (depth >= 2 && rest.length <= 80 && !/(?<=[.!?])\s/.test(rest)));
+
+  if (!looksLikeHeading && !body) return null;
+
+  const blocks = [
+    {
+      type: "subheading",
+      text: `${num} ${title}`,
+      label: String(depth),
+    },
+  ];
+
+  if (body) {
+    const items = body
+      .split(/\s*•\s*/)
+      .map(cleanItem)
+      .filter((p) => p.length > 8);
+    if (items.length >= 2) {
+      blocks.push({ type: "list", items });
+    } else {
+      blocks.push({ type: "paragraph", text: body });
+    }
+  }
+
+  return blocks;
+}
+
+function promoteListHeadings(block) {
+  if (block.type !== "list" || !block.items?.length) return [block];
+
+  const out = [];
+  let batch = [];
+  let batchLabel = block.label;
+
+  const flush = () => {
+    if (!batch.length) return;
+    out.push({ type: "list", label: batchLabel, items: batch });
+    batch = [];
+    batchLabel = undefined;
+  };
+
+  for (const raw of block.items) {
+    const promoted = splitSectionHeading(raw);
+    if (promoted) {
+      flush();
+      out.push(...promoted);
+    } else {
+      batch.push(cleanItem(raw));
+    }
+  }
+  flush();
+  return out.length ? out : [block];
+}
+
+function promoteSectionHeadings(blocks) {
+  const out = [];
+  for (const block of blocks) {
+    if (block.type === "paragraph" && block.text) {
+      const promoted = splitSectionHeading(block.text);
+      if (promoted) {
+        out.push(...promoted);
+        continue;
+      }
+    }
+    if (block.type === "list") {
+      out.push(...promoteListHeadings(block));
+      continue;
+    }
+    out.push(block);
+  }
+  return out;
+}
+
 function cleanItem(text) {
   return text
     .replace(/^[\s•·–—\-=]+/, "")
@@ -129,7 +237,7 @@ function postProcessBlocks(blocks) {
     if (b.type === "callout") out.push(...expandCallout(b));
     else out.push(b);
   }
-  return out;
+  return promoteSectionHeadings(out);
 }
 function mergeAdjacentLists(blocks) {
   const out = [];

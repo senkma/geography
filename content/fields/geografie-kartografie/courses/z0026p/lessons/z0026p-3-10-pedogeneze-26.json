@@ -26,9 +26,13 @@
     {
       "type": "list",
       "items": [
-        "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
-        "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s."
+        "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236"
       ]
+    },
+    {
+      "type": "subheading",
+      "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+      "label": "1"
     },
     {
       "type": "list",
@@ -49,8 +53,21 @@
         "organický podíl – minerální podíl silně převažuje nad organickým (45% - 5%) organický podíl obsahuje dvě složky: a.",
         "živá organická hmota (edafon), b.",
         "odumřelá organická hmota (humus) • humus: odumřelá, částečně rozložená organická hmota rostlinného i živočišného původu; převážně rostlinný původ; tmavá barva • půdní roztok • půdní vzduch – vyšší obsah CO2 a nižší obsah O2 než v atmosféře zdroje CO2: dýcháním kořenů a rozkladné procesy, úbytek O2: dýchání kořenů a chemické a biochemické reakce • optimální poměr vody a vzduchu v půdě 1:1 = dostatek vody, kořeny rostlin se nedusí • zvětrávání → zvětráváním vzniká minerální podíl půdy 1.",
-        "fyzikální (mechanické) 2.",
-        "2.1 Barva a zrnitost půdy • barva vzniká: a.",
+        "fyzikální (mechanické) 2."
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "2.1 Barva a zrnitost půdy",
+      "label": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "barva vzniká: a."
+    },
+    {
+      "type": "list",
+      "items": [
         "zděděním od matečné horniny, b.",
         "jako výsledek půdotvorných procesů Organické látky: šedá, hnědočerná nebo černá barva Sloučeniny Fe a Mn: oxidované – červená, červenohnědá nebo hnědá; redukované – zelená, modrá, žlutá světlé barevné tóny vznikají vyplavením barevným minerálů a humusu vodou • zrnitost (textura) zrnitostních frakce jíl, prach a písek = jemnozem; hrubší částice = skelet Strahler&Strahler obr 9.2 s."
       ]
@@ -87,8 +104,21 @@
         "organický podíl – minerální podíl silně převažuje nad organickým (45% - 5%) organický podíl obsahuje dvě složky: a.",
         "živá organická hmota (edafon), b.",
         "odumřelá organická hmota (humus) • humus: odumřelá, částečně rozložená organická hmota rostlinného i živočišného původu; převážně rostlinný původ; tmavá barva • půdní roztok • půdní vzduch – vyšší obsah CO2 a nižší obsah O2 než v atmosféře zdroje CO2: dýcháním kořenů a rozkladné procesy, úbytek O2: dýchání kořenů a chemické a biochemické reakce • optimální poměr vody a vzduchu v půdě 1:1 = dostatek vody, kořeny rostlin se nedusí • zvětrávání → zvětráváním vzniká minerální podíl půdy 1.",
-        "fyzikální (mechanické) 2.",
-        "2.1 Barva a zrnitost půdy • barva vzniká: a.",
+        "fyzikální (mechanické) 2."
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "2.1 Barva a zrnitost půdy",
+      "label": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "barva vzniká: a."
+    },
+    {
+      "type": "list",
+      "items": [
         "zděděním od matečné horniny, b.",
         "jako výsledek půdotvorných procesů Organické látky: šedá, hnědočerná nebo černá barva Sloučeniny Fe a Mn: oxidované – červená, červenohnědá nebo hnědá; redukované – zelená, modrá, žlutá světlé barevné tóny vznikají vyplavením barevným minerálů a humusu vodou • zrnitost (textura) zrnitostních frakce jíl, prach a písek = jemnozem; hrubší částice = skelet Strahler&Strahler obr 9.2 s."
       ]

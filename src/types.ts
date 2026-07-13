@@ -34,7 +34,7 @@ export interface Quiz {
 
 /** A rich chunk of lesson content. */
 export interface ContentBlock {
-  type: "paragraph" | "heading" | "list" | "quote" | "callout" | "figure" | "table";
+  type: "paragraph" | "heading" | "subheading" | "list" | "quote" | "callout" | "figure" | "table";
   text?: string;
   items?: string[];
   /** For callouts: an accent label such as "Zapamatuj si". */

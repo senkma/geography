@@ -1578,16 +1578,29 @@ export const antarktida: Field = {
             {
               "type": "list",
               "items": [
-                "Česká republika patří k zemím s dlouhodobě významným antarktickým výzkumem. Plány na českou základnu sahají do",
-                "20. století, kdy probíhaly právní, logistické a stavební přípravy."
+                "Česká republika patří k zemím s dlouhodobě významným antarktickým výzkumem. Plány na českou základnu sahají do"
               ]
+            },
+            {
+              "type": "subheading",
+              "text": "20. století, kdy probíhaly právní, logistické a stavební přípravy.",
+              "label": "1"
             },
             {
               "type": "list",
               "items": [
                 "2004–2006: výstavba stanice na severní části ostrova Jamese Rosse",
-                "Únor 2006: dokončení stavby",
-                "22. února 2007: oficiální otevření stanice Johanna Gregora Mendela",
+                "Únor 2006: dokončení stavby"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "22. února 2007: oficiální otevření stanice Johanna Gregora Mendela",
+              "label": "1"
+            },
+            {
+              "type": "list",
+              "items": [
                 "Od té doby každé jižní léto (australské léto) vědecké expedice"
               ]
             },

@@ -33,8 +33,17 @@
         "Teplé i chladné suché (aridní a semiaridní) oblasti",
         "Větrná eroze a transport probíhá podobně jako ve fluviálním prostředí, ovšem…",
         "Menší hustota vzduchu ve srovnání s vodou snižuje transportní kapacitu",
-        "Obvykle jsou transportována zrna do velikosti písku",
-        "3 druhy eolického transportu – rolování/posouvání,",
+        "Obvykle jsou transportována zrna do velikosti písku"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "3 druhy eolického transportu – rolování/posouvání,",
+      "label": "1"
+    },
+    {
+      "type": "list",
+      "items": [
         "Prostorově neomezené ukládání materiálu, ale často kolem překážek",
         "Probíhá vytřídění a ukládání do vrstev"
       ]

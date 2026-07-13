@@ -45,9 +45,13 @@
       "type": "list",
       "label": "Body přednášky",
       "items": [
-        "c) vodou (vodní parou) v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému",
-        "97 % tvoří slaná voda, 2,8 % sladká voda (mimo slaná jezera a vnitřní moře)"
+        "c) vodou (vodní parou) v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému"
       ]
+    },
+    {
+      "type": "subheading",
+      "text": "97 % tvoří slaná voda, 2,8 % sladká voda (mimo slaná jezera a vnitřní moře)",
+      "label": "1"
     },
     {
       "type": "paragraph",
@@ -66,10 +70,18 @@
       "text": "4. Atmosférická vlhkost a srážky • voda existuje ve třech skupenstvích – pevném (led), kapalném (voda), plynném (vodní pára) • při fázových změnách se spotřebovává nebo uvolňuje latentní teplo Obr. 4.1/77 – SS"
     },
     {
+      "type": "subheading",
+      "text": "4.1 Voda v globální perspektivě",
+      "label": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "voda hraje klíčovou roli na Zemi z následujících příčin:"
+    },
+    {
       "type": "list",
       "label": "Klíčové body",
       "items": [
-        "4.1 Voda v globální perspektivě • voda hraje klíčovou roli na Zemi z následujících příčin:",
         "a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např.",
         "b) voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému",
         "c) vodou v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému"
@@ -107,8 +119,17 @@
       ]
     },
     {
-      "type": "paragraph",
-      "text": "4.2 Vlhkost vzduchu • vlhkost vzduchu – obecně značí množství vodní páry ve vzduchu • množství vodní páry ve vzduchu kolísání s místem a časem (téměř žádné v chladném a suchém arktickém vzduchu až do 4-5 % v teplém vlhkém vzduchu při rovníku) • maximální množství vlhkosti, které se může udržet ve vzduchu, závisí na teplotě vzduchu – teplý vzduch může udržet víc vlhkosti (vodní páry) než studený"
+      "type": "subheading",
+      "text": "4.2 Vlhkost vzduchu",
+      "label": "2"
+    },
+    {
+      "type": "list",
+      "items": [
+        "vlhkost vzduchu – obecně značí množství vodní páry ve vzduchu",
+        "množství vodní páry ve vzduchu kolísání s místem a časem (téměř žádné v chladném a suchém arktickém vzduchu až do 4-5 % v teplém vlhkém vzduchu při rovníku)",
+        "maximální množství vlhkosti, které se může udržet ve vzduchu, závisí na teplotě vzduchu – teplý vzduch může udržet víc vlhkosti (vodní páry) než studený"
+      ]
     },
     {
       "type": "paragraph",
@@ -119,10 +140,16 @@
       "text": "Otázky a okruhy — FG_4"
     },
     {
+      "type": "subheading",
+      "text": "5.1 Atmosférický tlak",
+      "label": "2"
+    },
+    {
       "type": "list",
-      "label": "Klíčové body",
       "items": [
-        "5.1 Atmosférický tlak • tlak p – síla F rovnoměrně spojitě rozložená, působící kolmo na rovinnou plochu, dělená velikostí této plochy S, tedy p = F.S-1 [Pa = N.m-2] • atmosférický (barometrický) tlak – tlak atmosféry na všechna tělesa v ovzduší a na zemský povrch bez zřetele na orientaci stěn tělesa, který se rovná hmotnosti vzduchového sloupce nacházejícího se nad nimi [hPa = mbar] • normální barometrický tlak 1013,2 hPa (760 Torrů)"
+        "tlak p – síla F rovnoměrně spojitě rozložená, působící kolmo na rovinnou plochu, dělená velikostí této plochy S, tedy p = F.S-1 [Pa = N.m-2]",
+        "atmosférický (barometrický) tlak – tlak atmosféry na všechna tělesa v ovzduší a na zemský povrch bez zřetele na orientaci stěn tělesa, který se rovná hmotnosti vzduchového sloupce nacházejícího se nad nimi [hPa = mbar]",
+        "normální barometrický tlak 1013,2 hPa (760 Torrů)"
       ]
     },
     {
@@ -130,13 +157,32 @@
       "text": "5.1.1 Měření tlaku • rtuťový tlakoměr (barometr) – přístroj pro měření tlaku vzduchu • tlak působí na rtuť v nádobě, která je vytlačena do trubice, v níž je vakuum (původně mm Hg) • malá mezidenní kolísání tlaku – největší změny při putujících tlakových útvarech Obr. 5.2/108 – SS"
     },
     {
-      "type": "paragraph",
-      "text": "5.1.2 Změna tlaku vzduchu s výškou • pokles tlaku vzduchu s výškou, v nižších výškách velmi prudký, ve vyšších výškách pomalejší, tj. menší změna výšky v troposféře znamená významnou změnu tlaku • vliv poklesu tlaku s výškou na člověka – kyslík se dostává do plicních tkání pomaleji, zkrácení dechu a únava (kolem 3000 m a výše)"
+      "type": "subheading",
+      "text": "5.1.2 Změna tlaku vzduchu s výškou",
+      "label": "3"
     },
     {
       "type": "list",
       "items": [
-        "5.2 Větry a tlakové gradienty • vítr – horizontální složka proudění vzduchu • charakteristiky větru:",
+        "pokles tlaku vzduchu s výškou, v nižších výškách velmi prudký, ve vyšších výškách pomalejší, tj. menší změna výšky v troposféře znamená významnou změnu tlaku",
+        "vliv poklesu tlaku s výškou na člověka – kyslík se dostává do plicních tkání pomaleji, zkrácení dechu a únava (kolem 3000 m a výše)"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "5.2 Větry a tlakové gradienty",
+      "label": "2"
+    },
+    {
+      "type": "list",
+      "items": [
+        "vítr – horizontální složka proudění vzduchu",
+        "charakteristiky větru:"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
         "a) směr větru – směr, odkud vítr vane (např. západní vítr – vane od západu k východu); měřen větrnou směrovkou (staví se proti větru) Obr. 5.4/109 – SS"
       ]
     },
@@ -167,10 +213,18 @@
       "text": "5.2.1 Brízová cirkulace • pobřežní vánky (brízy) vanou mezi mořem a pobřežím v létě jako důsledek nestejnoměrného zahřívání vody a souše, měnícími směr tlakového gradientu • mořský vánek – odpoledne vane chladnější vzduch z moře na pevninu • pevninský vánek – vane v noci z pevniny na moře Obr. 5.6/110 – SS"
     },
     {
+      "type": "subheading",
+      "text": "4.1 Voda v globální perspektivě",
+      "label": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "voda hraje klíčovou roli na Zemi z následujících příčin:"
+    },
+    {
       "type": "list",
       "label": "Klíčové body",
       "items": [
-        "4.1 Voda v globální perspektivě • voda hraje klíčovou roli na Zemi z následujících příčin:",
         "a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např.",
         "b) voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému",
         "c) vodou v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému",
@@ -184,8 +238,25 @@
         "odtékat z povrchu spojujíce se do potoků a řek, odtékajících zpět do oceánů nebo bezodtokých jezer",
         "popisuje toky vody mezi oceánem, atmosférou a pevninou • předpokládáme, že objem oceánských vod a objem sladkých povrchových a podpovrchových vod je konstantní rok od roku • oceán: srážky (do) + odtok (do) = výpar (z), tj.",
         "km3 • pevnina: srážky (na) = výpar (z) + odtok (z), tj.",
-        "km3 • protože na pevnině výpar = srážky – odtok, lze odtok při bilancování vypustit a lze zapsat: celkový výpar celkové srážky 70 (pevnina) + 420 (oceán) = 110 (pevnina) + 380 (oceán) (vše v tis.",
-        "5.1 Atmosférický tlak • tlak p – síla F rovnoměrně spojitě rozložená, působící kolmo na rovinnou plochu, dělená velikostí této plochy S, tedy p = F.S-1 [Pa = N.m-2] • atmosférický (barometrický) tlak – tlak atmosféry na všechna tělesa v ovzduší a na zemský povrch bez zřetele na orientaci stěn tělesa, který se rovná hmotnosti vzduchového sloupce nacházejícího se nad nimi [hPa = mbar] • normální barometrický tlak 1013,2 hPa (760 Torrů)",
+        "km3 • protože na pevnině výpar = srážky – odtok, lze odtok při bilancování vypustit a lze zapsat: celkový výpar celkové srážky 70 (pevnina) + 420 (oceán) = 110 (pevnina) + 380 (oceán) (vše v tis."
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "5.1 Atmosférický tlak",
+      "label": "2"
+    },
+    {
+      "type": "list",
+      "items": [
+        "tlak p – síla F rovnoměrně spojitě rozložená, působící kolmo na rovinnou plochu, dělená velikostí této plochy S, tedy p = F.S-1 [Pa = N.m-2]",
+        "atmosférický (barometrický) tlak – tlak atmosféry na všechna tělesa v ovzduší a na zemský povrch bez zřetele na orientaci stěn tělesa, který se rovná hmotnosti vzduchového sloupce nacházejícího se nad nimi [hPa = mbar]",
+        "normální barometrický tlak 1013,2 hPa (760 Torrů)"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
         "izobary – čáry spojující místa se stejnou hodnotou tlaku vzduchu • charakteristické tlakové útvary:",
         "a) tlaková výše (anticyklona) – uzavřené koncentricky uspořádané izobary s nejvyšším tlakem uprostřed",
         "b) tlaková níže (cyklona) – uzavřené koncentricky uspořádané izobary s nejnižším tlakem uprostřed",
