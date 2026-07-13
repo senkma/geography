@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { getField, groupCoursesBySemester } from "../data";
+import { getField, groupCoursesBySemester, getStateExam, countStateExamLessons } from "../data";
 import type { Course, Field } from "../types";
 import { Icon } from "../components/Icon";
 import { NotFound } from "./NotFound";
@@ -11,6 +11,7 @@ export function FieldPage() {
 
   const semesterGroups = groupCoursesBySemester(field.courses);
   const showSemesterDividers = semesterGroups.some((g) => g.semester != null);
+  const stateExam = getStateExam(field.id);
 
   return (
     <div className="container-page pt-10">
@@ -50,6 +51,32 @@ export function FieldPage() {
           </a>
         )}
       </header>
+
+      {stateExam && (
+        <Link
+          to={`/obor/${field.id}/studijni-zkouska`}
+          className="card p-5 sm:p-6 mb-10 flex items-center gap-4 group animate-in border-emerald-500/25 bg-gradient-to-br from-emerald-50/80 to-sky-50/50"
+        >
+          <span className="grid place-items-center w-12 h-12 rounded-2xl bg-gradient-to-br from-emerald-200 to-sky-200 border border-black/5 shrink-0">
+            <Icon name="target" className="w-6 h-6 text-emerald-800" />
+          </span>
+          <div className="min-w-0 flex-1">
+            <p className="text-xs font-semibold uppercase tracking-widest text-emerald-700 mb-0.5">
+              Státní závěrečná zkouška
+            </p>
+            <h2 className="text-lg font-semibold tracking-tight">{stateExam.type}</h2>
+            <p className="text-sm text-[var(--text-dim)] mt-1 line-clamp-2">{stateExam.summary}</p>
+            <p className="text-xs text-[var(--text-dim)] mt-2">
+              {stateExam.subjects.length} předmětů SZZ · {countStateExamLessons(stateExam)} okruhů
+              jako lekce
+            </p>
+          </div>
+          <Icon
+            name="arrow"
+            className="w-5 h-5 text-[var(--text-dim)] group-hover:text-[var(--text)] group-hover:translate-x-0.5 transition shrink-0"
+          />
+        </Link>
+      )}
 
       <h2 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-6">
         {field.level === "Speciální modul" ? "Obsah modulu" : "Předměty"}

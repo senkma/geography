@@ -2,8 +2,46 @@ import type { Field, Course, Lesson } from "../types";
 import { gk } from "./gk";
 import { fg } from "./fg";
 import { antarktida } from "./antarktida";
+import { stateExams } from "./state-exams";
+import {
+  buildStateExamLessons,
+  countStateExamLessons,
+} from "./state-exam-lessons";
+import type { StateExam } from "../types";
 
 export const fields: Field[] = [antarktida, gk, fg];
+
+export function getStateExam(fieldId: string): StateExam | undefined {
+  return stateExams[fieldId];
+}
+
+export function getStateExamSubjects(fieldId: string) {
+  const exam = getStateExam(fieldId);
+  if (!exam) return undefined;
+  return buildStateExamLessons(exam);
+}
+
+export function getStateExamSubject(fieldId: string, subjectId: string) {
+  const subjects = getStateExamSubjects(fieldId);
+  const entry = subjects?.find((s) => s.subject.id === subjectId);
+  if (!entry) return undefined;
+  return entry;
+}
+
+export function getStateExamLesson(
+  fieldId: string,
+  subjectId: string,
+  lessonId: string,
+) {
+  const entry = getStateExamSubject(fieldId, subjectId);
+  const lesson = entry?.lessons.find((l) => l.id === lessonId);
+  const field = getField(fieldId);
+  const exam = getStateExam(fieldId);
+  if (!field || !exam || !entry || !lesson) return undefined;
+  return { field, exam, subject: entry.subject, lesson, lessons: entry.lessons };
+}
+
+export { countStateExamLessons };
 
 export function getField(id: string): Field | undefined {
   return fields.find((f) => f.id === id);

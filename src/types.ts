@@ -82,3 +82,51 @@ export interface Field {
   sourceUrl?: string;
   courses: Course[];
 }
+
+export interface StateExamComponent {
+  type: string;
+  name: string;
+  form: string;
+  role?: string;
+  details?: Record<string, string | number>;
+}
+
+export interface StateExamTopicSection {
+  title: string;
+  courses?: string[];
+  topics: string[];
+}
+
+export interface StateExamSubject {
+  id: string;
+  name: string;
+  role: string;
+  examPart?: string;
+  description?: string;
+  aliases?: string[];
+  relatedCourses?: string[];
+  topicsSource?: string;
+  topics?: string[];
+  topicSections?: StateExamTopicSection[];
+}
+
+export interface StateExamSelectionRules {
+  description: string;
+  mandatory: string[];
+  mandatoryElective?: {
+    chooseCount: number;
+    options: string[];
+  };
+  elective: string[];
+  prerequisites?: string[];
+  catalogNote?: string;
+}
+
+export interface StateExam {
+  type: string;
+  summary: string;
+  components: StateExamComponent[];
+  selectionRules: StateExamSelectionRules;
+  subjects: StateExamSubject[];
+  officialLinks: Resource[];
+}

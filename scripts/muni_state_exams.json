@@ -1,0 +1,478 @@
+{
+  "metadata": {
+    "scraped_at": "2026-07-13",
+    "note": "Obsah zkouškových okruhů je převzat výhradně z oficiálních dokumentů (PDF Geografického ústavu, katalog oborů IS MUNI, stránky ukončení studia). U magisterského oboru pozor na drobný rozdíl v pojmenování předmětů SZZ mezi katalogem oborů (is.muni.cz/obory/3899) a PDF okruhů (nová akreditace).",
+    "sources": {
+      "bachelor_program": "https://is.muni.cz/program/23633",
+      "bachelor_study_plan_fg": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+      "bachelor_obor_catalog": "https://is.muni.cz/obory/3892",
+      "bachelor_completion_page": "https://geogr.sci.muni.cz/studenti/ukonceni-studia/bakalarske-studium",
+      "bachelor_common_topics_pdf": "https://cdn.muni.cz/media/3491764/b-gek-spolecna_cast.pdf",
+      "bachelor_fg_topics_pdf": "https://cdn.muni.cz/media/3491759/b-gek-fyzg.pdf",
+      "master_program": "https://is.muni.cz/program/23698",
+      "master_study_plan": "https://is.muni.cz/plan/23699/fyzicka-geografie",
+      "master_obor_catalog": "https://is.muni.cz/obory/3899",
+      "master_completion_page": "https://geogr.sci.muni.cz/studenti/ukonceni-studia/magisterske-studium",
+      "master_fg_topics_pdf": "https://is.muni.cz/www/herber/szz-okruhy_nmgr/Okruhy_szz_N-FYG.pdf"
+    }
+  },
+  "programs": [
+    {
+      "id": "b-gek-fg",
+      "program_code": "23633",
+      "program_name": "Geografie a kartografie",
+      "program_short": "B-GEK",
+      "study_plan_code": "23634",
+      "study_plan_name": "Fyzická geografie",
+      "study_plan_short": "FYZG",
+      "level": "bakalářský",
+      "faculty": "Přírodovědecká fakulta MU",
+      "department": "Geografický ústav",
+      "state_exam_type": "státní závěrečná bakalářská zkouška (SZZ)",
+      "format": {
+        "components": [
+          {
+            "type": "obhajoba",
+            "name": "Obhajoba bakalářské práce",
+            "form": "ústní"
+          },
+          {
+            "type": "písemná",
+            "name": "Základy geografie a kartografie",
+            "form": "písemná",
+            "details": {
+              "question_count": 10,
+              "max_points": 60,
+              "points_per_question": 6,
+              "time_minutes": 100,
+              "structure": "společná část (Základy geografie a kartografie) + specializovaná část dle studijního plánu",
+              "note": "Specializovaná část písemky vychází ze stejných okruhů jako ústní část SZZ ze specializace."
+            }
+          },
+          {
+            "type": "ústní",
+            "name": "Fyzická geografie",
+            "form": "ústní"
+          }
+        ],
+        "summary": "SZZ se skládá z obhajoby bakalářské práce, písemné zkoušky z předmětu Základy geografie a kartografie (společná a specializovaná část) a ústní zkoušky z předmětu Fyzická geografie."
+      },
+      "subject_selection_rules": {
+        "description": "Pro specializaci Fyzická geografie jsou předměty SZZ pevně dané; student nevolí mezi alternativami v rámci FG směru.",
+        "mandatory": [
+          "Základy geografie a kartografie (písemná část SZZ)",
+          "Fyzická geografie (ústní část SZZ)"
+        ],
+        "mandatory_elective": [],
+        "elective": [],
+        "prerequisites": [
+          "Minimálně 180 kreditů v předepsané skladbě",
+          "Úspěšné absolvování bloku bakalářské práce",
+          "Odevzdání bakalářské práce"
+        ]
+      },
+      "state_exam_subjects": [
+        {
+          "id": "zaklady-geografie-kartografie",
+          "name": "Základy geografie a kartografie",
+          "role": "povinný",
+          "exam_part": "písemná",
+          "related_courses": [
+            "PřF:Z0135p Úvod do studia planety Země",
+            "PřF:Z0135c Úvod do studia planety Země - cvičení",
+            "PřF:Z0026p Fyzická geografie",
+            "PřF:Z0026c Fyzická geografie - cvičení",
+            "PřF:Z3090p Humánní geografie",
+            "PřF:Z3090c Humánní geografie - cvičení",
+            "PřF:Z2062p Geografická kartografie",
+            "PřF:Z2062c Geografická kartografie - cvičení",
+            "PřF:Z2012 Regionální geografie ČR"
+          ],
+          "topics_source": "https://cdn.muni.cz/media/3491764/b-gek-spolecna_cast.pdf",
+          "topic_sections": [
+            {
+              "title": "I. Úvod do studia planety Země",
+              "courses": [
+                "Z0135p",
+                "Z0135c"
+              ],
+              "topics": [
+                "Orientace na Zemi a ve vesmíru. Čas a kalendář.",
+                "Tvar, rozměry a hmotnost Země. Jejich geografické důsledky.",
+                "Pohyby Země a jejich geografické důsledky.",
+                "Geofyzikální pole Země – základní charakteristiky."
+              ]
+            },
+            {
+              "title": "II. Fyzická geografie",
+              "courses": [
+                "Z0026p",
+                "Z0026c"
+              ],
+              "topics": [
+                "Energetická bilance Země a teplota vzduchu.",
+                "Voda v atmosféře (vlhkost, srážky) a na kontinentech (povrchové a podpovrchové vody).",
+                "Větry, globální cirkulace atmosféry a systémy počasí.",
+                "Globální klimata (klimatické klasifikace).",
+                "Vnitřní geodynamické procesy: vnitřní stavba zemského tělesa, vznik a přeměny hornin, tektonické a vulkanické procesy",
+                "Vnější geodynamické procesy: přetváření zemského povrchu zvětráváním, svahovými, fluviálními, glaciálními, eolickými a pobřežními procesy",
+                "Procesy v kritické zóně: složení a vlastnosti půdy, faktory a procesy pedogeneze, struktura a fungování ekosystémů",
+                "Environmentální změny: vývoj a změny přírodního prostředí Země v čase",
+                "Interakce člověka a prostředí: antropogenní vliv na přírodní prostředí, vliv přírodních procesů na lidskou společnost (geohazardy)"
+              ]
+            },
+            {
+              "title": "III. Humánní geografie",
+              "courses": [
+                "Z3090p",
+                "Z3090c"
+              ],
+              "topics": [
+                "Vývoj, postavení a východiska humánní geografie.",
+                "Prostorové vzorce ekonomických procesů a vztahů, ekonomická globalizace.",
+                "Demografický vývoj a jeho složky, teoretická vysvětlení demografického vývoje.",
+                "Prostorová mobilita a doprava.",
+                "Geografie zemědělství.",
+                "Energetické zdroje a ropné krize.",
+                "Urbanizace a systémy osídlení.",
+                "Geografie města, vnitřní struktura a diferenciace městského prostoru.",
+                "Politická geografie a geopolitika."
+              ]
+            },
+            {
+              "title": "IV. Geografická kartografie a geoinformatika",
+              "courses": [
+                "Z2062p",
+                "Z2062c"
+              ],
+              "topics": [
+                "Kartografické vyjadřovací prostředky.",
+                "Kartografická generalizace.",
+                "Analogové a digitální zdroje prostorových dat.",
+                "Matematická kartografie.",
+                "Grafické způsoby pro znázornění kvalitativních a kvantitativních údajů do mapy.",
+                "Principy kartografické vizualizace v elektronickém prostředí.",
+                "Obsah a náplň tematických map.",
+                "Měřítka mapy, hodnotová měřítka, tvorba velikostních stupnic, jejich vnitřní forma a dělení.",
+                "Koncepce mapy - řešení účelu, názvu a návrhu obsahu mapy.",
+                "Základy geodézie a GPS."
+              ]
+            },
+            {
+              "title": "V. Regionální geografie ČR",
+              "courses": [
+                "Z2012"
+              ],
+              "topics": [
+                "Fyzickogeografické složky a procesy v kulturních krajinách ČR",
+                "Přírodní potenciál a komplexní fyzickogeografická charakteristika krajů ČR.",
+                "Životní prostředí ČR a ochrana přírody.",
+                "Česká populace - přirozený a mechanický pohyb, vývoj, stav, struktura, perspektiva",
+                "Vývoj a současná podoba ekonomiky ČR (zemědělství, průmysl, služby, doprava)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fyzicka-geografie",
+          "name": "Fyzická geografie",
+          "role": "povinný",
+          "exam_part": "ústní (+ specializovaná část písemné zkoušky)",
+          "description": "Specializovaná část písemné zkoušky a ústní zkouška ověřují pochopení základů fyzické geografie, vztahů, procesů a souvislostí ve fyzickogeografické sféře jako celku, stejně jako v jejich jednotlivých složkách.",
+          "topics_source": "https://cdn.muni.cz/media/3491759/b-gek-fyzg.pdf",
+          "topic_sections": [
+            {
+              "title": "Meteorologie a klimatologie",
+              "courses": [
+                "Z0076"
+              ],
+              "topics": [
+                "Atmosféra jako komponenta klimatického systému",
+                "Základní meteorologické prvky a jejich klimatologické charakteristiky",
+                "Všeobecná cirkulace atmosféry",
+                "Klima a základní klimatotvorné faktory",
+                "Klimatické modely a scénáře"
+              ]
+            },
+            {
+              "title": "Hydrologie",
+              "courses": [
+                "Z0059"
+              ],
+              "topics": [
+                "Měření a výpočet hodnot hydrologických prvků - vodní stav, rychlost proudění, průtok. Metody zpracování a hodnocení hydrologických dat",
+                "Hydrografie řek - hydrografické charakteristiky povodí, říční sítě a říčního koryta. Morfometrické a morfologické charakteristiky.",
+                "Podpovrchová voda - její vznik, druhy a doplňování podzemních vod. Prameny.",
+                "Limnologie - morfometrické charakteristiky jezer a nádrží, termická stratifikace. Umělé vodní nádrže.",
+                "Oceánografie - vlastnosti mořské vody, problematika jejího znečištění; pohyby mořské vody, mořské proudy. Členění světového oceánu."
+              ]
+            },
+            {
+              "title": "Geomorfologie",
+              "courses": [
+                "Z0051"
+              ],
+              "topics": [
+                "Tektonické procesy a tvary",
+                "Exogenní procesy a tvary",
+                "Interakce endogenních a exogenních procesů",
+                "Vývoj a změny reliéfu v čase, datování tvarů reliéfu",
+                "Metody geomorfologického výzkumu"
+              ]
+            },
+            {
+              "title": "Pedogeografie",
+              "courses": [
+                "Z0086"
+              ],
+              "topics": [
+                "Vznik minerálního podílu půdy, organická hmota půdy, půdní organismy",
+                "Fyzikální a chemické vlastnosti půdy",
+                "Půdotvorné procesy (CLORPT, speciální pedogenetické procesy)",
+                "Klasifikace půd (WRB, TKSP), rozšíření půd ve světě a v ČR",
+                "Degradace půdy (typy degradace, příčiny, důsledky)"
+              ]
+            },
+            {
+              "title": "Biogeografie",
+              "courses": [
+                "Z0005"
+              ],
+              "topics": [
+                "Ekologické a evoluční aspekty rozšíření druhů v prostoru a čase – typy areálů a jejich vnitřní struktura jako výsledek působení podmínek prostředí a evolučních procesů; vznik nových druhů; biogeografická pravidla; mapování rozšíření druhů",
+                "Geografické rozložení biodiverzity na Zemi a jeho příčiny – měření biodiverzity; vztah počtu druhů a velikosti plochy; latitudinální gradient biodiverzity; lokální druhová diverzita rostlin",
+                "Ostrovní biogeografie – Rovnovážná teorie ostrovní biogeografie; zvláštnosti ostrovní bioty",
+                "Invaze rostlin a živočichů – hlavní patrnosti biologických invazí ve světě a u nás; faktory ovlivňující invazivnost druhů a invazibilitu společenstev",
+                "Biogeografické regiony a jejich biota – biogeografické regionalizace světa, Evropy a České republiky; typické druhy, společenstva a jejich historický vývoj"
+              ]
+            },
+            {
+              "title": "Krajinná ekologie",
+              "courses": [
+                "Z4066"
+              ],
+              "topics": [
+                "Ekologická amplituda, fyziologické a ekologické optimum",
+                "Krajinná sféra Země, globální prostorová strukturace. Přírodní krajiny Země - zonobiomy, orobiomy, geobiomy. Struktura krajiny dle Formana a Godrona.",
+                "Krajinné (ekologické) fenomény, anemoorografické systémy",
+                "Primární, sekundární a terciální struktura krajiny, krajinné metriky",
+                "Historie krajiny na území dnešní ČR, zvláště od 1. stol. př. n. l."
+              ]
+            },
+            {
+              "title": "Metody FG výzkumu",
+              "courses": [
+                "Z2111"
+              ],
+              "topics": [
+                "Hlavní cíle fyzickogeografického výzkumu, objekt a předmět výzkumu a rozdělení metod. Fyzickogeografické komplexy a dimenze jako základní jednotky pro FG mapování. Prostorové a časové měřítko zkoumaného objektu či jevu. Stacionární, polostacionární a jednorázový výzkum.",
+                "Komplexní fyzickogeografické mapování. Vyhraničování a význam elementárních forem georeliéfu.",
+                "Kartografické postupy v geografického výzkumu. Metoda vedoucího faktoru.",
+                "Přístrojové měření a modely ve fyzické geografii.",
+                "Metody zpracování naměřených dat ve fyzické geografii a v její parciálních a příbuzných disciplínách (příklady z meteorologie, klimatologie, hydrologie, pedologie a pedogeografie)."
+              ]
+            }
+          ]
+        }
+      ],
+      "official_links": [
+        {
+          "title": "Ukončení bakalářského studia – Geografický ústav",
+          "url": "https://geogr.sci.muni.cz/studenti/ukonceni-studia/bakalarske-studium"
+        },
+        {
+          "title": "Katalog oborů – Geografie (B-GEK)",
+          "url": "https://is.muni.cz/obory/3892"
+        },
+        {
+          "title": "Studijní plán Fyzická geografie (bakalář)",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie"
+        },
+        {
+          "title": "Okruhy SZZ – společná část (PDF)",
+          "url": "https://cdn.muni.cz/media/3491764/b-gek-spolecna_cast.pdf"
+        },
+        {
+          "title": "Okruhy SZZ – Fyzická geografie (PDF)",
+          "url": "https://cdn.muni.cz/media/3491759/b-gek-fyzg.pdf"
+        }
+      ]
+    },
+    {
+      "id": "n-fyg",
+      "program_code": "23698",
+      "program_name": "Fyzická geografie",
+      "program_short": "N-FYG",
+      "study_plan_code": "23699",
+      "study_plan_name": "Fyzická geografie",
+      "study_plan_short": "FYZG",
+      "obor_catalog_id": "3899",
+      "level": "navazující magisterský",
+      "faculty": "Přírodovědecká fakulta MU",
+      "department": "Geografický ústav",
+      "state_exam_type": "státní magisterská zkouška (SMZ / SZZ)",
+      "format": {
+        "components": [
+          {
+            "type": "obhajoba",
+            "name": "Obhajoba diplomové práce",
+            "form": "ústní"
+          },
+          {
+            "type": "ústní",
+            "name": "Fyzická geografie",
+            "form": "ústní",
+            "role": "povinný předmět SZZ"
+          },
+          {
+            "type": "ústní",
+            "name": "Povinně volitelný předmět SZZ (volba 1 ze 3)",
+            "form": "ústní",
+            "role": "povinně volitelný"
+          }
+        ],
+        "summary": "Státní magisterská zkouška se skládá z obhajoby diplomové práce a ústní zkoušky ze dvou předmětů SZZ: povinného předmětu Fyzická geografie a jednoho povinně volitelného předmětu dle výběru studenta."
+      },
+      "subject_selection_rules": {
+        "description": "Student skládá ústní zkoušku z povinného předmětu a volí jeden povinně volitelný předmět v závislosti na tématu diplomové práce a absolvovaném specializovaném bloku studia.",
+        "mandatory": [
+          "Fyzická geografie"
+        ],
+        "mandatory_elective": {
+          "choose_count": 1,
+          "options": [
+            "Meteorologie, klimatologie a hydrologie",
+            "Geomorfologie a pedogeografie",
+            "Biogeografie, krajinná ekologie"
+          ]
+        },
+        "elective": [],
+        "prerequisites": [
+          "Minimálně 120 kreditů v předepsané skladbě",
+          "Odevzdání diplomové práce",
+          "Zkouška z pokročilé odborné angličtiny JA002 nebo jiného světového jazyka (JF002, JN002, JR002, JS002) před přihlášením ke SZZ"
+        ],
+        "catalog_note": "Katalog oborů (is.muni.cz/obory/3899) uvádí tři předměty SZZ s názvy Obecná fyzická geografie (povinný), Regionální fyzická geografie / Krajinná ekologie (povinně volitelné) a Geomorfologie, biogeografie a pedogeografie / Meteorologie, klimatologie a hydrologie (volitelné). Aktuální PDF okruhů a stránka GÚ pro novou akreditaci používají pojmenování a strukturu uvedenou v tomto souboru."
+      },
+      "state_exam_subjects": [
+        {
+          "id": "fyzicka-geografie",
+          "name": "Fyzická geografie",
+          "role": "povinný",
+          "exam_part": "ústní",
+          "aliases": [
+            "Obecná fyzická geografie (katalog oborů)"
+          ],
+          "topics_source": "https://is.muni.cz/www/herber/szz-okruhy_nmgr/Okruhy_szz_N-FYG.pdf",
+          "topics": [
+            "Atmosférické procesy, regionální klimatologie",
+            "Hydrologické procesy, hydrologická bilance, jejich hodnocení a zpracování hydrologických dat",
+            "Dynamická geomorfologie, tektonická geomorfologie",
+            "Půdotvorné faktory a procesy, fyzikální a chemické vlastnosti půd, půdní klasifikace",
+            "Obecné zákonitosti distribuce organizmů a jejich společenstev na Zemi",
+            "Nauka o krajině",
+            "Hodnocení krajiny",
+            "Změny a kolísání podnebí",
+            "Vývoj a změny souše a oceánu v kvartéru, rekonstrukce kvartérních prostředí",
+            "Přírodní hazardy a rizika, přírodní katastrofy, dynamické procesy v krajině ohrožující lidskou společnost",
+            "Antropogenní vlivy na složky přírodního prostředí",
+            "Aplikace fyzické geografie v praxi",
+            "Zákonitosti prostorové diferenciace fyzickogeografické sféry, fyzickogeografické regionalizace (globální, národní), individuální a typologické regionální jednotky ve fyzické geografii",
+            "Metody a techniky fyzickogeografického výzkumu, základní přístupy a jejich aplikace při výzkumu složek fyzickogeografické sféry",
+            "Využití geoinformatiky a dálkového průzkumu Země ve fyzické geografii"
+          ]
+        },
+        {
+          "id": "meteorologie-klimatologie-hydrologie",
+          "name": "Meteorologie, klimatologie a hydrologie",
+          "role": "povinně volitelný",
+          "exam_part": "ústní",
+          "topics_source": "https://is.muni.cz/www/herber/szz-okruhy_nmgr/Okruhy_szz_N-FYG.pdf",
+          "topics": [
+            "Přístrojová technika a metody měření v meteorologii",
+            "Statistické metody v klimatologii, vícerozměrné metody analýzy",
+            "Mezní vrstva atmosféry, cirkulačním systémy a procesy, ovlivňující faktory",
+            "Klima měst a specifika jejich teplotních poměrů",
+            "Bioklima rostlin a živočichů jako výsledek interakce mezi živými organismy a atmosférou, humánní bioklima",
+            "Znečištění ovzduší a jeho ochrana",
+            "Mikroklima – interakce s aktivním povrchem, experimentální metody a přístroje",
+            "Kolísání a změny klimatu v období přístrojových pozorování, homogenizace časových řad a jejich analýza",
+            "Kolísání a změny klimatu v minulosti, historická klimatologie, paleoklimatologie, rekonstrukce klimatu",
+            "Současná změna klimatu a budoucí klima, klimatické scénáře, projekce klimatu, zprávy IPCC, možné dopady",
+            "Studium extrémních meteorologických, klimatických a hydrologických jevů",
+            "Hydrometrie – měřicí přístroje, metody hydrometrických měření a zpracování dat",
+            "Metody analýzy hydrologických údajů",
+            "Vodní díla a jejich vliv na životní prostředí, transformace povodňové vlny při přechodu nádrží, numerická metoda pro posouzení efektivity suché nádrže",
+            "Modely v hydrologii – typologie modelů a jejich rozdělení, srážko-odtokové modely, HEC-HMS",
+            "Plány dílčích povodí v ČR",
+            "Stanovení záplavového území, protipovodňová ochrana"
+          ]
+        },
+        {
+          "id": "geomorfologie-pedogeografie",
+          "name": "Geomorfologie a pedogeografie",
+          "role": "povinně volitelný",
+          "exam_part": "ústní",
+          "topics_source": "https://is.muni.cz/www/herber/szz-okruhy_nmgr/Okruhy_szz_N-FYG.pdf",
+          "topics": [
+            "Globální tektonika a vývoj reliéfu pevnin a oceánů",
+            "Strukturní (tektonická) geomorfologie",
+            "Zvětrávání a svahové procesy",
+            "Fluviální procesy a tvary",
+            "Ledovcová a periglaciální geomorfologie",
+            "Geologické a geomorfologické procesy v kvartéru",
+            "Interakce endogenních a exogenních procesů, dlouhodobé změny reliéfu",
+            "Antropogenní geomorfologie",
+            "Metody a techniky geomorfologického výzkumu",
+            "Půda jako složka ekosystémů – působení, vazby, funkce",
+            "Fyzikální vlastnosti půdy",
+            "Organická hmota v půdě",
+            "Degradace půdy a její vliv na ekosystém"
+          ]
+        },
+        {
+          "id": "biogeografie-krajinná-ekologie",
+          "name": "Biogeografie, krajinná ekologie",
+          "role": "povinně volitelný",
+          "exam_part": "ústní",
+          "aliases": [
+            "Krajinná ekologie (katalog oborů)"
+          ],
+          "topics_source": "https://is.muni.cz/www/herber/szz-okruhy_nmgr/Okruhy_szz_N-FYG.pdf",
+          "topics": [
+            "Faktory a mechanismy ovlivňující distribuci organismů a jejich společenstev na Zemi",
+            "Změny biodiverzity v prostoru a čase",
+            "Příčiny a důsledky biologických invazí",
+            "Kvartérní vývoj evropské bioty",
+            "Biogeografické regionalizace, individuální a typologické regionální jednotky, globální biogeografické regiony a jejich historie",
+            "Prostorové uspořádání a časová dynamika sladkovodních ekosystémů",
+            "Ekologické vztahy v říčních koridorech",
+            "Nauka o krajině, historie a struktura kulturních krajin",
+            "Metody biogeografického a krajině-ekologického výzkumu",
+            "Aplikovaná biogeografie a krajinná ekologie - v ochraně přírody, systémy ekologické stability krajiny",
+            "Zásadní změny v české krajině od počátku holocénu do poloviny 17. stol.",
+            "Proměny české krajiny od poloviny 17. stol. do současnosti s ohledem na antropogenní vlivy"
+          ]
+        }
+      ],
+      "official_links": [
+        {
+          "title": "Ukončení magisterského studia – Geografický ústav",
+          "url": "https://geogr.sci.muni.cz/studenti/ukonceni-studia/magisterske-studium"
+        },
+        {
+          "title": "Katalog oborů – Fyzická geografie (navazující)",
+          "url": "https://is.muni.cz/obory/3899"
+        },
+        {
+          "title": "Studijní plán Fyzická geografie (magistr)",
+          "url": "https://is.muni.cz/plan/23699/fyzicka-geografie"
+        },
+        {
+          "title": "Okruhy SZZ – Fyzická geografie navazující (PDF)",
+          "url": "https://is.muni.cz/www/herber/szz-okruhy_nmgr/Okruhy_szz_N-FYG.pdf"
+        }
+      ]
+    }
+  ]
+}
