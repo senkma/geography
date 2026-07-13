@@ -31,8 +31,8 @@ export function QuizView({ quiz }: { quiz: Quiz }) {
   return (
     <div className="card p-5 sm:p-6">
       <div className="flex items-center gap-2.5 mb-5">
-        <span className="grid place-items-center w-9 h-9 rounded-xl bg-gradient-to-br from-sky-200 to-emerald-200 border border-black/5">
-          <Icon name="quiz" className="w-5 h-5 text-sky-700" />
+        <span className="grid place-items-center w-9 h-9 rounded-md bg-[var(--surface-muted)] border-2 border-[var(--border)]">
+          <Icon name="quiz" className="w-5 h-5 text-[var(--accent-2)]" />
         </span>
         <div>
           <h3 className="font-semibold leading-tight">{quiz.title}</h3>

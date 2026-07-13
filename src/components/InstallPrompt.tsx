@@ -23,9 +23,9 @@ export function InstallPrompt() {
 
   return (
     <div className="fixed bottom-4 inset-x-4 sm:inset-x-auto sm:right-6 sm:bottom-6 z-50 animate-in">
-      <div className="glass rounded-2xl p-4 flex items-center gap-3 shadow-2xl max-w-sm mx-auto">
-        <span className="grid place-items-center w-10 h-10 rounded-xl bg-gradient-to-br from-emerald-200 to-sky-200 border border-black/5 shrink-0">
-          <Icon name="install" className="w-5 h-5 text-emerald-700" />
+      <div className="card rounded-md p-4 flex items-center gap-3 max-w-sm mx-auto border-2">
+        <span className="grid place-items-center w-10 h-10 rounded-md bg-[var(--surface-muted)] border-2 border-[var(--border)] shrink-0">
+          <Icon name="install" className="w-5 h-5 text-[var(--accent)]" />
         </span>
         <div className="min-w-0 flex-1">
           <p className="font-medium text-sm leading-tight">Nainstalovat aplikaci</p>

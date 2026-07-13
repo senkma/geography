@@ -24,7 +24,7 @@ export function FieldPage() {
         <Icon name="back" className="w-4 h-4" /> Obory
       </Link>
 
-      <header className="animate-in mb-10">
+      <header className="animate-in mb-8 pb-6 border-b-2 border-[var(--border)]">
         <div className="flex items-center gap-4">
           <span
             className="grid place-items-center w-14 h-14 rounded-2xl border border-black/5 shrink-0"
@@ -34,7 +34,7 @@ export function FieldPage() {
           </span>
           <div>
             <span className="chip mb-1">{field.level}</span>
-            <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight">
+            <h1 className="text-2xl sm:text-3xl font-bold tracking-tight text-[var(--text)]">
               {field.title}
             </h1>
           </div>
@@ -57,13 +57,13 @@ export function FieldPage() {
       {stateExam && (
         <Link
           to={`/obor/${field.id}/studijni-zkouska`}
-          className="card p-5 sm:p-6 mb-10 flex items-center gap-4 group animate-in border-emerald-500/25 bg-gradient-to-br from-emerald-50/80 to-sky-50/50"
+          className="card p-5 sm:p-6 mb-8 flex items-center gap-4 group animate-in border-[var(--accent)] bg-[var(--surface-muted)]"
         >
-          <span className="grid place-items-center w-12 h-12 rounded-2xl bg-gradient-to-br from-emerald-200 to-sky-200 border border-black/5 shrink-0">
-            <Icon name="target" className="w-6 h-6 text-emerald-800" />
+          <span className="grid place-items-center w-12 h-12 rounded-md bg-[var(--surface)] border-2 border-[var(--border)] shrink-0">
+            <Icon name="target" className="w-6 h-6 text-[var(--accent)]" />
           </span>
           <div className="min-w-0 flex-1">
-            <p className="text-xs font-semibold uppercase tracking-widest text-emerald-700 mb-0.5">
+            <p className="text-xs font-bold uppercase tracking-wide text-[var(--accent)] mb-0.5">
               Státní závěrečná zkouška
             </p>
             <h2 className="text-lg font-semibold tracking-tight">{stateExam.type}</h2>
@@ -122,14 +122,10 @@ export function FieldPage() {
 function SectionDivider({ label, isFirst }: { label: string; isFirst: boolean }) {
   return (
     <div
-      className={`flex items-center gap-4 ${isFirst ? "mb-5" : "my-8 pt-2"}`}
+      className={`${isFirst ? "mb-4" : "mt-8 mb-4 pt-2 border-t-2 border-[var(--border)]"}`}
       role="separator"
     >
-      <div className="flex-1 h-px bg-gradient-to-r from-transparent via-[var(--border)] to-[var(--border)]" />
-      <span className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] px-1 shrink-0">
-        {label}
-      </span>
-      <div className="flex-1 h-px bg-gradient-to-l from-transparent via-[var(--border)] to-[var(--border)]" />
+      <h2 className="text-base font-bold text-[var(--text)]">{label}</h2>
     </div>
   );
 }
@@ -150,12 +146,12 @@ function CourseCard({
       style={{ animationDelay: `${index * 40}ms` }}
     >
       <div className="flex items-start justify-between gap-3">
-        <h3 className="text-lg font-semibold tracking-tight leading-snug">
+        <h3 className="text-lg font-bold tracking-tight leading-snug text-[var(--text)]">
           {c.title}
         </h3>
         {c.code && <span className="chip shrink-0">{c.code}</span>}
       </div>
-      <p className="text-sm text-[var(--text-dim)] mt-2 leading-relaxed line-clamp-3 flex-1">
+      <p className="text-sm text-[var(--text-dim)] mt-2 leading-relaxed flex-1">
         {c.description}
       </p>
       <div className="mt-4 flex flex-wrap gap-2 text-xs">

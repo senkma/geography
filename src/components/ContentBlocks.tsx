@@ -10,7 +10,7 @@ export function ContentBlocks({ blocks }: { blocks: ContentBlock[] }) {
             return (
               <h3
                 key={i}
-                className="text-lg font-semibold mt-8 mb-3 tracking-tight"
+                className="text-lg font-bold mt-8 mb-3 tracking-tight text-[var(--text)]"
               >
                 {b.text}
               </h3>
@@ -21,7 +21,7 @@ export function ContentBlocks({ blocks }: { blocks: ContentBlock[] }) {
             return (
               <blockquote
                 key={i}
-                className="border-l-2 border-emerald-400/60 pl-4 my-4 italic text-[var(--text-dim)]"
+                className="border-l-4 border-[var(--accent)] pl-4 my-4 text-[var(--text-dim)] bg-[var(--surface-muted)] py-2 pr-3 rounded-r-md"
               >
                 {b.text}
               </blockquote>
@@ -30,14 +30,14 @@ export function ContentBlocks({ blocks }: { blocks: ContentBlock[] }) {
             return (
               <div key={i} className="my-4">
                 {b.label && (
-                  <p className="text-sm font-semibold text-[var(--text-dim)] uppercase tracking-wider mb-2">
+                  <p className="text-sm font-bold text-[var(--text)] mb-2">
                     {b.label}
                   </p>
                 )}
-                <ul className="space-y-2">
+                <ul className="space-y-2 list-none pl-0">
                   {b.items?.map((it, j) => (
                     <li key={j} className="flex gap-3">
-                      <span className="mt-2 w-1.5 h-1.5 rounded-full bg-emerald-500 shrink-0" />
+                      <span className="mt-2.5 w-2 h-2 rounded-sm bg-[var(--accent)] shrink-0" />
                       <span>{it}</span>
                     </li>
                   ))}
@@ -48,11 +48,11 @@ export function ContentBlocks({ blocks }: { blocks: ContentBlock[] }) {
             return (
               <div
                 key={i}
-                className="my-5 rounded-2xl border border-emerald-500/25 bg-gradient-to-br from-emerald-200/50 to-sky-100/30 p-4 sm:p-5"
+                className="my-5 rounded-md border-2 border-[var(--accent)] bg-[var(--surface-muted)] p-4 sm:p-5"
               >
                 <div className="flex items-center gap-2 mb-1.5">
-                  <Icon name="spark" className="w-4 h-4 text-emerald-600" />
-                  <span className="text-xs font-semibold uppercase tracking-wider text-emerald-700">
+                  <Icon name="spark" className="w-4 h-4 text-[var(--accent)]" />
+                  <span className="text-xs font-bold uppercase tracking-wide text-[var(--accent)]">
                     {b.label ?? "Poznámka"}
                   </span>
                 </div>
@@ -63,19 +63,19 @@ export function ContentBlocks({ blocks }: { blocks: ContentBlock[] }) {
             return (
               <div key={i} className="my-5">
                 {b.label && (
-                  <p className="text-sm font-semibold text-[var(--text-dim)] uppercase tracking-wider mb-2">
+                  <p className="text-sm font-bold text-[var(--text)] mb-2">
                     {b.label}
                   </p>
                 )}
-                <div className="overflow-x-auto rounded-xl border border-[var(--border)]">
+                <div className="overflow-x-auto rounded-md border-2 border-[var(--border)]">
                   <table className="w-full text-sm border-collapse">
                     {b.head && (
                       <thead>
-                        <tr className="bg-emerald-100/60">
+                        <tr className="bg-[var(--surface-muted)]">
                           {b.head.map((h, j) => (
                             <th
                               key={j}
-                              className="text-left font-semibold px-4 py-2.5 border-b border-[var(--border)]"
+                              className="text-left font-bold px-4 py-2.5 border-b-2 border-[var(--border)]"
                             >
                               {h}
                             </th>
@@ -85,7 +85,7 @@ export function ContentBlocks({ blocks }: { blocks: ContentBlock[] }) {
                     )}
                     <tbody>
                       {b.rows?.map((row, ri) => (
-                        <tr key={ri} className="odd:bg-black/[0.02]">
+                        <tr key={ri} className="odd:bg-[var(--surface-muted)]">
                           {row.map((cell, ci) => (
                             <td
                               key={ci}

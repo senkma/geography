@@ -12,20 +12,20 @@ export function Layout({ children }: { children: React.ReactNode }) {
   return (
     <div className="min-h-full flex flex-col">
       <header className="sticky top-0 z-40">
-        <div className="glass border-b border-[var(--border)]">
-          <div className="container-page flex items-center justify-between h-16">
+        <div className="glass">
+          <div className="container-page flex items-center justify-between h-14">
             <Link to="/" className="flex items-center gap-2.5 group">
-              <span className="grid place-items-center w-9 h-9 rounded-xl bg-gradient-to-br from-emerald-200 to-sky-200 border border-black/5">
-                <Icon name="compass" className="w-5 h-5 text-emerald-700" />
+              <span className="grid place-items-center w-9 h-9 rounded-md bg-[var(--surface-muted)] border-2 border-[var(--border)]">
+                <Icon name="compass" className="w-5 h-5 text-[var(--accent)]" />
               </span>
-              <span className="font-semibold tracking-tight text-[15px]">
+              <span className="font-bold tracking-tight text-[15px] text-[var(--text)]">
                 Geo<span className="gold-text">Studium</span>
               </span>
             </Link>
-            <nav className="flex items-center gap-1 text-sm text-[var(--text-dim)]">
+            <nav className="flex items-center gap-1 text-sm font-medium text-[var(--text-dim)]">
               <Link
                 to="/"
-                className="px-3 py-1.5 rounded-lg hover:text-[var(--text)] hover:bg-black/[0.04] transition"
+                className="px-3 py-1.5 rounded-md hover:text-[var(--text)] hover:bg-[var(--surface-muted)] border border-transparent hover:border-[var(--border)] transition"
               >
                 Obory
               </Link>
@@ -33,7 +33,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
                 href="https://www.muni.cz"
                 target="_blank"
                 rel="noreferrer"
-                className="px-3 py-1.5 rounded-lg hover:text-[var(--text)] hover:bg-black/[0.04] transition hidden sm:block"
+                className="px-3 py-1.5 rounded-md hover:text-[var(--text)] hover:bg-[var(--surface-muted)] border border-transparent hover:border-[var(--border)] transition hidden sm:block"
               >
                 MUNI
               </a>
@@ -44,13 +44,13 @@ export function Layout({ children }: { children: React.ReactNode }) {
 
       <main className="flex-1 pb-20">{children}</main>
 
-      <footer className="border-t border-[var(--border)] mt-auto">
-        <div className="container-page py-8 text-sm text-[var(--text-dim)] flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
-          <p>
+      <footer className="border-t-2 border-[var(--border)] mt-auto bg-[var(--surface)]">
+        <div className="container-page py-6 text-sm text-[var(--text-dim)] flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
+          <p className="leading-relaxed">
             GeoStudium — studijní portál. Obsah čerpá z veřejných zdrojů,
             materiály lze průběžně doplňovat.
           </p>
-          <p className="text-xs opacity-70">
+          <p className="text-xs font-medium text-[var(--text-dim)]">
             Funguje offline · instalovatelné jako aplikace
           </p>
         </div>

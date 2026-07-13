@@ -1,7 +1,6 @@
 import { readFileSync, writeFileSync } from "node:fs";
-import { fileURLToPath } from "node:url";
+import { buildLessonsFromSyllabus } from "./build-syllabus-lessons.mjs";
 
-const root = new URL("..", import.meta.url);
 const data = JSON.parse(
   readFileSync(new URL("./muni_courses_research.json", import.meta.url), "utf8"),
 );
@@ -49,6 +48,8 @@ function formatCourse(c, index) {
     });
   }
 
+  const lessons = buildLessonsFromSyllabus(c, id);
+
   const lines = [
     `    {`,
     `      id: ${tsString(id)},`,
@@ -61,25 +62,34 @@ function formatCourse(c, index) {
   if (c.completion) lines.push(`      completion: ${tsString(c.completion)},`);
   lines.push(`      tags: ${JSON.stringify([tag])},`);
   if (c.anotace) lines.push(`      description: ${tsString(c.anotace)},`);
-  lines.push(`      syllabus: ${JSON.stringify(c.syllabus ?? [], null, 2).replace(/\n/g, "\n      ")},`);
-  lines.push(`      lessons: [],`);
-  lines.push(`      resources: ${JSON.stringify(resources, null, 2).replace(/\n/g, "\n      ")},`);
+  lines.push(
+    `      syllabus: ${JSON.stringify(c.syllabus ?? [], null, 2).replace(/\n/g, "\n      ")},`,
+  );
+  lines.push(
+    `      lessons: ${JSON.stringify(lessons, null, 2).replace(/\n/g, "\n      ")},`,
+  );
+  lines.push(
+    `      resources: ${JSON.stringify(resources, null, 2).replace(/\n/g, "\n      ")},`,
+  );
   lines.push(`    }`);
-  return lines.join("\n");
+  return { text: lines.join("\n"), lessonCount: lessons.length };
 }
 
-function writeFieldFile(filename, fieldExport, fieldBody) {
+function writeFieldFile(filename, courses, fieldBody) {
   const path = new URL(`../src/data/${filename}`, import.meta.url);
   writeFileSync(path, fieldBody, "utf8");
-  console.log(`wrote ${path.pathname} (${fieldExport.courses.length} courses)`);
+  const lessons = courses.reduce((s, c) => s + c.lessonCount, 0);
+  console.log(
+    `wrote ${filename} — ${courses.length} předmětů, ${lessons} lekcí`,
+  );
 }
 
-const bachelorCourses = data.bachelor.map(formatCourse).join(",\n");
-const masterCourses = data.master.map(formatCourse).join(",\n");
+const bachelor = data.bachelor.map((c, i) => formatCourse(c, i));
+const master = data.master.map((c, i) => formatCourse(c, i));
 
 const gkTs = `import type { Field } from "../types";
 
-/** Data z IS MUNI — studijní plán 23634 (FG specializace v rámci B-GEK). */
+/** Data z IS MUNI — studijní plán 23634 (FG specializace v rámci B-GEK). Lekce generovány z osnov. */
 export const gk: Field = {
   id: "geografie-kartografie",
   title: "Geografie a kartografie",
@@ -92,14 +102,14 @@ export const gk: Field = {
   sourceUrl:
     "https://is.muni.cz/plan/23634/fyzicka-geografie",
   courses: [
-${bachelorCourses}
+${bachelor.map((c) => c.text).join(",\n")}
   ],
 };
 `;
 
 const fgTs = `import type { Field } from "../types";
 
-/** Data z IS MUNI — studijní plán 23699 (navazující magisterské FG). */
+/** Data z IS MUNI — studijní plán 23699 (navazující magisterské FG). Lekce generovány z osnov. */
 export const fg: Field = {
   id: "fyzicka-geografie",
   title: "Fyzická geografie",
@@ -112,10 +122,10 @@ export const fg: Field = {
   sourceUrl:
     "https://is.muni.cz/plan/23699/fyzicka-geografie",
   courses: [
-${masterCourses}
+${master.map((c) => c.text).join(",\n")}
   ],
 };
 `;
 
-writeFieldFile("gk.ts", { courses: data.bachelor }, gkTs);
-writeFieldFile("fg.ts", { courses: data.master }, fgTs);
+writeFieldFile("gk.ts", bachelor, gkTs);
+writeFieldFile("fg.ts", master, fgTs);
