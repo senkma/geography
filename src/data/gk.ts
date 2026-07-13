@@ -1,0 +1,350 @@
+import type { Field } from "../types";
+
+export const gk: Field = {
+  id: "geografie-kartografie",
+  title: "Geografie a kartografie",
+  subtitle: "Bakalářský program (PřF MUNI)",
+  level: "Bakalářské",
+  accent: "#86c7a8",
+  icon: "compass",
+  description:
+    "Bakalářský program Přírodovědecké fakulty MU. Poskytuje základ z fyzické i sociální geografie, kartografie a geoinformatiky. Student se profiluje výběrem jedné z pěti specializací (fyzická geografie, sociální geografie, geografická kartografie a geoinformatika, geoinformatika a trvalá udržitelnost, geoinformatika a regionální rozvoj).",
+  sourceUrl:
+    "https://www.muni.cz/bakalarske-a-magisterske-obory/23633-geografie-a-kartografie",
+  courses: [
+    {
+      id: "uvod-planeta-zeme",
+      code: "Z0135",
+      title: "Úvod do studia planety Země",
+      garant: "D. Nývlt",
+      credits: 6,
+      semester: "1.",
+      completion: "zk",
+      tags: ["fyzická geografie", "základ"],
+      description:
+        "Vstupní předmět, který propojuje sféry Země (litosféra, atmosféra, hydrosféra, kryosféra, biosféra) do systému a ukazuje toky energie a hmoty mezi nimi.",
+      syllabus: [
+        "Země jako systém: sféry a jejich interakce",
+        "Postavení Země ve sluneční soustavě, tvar a rozměry",
+        "Pohyby Země, roční období, časové pásmo",
+        "Stavba Země a desková tektonika (úvod)",
+        "Bilance energie a globální oběh vody",
+        "Souřadnicové systémy a orientace na Zemi",
+      ],
+      lessons: [
+        {
+          id: "zeme-jako-system",
+          title: "Země jako systém sfér",
+          summary: "Litosféra, atmosféra, hydrosféra, kryosféra a biosféra a jejich vzájemné vazby.",
+          minutes: 20,
+          resources: [
+            { kind: "presentation", title: "Přednáška 1 — Systém Země", note: "Materiál doplníme." },
+            {
+              kind: "link",
+              title: "NASA Earth System",
+              url: "https://science.nasa.gov/earth/",
+              source: "NASA",
+            },
+          ],
+        },
+        {
+          id: "pohyby-zeme",
+          title: "Pohyby Země a roční období",
+          summary: "Rotace, oběh kolem Slunce, sklon osy, slunovraty a rovnodennosti.",
+          minutes: 20,
+          resources: [
+            { kind: "presentation", title: "Přednáška 2 — Pohyby Země", note: "Materiál doplníme." },
+          ],
+        },
+        {
+          id: "souradnice",
+          title: "Souřadnicové systémy",
+          summary: "Zeměpisná šířka a délka, geografická síť, orientace.",
+          minutes: 15,
+          resources: [{ kind: "document", title: "Studijní text — souřadnice", note: "Materiál doplníme." }],
+        },
+      ],
+    },
+    {
+      id: "fyzicka-geografie",
+      title: "Fyzická geografie",
+      garant: "Geografický ústav PřF",
+      credits: 6,
+      semester: "1.–2.",
+      completion: "zk",
+      tags: ["fyzická geografie", "základ"],
+      description:
+        "Systematický přehled fyzicko-geografických sfér a procesů utvářejících krajinnou sféru Země.",
+      syllabus: [
+        "Předmět a členění fyzické geografie",
+        "Litosféra a georeliéf",
+        "Atmosféra a klima",
+        "Hydrosféra",
+        "Pedosféra",
+        "Biosféra a krajinná sféra",
+        "Fyzickogeografické regiony světa",
+      ],
+      lessons: [
+        {
+          id: "clenění-fg",
+          title: "Předmět a členění fyzické geografie",
+          summary: "Definice, dílčí disciplíny a vztah k dalším vědám.",
+          minutes: 15,
+          resources: [{ kind: "presentation", title: "Přednáška — úvod do FG", note: "Materiál doplníme." }],
+        },
+        {
+          id: "krajinna-sfera",
+          title: "Krajinná sféra a interakce",
+          summary: "Vzájemné působení sfér, geografické zóny a pásmovitost.",
+          minutes: 20,
+          resources: [{ kind: "document", title: "Studijní text — krajinná sféra", note: "Materiál doplníme." }],
+        },
+      ],
+    },
+    {
+      id: "geomorfologie",
+      code: "Z0051",
+      title: "Geomorfologie",
+      credits: 6,
+      semester: "2.",
+      completion: "zk",
+      tags: ["fyzická geografie", "reliéf"],
+      description:
+        "Nauka o tvarech zemského povrchu, procesech jejich vzniku a vývoje. Endogenní a exogenní činitelé.",
+      syllabus: [
+        "Endogenní procesy: tektonika, vulkanismus",
+        "Zvětrávání a svahové pochody",
+        "Fluviální geomorfologie",
+        "Glaciální a periglaciální geomorfologie",
+        "Eolická, krasová a pobřežní geomorfologie",
+        "Geomorfologické mapování",
+      ],
+      lessons: [
+        {
+          id: "endogenni",
+          title: "Endogenní procesy",
+          summary: "Vnitřní síly Země formující reliéf: tektonika a vulkanismus.",
+          minutes: 20,
+          resources: [{ kind: "presentation", title: "Přednáška — endogenní procesy", note: "Materiál doplníme." }],
+        },
+        {
+          id: "glacialni-geomorf",
+          title: "Glaciální geomorfologie",
+          summary: "Modelace reliéfu ledovci — trog, kar, moréna, exarace a akumulace.",
+          minutes: 20,
+          resources: [{ kind: "document", title: "Studijní text — ledovcové tvary", note: "Materiál doplníme." }],
+        },
+      ],
+      resources: [{ kind: "presentation", title: "Kompletní přednášky (soubor)", note: "Materiál doplníme." }],
+    },
+    {
+      id: "meteorologie-klimatologie",
+      code: "Z0076",
+      title: "Meteorologie a klimatologie",
+      garant: "J. Řehoř",
+      credits: 6,
+      semester: "3.",
+      completion: "zk",
+      tags: ["klimatologie", "atmosféra"],
+      description:
+        "Fyzikální základy atmosféry, počasí a klimatu. Radiační bilance, cirkulace, klimatická klasifikace.",
+      syllabus: [
+        "Složení a stavba atmosféry",
+        "Radiační a energetická bilance",
+        "Teplota, tlak a vítr",
+        "Voda v atmosféře, oblaka a srážky",
+        "Všeobecná cirkulace atmosféry",
+        "Klimatické klasifikace (Köppen)",
+        "Změny a kolísání klimatu",
+      ],
+      lessons: [
+        {
+          id: "stavba-atmosfery",
+          title: "Složení a vertikální stavba atmosféry",
+          summary: "Troposféra, stratosféra a vyšší vrstvy; plyny a aerosoly.",
+          minutes: 20,
+          blocks: [
+            {
+              type: "list",
+              label: "Vrstvy atmosféry",
+              items: [
+                "Troposféra (0–~11 km): zde se odehrává většina počasí, teplota s výškou klesá.",
+                "Stratosféra (~11–50 km): obsahuje ozonovou vrstvu, teplota s výškou roste.",
+                "Mezosféra, termosféra, exosféra.",
+              ],
+            },
+          ],
+          resources: [{ kind: "presentation", title: "Přednáška — stavba atmosféry", note: "Materiál doplníme." }],
+        },
+        {
+          id: "cirkulace",
+          title: "Všeobecná cirkulace atmosféry",
+          summary: "Hadleyova, Ferrelova a polární buňka; pasáty a tryskové proudění.",
+          minutes: 25,
+          resources: [{ kind: "document", title: "Studijní text — cirkulace", note: "Materiál doplníme." }],
+          quiz: {
+            title: "Kontrolní kvíz — cirkulace atmosféry",
+            questions: [
+              {
+                question: "Která cirkulační buňka leží nejblíže rovníku?",
+                options: [
+                  { text: "Hadleyova buňka", correct: true },
+                  { text: "Ferrelova buňka", correct: false },
+                  { text: "Polární buňka", correct: false },
+                ],
+                explanation:
+                  "Hadleyova buňka sahá zhruba do 30° šířky a je poháněna intenzivním ohřevem u rovníku.",
+              },
+              {
+                question: "Co jsou pasáty?",
+                options: [
+                  { text: "Stálé větry vanoucí od subtropů k rovníku", correct: true },
+                  { text: "Náhlé bouřkové poryvy", correct: false },
+                  { text: "Vertikální výstupné proudy nad rovníkem", correct: false },
+                ],
+              },
+            ],
+          },
+        },
+        {
+          id: "koppen",
+          title: "Klimatická klasifikace podle Köppena",
+          summary: "Hlavní klimatické typy A–E a jejich charakteristika.",
+          minutes: 20,
+          resources: [{ kind: "map", title: "Mapa klimatických pásem", note: "Materiál doplníme." }],
+        },
+      ],
+    },
+    {
+      id: "hydrologie",
+      code: "Z0059",
+      title: "Hydrologie",
+      garant: "M. Šulc Michalková",
+      credits: 6,
+      semester: "3.",
+      completion: "zk",
+      tags: ["hydrosféra", "fyzická geografie"],
+      description:
+        "Oběh vody v přírodě, vodní toky, jezera, podzemní voda a hydrologická bilance povodí.",
+      syllabus: [
+        "Hydrologický cyklus a bilance",
+        "Srážky, výpar, odtok",
+        "Vodní toky a povodí",
+        "Jezera a nádrže",
+        "Podzemní voda",
+        "Kryosféra a ledovce (úvod)",
+      ],
+      lessons: [
+        {
+          id: "hydrocyklus",
+          title: "Hydrologický cyklus",
+          summary: "Vypařování, kondenzace, srážky, infiltrace a odtok.",
+          minutes: 15,
+          resources: [{ kind: "presentation", title: "Přednáška — oběh vody", note: "Materiál doplníme." }],
+        },
+        {
+          id: "povodi",
+          title: "Povodí a odtok",
+          summary: "Rozvodnice, odtokové režimy, hydrogram.",
+          minutes: 20,
+          resources: [{ kind: "document", title: "Studijní text — povodí", note: "Materiál doplníme." }],
+        },
+      ],
+    },
+    {
+      id: "geograficka-kartografie",
+      code: "Z2062",
+      title: "Geografická kartografie",
+      garant: "P. Kubíček",
+      credits: 5,
+      semester: "1.",
+      completion: "zk",
+      tags: ["kartografie"],
+      description:
+        "Teorie a tvorba map: kartografická zobrazení, generalizace, kompozice a vizualizace prostorových dat.",
+      syllabus: [
+        "Historie a předmět kartografie",
+        "Kartografická zobrazení a zkreslení",
+        "Měřítko a generalizace",
+        "Kompozice mapy a znakový klíč",
+        "Tematická kartografie",
+        "Digitální a webová kartografie",
+      ],
+      lessons: [
+        {
+          id: "zobrazeni",
+          title: "Kartografická zobrazení",
+          summary: "Válcová, kuželová a azimutální zobrazení; zkreslení délek, ploch a úhlů.",
+          minutes: 25,
+          resources: [{ kind: "presentation", title: "Přednáška — zobrazení", note: "Materiál doplníme." }],
+        },
+        {
+          id: "kompozice",
+          title: "Kompozice mapy",
+          summary: "Povinné a nepovinné náležitosti mapy, znakový klíč.",
+          minutes: 15,
+          resources: [{ kind: "document", title: "Studijní text — kompozice", note: "Materiál doplníme." }],
+        },
+      ],
+    },
+    {
+      id: "geoinformatika",
+      code: "Z0262",
+      title: "Geoinformatika",
+      garant: "P. Kubíček",
+      credits: 3,
+      semester: "4.",
+      completion: "zk",
+      tags: ["GIS", "data"],
+      description:
+        "Úvod do geografických informačních systémů: datové modely, prostorové analýzy, zdroje dat.",
+      syllabus: [
+        "Datové modely: vektor a rastr",
+        "Souřadnicové systémy a transformace",
+        "Prostorové dotazy a analýzy",
+        "Zdroje geodat (DMR, DPZ, OSM)",
+        "Vizualizace a výstupy",
+      ],
+      lessons: [
+        {
+          id: "data-modely",
+          title: "Vektor vs. rastr",
+          summary: "Reprezentace prostorových jevů, výhody a nevýhody.",
+          minutes: 15,
+          resources: [
+            { kind: "presentation", title: "Přednáška — datové modely", note: "Materiál doplníme." },
+            { kind: "tool", title: "QGIS (open-source GIS)", url: "https://qgis.org/", source: "QGIS.org" },
+          ],
+        },
+      ],
+    },
+    {
+      id: "ekologie-ochrana",
+      code: "Z2166",
+      title: "Úvod do ekologie a ochrany přírody",
+      garant: "M. Culek",
+      credits: 5,
+      semester: "2.",
+      completion: "zk",
+      tags: ["biosféra", "ochrana přírody"],
+      description:
+        "Základy ekologie, ekosystémy, biodiverzita a principy ochrany přírody a krajiny.",
+      syllabus: [
+        "Ekosystém a tok energie",
+        "Populace a společenstva",
+        "Biodiverzita",
+        "Ochrana přírody v ČR a ve světě",
+        "Chráněná území",
+      ],
+      lessons: [
+        {
+          id: "ekosystem",
+          title: "Ekosystém a tok energie",
+          summary: "Producenti, konzumenti, dekompozitoři; potravní řetězce.",
+          minutes: 15,
+          resources: [{ kind: "presentation", title: "Přednáška — ekosystémy", note: "Materiál doplníme." }],
+        },
+      ],
+    },
+  ],
+};

@@ -1,0 +1,11 @@
+services:
+  geostudium:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: geostudium:latest
+    container_name: geostudium
+    restart: unless-stopped
+    ports:
+      # host:container — změň levé číslo podle potřeby VPS (např. 80:80)
+      - "8090:80"

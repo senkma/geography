@@ -1,0 +1,136 @@
+import { Link, useParams } from "react-router-dom";
+import { getCourse } from "../data";
+import { Icon } from "../components/Icon";
+import { ResourceList } from "../components/ResourceList";
+import { NotFound } from "./NotFound";
+
+export function CoursePage() {
+  const { fieldId, courseId } = useParams();
+  const ctx = getCourse(fieldId ?? "", courseId ?? "");
+  if (!ctx) return <NotFound />;
+  const { field, course } = ctx;
+
+  return (
+    <div className="container-page pt-10">
+      <Link
+        to={`/obor/${field.id}`}
+        className="inline-flex items-center gap-1.5 text-sm text-[var(--text-dim)] hover:text-[var(--text)] transition mb-6"
+      >
+        <Icon name="back" className="w-4 h-4" /> {field.title}
+      </Link>
+
+      <header className="animate-in mb-8">
+        <div className="flex flex-wrap items-center gap-2 mb-3">
+          {course.code && <span className="chip">{course.code}</span>}
+          {course.garant && <span className="chip">👤 {course.garant}</span>}
+          {course.credits ? <span className="chip">{course.credits} kreditů</span> : null}
+          {course.semester && <span className="chip">{course.semester} semestr</span>}
+          {course.completion && <span className="chip">{course.completion}</span>}
+        </div>
+        <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight max-w-3xl">
+          {course.title}
+        </h1>
+        <p className="mt-4 text-[var(--text-dim)] max-w-3xl leading-relaxed">
+          {course.description}
+        </p>
+      </header>
+
+      <div className="grid lg:grid-cols-3 gap-8">
+        {/* Syllabus + lessons */}
+        <div className="lg:col-span-2 space-y-8">
+          <section>
+            <h2 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-4">
+              Osnova
+            </h2>
+            <ol className="card p-5 space-y-3">
+              {course.syllabus.map((item, i) => (
+                <li key={i} className="flex gap-3.5 items-start">
+                  <span className="grid place-items-center w-6 h-6 rounded-lg text-xs font-semibold shrink-0 bg-emerald-50 border border-[var(--border)] text-emerald-700">
+                    {i + 1}
+                  </span>
+                  <span className="pt-0.5">{item}</span>
+                </li>
+              ))}
+            </ol>
+          </section>
+
+          <section>
+            <h2 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-4">
+              Lekce a materiály
+            </h2>
+            <div className="space-y-3">
+              {course.lessons.map((l, i) => (
+                <Link
+                  key={l.id}
+                  to={`/obor/${field.id}/predmet/${course.id}/lekce/${l.id}`}
+                  className="card p-4 sm:p-5 flex items-center gap-4 group"
+                >
+                  <span className="grid place-items-center w-10 h-10 rounded-xl bg-white/70 border border-[var(--border)] shrink-0 font-semibold text-[var(--text-dim)] group-hover:text-emerald-700 transition">
+                    {i + 1}
+                  </span>
+                  <div className="min-w-0 flex-1">
+                    <h3 className="font-medium leading-snug">{l.title}</h3>
+                    {l.summary && (
+                      <p className="text-sm text-[var(--text-dim)] mt-0.5 line-clamp-2">
+                        {l.summary}
+                      </p>
+                    )}
+                    <div className="flex gap-2 mt-2">
+                      {l.minutes && (
+                        <span className="chip">
+                          <Icon name="clock" className="w-3.5 h-3.5" /> {l.minutes} min
+                        </span>
+                      )}
+                      {l.quiz && (
+                        <span className="chip">
+                          <Icon name="quiz" className="w-3.5 h-3.5" /> kvíz
+                        </span>
+                      )}
+                    </div>
+                  </div>
+                  <Icon
+                    name="arrow"
+                    className="w-5 h-5 text-[var(--text-dim)] group-hover:text-[var(--text)] group-hover:translate-x-0.5 transition shrink-0"
+                  />
+                </Link>
+              ))}
+            </div>
+          </section>
+        </div>
+
+        {/* Sidebar */}
+        <aside className="space-y-6">
+          <div className="card p-5">
+            <h3 className="font-semibold mb-1">Studijní tipy</h3>
+            <p className="text-sm text-[var(--text-dim)] leading-relaxed">
+              Projdi nejdřív osnovu, pak si otevři jednotlivé lekce. U lekcí s
+              kvízem si po přečtení ověř znalosti.
+            </p>
+          </div>
+
+          {course.resources && course.resources.length > 0 && (
+            <div>
+              <h3 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-3">
+                Materiály k předmětu
+              </h3>
+              <div className="grid gap-2.5">
+                <ResourceList resources={course.resources} />
+              </div>
+            </div>
+          )}
+
+          <div className="card p-5 border-dashed">
+            <div className="flex items-center gap-2 mb-1.5">
+              <Icon name="doc" className="w-4 h-4 text-emerald-600" />
+              <h3 className="font-semibold text-sm">Vlastní materiály</h3>
+            </div>
+            <p className="text-sm text-[var(--text-dim)] leading-relaxed">
+              Prezentace, skripta a další podklady lze doplnit do datových
+              souborů oboru — místa označená „brzy doplníme“ jsou připravená.
+            </p>
+          </div>
+        </aside>
+      </div>
+    </div>
+  );
+}
