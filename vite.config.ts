@@ -5,6 +5,19 @@ import { VitePWA } from "vite-plugin-pwa";
 
 export default defineConfig({
   base: "./",
+  server: {
+    port: 8090,
+    host: true,
+    strictPort: true,
+    open: false,
+    watch: {
+      usePolling: process.env.CHOKIDAR_USEPOLLING === "true",
+    },
+    hmr: {
+      host: "localhost",
+      clientPort: 8090,
+    },
+  },
   plugins: [
     react(),
     tailwindcss(),

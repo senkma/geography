@@ -1,0 +1,12 @@
+# Produkční build (nginx) — pro VPS / finální test
+# Spuštění: docker compose -f docker-compose.prod.yml up --build -d
+services:
+  geostudium:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: geostudium:latest
+    container_name: geostudium-prod
+    restart: unless-stopped
+    ports:
+      - "8090:80"

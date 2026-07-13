@@ -10,11 +10,31 @@ Web funguje na mobilu i desktopu, jde nainstalovat jako aplikace (PWA) a funguje
 
 ## Spuštění
 
+Přehled příkazů: `make help`
+
+### Vývoj (změny hned viditelné)
+
+**Docker (doporučeno lokálně):**
+
 ```bash
-npm install
-npm run dev      # vývojový server
-npm run build    # produkční build do dist/
-npm run preview  # náhled produkčního buildu
+make up          # http://localhost:8090 — hot reload (HMR), popředí
+make up-d        # totéž na pozadí
+make down        # zastavit
+make logs        # sledovat logy
+```
+
+Nebo bez Dockeru:
+
+```bash
+make dev-local   # http://localhost:8090
+```
+
+### Produkční build (VPS / finální test)
+
+```bash
+make prod        # statický nginx build v Dockeru
+make prod-down
+make build       # build do dist/ bez Dockeru
 ```
 
 Nasazení: obsah složky `dist/` nahrajte na libovolný statický hosting (Netlify, Vercel, GitHub Pages, ...). Aplikace používá hash-router, takže funguje i bez konfigurace serveru. Doporučený způsob pro VPS je ale Docker (viz níže).

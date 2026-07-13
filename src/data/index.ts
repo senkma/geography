@@ -9,7 +9,7 @@ import {
 } from "./state-exam-lessons";
 import type { StateExam } from "../types";
 
-export const fields: Field[] = [antarktida, gk, fg];
+export const fields: Field[] = [gk, fg, antarktida];
 
 export function getStateExam(fieldId: string): StateExam | undefined {
   return stateExams[fieldId];
