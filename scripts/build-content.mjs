@@ -20,6 +20,7 @@ import {
   readJsonIfExists,
   writeStatus,
 } from "./content/lib.mjs";
+import { lessonHasContent } from "./content/lesson-content.mjs";
 
 const scriptsRoot = dirname(fileURLToPath(import.meta.url));
 
@@ -76,6 +77,7 @@ function buildMuniCourse(c, index, fieldId, stats) {
     );
     if (lessonOverrides.has(lesson.id)) stats.lessonsCustom += 1;
     if (quizzes.has(lesson.id)) stats.quizzes += 1;
+    merged.available = lessonHasContent(merged);
     return merged;
   });
 
@@ -200,6 +202,7 @@ function buildAntarktidaModule(moduleId, stats) {
     stats.lessonsTotal += 1;
     stats.lessonsCustom += 1;
     if (quizzes.has(lessonId)) stats.quizzes += 1;
+    merged.available = true;
     return merged;
   });
 

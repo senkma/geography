@@ -3,6 +3,7 @@ import { getStateExamLesson } from "../data";
 import { Icon } from "../components/Icon";
 import { ContentBlocks } from "../components/ContentBlocks";
 import { ResourceList } from "../components/ResourceList";
+import { lessonIsReady, adjacentAvailableLessons } from "../lib/lessonContent";
 import { NotFound } from "./NotFound";
 
 export function StateExamLessonPage() {
@@ -11,9 +12,9 @@ export function StateExamLessonPage() {
   if (!ctx) return <NotFound />;
   const { field, subject, lesson, lessons } = ctx;
 
-  const idx = lessons.findIndex((l) => l.id === lesson.id);
-  const prev = idx > 0 ? lessons[idx - 1] : undefined;
-  const next = idx < lessons.length - 1 ? lessons[idx + 1] : undefined;
+  if (!lessonIsReady(lesson)) return <NotFound />;
+
+  const { prev, next, idx, list: readyLessons } = adjacentAvailableLessons(lessons, lesson.id);
 
   const base = `/obor/${field.id}/studijni-zkouska/${subject.id}/lekce`;
 
@@ -35,7 +36,7 @@ export function StateExamLessonPage() {
             {lesson.sectionTitle && <span className="chip">{lesson.sectionTitle}</span>}
             <span className="chip">{subject.name}</span>
             <span className="chip">
-              Okruh {idx + 1}/{lessons.length}
+              Okruh {idx + 1}/{readyLessons.length}
             </span>
           </div>
           <h1 className="text-2xl sm:text-3xl font-semibold tracking-tight leading-snug">

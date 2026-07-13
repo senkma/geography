@@ -49,64 +49,11 @@ function estimateMinutes(title) {
   return 12;
 }
 
-function truncate(text, max) {
-  if (!text || text.length <= max) return text;
-  return `${text.slice(0, max - 1)}…`;
-}
-
 function buildSummary(title) {
   if (title.length <= 140) {
     return `Studijní okruh: ${title}`;
   }
   return `${title.slice(0, 137)}…`;
-}
-
-function buildBlocks(topic, course, index, total) {
-  const blocks = [];
-
-  if (topic.sectionTitle) {
-    blocks.push({ type: "heading", text: topic.sectionTitle });
-  }
-
-  const intro = course.anotace
-    ? `Součást předmětu ${course.title} (${course.code}). ${truncate(course.anotace, 280)}`
-    : `Součást předmětu ${course.title} (${course.code}). Projdi si hlavní pojmy a souvislosti tohoto okruhu podle osnovy a doporučené literatury v IS MUNI.`;
-
-  blocks.push({ type: "paragraph", text: intro });
-  blocks.push({
-    type: "callout",
-    label: `Okruh ${index + 1} / ${total}`,
-    text: topic.title,
-  });
-  blocks.push({
-    type: "list",
-    label: "Doporučený postup studia",
-    items: [
-      "Projdi hlavní pojmy a definice k tomuto tématu",
-      "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-      index > 0
-        ? "Propoj obsah s předchozími okruhy v osnově předmětu"
-        : "Nastuduj úvodní souvislosti před dalšími okruhy",
-      index < total - 1
-        ? "Připrav se na navazující témata v osnově"
-        : "Zopakuj si celou osnovu předmětu před závěrečnou zkouškou",
-    ],
-  });
-
-  return blocks;
-}
-
-function buildLessonResources(course) {
-  const resources = [];
-  if (course.is_muni_url) {
-    resources.push({
-      kind: "link",
-      title: "IS MUNI — detail předmětu",
-      url: course.is_muni_url,
-      source: "IS MUNI",
-    });
-  }
-  return resources;
 }
 
 export function buildLessonsFromSyllabus(course, courseId) {
@@ -123,8 +70,7 @@ export function buildLessonsFromSyllabus(course, courseId) {
       summary: buildSummary(topic.title),
       minutes: estimateMinutes(topic.title),
       ...(topic.sectionTitle ? { sectionTitle: topic.sectionTitle } : {}),
-      blocks: buildBlocks(topic, course, index, topics.length),
-      resources: buildLessonResources(course),
+      available: false,
     };
   });
 }

@@ -52,6 +52,8 @@ export interface Lesson {
   minutes?: number;
   /** SZZ: název bloku okruhů (podnadpis). */
   sectionTitle?: string;
+  /** Má vlastní výukový obsah (ne jen osnova / placeholder). */
+  available?: boolean;
   blocks?: ContentBlock[];
   resources?: Resource[];
   quiz?: Quiz;

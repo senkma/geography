@@ -93,6 +93,7 @@ export function buildStateExamSubjectLessons(subject: StateExamSubject): Lesson[
       title: topic,
       summary: topic.length > 120 ? `${topic.slice(0, 117)}…` : topic,
       ...(meta?.sectionTitle ? { sectionTitle: meta.sectionTitle } : {}),
+      available: false,
       blocks,
       resources: sharedResources,
     });

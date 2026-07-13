@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
 import { getField, groupCoursesBySemester, groupCoursesByModuleSection, getStateExam, countStateExamLessons } from "../data";
 import type { Course, Field } from "../types";
+import { lessonIsReady } from "../lib/lessonContent";
 import { Icon } from "../components/Icon";
 import { NotFound } from "./NotFound";
 
@@ -165,7 +166,7 @@ function CourseCard({
         {c.lessons.length > 0 && (
           <span className="chip">
             <Icon name="book" className="w-3.5 h-3.5" />
-            {c.lessons.length} lekcí
+            {c.lessons.filter(lessonIsReady).length}/{c.lessons.length} lekcí
           </span>
         )}
       </div>

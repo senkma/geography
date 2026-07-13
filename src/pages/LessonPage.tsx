@@ -4,6 +4,7 @@ import { Icon } from "../components/Icon";
 import { ContentBlocks } from "../components/ContentBlocks";
 import { ResourceList } from "../components/ResourceList";
 import { QuizView } from "../components/QuizView";
+import { lessonIsReady, adjacentAvailableLessons, availableLessons } from "../lib/lessonContent";
 import { NotFound } from "./NotFound";
 
 export function LessonPage() {
@@ -13,10 +14,10 @@ export function LessonPage() {
   if (!ctx || !courseCtx) return <NotFound />;
   const { field, course, lesson } = ctx;
 
-  const idx = course.lessons.findIndex((l) => l.id === lesson.id);
-  const prev = idx > 0 ? course.lessons[idx - 1] : undefined;
-  const next =
-    idx < course.lessons.length - 1 ? course.lessons[idx + 1] : undefined;
+  if (!lessonIsReady(lesson)) return <NotFound />;
+
+  const { prev, next, idx } = adjacentAvailableLessons(course.lessons, lesson.id);
+  const readyCount = availableLessons(course.lessons).length;
 
   return (
     <div className="container-page pt-10">
@@ -36,7 +37,7 @@ export function LessonPage() {
               </span>
             )}
             <span className="chip">
-              Lekce {idx + 1}/{course.lessons.length}
+              Lekce {idx + 1}/{readyCount}
             </span>
           </div>
           <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight leading-tight">
@@ -53,12 +54,12 @@ export function LessonPage() {
           <ContentBlocks blocks={lesson.blocks} />
         )}
 
-        {(!lesson.blocks || lesson.blocks.length === 0) && (
+        {(!lesson.blocks || lesson.blocks.length === 0) &&
+          (!lesson.resources || lesson.resources.length === 0) && (
           <div className="card p-6 border-dashed text-center my-6">
             <Icon name="doc" className="w-8 h-8 mx-auto text-[var(--text-dim)] mb-3" />
             <p className="text-[var(--text-dim)]">
-              Výkladový text této lekce zatím připravujeme. Níže najdeš dostupné
-              materiály a odkazy.
+              K této lekci zatím nejsou doplněné materiály.
             </p>
           </div>
         )}

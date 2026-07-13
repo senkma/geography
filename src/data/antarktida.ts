@@ -80,7 +80,8 @@ export const antarktida: Field = {
               "url": "https://www.bas.ac.uk/about/antarctica/",
               "source": "BAS"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "geologie-tektonika",
@@ -124,7 +125,8 @@ export const antarktida: Field = {
               "url": "https://scar.org/science/geosciences/",
               "source": "SCAR"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "geo-uvod",
@@ -157,7 +159,8 @@ export const antarktida: Field = {
               "url": "https://carp.sci.muni.cz/vyzkum/#geo",
               "source": "CARP"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "geo-permafrost",
@@ -197,7 +200,8 @@ export const antarktida: Field = {
               "url": "https://soiltemp.project.earth/",
               "source": "SoilTemp"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "geo-paleolimnologie",
@@ -223,7 +227,8 @@ export const antarktida: Field = {
               "url": "https://carp.sci.muni.cz/research/#geo",
               "source": "CARP"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "geo-sedimenty",
@@ -252,7 +257,8 @@ export const antarktida: Field = {
               "url": "https://www.add.scar.org/",
               "source": "SCAR"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "geo-databaze",
@@ -287,7 +293,8 @@ export const antarktida: Field = {
               "url": "https://www2.geo.su.se/calm/",
               "source": "CALM"
             }
-          ]
+          ],
+          "available": true
         }
       ],
       resources: [
@@ -363,7 +370,8 @@ export const antarktida: Field = {
               "url": "https://wgms.ch/",
               "source": "WGMS"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "selfove-ledovce-morsky-led",
@@ -397,7 +405,8 @@ export const antarktida: Field = {
               "url": "https://nsidc.org/learn/parts-cryosphere/sea-ice",
               "source": "NSIDC"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "atmo-glaciologie",
@@ -436,7 +445,8 @@ export const antarktida: Field = {
               "url": "/materials/antarktida/mod-kryosfera/accelerated-glacier-changes-on-the-james-ross-archipelago-antarctica-from-2010-to-2023.pdf",
               "source": "Journal of Glaciology / CARP oblast"
             }
-          ]
+          ],
+          "available": true
         }
       ],
       resources: [
@@ -499,7 +509,8 @@ export const antarktida: Field = {
               "url": "https://www.bas.ac.uk/about/antarctica/geography-and-climate/",
               "source": "BAS"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "cirkulace-katabaticke-vetry",
@@ -536,7 +547,8 @@ export const antarktida: Field = {
               "url": "https://earthobservatory.nasa.gov/",
               "source": "NASA"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "ozonova-dira",
@@ -580,7 +592,8 @@ export const antarktida: Field = {
               "url": "https://www.bas.ac.uk/data/our-data/publication/ozone-hole/",
               "source": "BAS"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "zmena-klimatu",
@@ -615,7 +628,8 @@ export const antarktida: Field = {
               "url": "https://climate.nasa.gov/",
               "source": "NASA"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "atmo-skupina",
@@ -649,7 +663,8 @@ export const antarktida: Field = {
               "url": "https://carp.sci.muni.cz/vyzkum/#atmospheric",
               "source": "CARP"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "atmo-monitoring",
@@ -701,7 +716,8 @@ export const antarktida: Field = {
               "url": "https://www.bas.ac.uk/data/our-data/",
               "source": "BAS"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "atmo-modelovani",
@@ -730,7 +746,8 @@ export const antarktida: Field = {
               "url": "https://carp.sci.muni.cz/research/#atmospheric",
               "source": "CARP"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "atmo-uv-ozon",
@@ -758,7 +775,8 @@ export const antarktida: Field = {
               "url": "https://ozonewatch.gsfc.nasa.gov/",
               "source": "NASA"
             }
-          ]
+          ],
+          "available": true
         }
       ],
       resources: [
@@ -818,7 +836,8 @@ export const antarktida: Field = {
               "url": "https://scar.org/science/southern-ocean/",
               "source": "SCAR"
             }
-          ]
+          ],
+          "available": true
         }
       ],
       resources: [
@@ -871,7 +890,8 @@ export const antarktida: Field = {
               "url": "https://www.scar.org/science/subglacial/",
               "source": "SCAR"
             }
-          ]
+          ],
+          "available": true
         }
       ],
     },
@@ -927,7 +947,8 @@ export const antarktida: Field = {
               "url": "https://scar.org/science/life-sciences/",
               "source": "SCAR"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "bio-rostliny-uvod",
@@ -957,7 +978,8 @@ export const antarktida: Field = {
               "url": "https://carp.sci.muni.cz/vyzkum/#plants",
               "source": "CARP"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "bio-ltrp-otc",
@@ -992,7 +1014,8 @@ export const antarktida: Field = {
               "url": "https://carp.sci.muni.cz/research/#plants",
               "source": "CARP"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "bio-mikrobiologie",
@@ -1033,7 +1056,8 @@ export const antarktida: Field = {
               "url": "https://www.sci.muni.cz/ccm",
               "source": "MUNI"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "bio-ltem",
@@ -1072,7 +1096,8 @@ export const antarktida: Field = {
               "url": "https://mcm.lternet.edu/",
               "source": "NSF LTER"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "bio-extremofily",
@@ -1097,7 +1122,8 @@ export const antarktida: Field = {
               "url": "https://carp.sci.muni.cz/infrastructure/#eel",
               "source": "CARP"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "bio-data",
@@ -1136,7 +1162,8 @@ export const antarktida: Field = {
               "url": "https://carp.sci.muni.cz/research/#courses",
               "source": "CARP"
             }
-          ]
+          ],
+          "available": true
         }
       ],
       resources: [
@@ -1187,7 +1214,8 @@ export const antarktida: Field = {
               "url": "https://www.bas.ac.uk/project/ice-cores/",
               "source": "BAS"
             }
-          ]
+          ],
+          "available": true
         }
       ],
       resources: [
@@ -1257,7 +1285,8 @@ export const antarktida: Field = {
               "url": "https://carp.sci.muni.cz/",
               "source": "Masarykova univerzita"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "carp-vyzkumny-program",
@@ -1296,7 +1325,8 @@ export const antarktida: Field = {
               "url": "https://carp.sci.muni.cz/research/#programme",
               "source": "CARP"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "carp-mendel",
@@ -1339,7 +1369,8 @@ export const antarktida: Field = {
               "url": "https://www.youtube.com/watch?v=9HVsoko9Y0M",
               "source": "CARP"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "carp-nelson",
@@ -1374,7 +1405,8 @@ export const antarktida: Field = {
               "url": "https://www.antarcticfoundation.cz/",
               "source": "CAF"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "carp-laboratore",
@@ -1424,7 +1456,8 @@ export const antarktida: Field = {
               "url": "https://www.sci.muni.cz/ccm",
               "source": "MUNI"
             }
-          ]
+          ],
+          "available": true
         }
       ],
       resources: [
@@ -1491,7 +1524,8 @@ export const antarktida: Field = {
               "url": "https://www.bas.ac.uk/about/antarctica/",
               "source": "BAS"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "historie-zavody-k-polu",
@@ -1530,7 +1564,8 @@ export const antarktida: Field = {
               "url": "https://www.spri.cam.ac.uk/",
               "source": "SPRI"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "historie-igy-smlouva",
@@ -1567,7 +1602,8 @@ export const antarktida: Field = {
               "url": "https://www.ats.aq/",
               "source": "ATS"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "carp-historie",
@@ -1617,7 +1653,8 @@ export const antarktida: Field = {
               "url": "https://carp.sci.muni.cz/about-us/#history",
               "source": "CARP"
             }
-          ]
+          ],
+          "available": true
         }
       ],
     },
@@ -1673,7 +1710,8 @@ export const antarktida: Field = {
               "url": "https://carp.sci.muni.cz/",
               "source": "Masarykova univerzita"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "mezinarodni-naroky",
@@ -1716,7 +1754,8 @@ export const antarktida: Field = {
               "url": "https://carp.sci.muni.cz/o-nas/",
               "source": "CARP"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "mezinarodni-organizace",
@@ -1761,7 +1800,8 @@ export const antarktida: Field = {
               "url": "https://www.ccamlr.org/",
               "source": "CCAMLR"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "carp-spoluprace",
@@ -1801,7 +1841,8 @@ export const antarktida: Field = {
               "url": "https://scar.org/",
               "source": "SCAR"
             }
-          ]
+          ],
+          "available": true
         }
       ],
       resources: [
@@ -1861,7 +1902,8 @@ export const antarktida: Field = {
               "url": "https://carp.sci.muni.cz/about-us/code-of-conduct/",
               "source": "CARP"
             }
-          ]
+          ],
+          "available": true
         },
         {
           "id": "soucasnost-turismus-ochrana",
@@ -1899,7 +1941,8 @@ export const antarktida: Field = {
               "url": "https://climate.nasa.gov/",
               "source": "NASA"
             }
-          ]
+          ],
+          "available": true
         }
       ],
     }

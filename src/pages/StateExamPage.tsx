@@ -4,6 +4,8 @@ import { Icon } from "../components/Icon";
 import { ResourceList } from "../components/ResourceList";
 import { NotFound } from "./NotFound";
 import { groupLessonsBySection } from "../data/state-exam-lessons";
+import { LessonListItem } from "../components/LessonListItem";
+import { lessonIsReady } from "../lib/lessonContent";
 import type { Lesson, StateExamSubject } from "../types";
 
 export function StateExamPage() {
@@ -14,6 +16,10 @@ export function StateExamPage() {
   if (!field || !exam || !subjectsWithLessons) return <NotFound />;
 
   const totalLessons = subjectsWithLessons.reduce((s, x) => s + x.lessons.length, 0);
+  const readyLessons = subjectsWithLessons.reduce(
+    (s, x) => s + x.lessons.filter(lessonIsReady).length,
+    0,
+  );
 
   return (
     <div className="container-page pt-10 pb-16">
@@ -36,7 +42,8 @@ export function StateExamPage() {
           {exam.summary}
         </p>
         <p className="mt-3 text-sm text-[var(--text-dim)]">
-          {exam.subjects.length} předmětů SZZ · {totalLessons} okruhů jako samostatné lekce
+          {exam.subjects.length} předmětů SZZ · {totalLessons} okruhů
+          {readyLessons < totalLessons && ` · ${readyLessons} s obsahem`}
         </p>
       </header>
 
@@ -185,7 +192,7 @@ function SubjectBlock({
         {s.examPart && <span className="chip">{s.examPart}</span>}
         <span className="chip">
           <Icon name="book" className="w-3.5 h-3.5" />
-          {lessons.length} lekcí
+          {lessons.filter(lessonIsReady).length}/{lessons.length} s obsahem
         </span>
       </div>
       <h3 className="text-xl font-semibold tracking-tight">{s.name}</h3>
@@ -220,22 +227,13 @@ function SubjectBlock({
             )}
             <div className="space-y-2">
               {group.lessons.map((lesson, i) => (
-                <Link
+                <LessonListItem
                   key={lesson.id}
+                  lesson={lesson}
+                  index={i}
                   to={`${base}/${lesson.id}`}
-                  className="flex items-center gap-3 p-3 rounded-xl border border-[var(--border)] bg-white/50 hover:bg-white hover:border-emerald-500/40 transition group"
-                >
-                  <span className="grid place-items-center w-8 h-8 rounded-lg bg-emerald-50 border border-[var(--border)] text-xs font-semibold text-emerald-700 shrink-0">
-                    {i + 1}
-                  </span>
-                  <span className="text-sm leading-snug flex-1 line-clamp-2 group-hover:text-[var(--text)]">
-                    {lesson.title}
-                  </span>
-                  <Icon
-                    name="arrow"
-                    className="w-4 h-4 text-[var(--text-dim)] group-hover:text-[var(--text)] shrink-0"
-                  />
-                </Link>
+                  compact
+                />
               ))}
             </div>
           </div>
