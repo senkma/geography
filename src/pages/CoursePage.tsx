@@ -54,48 +54,57 @@ export function CoursePage() {
             </ol>
           </section>
 
-          <section>
-            <h2 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-4">
-              Lekce a materiály
-            </h2>
-            <div className="space-y-3">
-              {course.lessons.map((l, i) => (
-                <Link
-                  key={l.id}
-                  to={`/obor/${field.id}/predmet/${course.id}/lekce/${l.id}`}
-                  className="card p-4 sm:p-5 flex items-center gap-4 group"
-                >
-                  <span className="grid place-items-center w-10 h-10 rounded-xl bg-white/70 border border-[var(--border)] shrink-0 font-semibold text-[var(--text-dim)] group-hover:text-emerald-700 transition">
-                    {i + 1}
-                  </span>
-                  <div className="min-w-0 flex-1">
-                    <h3 className="font-medium leading-snug">{l.title}</h3>
-                    {l.summary && (
-                      <p className="text-sm text-[var(--text-dim)] mt-0.5 line-clamp-2">
-                        {l.summary}
-                      </p>
-                    )}
-                    <div className="flex gap-2 mt-2">
-                      {l.minutes && (
-                        <span className="chip">
-                          <Icon name="clock" className="w-3.5 h-3.5" /> {l.minutes} min
-                        </span>
+          {course.lessons.length > 0 ? (
+            <section>
+              <h2 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-dim)] mb-4">
+                Lekce a materiály
+              </h2>
+              <div className="space-y-3">
+                {course.lessons.map((l, i) => (
+                  <Link
+                    key={l.id}
+                    to={`/obor/${field.id}/predmet/${course.id}/lekce/${l.id}`}
+                    className="card p-4 sm:p-5 flex items-center gap-4 group"
+                  >
+                    <span className="grid place-items-center w-10 h-10 rounded-xl bg-white/70 border border-[var(--border)] shrink-0 font-semibold text-[var(--text-dim)] group-hover:text-emerald-700 transition">
+                      {i + 1}
+                    </span>
+                    <div className="min-w-0 flex-1">
+                      <h3 className="font-medium leading-snug">{l.title}</h3>
+                      {l.summary && (
+                        <p className="text-sm text-[var(--text-dim)] mt-0.5 line-clamp-2">
+                          {l.summary}
+                        </p>
                       )}
-                      {l.quiz && (
-                        <span className="chip">
-                          <Icon name="quiz" className="w-3.5 h-3.5" /> kvíz
-                        </span>
-                      )}
+                      <div className="flex gap-2 mt-2">
+                        {l.minutes && (
+                          <span className="chip">
+                            <Icon name="clock" className="w-3.5 h-3.5" /> {l.minutes} min
+                          </span>
+                        )}
+                        {l.quiz && (
+                          <span className="chip">
+                            <Icon name="quiz" className="w-3.5 h-3.5" /> kvíz
+                          </span>
+                        )}
+                      </div>
                     </div>
-                  </div>
-                  <Icon
-                    name="arrow"
-                    className="w-5 h-5 text-[var(--text-dim)] group-hover:text-[var(--text)] group-hover:translate-x-0.5 transition shrink-0"
-                  />
-                </Link>
-              ))}
-            </div>
-          </section>
+                    <Icon
+                      name="arrow"
+                      className="w-5 h-5 text-[var(--text-dim)] group-hover:text-[var(--text)] group-hover:translate-x-0.5 transition shrink-0"
+                    />
+                  </Link>
+                ))}
+              </div>
+            </section>
+          ) : (
+            <section className="card p-5 border-dashed">
+              <p className="text-sm text-[var(--text-dim)] leading-relaxed">
+                Výukové lekce a vlastní materiály k tomuto předmětu můžeš doplnit
+                později. Oficiální osnova z IS MUNI je uvedena výše.
+              </p>
+            </section>
+          )}
         </div>
 
         {/* Sidebar */}

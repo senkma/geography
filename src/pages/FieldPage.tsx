@@ -117,9 +117,15 @@ function CourseCard({
         {c.credits ? <span className="chip">{c.credits} kr.</span> : null}
         {c.semester && <span className="chip">{c.semester} sem.</span>}
         <span className="chip">
-          <Icon name="book" className="w-3.5 h-3.5" />
-          {c.lessons.length} lekcí
+          <Icon name="target" className="w-3.5 h-3.5" />
+          {c.syllabus.length} témat
         </span>
+        {c.lessons.length > 0 && (
+          <span className="chip">
+            <Icon name="book" className="w-3.5 h-3.5" />
+            {c.lessons.length} lekcí
+          </span>
+        )}
       </div>
     </Link>
   );
