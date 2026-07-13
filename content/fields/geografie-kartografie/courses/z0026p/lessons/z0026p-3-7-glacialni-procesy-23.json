@@ -1,0 +1,89 @@
+{
+  "id": "z0026p-3-7-glacialni-procesy-23",
+  "title": "3.7 Glaciální procesy",
+  "summary": "Studijní okruh: 3.7 Glaciální procesy",
+  "minutes": 22,
+  "sectionTitle": "Témata doc. Máčky",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Témata doc. Máčky"
+    },
+    {
+      "type": "paragraph",
+      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
+    },
+    {
+      "type": "callout",
+      "label": "Okruh",
+      "text": "3.7 Glaciální procesy"
+    },
+    {
+      "type": "heading",
+      "text": "Přednáška FG_DN_6 (Máčka/Nývlt)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných srážek převyšují roční úbytek ledovce táním (ablací)"
+    },
+    {
+      "type": "paragraph",
+      "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska"
+    },
+    {
+      "type": "paragraph",
+      "text": "65,6 m ekvivalentu nárůstu mořské hladiny"
+    },
+    {
+      "type": "paragraph",
+      "text": "Při transformaci sněhu v led dochází ke změně hustoty"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ulehnutí sněhu (drobení vloček, sesedání)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zmenšování povrchové plochy vloček (zaoblování)"
+    },
+    {
+      "type": "paragraph",
+      "text": "V ledu zůstávají uzavřené bubliny vzduchu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vhodné podmínky pro ledovce dány vysokou nadmořskou výškou"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vhodné podmínky pro ledovce dány vysokou zeměpisnou šířkou"
+    },
+    {
+      "type": "paragraph",
+      "text": "Čára oddělující akumulační a ablační zónu ledovce"
+    },
+    {
+      "type": "list",
+      "label": "Doporučený postup",
+      "items": [
+        "Projdi výtah a vlastní poznámky z přednášky",
+        "Otevři přiložené PDF/PPT v materiálech lekce",
+        "Propoj s předchozími a navazujícími okruhy v osnově"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "presentation",
+      "title": "FG_DN_6 — přednáška",
+      "url": "./materials/geografie-kartografie/z0026p/FG_DN_6.pptx",
+      "source": "GÚ MUNI / Máčka"
+    },
+    {
+      "kind": "link",
+      "title": "IS MUNI — Fyzická geografie",
+      "url": "https://is.muni.cz/predmet/sci/Z0026p",
+      "source": "IS MUNI"
+    }
+  ]
+}

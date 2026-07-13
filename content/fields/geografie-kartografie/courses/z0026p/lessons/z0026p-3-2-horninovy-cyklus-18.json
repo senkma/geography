@@ -1,0 +1,89 @@
+{
+  "id": "z0026p-3-2-horninovy-cyklus-18",
+  "title": "3.2 Horninový cyklus",
+  "summary": "Studijní okruh: 3.2 Horninový cyklus",
+  "minutes": 22,
+  "sectionTitle": "Témata doc. Máčky",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Témata doc. Máčky"
+    },
+    {
+      "type": "paragraph",
+      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
+    },
+    {
+      "type": "callout",
+      "label": "Okruh",
+      "text": "3.2 Horninový cyklus"
+    },
+    {
+      "type": "heading",
+      "text": "Přednáška FG_DN_3 (Máčka/Nývlt)"
+    },
+    {
+      "type": "paragraph",
+      "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží"
+    },
+    {
+      "type": "paragraph",
+      "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)"
+    },
+    {
+      "type": "paragraph",
+      "text": "hlavní (podstatné): &gt; 10 objemových %"
+    },
+    {
+      "type": "paragraph",
+      "text": "vedlejší (podružné): &lt; 10 objemových %"
+    },
+    {
+      "type": "paragraph",
+      "text": "akcesorické (přídatné): ≤ 5 objemových %"
+    },
+    {
+      "type": "paragraph",
+      "text": "primární: tvoří se při vzniku samotné horniny"
+    },
+    {
+      "type": "paragraph",
+      "text": "sekundární: vznikají přeměnou z primárních (převážně zvětráváním)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zemskou kůru tvoří z převážné většiny 8 prvků"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vrstvy jsou ukloněné vůči hlavní vrstevní ploše setu vrstev"
+    },
+    {
+      "type": "list",
+      "label": "Doporučený postup",
+      "items": [
+        "Projdi výtah a vlastní poznámky z přednášky",
+        "Otevři přiložené PDF/PPT v materiálech lekce",
+        "Propoj s předchozími a navazujícími okruhy v osnově"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "presentation",
+      "title": "FG_DN_3 — přednáška",
+      "url": "./materials/geografie-kartografie/z0026p/FG_DN_3.pptx",
+      "source": "GÚ MUNI / Máčka"
+    },
+    {
+      "kind": "link",
+      "title": "IS MUNI — Fyzická geografie",
+      "url": "https://is.muni.cz/predmet/sci/Z0026p",
+      "source": "IS MUNI"
+    }
+  ]
+}

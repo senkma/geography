@@ -1,0 +1,89 @@
+{
+  "id": "z0026p-3-4-zvetravaci-procesy-20",
+  "title": "3.4 Zvětrávací procesy",
+  "summary": "Studijní okruh: 3.4 Zvětrávací procesy",
+  "minutes": 22,
+  "sectionTitle": "Témata doc. Máčky",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Témata doc. Máčky"
+    },
+    {
+      "type": "paragraph",
+      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
+    },
+    {
+      "type": "callout",
+      "label": "Okruh",
+      "text": "3.4 Zvětrávací procesy"
+    },
+    {
+      "type": "heading",
+      "text": "Přednáška FG_DN_5 (Máčka/Nývlt)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Snižování zemského povrchu, zmenšování výškových rozdílů"
+    },
+    {
+      "type": "paragraph",
+      "text": "Soubor procesů na svazích vyvolaných působením gravitace"
+    },
+    {
+      "type": "paragraph",
+      "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci"
+    },
+    {
+      "type": "paragraph",
+      "text": "Soubor procesů vedoucích k fyzickému rozpadu a chemickému rozkladu hornin nacházejících se v blízkosti zemského povrchu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mechanický rozpad horniny na menší částečky"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mechanické a chemické působení organizmů"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fyzikální zvětrávání je ovlivněno texturou a strukturou hornin"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fyzikální zvětrávání urychluje chemické zvětrávání"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ dochází ke zvětšování aktivního povrchu dostupného pro chemické reakce"
+    },
+    {
+      "type": "paragraph",
+      "text": "Procesy zahrnující objemové změny samotné horniny:"
+    },
+    {
+      "type": "list",
+      "label": "Doporučený postup",
+      "items": [
+        "Projdi výtah a vlastní poznámky z přednášky",
+        "Otevři přiložené PDF/PPT v materiálech lekce",
+        "Propoj s předchozími a navazujícími okruhy v osnově"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "presentation",
+      "title": "FG_DN_5 — přednáška",
+      "url": "./materials/geografie-kartografie/z0026p/FG_DN_5.pptx",
+      "source": "GÚ MUNI / Máčka"
+    },
+    {
+      "kind": "link",
+      "title": "IS MUNI — Fyzická geografie",
+      "url": "https://is.muni.cz/predmet/sci/Z0026p",
+      "source": "IS MUNI"
+    }
+  ]
+}

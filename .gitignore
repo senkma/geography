@@ -5,3 +5,7 @@ dist-ssr
 .DS_Store
 npm-debug.log*
 .vite
+
+# Inbox — uživatelské materiály (netrackovat)
+content/inbox/toprocess/
+content/inbox/processed/

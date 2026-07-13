@@ -1,5 +1,5 @@
 .PHONY: help install dev up down restart logs prod prod-down build preview \
-        content-init migrate-antarktida gen-data gen-courses gen-antarktida gen-state-exams gen-icons icons
+        content-init inbox-init inbox-scan inbox-list migrate-antarktida gen-data gen-courses gen-antarktida gen-state-exams gen-icons icons process-inbox-fg
 
 # Lokální dev v Dockeru (Vite HMR) — http://localhost:8090
 URL_DEV := http://localhost:8090
@@ -53,6 +53,19 @@ preview: build ## Náhled produkčního buildu
 
 content-init: ## Vytvoří složky předmětů v content/fields/
 	node scripts/content-init.mjs
+
+inbox-init: ## Připraví složku content/inbox/
+	node scripts/inbox-init.mjs
+
+inbox-scan: ## Najde nové soubory v inboxu → _inbox.json
+	node scripts/inbox-scan.mjs
+
+inbox-list: inbox-scan ## Přehled čekajících materiálů
+	node scripts/inbox-list.mjs
+
+process-inbox-fg: ## Zpracuje inbox/Fyzická geografie → lekce + materiály
+	node scripts/process-inbox-fyzicka-geografie.mjs
+	$(MAKE) gen-data
 
 migrate-antarktida: ## Export antarktida_modules.json → content/ (přepíše moduly!)
 	node scripts/reorganize-antarktida-themes.mjs

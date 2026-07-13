@@ -1,0 +1,89 @@
+{
+  "id": "z0026p-3-3-tektonicke-procesy-19",
+  "title": "3.3 Tektonické procesy",
+  "summary": "Studijní okruh: 3.3 Tektonické procesy",
+  "minutes": 22,
+  "sectionTitle": "Témata doc. Máčky",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Témata doc. Máčky"
+    },
+    {
+      "type": "paragraph",
+      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
+    },
+    {
+      "type": "callout",
+      "label": "Okruh",
+      "text": "3.3 Tektonické procesy"
+    },
+    {
+      "type": "heading",
+      "text": "Přednáška FG_DN_4 (Máčka/Nývlt)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shoda mezi geologickými strukturami a tvary reliéfu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nesoulad mezi geologickými strukturami a tvary reliéfu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Puklina v hornině, podél které nastal pozorovatelný pohyb"
+    },
+    {
+      "type": "paragraph",
+      "text": "Příklady působení endogenních a exogenních procesů"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pohyby částí zemské kůry a svrchního pláště, při kterých dochází k deformaci hornin"
+    },
+    {
+      "type": "paragraph",
+      "text": "Studuje endogenní procesy, geologické struktury a tvary reliéfu související s deformací hornin"
+    },
+    {
+      "type": "paragraph",
+      "text": "Typy tektonických procesů podle směrů působících sil"
+    },
+    {
+      "type": "paragraph",
+      "text": "Průsečnice vodorovné roviny s nakloněnou vrstevní plochou"
+    },
+    {
+      "type": "list",
+      "label": "Doporučený postup",
+      "items": [
+        "Projdi výtah a vlastní poznámky z přednášky",
+        "Otevři přiložené PDF/PPT v materiálech lekce",
+        "Propoj s předchozími a navazujícími okruhy v osnově"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "presentation",
+      "title": "FG_DN_4 — přednáška",
+      "url": "./materials/geografie-kartografie/z0026p/FG_DN_4.pptx",
+      "source": "GÚ MUNI / Máčka"
+    },
+    {
+      "kind": "link",
+      "title": "IS MUNI — Fyzická geografie",
+      "url": "https://is.muni.cz/predmet/sci/Z0026p",
+      "source": "IS MUNI"
+    }
+  ]
+}

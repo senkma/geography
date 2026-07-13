@@ -21,6 +21,39 @@ export function antarktidaModuleDir(moduleId) {
   return contentDir("fields", "antarktida", "modules", moduleId);
 }
 
+export function inboxDir() {
+  return contentDir("inbox");
+}
+
+export const INBOX_MEDIA_EXT = new Set([
+  ".pdf",
+  ".ppt",
+  ".pptx",
+  ".doc",
+  ".docx",
+  ".odp",
+  ".ods",
+  ".odt",
+  ".txt",
+  ".md",
+  ".png",
+  ".jpg",
+  ".jpeg",
+  ".webp",
+  ".gif",
+  ".mp4",
+  ".webm",
+  ".zip",
+]);
+
+export function isInboxMediaFile(name) {
+  const lower = name.toLowerCase();
+  for (const ext of INBOX_MEDIA_EXT) {
+    if (lower.endsWith(ext)) return true;
+  }
+  return false;
+}
+
 export function readJsonIfExists(path) {
   if (!existsSync(path)) return null;
   return JSON.parse(readFileSync(path, "utf8"));

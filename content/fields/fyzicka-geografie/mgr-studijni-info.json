@@ -1,0 +1,11 @@
+{
+  "description": "Informace o navazujícím magisterském studiu FG",
+  "items": [
+    {
+      "kind": "document",
+      "title": "O studiu — magisterská FG",
+      "url": "./materials/fyzicka-geografie/_general/O-studiu-mgr-FG.docx",
+      "source": "MUNI"
+    }
+  ]
+}

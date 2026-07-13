@@ -902,35 +902,285 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 1 / 31",
+              "label": "Okruh",
               "text": "1. Úvod do studia fyzické geografie: FG jako vědní disciplína, předmět studia, geosféry, fyzickogeografická sféra, členění FG, pomocné disciplíny, postavení FG v rámci systému geografických věd, celostní a složkový pohled na FG sféru."
             },
             {
+              "type": "heading",
+              "text": "Výtah ze skripta"
+            },
+            {
+              "type": "paragraph",
+              "text": "prof. RNDr. Rudolf Brázdil, DrSc. Mgr. Zdeněk Máčka, Ph.D."
+            },
+            {
+              "type": "paragraph",
+              "text": "podzimní semestr - 4/1 - zkouška - 9 kreditů"
+            },
+            {
+              "type": "paragraph",
+              "text": "Co je geografie? Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím."
+            },
+            {
+              "type": "paragraph",
+              "text": "Klíčové geografické otázky … Kde to je? Studuje prostorové rozmístění (distribuci) věcí Proč to tam je? Snaží se vysvětlit, proč jsou věci rozmístěné zrovna takovým způsobem A co s tím …? Pokouší se ukázat, jak toto porozumění může přispět k řešení problémů ve světě"
+            },
+            {
+              "type": "paragraph",
+              "text": "Co je fyzická geografie? Úkolem fyzické geografie je vysvětlovat prostorové aspekty nejrůznějších přírodních jevů vázaných na litosféru, atmosféru, hydrosféru a biosféru. Geografie /Geography/"
+            },
+            {
+              "type": "paragraph",
+              "text": "Objekt studia: fyzickogeografická sféra Země"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Klíčové body",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Nastuduj úvodní souvislosti před dalšími okruhy",
-                "Připrav se na navazující témata v osnově"
+                "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE - Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                "- Fyzickogeografická sféra Země se skládá z jednotlivých geosfér: a) zemská kůra s georeliéfem – nejsvrchnější vrstva pevného zemského tělesa, jejíž povrch se označuje jako georeliéf b) atmosféra – plynný obal Země (po ozonovou vrstvu) c) hydrosféra – geosféra tvořená vodami oceánů a pevniny d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu e) pedosféra – půdní pokryv na povrchu pevnin f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy - fyzickogeografická + socioekonomická sféra = krajinná sféra Země"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9. 2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+            },
+            {
+              "type": "paragraph",
+              "text": "2.1 Elektromagnetické záření - sluneční záření – elektromagnetické x korpuskulární (částicové) - elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu - vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6 m) nebo nm (10-9 m) Obr. 2.1/31 - Strahler, Strahler (1999)"
+            },
+            {
+              "type": "paragraph",
+              "text": "2.1.1 Záření a teplota - dva základní principy emise elektromagnetického záření: a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky) b) teplejší tělesa vyzařují mnohem více než tělesa chladnější (závislost na čtvrté mocnině absolutní teploty – Stefan-Boltzmannův zákon)"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1.2 Sluneční záření - Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
+                "než dorazí na Zemi - vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W - spektrum elektromagnetického záření: a) ultrafialové záření – 0,2-0,4 µm – pohlceno téměř úplně plyny v atmosféře – škodlivé pro živé organismy b) viditelné záření – 0,4-0,7 µm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená) – jen malá část pohlcována c) krátkovlnné infračervené záření – 0,7-3 µm – lidské oko není ne ně citlivé – snadno proniká atmosférou - a) + b) + c) = krátkovlnné záření d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1.3 Charakteristiky slunečního záření - různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 µm) - intenzita slunečního záření je největší ve viditelné části spektra - solární konstanta - celková intenzita elektromagnetického záření Slunce, dopadajícího na horní hranici atmosféry na jednotkovou plochu kolmou k paprskům při střední vzdálenosti ZeměSlunce: IS = 1367 W.m-2 ± 0,3 % 2.1.4 Dlouhovlnné záření Země - zemský povrch a atmosféra vyzařují méně energie o větších vlnových délkách (v porovnání se Sluncem) - intenzita vyzařování má tři maxima pro L = 5, 10 a 20 µm – vlnové délky mezi tím pohlcovány hladně vodní párou a CO2"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Výpisky — téma 1 (úvod)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Fyzická geografie – FG_1 přednáška, Brázdil."
+            },
+            {
+              "type": "paragraph",
+              "text": "- Vědní disciplína zabývající se fyzickogeografické sféry Země."
+            },
+            {
+              "type": "paragraph",
+              "text": "- Popisuje, studuje a prognózuje procesy v ní se odehrávající."
+            },
+            {
+              "type": "paragraph",
+              "text": "- [Fig_1]Nejsvrchnějši vrstva pevného zemského tělesa jejíchž povrch se označuje jako georeliéf – Věd. obor geomorfologie"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Plynný obal Země (až po ozonovou vrstvu). Věd. obor meteorologie a klimatologie"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Geosféra tvořená vodami oceánů a vodami pevniny. Věd. obor hydrologie"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Část zemské kůry a hydrosféry, která je po více než 2 roky pod bodem mrazu. Věd. obor glaciologie"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Půdní pokryv na povrchu pevnin. Věd. obor pedologie."
+            },
+            {
+              "type": "paragraph",
+              "text": "- Geosféra s podmínkami pro život a trvalo obydlena živými organismy. Živý obal Země. Věd. obor biogeografie."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fyzickogeografická + socioekonomická sféra = krajinná sféra Země."
+            },
+            {
+              "type": "heading",
+              "text": "Otázky a okruhy — FG_1"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "Úvod do studia fyzické geografie • Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                "• Fyzickogeografická sféra Země se skládá z jednotlivých geosfér: a) zemská kůra s georeliéfem – nejsvrchnější vrstva pevného zemského tělesa, jejíž povrch se označuje jako georeliéf b) atmosféra – plynný obal Země (po ozonovou vrstvu) c) hydrosféra – geosféra tvořená vodami oceánů a pevniny d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu e) pedosféra – půdní pokryv na povrchu pevnin f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy • fyzickogeografická (na Zemi už jen vyjímečně) + socioekonomická sféra (aktivita člověka) = krajinná sféra Země a, b, c, d, e, f = komplexní fyzická geografie"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9."
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "globální energetická bilance země 2.1 Elektromagnetické záření • sluneční záření – elektromagnetické x korpuskulární (čističové – tok elektricky nabitých částic, je vyšší než elektromagnetické) • elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu • vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – μm (10-6 m) nebo nm (10-9 m) Obr.",
+                "2.1/31 - Strahler, Strahler (1999)"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "2.1.1 Záření a teplota • dva základní principy emise elektromagnetického záření: a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky), každé těleso vyzařuje tepelnou energii b) teplejší tělesa vyzařují mnohem více než tělesa chladnější (závislost na čtvrté mocnině absolutní teploty – Stefan-Boltzmannův zákon)"
+            },
+            {
+              "type": "paragraph",
+              "text": "= absolutně černé těleso (nejlépe saze) = konstanta = absolutní teplota tělesa , teplota je v Kelvinech (0° C = 273 K, 15°C = 273 + 15 K)"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1.2 Sluneční záření • Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
+                "než dorazí na Zemi • [W] = [J/s] – množství energie v J za časovou jednotku • vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W – to, co naše Země dostává • spektrum elektromagnetického záření: a) ultrafialové záření – 0,2-0,4 μm – pohlceno téměř úplně plyny v atmosféře – škodlivé pro živé organismy, je pohlcováno ozonem a kyslíkem b) viditelné záření – 0,4-0,7 μm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená => modrá obloha, červánky – jen malá část pohlcována c) krátkovlnné infračervené záření – 0,7-3 μm – lidské oko není ne ně citlivé – snadno proniká atmosférou • a) + b) + c) = krátkovlnné záření d) tepelné infračervené záření – > 3 μm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování) Obr.",
+                "2.2/32 - Strahler, Strahler (1999)"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1.3 Charakteristiky slunečního záření • různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 μm) • intenzita slunečního záření je největší ve viditelné části spektra, hlavně v oblasti zelené • solární konstanta - celková intenzita elektromagnetického záření Slunce, dopadajícího na horní hranici atmosféry na jednotkovou plochu kolmou k paprskům při střední vzdálenosti Země-Slunce: IS = 1367 W.m-2  0,3 %, měří se podle umělých družic Země, kolísá v rámci cyklu sluneční soustavy (0,1 – 0,2%)"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "2.1.4 Dlouhovlnné záření Země • zemský povrch a atmosféra vyzařují méně energie o větších vlnových délkách (v porovnání se Sluncem) • intenzita vyzařování má tři maxima pro L = 5, 10 a 20 μm – vlnové délky mezi tím pohlcovány hladně vodní párou a CO2 • je pohlcováno CO2 a vodní parou"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE - Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                "- Fyzickogeografická sféra Země se skládá z jednotlivých geosfér: a) zemská kůra s georeliéfem – nejsvrchnější vrstva pevného zemského tělesa, jejíž povrch se označuje jako georeliéf b) atmosféra – plynný obal Země (po ozonovou vrstvu) c) hydrosféra – geosféra tvořená vodami oceánů a pevniny d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu e) pedosféra – půdní pokryv na povrchu pevnin f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy - fyzickogeografická + socioekonomická sféra = krajinná sféra Země"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1.2 Sluneční záření - Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
+                "než dorazí na Zemi - vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W - spektrum elektromagnetického záření: a) ultrafialové záření – 0,2-0,4 µm – pohlceno téměř úplně plyny v atmosféře – škodlivé pro živé organismy b) viditelné záření – 0,4-0,7 µm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená) – jen malá část pohlcována c) krátkovlnné infračervené záření – 0,7-3 µm – lidské oko není ne ně citlivé – snadno proniká atmosférou - a) + b) + c) = krátkovlnné záření d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1.3 Charakteristiky slunečního záření - různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 µm) - intenzita slunečního záření je největší ve viditelné části spektra - solární konstanta - celková intenzita elektromagnetického záření Slunce, dopadajícího na horní hranici atmosféry na jednotkovou plochu kolmou k paprskům při střední vzdálenosti ZeměSlunce: IS = 1367 W.m-2 ± 0,3 % 2.1.4 Dlouhovlnné záření Země - zemský povrch a atmosféra vyzařují méně energie o větších vlnových délkách (v porovnání se Sluncem) - intenzita vyzařování má tři maxima pro L = 5, 10 a 20 µm – vlnové délky mezi tím pohlcovány hladně vodní párou a CO2"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "Úvod do studia fyzické geografie • Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                "• Fyzickogeografická sféra Země se skládá z jednotlivých geosfér: a) zemská kůra s georeliéfem – nejsvrchnější vrstva pevného zemského tělesa, jejíž povrch se označuje jako georeliéf b) atmosféra – plynný obal Země (po ozonovou vrstvu) c) hydrosféra – geosféra tvořená vodami oceánů a pevniny d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu e) pedosféra – půdní pokryv na povrchu pevnin f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy • fyzickogeografická (na Zemi už jen vyjímečně) + socioekonomická sféra (aktivita člověka) = krajinná sféra Země a, b, c, d, e, f = komplexní fyzická geografie"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "globální energetická bilance země 2.1 Elektromagnetické záření • sluneční záření – elektromagnetické x korpuskulární (čističové – tok elektricky nabitých částic, je vyšší než elektromagnetické) • elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu • vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – μm (10-6 m) nebo nm (10-9 m) Obr.",
+                "2.1/31 - Strahler, Strahler (1999)"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1.2 Sluneční záření • Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
+                "než dorazí na Zemi • [W] = [J/s] – množství energie v J za časovou jednotku • vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W – to, co naše Země dostává • spektrum elektromagnetického záření: a) ultrafialové záření – 0,2-0,4 μm – pohlceno téměř úplně plyny v atmosféře – škodlivé pro živé organismy, je pohlcováno ozonem a kyslíkem b) viditelné záření – 0,4-0,7 μm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená => modrá obloha, červánky – jen malá část pohlcována c) krátkovlnné infračervené záření – 0,7-3 μm – lidské oko není ne ně citlivé – snadno proniká atmosférou • a) + b) + c) = krátkovlnné záření d) tepelné infračervené záření – > 3 μm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování) Obr.",
+                "2.2/32 - Strahler, Strahler (1999)"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1.3 Charakteristiky slunečního záření • různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 μm) • intenzita slunečního záření je největší ve viditelné části spektra, hlavně v oblasti zelené • solární konstanta - celková intenzita elektromagnetického záření Slunce, dopadajícího na horní hranici atmosféry na jednotkovou plochu kolmou k paprskům při střední vzdálenosti Země-Slunce: IS = 1367 W.m-2  0,3 %, měří se podle umělých družic Země, kolísá v rámci cyklu sluneční soustavy (0,1 – 0,2%)"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Doporučený postup",
+              "items": [
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
+              "kind": "document",
+              "title": "FG_1 — okruhy Brázdil",
+              "url": "./materials/geografie-kartografie/z0026p/FG_1.doc",
+              "source": "Brázdil"
+            },
+            {
+              "kind": "document",
+              "title": "Výpisky — téma 1 (úvod)",
+              "url": "./materials/geografie-kartografie/z0026p/vypisky-z-fyzicke-geografie-mu-1-tema-od-brazdila.docx",
+              "source": "Výpisky MU"
+            },
+            {
+              "kind": "document",
+              "title": "FG_1",
+              "url": "./materials/geografie-kartografie/z0026p/FG_1.pdf",
+              "source": "Brázdil — skriptum"
+            },
+            {
+              "kind": "document",
+              "title": "FG_uvod",
+              "url": "./materials/geografie-kartografie/z0026p/FG_uvod.pdf",
+              "source": "Brázdil — skriptum"
+            },
+            {
               "kind": "link",
-              "title": "IS MUNI — detail předmětu",
+              "title": "IS MUNI — Fyzická geografie",
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             },
             {
               "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "title": "otazky-na-tema-1-a-2.docx",
+              "url": "./materials/geografie-kartografie/z0026p/otazky-na-tema-1-a-2.docx",
+              "source": "Okruhy ke zkoušce",
+              "note": "Sdílený materiál pro více okruhů"
+            },
+            {
+              "kind": "document",
+              "title": "otazky-ze-tretiho-terminu-zkousky.docx",
+              "url": "./materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+              "source": "Okruhy ke zkoušce",
+              "note": "Sdílený materiál pro více okruhů"
             }
           ]
         },
@@ -947,35 +1197,89 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 2 / 31",
+              "label": "Okruh",
               "text": "2. Základní poznatky o atmosféře: Atmosféra, vzduch, chemické složení vzduchu, fyzikální vlastnosti. Vertikální struktura atmosféry. Ozon a jeho změny v atmosféře. Antropogenní změny vlastností atmosféry. Počasí, povětrnost, podnebí."
             },
             {
+              "type": "heading",
+              "text": "Výtah ze skripta"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Klíčové body",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE - Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                "- Fyzickogeografická sféra Země se skládá z jednotlivých geosfér: a) zemská kůra s georeliéfem – nejsvrchnější vrstva pevného zemského tělesa, jejíž povrch se označuje jako georeliéf b) atmosféra – plynný obal Země (po ozonovou vrstvu) c) hydrosféra – geosféra tvořená vodami oceánů a pevniny d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu e) pedosféra – půdní pokryv na povrchu pevnin f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy - fyzickogeografická + socioekonomická sféra = krajinná sféra Země"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9. 2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+            },
+            {
+              "type": "paragraph",
+              "text": "2.1 Elektromagnetické záření - sluneční záření – elektromagnetické x korpuskulární (částicové) - elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu - vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6 m) nebo nm (10-9 m) Obr. 2.1/31 - Strahler, Strahler (1999)"
+            },
+            {
+              "type": "paragraph",
+              "text": "2.1.1 Záření a teplota - dva základní principy emise elektromagnetického záření: a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky) b) teplejší tělesa vyzařují mnohem více než tělesa chladnější (závislost na čtvrté mocnině absolutní teploty – Stefan-Boltzmannův zákon)"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1.2 Sluneční záření - Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
+                "než dorazí na Zemi - vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W - spektrum elektromagnetického záření: a) ultrafialové záření – 0,2-0,4 µm – pohlceno téměř úplně plyny v atmosféře – škodlivé pro živé organismy b) viditelné záření – 0,4-0,7 µm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená) – jen malá část pohlcována c) krátkovlnné infračervené záření – 0,7-3 µm – lidské oko není ne ně citlivé – snadno proniká atmosférou - a) + b) + c) = krátkovlnné záření d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1.3 Charakteristiky slunečního záření - různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 µm) - intenzita slunečního záření je největší ve viditelné části spektra - solární konstanta - celková intenzita elektromagnetického záření Slunce, dopadajícího na horní hranici atmosféry na jednotkovou plochu kolmou k paprskům při střední vzdálenosti ZeměSlunce: IS = 1367 W.m-2 ± 0,3 % 2.1.4 Dlouhovlnné záření Země - zemský povrch a atmosféra vyzařují méně energie o větších vlnových délkách (v porovnání se Sluncem) - intenzita vyzařování má tři maxima pro L = 5, 10 a 20 µm – vlnové délky mezi tím pohlcovány hladně vodní párou a CO2"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Doporučený postup",
+              "items": [
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "document",
+              "title": "otazky-ze-tretiho-terminu-zkousky.docx",
+              "url": "./materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+              "source": "Okruhy ke zkoušce",
+              "note": "Sdílený materiál pro více okruhů"
             },
             {
               "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "title": "otazky-na-tema-1-a-2.docx",
+              "url": "./materials/geografie-kartografie/z0026p/otazky-na-tema-1-a-2.docx",
+              "source": "Okruhy ke zkoušce",
+              "note": "Sdílený materiál pro více okruhů"
+            },
+            {
+              "kind": "document",
+              "title": "FG_1",
+              "url": "./materials/geografie-kartografie/z0026p/FG_1.pdf",
+              "source": "Brázdil — skriptum"
+            },
+            {
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -992,35 +1296,390 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 3 / 31",
+              "label": "Okruh",
               "text": "3. Základní meteorologické prvky: Sluneční záření. Dlouhovlnné záření. Radiační a energetická bilance. Teplota půdy. Teplota vzduchu. Voda v atmosféře (výpar, vlhkost vzduchu, oblaka a oblačnost, mlhy). Srážky. Tlak vzduchu. Proudění vzduchu. Místní větry a místní cirkulační systémy."
             },
             {
+              "type": "heading",
+              "text": "Výtah ze skripta"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Klíčové body",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE - Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                "- Fyzickogeografická sféra Země se skládá z jednotlivých geosfér: a) zemská kůra s georeliéfem – nejsvrchnější vrstva pevného zemského tělesa, jejíž povrch se označuje jako georeliéf b) atmosféra – plynný obal Země (po ozonovou vrstvu) c) hydrosféra – geosféra tvořená vodami oceánů a pevniny d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu e) pedosféra – půdní pokryv na povrchu pevnin f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy - fyzickogeografická + socioekonomická sféra = krajinná sféra Země"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9. 2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+            },
+            {
+              "type": "paragraph",
+              "text": "2.1 Elektromagnetické záření - sluneční záření – elektromagnetické x korpuskulární (částicové) - elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu - vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6 m) nebo nm (10-9 m) Obr. 2.1/31 - Strahler, Strahler (1999)"
+            },
+            {
+              "type": "paragraph",
+              "text": "2.1.1 Záření a teplota - dva základní principy emise elektromagnetického záření: a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky) b) teplejší tělesa vyzařují mnohem více než tělesa chladnější (závislost na čtvrté mocnině absolutní teploty – Stefan-Boltzmannův zákon)"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1.2 Sluneční záření - Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
+                "než dorazí na Zemi - vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W - spektrum elektromagnetického záření: a) ultrafialové záření – 0,2-0,4 µm – pohlceno téměř úplně plyny v atmosféře – škodlivé pro živé organismy b) viditelné záření – 0,4-0,7 µm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená) – jen malá část pohlcována c) krátkovlnné infračervené záření – 0,7-3 µm – lidské oko není ne ně citlivé – snadno proniká atmosférou - a) + b) + c) = krátkovlnné záření d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1.3 Charakteristiky slunečního záření - různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 µm) - intenzita slunečního záření je největší ve viditelné části spektra - solární konstanta - celková intenzita elektromagnetického záření Slunce, dopadajícího na horní hranici atmosféry na jednotkovou plochu kolmou k paprskům při střední vzdálenosti ZeměSlunce: IS = 1367 W.m-2 ± 0,3 % 2.1.4 Dlouhovlnné záření Země - zemský povrch a atmosféra vyzařují méně energie o větších vlnových délkách (v porovnání se Sluncem) - intenzita vyzařování má tři maxima pro L = 5, 10 a 20 µm – vlnové délky mezi tím pohlcovány hladně vodní párou a CO2"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Výpisky — teplota a záření"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Teplota – Střední kinetické energie molekul tělesa (míra úrovně zjevného tepla v tělese)"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Určuje jak rychle kmitají částice v atmosféře"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Jestliže těleso přijímá tepelnou energii, jeho teplota roste, vydává-li ji, jeho teplota klesá."
+            },
+            {
+              "type": "paragraph",
+              "text": "- Povrch během dne dostává více krátkovlnného záření než ztrácí dlouhovlnným vyzařováním – jeho teplota roste, v noci, kdy tok krátkovlnného záření ustává a převažuje dlouhovlnné záření, teplota klesá"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Teplota tělesa vedle pohlcování a vyzařování může měnit se může měnit těmito procesy:"
+            },
+            {
+              "type": "paragraph",
+              "text": "a) vedením – Tok tepla mezi dvěma dotýkajícími se tělesy od teplejší ke chladnějšímu (aktivní povrch – atmosféra)"
+            },
+            {
+              "type": "paragraph",
+              "text": "b) výparem – Změna skupenství vody z kapalného na plynné za pohlcování energie – pokles teploty vypařujícího povrchu."
+            },
+            {
+              "type": "paragraph",
+              "text": "c) Konvekcí – Přenos tepla promícháváním při výstupném pohybu vzduchu."
+            },
+            {
+              "type": "paragraph",
+              "text": "- Teplotní stupnice Celsiova °C – bod mrazu = 0 °C, bod varu = 100 °C"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Teplotní stupnice Fahrenheitova (°F) – bod mrazu 32°F, bod varu 212°F"
+            },
+            {
+              "type": "heading",
+              "text": "Výpisky — vlhkost vzduchu"
+            },
+            {
+              "type": "paragraph",
+              "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil"
+            },
+            {
+              "type": "paragraph",
+              "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Voda hraje klíčovou roli na Zemi z následujících příčin"
+            },
+            {
+              "type": "paragraph",
+              "text": "a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např. soli)"
+            },
+            {
+              "type": "paragraph",
+              "text": "b) Voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému"
+            },
+            {
+              "type": "paragraph",
+              "text": "c) vodou (vodní parou) v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému"
+            },
+            {
+              "type": "paragraph",
+              "text": "97 % tvoří slaná voda, 2,8 % sladká voda (mimo slaná jezera a vnitřní moře)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Hlavní část sladké vody je vázána v ledovcových štítech a horských ledovcích (2,15 %) a podpovrchové vodě, hlavně podzemní (0, 63 %) – zbytek 0,02 %, takže sladké voda na pevnině tvoří jen velmi malou část z celkových zásob vody na Zemi."
+            },
+            {
+              "type": "paragraph",
+              "text": "Zbytek 0,02 % se rozděluje na půdní vodu (v dosahu kořenů rostlin), povrchovou vodu (jezera, vodní toky, bažiny) a vodu v atmosféře."
+            },
+            {
+              "type": "heading",
+              "text": "Otázky a okruhy — FG_2"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "Teplota vzduchu • teplota – střední kinetická energie molekul tělesa (míra úrovně zjevného tepla v tělese) • jestliže těleso přijímá tepelnou energii, jeho teplota roste • povrch během dne dostává více krátkovlnného záření, než ztrácí dlouhovlnným vyzařováním - jeho teplota roste; v noci, kdy tok krátkovlnného záření ustává, teplota klesá • teplota tělesa se vedle pohlcování a vyzařování může měnit těmito procesy: a) vedením – tok tepla mezi dvěma dotýkajícími se tělesy od teplejšího ke chladnějšímu (aktivní povrch – atmosféra) b) výparem – změna skupenství vody z kapalného na plynné za pohlcování energie – pokles teploty vypařujícího povrchu c) konvekcí – přenos tepla promícháváním při výstupném pohybu vzduchu"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "3.1 Měření teploty vzduchu • teplotní stupnice Celsiova (°C) – bod mrazu 0 °C, bod varu 100 °C • teplotní stupnice Fahrenheitova (°F) – bod mrazu 32 °F, bod varu 212 °F • teploměr – přístroj pro měření teploty vzduchu (rtuť nebo líh v kapiláře reaguje na změnu teploty různým roztažením) v bílé žaluziové meteorologické budce ve výšce 2 m nad zemí, která brání přímému dopadu slunečních paprsků a umožňuje cirkulaci vzduchu kolem teploměru • dnes kapalinové skleněné teploměry nahrazeny odporovými teploměry (termistory), které měří automaticky změny elektrického odporu s teplotou • průměrná denní teplota vzduchu: (t07 + t14 + 2t21)/4, v řadě zemí ale průměr tmax a tmin • z denních průměrných teplot se počítají průměrné měsíční teploty a z nich průměrné roční teploty"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "3.2 Denní chod teploty vzduchu • denní změny radiační bilance (přes den pozitivní, v noci negativní) se projevují v denním chodu teploty vzduchu 3.2.1 Denní chod insolace a radiační bilance • insolace  radiační bilance → teplota vzduchu Obr. 3.3/53 – SS"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "3.2.2 Denní teplota • minimum teploty asi půl hodiny po východu Slunce – důsledek ochlazování povrchu dlouhovlnným vyzařováním v období negativní radiační bilance • po východu Slunce ( kladná radiační bilance) výrazný vzestup teploty vzduchu do maxima mezi 13.-16.",
+                "hodinou ( promíchávání vzduchu a odvod tepla nahoru, jinak by při kladné bilanci měla teplota ještě dále vzrůstat) • po maximu opět pokles teploty vzduchu k rannímu minimu (vzestupná část křivky kratší než sestupná) • úroveň teploty a denní amplituda ovlivněny sezónně • denní amplituda = tmax – tmin, největší amplitudy na jaře, nejmenší v zimě"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "3.2.3 Teplota při povrchu • při povrchu je chod teploty extrémnější – povrch se slunečním zářením více zahřívá a více se ochlazuje dlouhovlnným vyzařováním než vzduch ve výšce 2 m nad zemí • v noci aktivní povrch chladnější než podloží aktivního povrchu a teplota nad ním, ve dne naopak"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "3.2.4 Kontrast teploty mezi městem a venkovskou krajinou • charakter aktivního povrchu je měněn lidskou aktivitou, zvláště ve městech (zástavba, vozovky, chodníky aj.) • venkovská krajina – vegetace – transpirace (výpar z povrchu rostlin) – odnímání tepla, povrch chladnější (výraznější ochlazující vliv v případě lesního porostu) • půdní povrch je vlhčí, při výparu jeho ochlazování • ve městě je srážková voda odváděna mimo město, povrch je sušší, insolací se otepluje povrch (teplota vyšší než v okolní venkovské krajině) • stavební materiály ve městě pohlcují a uchovávají zářivou energii, v noci ji vyzařují (noční teploty vyšší než v okolní venkovské krajině) • pohlcování tepla je posíleno několikerým odrazem záření mezi různými vertikálními povrchy ve městě"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "3.2.5 Tepelný ostrov města • teplota ve městě je vyšší než v okolí (příčiny viz 3.2.4) – tepelný ostrov města – existuje během noci díky záření pohlcenému během dne • odpadní teplo ve městě (topení aj.) – tepelný ostrov nejintenzivnější v zimě • pouštní oblasti – evapotranspirace zavlažované vegetace ve městě může držet teplotu níže než v okolí Obr. 3.6/56 – SS nebo něco lepšího na tepelný ostrov"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "3.3 Teplotní zvrstvení atmosféry • teplota vzduchu klesá s výškou – pokles lze popsat vertikálním teplotním gradientem (˚C/100 m) • vzduch se otepluje od aktivního povrchu, tedy čím je od povrchu dále, tím je chladnější • průměrný vertikální teplotní gradient 0,65 ˚C/100 m • od určité úrovně ale průměrná teplota roste, což umožnilo rozlišit dvě části spodní atmosféry – troposféru a stratosféru Obr.",
+                "- Změna teploty s výškou v atmosféře"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Otázky a okruhy — FG_3"
+            },
+            {
+              "type": "paragraph",
+              "text": "4. Atmosférická vlhkost a srážky • voda existuje ve třech skupenstvích – pevném (led), kapalném (voda), plynném (vodní pára) • při fázových změnách se spotřebovává nebo uvolňuje latentní teplo Obr. 4.1/77 – SS"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "4.1 Voda v globální perspektivě • voda hraje klíčovou roli na Zemi z následujících příčin: a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např.",
+                "soli) b) voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému c) vodou v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "4.1.1 Hydrosféra a hydrologický cyklus Obr. 4.2/78 – SS"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• 97,2 % tvoří slaná voda, 2,8 % sladká voda • hlavní část sladké vody je vázána v ledovcových štítech a horských ledovcích (2,15 %) a podpovrchové vodě, hlavně podzemní (0,63 %) – zbytek 0,02 %, takže sladká voda na pevnině tvoří jen velmi malou část z celkových zásob vody na Zemi • zbytek 0,02 % se rozděluje na půdní vodu (v dosahu kořenů rostlin), povrchovou vodu (např.",
+                "jezera, vodní toky, bažiny) a vodu v atmosféře • hydrologický cyklus – popisuje globální výměnu vody mezi jednotlivými rezervoáry: a) výpar z oceánů a pevnin (plus transpirace) do atmosféry v podobě vodní páry, z oceánů šestkrát větší b) kondenzace nebo sublimace vodní páry v atmosféře, vypadávající v podobě srážek (srážky nad oceány asi čtyřikrát větší než nad pevninou) c) srážky vypadlé na pevninu mohou - se vypařit a vrátit se do atmosféry jako vodní pára - se vsáknout do půdy (podzemní odtok) - odtékat z povrchu spojujíce se do potoků a řek, odtékajících zpět do oceánů nebo bezodtokých jezer"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "4.1.2 Globální vodní bilance Obr. 4.3/78 – SS"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• popisuje toky vody mezi oceánem, atmosférou a pevninou • předpokládáme, že objem oceánských vod a objem sladkých povrchových a podpovrchových vod je konstantní rok od roku • oceán: srážky (do) + odtok (do) = výpar (z), tj.",
+                "km3 • pevnina: srážky (na) = výpar (z) + odtok (z), tj.",
+                "km3 • protože na pevnině výpar = srážky – odtok, lze odtok při bilancování vypustit a lze zapsat: celkový výpar celkové srážky 70 (pevnina) + 420 (oceán) = 110 (pevnina) + 380 (oceán) (vše v tis."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "4.2 Vlhkost vzduchu • vlhkost vzduchu – obecně značí množství vodní páry ve vzduchu • množství vodní páry ve vzduchu kolísání s místem a časem (téměř žádné v chladném a suchém arktickém vzduchu až do 4-5 % v teplém vlhkém vzduchu při rovníku) • maximální množství vlhkosti, které se může udržet ve vzduchu, závisí na teplotě vzduchu – teplý vzduch může udržet víc vlhkosti (vodní páry) než studený"
+            },
+            {
+              "type": "paragraph",
+              "text": "4.2.1 Specifická vlhkost vzduchu • specifická vlhkost vzduchu (g.kg-1) – hmotnost vodní páry v gramech obsažená v 1 kg vzduchu • maximální specifická vlhkost v závislosti na teplotě: -10 ºC – 2 g/kg, 30 ºC – 26 g/kg Obr. 4.4/80 – SS"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE - Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                "- Fyzickogeografická sféra Země se skládá z jednotlivých geosfér: a) zemská kůra s georeliéfem – nejsvrchnější vrstva pevného zemského tělesa, jejíž povrch se označuje jako georeliéf b) atmosféra – plynný obal Země (po ozonovou vrstvu) c) hydrosféra – geosféra tvořená vodami oceánů a pevniny d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu e) pedosféra – půdní pokryv na povrchu pevnin f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy - fyzickogeografická + socioekonomická sféra = krajinná sféra Země"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1.2 Sluneční záření - Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
+                "než dorazí na Zemi - vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W - spektrum elektromagnetického záření: a) ultrafialové záření – 0,2-0,4 µm – pohlceno téměř úplně plyny v atmosféře – škodlivé pro živé organismy b) viditelné záření – 0,4-0,7 µm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená) – jen malá část pohlcována c) krátkovlnné infračervené záření – 0,7-3 µm – lidské oko není ne ně citlivé – snadno proniká atmosférou - a) + b) + c) = krátkovlnné záření d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1.3 Charakteristiky slunečního záření - různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 µm) - intenzita slunečního záření je největší ve viditelné části spektra - solární konstanta - celková intenzita elektromagnetického záření Slunce, dopadajícího na horní hranici atmosféry na jednotkovou plochu kolmou k paprskům při střední vzdálenosti ZeměSlunce: IS = 1367 W.m-2 ± 0,3 % 2.1.4 Dlouhovlnné záření Země - zemský povrch a atmosféra vyzařují méně energie o větších vlnových délkách (v porovnání se Sluncem) - intenzita vyzařování má tři maxima pro L = 5, 10 a 20 µm – vlnové délky mezi tím pohlcovány hladně vodní párou a CO2"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "Teplota vzduchu • teplota – střední kinetická energie molekul tělesa (míra úrovně zjevného tepla v tělese) • jestliže těleso přijímá tepelnou energii, jeho teplota roste • povrch během dne dostává více krátkovlnného záření, než ztrácí dlouhovlnným vyzařováním - jeho teplota roste; v noci, kdy tok krátkovlnného záření ustává, teplota klesá • teplota tělesa se vedle pohlcování a vyzařování může měnit těmito procesy: a) vedením – tok tepla mezi dvěma dotýkajícími se tělesy od teplejšího ke chladnějšímu (aktivní povrch – atmosféra) b) výparem – změna skupenství vody z kapalného na plynné za pohlcování energie – pokles teploty vypařujícího povrchu c) konvekcí – přenos tepla promícháváním při výstupném pohybu vzduchu"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "3.1 Měření teploty vzduchu • teplotní stupnice Celsiova (°C) – bod mrazu 0 °C, bod varu 100 °C • teplotní stupnice Fahrenheitova (°F) – bod mrazu 32 °F, bod varu 212 °F • teploměr – přístroj pro měření teploty vzduchu (rtuť nebo líh v kapiláře reaguje na změnu teploty různým roztažením) v bílé žaluziové meteorologické budce ve výšce 2 m nad zemí, která brání přímému dopadu slunečních paprsků a umožňuje cirkulaci vzduchu kolem teploměru • dnes kapalinové skleněné teploměry nahrazeny odporovými teploměry (termistory), které měří automaticky změny elektrického odporu s teplotou • průměrná denní teplota vzduchu: (t07 + t14 + 2t21)/4, v řadě zemí ale průměr tmax a tmin • z denních průměrných teplot se počítají průměrné měsíční teploty a z nich průměrné roční teploty"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "3.2.2 Denní teplota • minimum teploty asi půl hodiny po východu Slunce – důsledek ochlazování povrchu dlouhovlnným vyzařováním v období negativní radiační bilance • po východu Slunce ( kladná radiační bilance) výrazný vzestup teploty vzduchu do maxima mezi 13.-16.",
+                "hodinou ( promíchávání vzduchu a odvod tepla nahoru, jinak by při kladné bilanci měla teplota ještě dále vzrůstat) • po maximu opět pokles teploty vzduchu k rannímu minimu (vzestupná část křivky kratší než sestupná) • úroveň teploty a denní amplituda ovlivněny sezónně • denní amplituda = tmax – tmin, největší amplitudy na jaře, nejmenší v zimě"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "3.2.4 Kontrast teploty mezi městem a venkovskou krajinou • charakter aktivního povrchu je měněn lidskou aktivitou, zvláště ve městech (zástavba, vozovky, chodníky aj.) • venkovská krajina – vegetace – transpirace (výpar z povrchu rostlin) – odnímání tepla, povrch chladnější (výraznější ochlazující vliv v případě lesního porostu) • půdní povrch je vlhčí, při výparu jeho ochlazování • ve městě je srážková voda odváděna mimo město, povrch je sušší, insolací se otepluje povrch (teplota vyšší než v okolní venkovské krajině) • stavební materiály ve městě pohlcují a uchovávají zářivou energii, v noci ji vyzařují (noční teploty vyšší než v okolní venkovské krajině) • pohlcování tepla je posíleno několikerým odrazem záření mezi různými vertikálními povrchy ve městě"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "3.3 Teplotní zvrstvení atmosféry • teplota vzduchu klesá s výškou – pokles lze popsat vertikálním teplotním gradientem (˚C/100 m) • vzduch se otepluje od aktivního povrchu, tedy čím je od povrchu dále, tím je chladnější • průměrný vertikální teplotní gradient 0,65 ˚C/100 m • od určité úrovně ale průměrná teplota roste, což umožnilo rozlišit dvě části spodní atmosféry – troposféru a stratosféru Obr.",
+                "- Změna teploty s výškou v atmosféře"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "4.1 Voda v globální perspektivě • voda hraje klíčovou roli na Zemi z následujících příčin: a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např.",
+                "soli) b) voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému c) vodou v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• 97,2 % tvoří slaná voda, 2,8 % sladká voda • hlavní část sladké vody je vázána v ledovcových štítech a horských ledovcích (2,15 %) a podpovrchové vodě, hlavně podzemní (0,63 %) – zbytek 0,02 %, takže sladká voda na pevnině tvoří jen velmi malou část z celkových zásob vody na Zemi • zbytek 0,02 % se rozděluje na půdní vodu (v dosahu kořenů rostlin), povrchovou vodu (např.",
+                "jezera, vodní toky, bažiny) a vodu v atmosféře • hydrologický cyklus – popisuje globální výměnu vody mezi jednotlivými rezervoáry: a) výpar z oceánů a pevnin (plus transpirace) do atmosféry v podobě vodní páry, z oceánů šestkrát větší b) kondenzace nebo sublimace vodní páry v atmosféře, vypadávající v podobě srážek (srážky nad oceány asi čtyřikrát větší než nad pevninou) c) srážky vypadlé na pevninu mohou - se vypařit a vrátit se do atmosféry jako vodní pára - se vsáknout do půdy (podzemní odtok) - odtékat z povrchu spojujíce se do potoků a řek, odtékajících zpět do oceánů nebo bezodtokých jezer"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• popisuje toky vody mezi oceánem, atmosférou a pevninou • předpokládáme, že objem oceánských vod a objem sladkých povrchových a podpovrchových vod je konstantní rok od roku • oceán: srážky (do) + odtok (do) = výpar (z), tj.",
+                "km3 • pevnina: srážky (na) = výpar (z) + odtok (z), tj.",
+                "km3 • protože na pevnině výpar = srážky – odtok, lze odtok při bilancování vypustit a lze zapsat: celkový výpar celkové srážky 70 (pevnina) + 420 (oceán) = 110 (pevnina) + 380 (oceán) (vše v tis."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Doporučený postup",
+              "items": [
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
+              "kind": "document",
+              "title": "FG_3 — okruhy Brázdil",
+              "url": "./materials/geografie-kartografie/z0026p/FG_3.doc",
+              "source": "Brázdil",
+              "note": "Sdílený materiál pro více okruhů hydrologie"
+            },
+            {
+              "kind": "document",
+              "title": "FG_2 — okruhy Brázdil",
+              "url": "./materials/geografie-kartografie/z0026p/FG_2.doc",
+              "source": "Brázdil"
+            },
+            {
+              "kind": "document",
+              "title": "Výpisky — vlhkost vzduchu",
+              "url": "./materials/geografie-kartografie/z0026p/vypisky-z-fyzicke-geografie-mu-3-tema-od-brazdila-atm-vlhkost.docx",
+              "source": "Výpisky MU"
+            },
+            {
+              "kind": "document",
+              "title": "Výpisky — teplota a záření",
+              "url": "./materials/geografie-kartografie/z0026p/vypisky-z-fyzicke-geografie-mu-2-tema-od-brazdila-teplota.docx",
+              "source": "Výpisky MU"
+            },
+            {
+              "kind": "document",
+              "title": "FG_1",
+              "url": "./materials/geografie-kartografie/z0026p/FG_1.pdf",
+              "source": "Brázdil — skriptum"
+            },
+            {
               "kind": "link",
-              "title": "IS MUNI — detail předmětu",
+              "title": "IS MUNI — Fyzická geografie",
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             },
             {
               "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "title": "otazky-na-tema-3-a-4.docx",
+              "url": "./materials/geografie-kartografie/z0026p/otazky-na-tema-3-a-4.docx",
+              "source": "Okruhy ke zkoušce",
+              "note": "Sdílený materiál pro více okruhů"
+            },
+            {
+              "kind": "document",
+              "title": "otazky-ze-tretiho-terminu-zkousky.docx",
+              "url": "./materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+              "source": "Okruhy ke zkoušce",
+              "note": "Sdílený materiál pro více okruhů"
             }
           ]
         },
@@ -1037,35 +1696,247 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 4 / 31",
+              "label": "Okruh",
               "text": "4. Všeobecná cirkulace atmosféry: Vzduchové hmoty. Atmosférické fronty. Cirkulace tropických šířek (TZK, pasáty, antipasáty, monzuny, tropické cyklóny). Cirkulace mimotropických šířek (cyklony, anticyklony, mimotropické monzuny, zonální a meridionální cirkulace)."
             },
             {
+              "type": "heading",
+              "text": "Výpisky — vlhkost vzduchu"
+            },
+            {
+              "type": "paragraph",
+              "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil"
+            },
+            {
+              "type": "paragraph",
+              "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Voda hraje klíčovou roli na Zemi z následujících příčin"
+            },
+            {
+              "type": "paragraph",
+              "text": "a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např. soli)"
+            },
+            {
+              "type": "paragraph",
+              "text": "b) Voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému"
+            },
+            {
+              "type": "paragraph",
+              "text": "c) vodou (vodní parou) v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému"
+            },
+            {
+              "type": "paragraph",
+              "text": "97 % tvoří slaná voda, 2,8 % sladká voda (mimo slaná jezera a vnitřní moře)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Hlavní část sladké vody je vázána v ledovcových štítech a horských ledovcích (2,15 %) a podpovrchové vodě, hlavně podzemní (0, 63 %) – zbytek 0,02 %, takže sladké voda na pevnině tvoří jen velmi malou část z celkových zásob vody na Zemi."
+            },
+            {
+              "type": "paragraph",
+              "text": "Zbytek 0,02 % se rozděluje na půdní vodu (v dosahu kořenů rostlin), povrchovou vodu (jezera, vodní toky, bažiny) a vodu v atmosféře."
+            },
+            {
+              "type": "heading",
+              "text": "Otázky a okruhy — FG_3"
+            },
+            {
+              "type": "paragraph",
+              "text": "4. Atmosférická vlhkost a srážky • voda existuje ve třech skupenstvích – pevném (led), kapalném (voda), plynném (vodní pára) • při fázových změnách se spotřebovává nebo uvolňuje latentní teplo Obr. 4.1/77 – SS"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Klíčové body",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "4.1 Voda v globální perspektivě • voda hraje klíčovou roli na Zemi z následujících příčin: a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např.",
+                "soli) b) voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému c) vodou v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "4.1.1 Hydrosféra a hydrologický cyklus Obr. 4.2/78 – SS"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• 97,2 % tvoří slaná voda, 2,8 % sladká voda • hlavní část sladké vody je vázána v ledovcových štítech a horských ledovcích (2,15 %) a podpovrchové vodě, hlavně podzemní (0,63 %) – zbytek 0,02 %, takže sladká voda na pevnině tvoří jen velmi malou část z celkových zásob vody na Zemi • zbytek 0,02 % se rozděluje na půdní vodu (v dosahu kořenů rostlin), povrchovou vodu (např.",
+                "jezera, vodní toky, bažiny) a vodu v atmosféře • hydrologický cyklus – popisuje globální výměnu vody mezi jednotlivými rezervoáry: a) výpar z oceánů a pevnin (plus transpirace) do atmosféry v podobě vodní páry, z oceánů šestkrát větší b) kondenzace nebo sublimace vodní páry v atmosféře, vypadávající v podobě srážek (srážky nad oceány asi čtyřikrát větší než nad pevninou) c) srážky vypadlé na pevninu mohou - se vypařit a vrátit se do atmosféry jako vodní pára - se vsáknout do půdy (podzemní odtok) - odtékat z povrchu spojujíce se do potoků a řek, odtékajících zpět do oceánů nebo bezodtokých jezer"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "4.1.2 Globální vodní bilance Obr. 4.3/78 – SS"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• popisuje toky vody mezi oceánem, atmosférou a pevninou • předpokládáme, že objem oceánských vod a objem sladkých povrchových a podpovrchových vod je konstantní rok od roku • oceán: srážky (do) + odtok (do) = výpar (z), tj.",
+                "km3 • pevnina: srážky (na) = výpar (z) + odtok (z), tj.",
+                "km3 • protože na pevnině výpar = srážky – odtok, lze odtok při bilancování vypustit a lze zapsat: celkový výpar celkové srážky 70 (pevnina) + 420 (oceán) = 110 (pevnina) + 380 (oceán) (vše v tis."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "4.2 Vlhkost vzduchu • vlhkost vzduchu – obecně značí množství vodní páry ve vzduchu • množství vodní páry ve vzduchu kolísání s místem a časem (téměř žádné v chladném a suchém arktickém vzduchu až do 4-5 % v teplém vlhkém vzduchu při rovníku) • maximální množství vlhkosti, které se může udržet ve vzduchu, závisí na teplotě vzduchu – teplý vzduch může udržet víc vlhkosti (vodní páry) než studený"
+            },
+            {
+              "type": "paragraph",
+              "text": "4.2.1 Specifická vlhkost vzduchu • specifická vlhkost vzduchu (g.kg-1) – hmotnost vodní páry v gramech obsažená v 1 kg vzduchu • maximální specifická vlhkost v závislosti na teplotě: -10 ºC – 2 g/kg, 30 ºC – 26 g/kg Obr. 4.4/80 – SS"
+            },
+            {
+              "type": "heading",
+              "text": "Otázky a okruhy — FG_4"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "5.1 Atmosférický tlak • tlak p – síla F rovnoměrně spojitě rozložená, působící kolmo na rovinnou plochu, dělená velikostí této plochy S, tedy p = F.S-1 [Pa = N.m-2] • atmosférický (barometrický) tlak – tlak atmosféry na všechna tělesa v ovzduší a na zemský povrch bez zřetele na orientaci stěn tělesa, který se rovná hmotnosti vzduchového sloupce nacházejícího se nad nimi [hPa = mbar] • normální barometrický tlak 1013,2 hPa (760 Torrů)"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "5.1.1 Měření tlaku • rtuťový tlakoměr (barometr) – přístroj pro měření tlaku vzduchu • tlak působí na rtuť v nádobě, která je vytlačena do trubice, v níž je vakuum (původně mm Hg) • malá mezidenní kolísání tlaku – největší změny při putujících tlakových útvarech Obr. 5.2/108 – SS"
+            },
+            {
+              "type": "paragraph",
+              "text": "5.1.2 Změna tlaku vzduchu s výškou • pokles tlaku vzduchu s výškou, v nižších výškách velmi prudký, ve vyšších výškách pomalejší, tj. menší změna výšky v troposféře znamená významnou změnu tlaku • vliv poklesu tlaku s výškou na člověka – kyslík se dostává do plicních tkání pomaleji, zkrácení dechu a únava (kolem 3000 m a výše)"
+            },
+            {
+              "type": "paragraph",
+              "text": "5.2 Větry a tlakové gradienty • vítr – horizontální složka proudění vzduchu • charakteristiky větru: a) směr větru – směr, odkud vítr vane (např. západní vítr – vane od západu k východu); měřen větrnou směrovkou (staví se proti větru) Obr. 5.4/109 – SS"
+            },
+            {
+              "type": "paragraph",
+              "text": "b) rychlost větru (m.s-1, km.h-1) – měřen anemometrem (počet otáček Robinsonova kříže je proporcionální rychlosti větru) • vítr je vyvolán tlakovými rozdíly mezi dvěma místy a směřuje z oblasti vyššího tlaku vzduchu do oblasti nižšího tlaku vzduchu (tj. ve směru síly horizontálního tlakového gradientu) Obr. 5.5/109 – SS"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• izobary – čáry spojující místa se stejnou hodnotou tlaku vzduchu • charakteristické tlakové útvary: a) tlaková výše (anticyklona) – uzavřené koncentricky uspořádané izobary s nejvyšším tlakem uprostřed b) tlaková níže (cyklona) – uzavřené koncentricky uspořádané izobary s nejnižším tlakem uprostřed c) hřeben vysokého tlaku – pásmo vyššího tlaku vybíhající z tlakové výše nebo oddělujíci dvě tlakové níže, nejvyšší tlak v ose hřebenu d) brázda nízkého tlaku – pásmo nižšího tlaku vybíhající z tlakové níže nebo oddělujíci dvě tlakové výše, nejnižší tlak v ose brázdy e) barické sedlo – část barického pole mezi dvěma protilehlými tlakovými výšemi a nížemi, příp.",
+                "mezi dvěma hřebeny a brázdami Obr.",
+                "2.31/79 – Netopil: Fyzická geografie I"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "• tlakové rozdíly jsou podmíněny nestejným zahříváním povrchu → teplotní diference → teplý vzduch má menší hustotu (nízký tlak) než studený (vysoký tlak)"
+            },
+            {
+              "type": "paragraph",
+              "text": "5.2.1 Brízová cirkulace • pobřežní vánky (brízy) vanou mezi mořem a pobřežím v létě jako důsledek nestejnoměrného zahřívání vody a souše, měnícími směr tlakového gradientu • mořský vánek – odpoledne vane chladnější vzduch z moře na pevninu • pevninský vánek – vane v noci z pevniny na moře Obr. 5.6/110 – SS"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "4.1 Voda v globální perspektivě • voda hraje klíčovou roli na Zemi z následujících příčin: a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např.",
+                "soli) b) voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému c) vodou v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• 97,2 % tvoří slaná voda, 2,8 % sladká voda • hlavní část sladké vody je vázána v ledovcových štítech a horských ledovcích (2,15 %) a podpovrchové vodě, hlavně podzemní (0,63 %) – zbytek 0,02 %, takže sladká voda na pevnině tvoří jen velmi malou část z celkových zásob vody na Zemi • zbytek 0,02 % se rozděluje na půdní vodu (v dosahu kořenů rostlin), povrchovou vodu (např.",
+                "jezera, vodní toky, bažiny) a vodu v atmosféře • hydrologický cyklus – popisuje globální výměnu vody mezi jednotlivými rezervoáry: a) výpar z oceánů a pevnin (plus transpirace) do atmosféry v podobě vodní páry, z oceánů šestkrát větší b) kondenzace nebo sublimace vodní páry v atmosféře, vypadávající v podobě srážek (srážky nad oceány asi čtyřikrát větší než nad pevninou) c) srážky vypadlé na pevninu mohou - se vypařit a vrátit se do atmosféry jako vodní pára - se vsáknout do půdy (podzemní odtok) - odtékat z povrchu spojujíce se do potoků a řek, odtékajících zpět do oceánů nebo bezodtokých jezer"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• popisuje toky vody mezi oceánem, atmosférou a pevninou • předpokládáme, že objem oceánských vod a objem sladkých povrchových a podpovrchových vod je konstantní rok od roku • oceán: srážky (do) + odtok (do) = výpar (z), tj.",
+                "km3 • pevnina: srážky (na) = výpar (z) + odtok (z), tj.",
+                "km3 • protože na pevnině výpar = srážky – odtok, lze odtok při bilancování vypustit a lze zapsat: celkový výpar celkové srážky 70 (pevnina) + 420 (oceán) = 110 (pevnina) + 380 (oceán) (vše v tis."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "5.1 Atmosférický tlak • tlak p – síla F rovnoměrně spojitě rozložená, působící kolmo na rovinnou plochu, dělená velikostí této plochy S, tedy p = F.S-1 [Pa = N.m-2] • atmosférický (barometrický) tlak – tlak atmosféry na všechna tělesa v ovzduší a na zemský povrch bez zřetele na orientaci stěn tělesa, který se rovná hmotnosti vzduchového sloupce nacházejícího se nad nimi [hPa = mbar] • normální barometrický tlak 1013,2 hPa (760 Torrů)"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• izobary – čáry spojující místa se stejnou hodnotou tlaku vzduchu • charakteristické tlakové útvary: a) tlaková výše (anticyklona) – uzavřené koncentricky uspořádané izobary s nejvyšším tlakem uprostřed b) tlaková níže (cyklona) – uzavřené koncentricky uspořádané izobary s nejnižším tlakem uprostřed c) hřeben vysokého tlaku – pásmo vyššího tlaku vybíhající z tlakové výše nebo oddělujíci dvě tlakové níže, nejvyšší tlak v ose hřebenu d) brázda nízkého tlaku – pásmo nižšího tlaku vybíhající z tlakové níže nebo oddělujíci dvě tlakové výše, nejnižší tlak v ose brázdy e) barické sedlo – část barického pole mezi dvěma protilehlými tlakovými výšemi a nížemi, příp.",
+                "mezi dvěma hřebeny a brázdami Obr.",
+                "2.31/79 – Netopil: Fyzická geografie I"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Doporučený postup",
+              "items": [
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
+              "kind": "document",
+              "title": "FG_4 — okruhy Brázdil",
+              "url": "./materials/geografie-kartografie/z0026p/FG_4.doc",
+              "source": "Brázdil"
+            },
+            {
+              "kind": "document",
+              "title": "FG_3 — okruhy Brázdil",
+              "url": "./materials/geografie-kartografie/z0026p/FG_3.doc",
+              "source": "Brázdil",
+              "note": "Sdílený materiál pro více okruhů hydrologie"
+            },
+            {
+              "kind": "document",
+              "title": "Výpisky — vlhkost vzduchu",
+              "url": "./materials/geografie-kartografie/z0026p/vypisky-z-fyzicke-geografie-mu-3-tema-od-brazdila-atm-vlhkost.docx",
+              "source": "Výpisky MU"
+            },
+            {
               "kind": "link",
-              "title": "IS MUNI — detail předmětu",
+              "title": "IS MUNI — Fyzická geografie",
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             },
             {
               "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "title": "otazky-na-tema-3-a-4.docx",
+              "url": "./materials/geografie-kartografie/z0026p/otazky-na-tema-3-a-4.docx",
+              "source": "Okruhy ke zkoušce",
+              "note": "Sdílený materiál pro více okruhů"
+            },
+            {
+              "kind": "document",
+              "title": "vetry-a-globalni-cirkulace-atmosfery.docx",
+              "url": "./materials/geografie-kartografie/z0026p/vetry-a-globalni-cirkulace-atmosfery.docx",
+              "source": "Okruhy ke zkoušce",
+              "note": "Sdílený materiál pro více okruhů"
+            },
+            {
+              "kind": "document",
+              "title": "otazky-ze-tretiho-terminu-zkousky.docx",
+              "url": "./materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+              "source": "Okruhy ke zkoušce",
+              "note": "Sdílený materiál pro více okruhů"
             }
           ]
         },
@@ -1082,35 +1953,98 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 5 / 31",
+              "label": "Okruh",
               "text": "5. Základy předpovědi počasí: zdroje dat pro předpověď počasí, druhy předpovědi, metody krátkodobé předpovědi, dlouhodobá předpověď. 6. Klimatické klasifikace: metody klasifikace, rozdělení klasifikací. Konvenční klasifikace Köppena. Genetická klasifikace Alisovova."
             },
             {
+              "type": "heading",
+              "text": "Otázky a okruhy — FG_5"
+            },
+            {
+              "type": "paragraph",
+              "text": "6. SystémY počasí • počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost vzduchu, oblačnost) a meteorologických jevů (např. rosa, bouřka, mlha) v daném místě – velká časová a prostorová proměnlivost počasí • povětrnost – ráz počasí během několika dnů"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Klíčové body",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "6.1 Putující cyklony a anticyklony • putující cyklony a anticyklony jsou zdrojem změn počasí • cyklony: výstup vzduchu – hustá vrstevnatá oblaka – déšť nebo sníh → cyklonální srážky • cyklonální bouře – velký tlakový gradient, silný výstup vzduchu – silný vítr, velký déšť nebo sněžení • putující cyklony lze dělit na: a) frontální cyklony mírných a polárních šířek – od slabých po cyklonální bouře b) tropické cyklony tropického nebo subtropického pásma – od mírných po destruktivní • anticyklony: sestupné pohyby, jasné počasí (někdy kumuly), v centru slabé a proměnlivé větry • putující anticyklony ve středních šířkách"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "6.1.1 Vzduchové hmoty • vzduchová hmota - velký objem vzduchu (horizontálně tisíce km, vertikálně po tropopauzu) s téměř jednotnými charakteristikami teploty a vlhkosti vzduchu • typické vlastnosti získávají při stagnaci nebo pomalém pohybu vzduchu v oblastech svého vzniku • při přemisťování do jiné oblasti (vliv tlakového gradientu) mění vzduchová hmota své vlastnosti – transformace • dělení vzduchových hmot podle zeměpisné šířky (geografické typy vzduchových hmot):"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Vzduchová hmota Symbol Oblast vzniku Arktická A Severní ledový oceán a přilehlá pevnina Antarktická AA Antarktida Polární P kontinenty a oceány, 50-60º z.š. Tropická T kontinenty a oceány, 20-35º z.š. Ekvatoriální E oceány blízko rovníku"
+            },
+            {
+              "type": "paragraph",
+              "text": "• dělení vzduchových hmot podle typu aktivního povrchu, nad nímž vznikají: mořské (m) – nad oceány a kontinentální (c) – nad pevninou"
+            },
+            {
+              "type": "paragraph",
+              "text": "• dělení vzduchových hmot podle termodynamického hlediska: a) teplé – při přemisťování do dané oblasti se ochlazují, přinášejí oteplení, stabilní zvrstvení nebo inverze b) studené - při přemisťování do dané oblasti se oteplují, přinášejí ochlazení, labilní zvrstvení c) neutrální – v dané oblasti si po několik dnů zachovávají své základní vlastnosti"
+            },
+            {
+              "type": "paragraph",
+              "text": "6.1.2 Studená, teplá a oklusní fronta • fronta – ostře vyjádřená hranice oddělující jednu vzduchovou hmotu od druhé • pohybuje-li se jedna vzduchová hmota do druhé, fronta svírá malý úhel s povrchem Obr. 6.3/138 – SS + 2.49/55 + 2.50/56 z Netopil: Fyzická geografie I"
+            },
+            {
+              "type": "paragraph",
+              "text": "• studená fronta – klín postupujícího studeného vzduchu, vynucený výstup vzduchu – cumulonimby Cb, bouřky, přeháňky Obr. 6.4/138 – SS + 2.47/98 – Netopil: Fyzická geografie I"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "6.1 Putující cyklony a anticyklony • putující cyklony a anticyklony jsou zdrojem změn počasí • cyklony: výstup vzduchu – hustá vrstevnatá oblaka – déšť nebo sníh → cyklonální srážky • cyklonální bouře – velký tlakový gradient, silný výstup vzduchu – silný vítr, velký déšť nebo sněžení • putující cyklony lze dělit na: a) frontální cyklony mírných a polárních šířek – od slabých po cyklonální bouře b) tropické cyklony tropického nebo subtropického pásma – od mírných po destruktivní • anticyklony: sestupné pohyby, jasné počasí (někdy kumuly), v centru slabé a proměnlivé větry • putující anticyklony ve středních šířkách"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "6.1.1 Vzduchové hmoty • vzduchová hmota - velký objem vzduchu (horizontálně tisíce km, vertikálně po tropopauzu) s téměř jednotnými charakteristikami teploty a vlhkosti vzduchu • typické vlastnosti získávají při stagnaci nebo pomalém pohybu vzduchu v oblastech svého vzniku • při přemisťování do jiné oblasti (vliv tlakového gradientu) mění vzduchová hmota své vlastnosti – transformace • dělení vzduchových hmot podle zeměpisné šířky (geografické typy vzduchových hmot):"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Doporučený postup",
+              "items": [
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
+              "kind": "document",
+              "title": "FG_5 — okruhy Brázdil",
+              "url": "./materials/geografie-kartografie/z0026p/FG_5.doc",
+              "source": "Brázdil"
+            },
+            {
               "kind": "link",
-              "title": "IS MUNI — detail předmětu",
+              "title": "IS MUNI — Fyzická geografie",
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             },
             {
               "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "title": "otazky-ze-tretiho-terminu-zkousky.docx",
+              "url": "./materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+              "source": "Okruhy ke zkoušce",
+              "note": "Sdílený materiál pro více okruhů"
             }
           ]
         },
@@ -1127,35 +2061,137 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 6 / 31",
+              "label": "Okruh",
               "text": "7. Změny a kolísání klimatu: základní klimatotvorné faktory (sluneční faktor, vulkanická činnost, interakce oceán-atmosféra, skleníkový efekt, aerosoly). Minulé a současné změny klimatu. Klimatické scénáře. Možné dopady klimatické změny."
             },
             {
+              "type": "heading",
+              "text": "Otázky a okruhy — FG_6"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Klíčové body",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vegetaci, pěstování zemědělských plodin, vývoj půd, geomorfologické procesy atd.",
+                "• klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky: a) roční chod teploty vzduchu závisí na zeměpisné šířce (v návaznosti na insolaci) b) stanice v oceánském klimatu mají menší roční amplitudu teploty než stanice v kontinentálním klimatu (odlišnost povrchů oceán x atmosféra) c) teplý vzduch pojme více vlhkosti než studený vzduch (teplejší oblasti mají více srážek)"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "7.1 Globální srážky Obr. 7.1/156-157 – SS nebo jiná mapa rozložení srážek"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• izohyeta – čára spojující místa se stejným množstvím srážek • mnoho srážek v pásu podél rovníku (Jižní Amerika, Afrika, jihovýchodní Asie) – konvektivní srážky v TZK; zvláště velké srážky v jihovýchodní Asii – letní monzun • v oblasti pasátů velké orografické srážky v návětří hor • ve středních šířkách větší srážky při západních okrajích kontinentů (cyklonální srážky) • suché oblasti na západě Jižní Ameriky (Chile), při západním pobřeží jižní Afriky a na americkém jihozápadu (oblasti pod vlivem východních částí subtropických anticyklon) • suché oblasti tvoří široký pás táhnoucí se od Sahary přes Střední Východ do střední Asie (sestupné pohyby subtropického pásma vysokého tlaku a velká vzdálenost od oceánu v případě střední Asie) • vysoké šířky – málo srážek"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "7.2 Klimatické klasifikace • pomocí klimatických typů lze klasifikovat klimata z globálního hlediska: a) konvenční klasifikace – vymezují typy klimatu podle předem konvenčně stanovených mezních hodnot jednoho nebo více meteorologických prvků (např.teplota vzduchu, srážky) b) genetické klasifikace – opírají se o cirkulační klimatotvorné faktory (např.",
+                "vzduchové hmoty, fronty) a klasifikační metoda je i metodou výkladu vzniku určitého klimatické typu"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "7.2.1 Köppenova klasifikace • klasifikace klimatu od Wladimira Köppena (s různými následnými modifikacemi) je nejznámější konvenční klimatickou klasifikací → základ teplota vzduchu a srážky → klimatické hranice by měly odpovídat přibližně hranicím mezi vegetačními typy • hlavní klimatické pásy: a) A - pás vlhkého tropického klimatu (průměrná teplota každého měsíce nad 18 ºC, bez zimního období, velké srážky převažující výpar) b) B – pás suchého klimatu (výpar větší než srážky, bez přebytku vody – žádné stálé toky) c) C – pás mírně teplého klimatu (omezen izotermou 18 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce, vyjádřená sezonalita) d) D - pás mírně studeného (boreálního) klimatu (omezen izotermou 10 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce) e) E – pás polárního klimatu (teplota nejteplejšího měsíce pod 10 ºC) Obr."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• pásy A, C, D a E vymezeny podle teplotního hlediska, pás B podle vztahu výpar – srážky • pásy A, C, D mají dostatek tepla a vláhy pro vzrůst dřevin • k označení klimatických typů jako druhé písmeno Köppen užil: a) S – semiaridní (stepní) b) W – aridní (pouštní) c) f – vlhké, dostatek srážek ve všech měsících d) w – suché období v zimě e) s – suché období v létě f) m – monzunové deště • kombinací obou skupin vymezil 12 různých klimat: 1) Af – klima tropického deštného lesa (s rovnoměrným rozložením srážek během roku) 2) Am – monzunová verze Af 3) Aw – klima tropických savan (s výrazně vyjádřenou suchou periodou v zimě)"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "4) BS – klima stepí 5) BW – klima pouští Obr. S7.4/162 – SS"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "6) Cf – mírně teplé klima s rovnoměrným rozložením srážek během roku 7) Cw – mírně teplé klima se suchou zimou 8) Cs – mírně teplé klima se suchým létem 9) Df – mírně studené klima s rovnoměrným rozložením srážek během roku 10) Dw – mírně studené klima se suchou zimou 11) ET – klima tundry 12) EF – klima stálého mrazu • k další detailizaci klimatických typů použita písmena a – s horkým létem, b – s teplým létem, c – s chladnějším, kratším létem, d – s velmi chladnou zimou, h – suché-horké, k – suché-chladné Obr."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vegetaci, pěstování zemědělských plodin, vývoj půd, geomorfologické procesy atd.",
+                "• klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky: a) roční chod teploty vzduchu závisí na zeměpisné šířce (v návaznosti na insolaci) b) stanice v oceánském klimatu mají menší roční amplitudu teploty než stanice v kontinentálním klimatu (odlišnost povrchů oceán x atmosféra) c) teplý vzduch pojme více vlhkosti než studený vzduch (teplejší oblasti mají více srážek)"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• izohyeta – čára spojující místa se stejným množstvím srážek • mnoho srážek v pásu podél rovníku (Jižní Amerika, Afrika, jihovýchodní Asie) – konvektivní srážky v TZK; zvláště velké srážky v jihovýchodní Asii – letní monzun • v oblasti pasátů velké orografické srážky v návětří hor • ve středních šířkách větší srážky při západních okrajích kontinentů (cyklonální srážky) • suché oblasti na západě Jižní Ameriky (Chile), při západním pobřeží jižní Afriky a na americkém jihozápadu (oblasti pod vlivem východních částí subtropických anticyklon) • suché oblasti tvoří široký pás táhnoucí se od Sahary přes Střední Východ do střední Asie (sestupné pohyby subtropického pásma vysokého tlaku a velká vzdálenost od oceánu v případě střední Asie) • vysoké šířky – málo srážek"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "7.2 Klimatické klasifikace • pomocí klimatických typů lze klasifikovat klimata z globálního hlediska: a) konvenční klasifikace – vymezují typy klimatu podle předem konvenčně stanovených mezních hodnot jednoho nebo více meteorologických prvků (např.teplota vzduchu, srážky) b) genetické klasifikace – opírají se o cirkulační klimatotvorné faktory (např.",
+                "vzduchové hmoty, fronty) a klasifikační metoda je i metodou výkladu vzniku určitého klimatické typu"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "7.2.1 Köppenova klasifikace • klasifikace klimatu od Wladimira Köppena (s různými následnými modifikacemi) je nejznámější konvenční klimatickou klasifikací → základ teplota vzduchu a srážky → klimatické hranice by měly odpovídat přibližně hranicím mezi vegetačními typy • hlavní klimatické pásy: a) A - pás vlhkého tropického klimatu (průměrná teplota každého měsíce nad 18 ºC, bez zimního období, velké srážky převažující výpar) b) B – pás suchého klimatu (výpar větší než srážky, bez přebytku vody – žádné stálé toky) c) C – pás mírně teplého klimatu (omezen izotermou 18 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce, vyjádřená sezonalita) d) D - pás mírně studeného (boreálního) klimatu (omezen izotermou 10 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce) e) E – pás polárního klimatu (teplota nejteplejšího měsíce pod 10 ºC) Obr."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• pásy A, C, D a E vymezeny podle teplotního hlediska, pás B podle vztahu výpar – srážky • pásy A, C, D mají dostatek tepla a vláhy pro vzrůst dřevin • k označení klimatických typů jako druhé písmeno Köppen užil: a) S – semiaridní (stepní) b) W – aridní (pouštní) c) f – vlhké, dostatek srážek ve všech měsících d) w – suché období v zimě e) s – suché období v létě f) m – monzunové deště • kombinací obou skupin vymezil 12 různých klimat: 1) Af – klima tropického deštného lesa (s rovnoměrným rozložením srážek během roku) 2) Am – monzunová verze Af 3) Aw – klima tropických savan (s výrazně vyjádřenou suchou periodou v zimě)"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "6) Cf – mírně teplé klima s rovnoměrným rozložením srážek během roku 7) Cw – mírně teplé klima se suchou zimou 8) Cs – mírně teplé klima se suchým létem 9) Df – mírně studené klima s rovnoměrným rozložením srážek během roku 10) Dw – mírně studené klima se suchou zimou 11) ET – klima tundry 12) EF – klima stálého mrazu • k další detailizaci klimatických typů použita písmena a – s horkým létem, b – s teplým létem, c – s chladnějším, kratším létem, d – s velmi chladnou zimou, h – suché-horké, k – suché-chladné Obr."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Doporučený postup",
+              "items": [
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "document",
+              "title": "FG_6 — okruhy Brázdil",
+              "url": "./materials/geografie-kartografie/z0026p/FG_6.doc",
+              "source": "Brázdil"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -1172,35 +2208,96 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 7 / 31",
+              "label": "Okruh",
               "text": "8. Hydrosféra: Rozšíření a oběh vody na Zemi. Hydrologické procesy a hydrologická bilance."
             },
             {
+              "type": "heading",
+              "text": "Otázky a okruhy — FG_7"
+            },
+            {
+              "type": "paragraph",
+              "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Klíčové body",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "• povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
+                "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "• pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k odnosu částic a rozpustných látek a vytváření toků a řek – modelační činitel v krajině"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "14.1.1 Hladina podzemní vody Obr. 14.4/361"
+            },
+            {
+              "type": "paragraph",
+              "text": "• hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (prosakování) • při srážkách roste hladina vody pod vrcholy kopců a rozvodí, v období sucha zase klesá"
+            },
+            {
+              "type": "paragraph",
+              "text": "14.1.2 Zvodnělé vrstvy • sedimentární vrstvy výrazně ovlivňují ukládání a pohyb podzemní vody • zvodnělá vrstva (zvodeň) – podloží písku nebo pískovce, obsahující volně protékající podzemní vodu • nepropustná vrstva – podloží jílů nebo břidlic obsahují málo volné vody • čočkovité břidlice vytváří zavěšené vodní těleso Obr. 14.5/362"
+            },
+            {
+              "type": "paragraph",
+              "text": "• je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (studna) Obr. 14.6/362"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
+                "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Doporučený postup",
+              "items": [
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "document",
+              "title": "FG_7 — okruhy Brázdil",
+              "url": "./materials/geografie-kartografie/z0026p/FG_7.doc",
+              "source": "Brázdil",
+              "note": "Sdílený materiál pro více okruhů hydrologie"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -1217,35 +2314,96 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 8 / 31",
+              "label": "Okruh",
               "text": "9. Hydrografie: Měrné jednotky odtoku. Hydrografické charakteristiky povodí, říční sítě a koryta řeky"
             },
             {
+              "type": "heading",
+              "text": "Otázky a okruhy — FG_7"
+            },
+            {
+              "type": "paragraph",
+              "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Klíčové body",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "• povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
+                "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "• pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k odnosu částic a rozpustných látek a vytváření toků a řek – modelační činitel v krajině"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "14.1.1 Hladina podzemní vody Obr. 14.4/361"
+            },
+            {
+              "type": "paragraph",
+              "text": "• hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (prosakování) • při srážkách roste hladina vody pod vrcholy kopců a rozvodí, v období sucha zase klesá"
+            },
+            {
+              "type": "paragraph",
+              "text": "14.1.2 Zvodnělé vrstvy • sedimentární vrstvy výrazně ovlivňují ukládání a pohyb podzemní vody • zvodnělá vrstva (zvodeň) – podloží písku nebo pískovce, obsahující volně protékající podzemní vodu • nepropustná vrstva – podloží jílů nebo břidlic obsahují málo volné vody • čočkovité břidlice vytváří zavěšené vodní těleso Obr. 14.5/362"
+            },
+            {
+              "type": "paragraph",
+              "text": "• je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (studna) Obr. 14.6/362"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
+                "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Doporučený postup",
+              "items": [
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "document",
+              "title": "FG_7 — okruhy Brázdil",
+              "url": "./materials/geografie-kartografie/z0026p/FG_7.doc",
+              "source": "Brázdil",
+              "note": "Sdílený materiál pro více okruhů hydrologie"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -1262,35 +2420,96 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 9 / 31",
+              "label": "Okruh",
               "text": "10. Hydrometrie: Měření vodních stavů a průtoků"
             },
             {
+              "type": "heading",
+              "text": "Otázky a okruhy — FG_7"
+            },
+            {
+              "type": "paragraph",
+              "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Klíčové body",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "• povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
+                "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "• pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k odnosu částic a rozpustných látek a vytváření toků a řek – modelační činitel v krajině"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "14.1.1 Hladina podzemní vody Obr. 14.4/361"
+            },
+            {
+              "type": "paragraph",
+              "text": "• hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (prosakování) • při srážkách roste hladina vody pod vrcholy kopců a rozvodí, v období sucha zase klesá"
+            },
+            {
+              "type": "paragraph",
+              "text": "14.1.2 Zvodnělé vrstvy • sedimentární vrstvy výrazně ovlivňují ukládání a pohyb podzemní vody • zvodnělá vrstva (zvodeň) – podloží písku nebo pískovce, obsahující volně protékající podzemní vodu • nepropustná vrstva – podloží jílů nebo břidlic obsahují málo volné vody • čočkovité břidlice vytváří zavěšené vodní těleso Obr. 14.5/362"
+            },
+            {
+              "type": "paragraph",
+              "text": "• je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (studna) Obr. 14.6/362"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
+                "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Doporučený postup",
+              "items": [
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "document",
+              "title": "FG_7 — okruhy Brázdil",
+              "url": "./materials/geografie-kartografie/z0026p/FG_7.doc",
+              "source": "Brázdil",
+              "note": "Sdílený materiál pro více okruhů hydrologie"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -1307,35 +2526,96 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 10 / 31",
+              "label": "Okruh",
               "text": "11. Vodní režim řek: Režim průtoků a typizace řek podle režimu,"
             },
             {
+              "type": "heading",
+              "text": "Otázky a okruhy — FG_7"
+            },
+            {
+              "type": "paragraph",
+              "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Klíčové body",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "• povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
+                "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "• pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k odnosu částic a rozpustných látek a vytváření toků a řek – modelační činitel v krajině"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "14.1.1 Hladina podzemní vody Obr. 14.4/361"
+            },
+            {
+              "type": "paragraph",
+              "text": "• hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (prosakování) • při srážkách roste hladina vody pod vrcholy kopců a rozvodí, v období sucha zase klesá"
+            },
+            {
+              "type": "paragraph",
+              "text": "14.1.2 Zvodnělé vrstvy • sedimentární vrstvy výrazně ovlivňují ukládání a pohyb podzemní vody • zvodnělá vrstva (zvodeň) – podloží písku nebo pískovce, obsahující volně protékající podzemní vodu • nepropustná vrstva – podloží jílů nebo břidlic obsahují málo volné vody • čočkovité břidlice vytváří zavěšené vodní těleso Obr. 14.5/362"
+            },
+            {
+              "type": "paragraph",
+              "text": "• je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (studna) Obr. 14.6/362"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
+                "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Doporučený postup",
+              "items": [
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "document",
+              "title": "FG_7 — okruhy Brázdil",
+              "url": "./materials/geografie-kartografie/z0026p/FG_7.doc",
+              "source": "Brázdil",
+              "note": "Sdílený materiál pro více okruhů hydrologie"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -1352,35 +2632,96 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 11 / 31",
+              "label": "Okruh",
               "text": "12. Hydrologie podpovrchových vod: Zdroje vzniku podpovrchových vod, druhy vody v horninách, pozorování podzemních vod, zásoby, režimy, využívání."
             },
             {
+              "type": "heading",
+              "text": "Otázky a okruhy — FG_7"
+            },
+            {
+              "type": "paragraph",
+              "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Klíčové body",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "• povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
+                "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "• pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k odnosu částic a rozpustných látek a vytváření toků a řek – modelační činitel v krajině"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "14.1.1 Hladina podzemní vody Obr. 14.4/361"
+            },
+            {
+              "type": "paragraph",
+              "text": "• hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (prosakování) • při srážkách roste hladina vody pod vrcholy kopců a rozvodí, v období sucha zase klesá"
+            },
+            {
+              "type": "paragraph",
+              "text": "14.1.2 Zvodnělé vrstvy • sedimentární vrstvy výrazně ovlivňují ukládání a pohyb podzemní vody • zvodnělá vrstva (zvodeň) – podloží písku nebo pískovce, obsahující volně protékající podzemní vodu • nepropustná vrstva – podloží jílů nebo břidlic obsahují málo volné vody • čočkovité břidlice vytváří zavěšené vodní těleso Obr. 14.5/362"
+            },
+            {
+              "type": "paragraph",
+              "text": "• je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (studna) Obr. 14.6/362"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
+                "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Doporučený postup",
+              "items": [
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "document",
+              "title": "FG_7 — okruhy Brázdil",
+              "url": "./materials/geografie-kartografie/z0026p/FG_7.doc",
+              "source": "Brázdil",
+              "note": "Sdílený materiál pro více okruhů hydrologie"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -1397,35 +2738,96 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 12 / 31",
+              "label": "Okruh",
               "text": "13. Hydrologie jezer a nádrží: Světové zásoby vody v jezerech a nádržích, morfometrické prvky jezer, vodní bilance, teplotné poměry."
             },
             {
+              "type": "heading",
+              "text": "Otázky a okruhy — FG_7"
+            },
+            {
+              "type": "paragraph",
+              "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Klíčové body",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "• povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
+                "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "• pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k odnosu částic a rozpustných látek a vytváření toků a řek – modelační činitel v krajině"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "14.1.1 Hladina podzemní vody Obr. 14.4/361"
+            },
+            {
+              "type": "paragraph",
+              "text": "• hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (prosakování) • při srážkách roste hladina vody pod vrcholy kopců a rozvodí, v období sucha zase klesá"
+            },
+            {
+              "type": "paragraph",
+              "text": "14.1.2 Zvodnělé vrstvy • sedimentární vrstvy výrazně ovlivňují ukládání a pohyb podzemní vody • zvodnělá vrstva (zvodeň) – podloží písku nebo pískovce, obsahující volně protékající podzemní vodu • nepropustná vrstva – podloží jílů nebo břidlic obsahují málo volné vody • čočkovité břidlice vytváří zavěšené vodní těleso Obr. 14.5/362"
+            },
+            {
+              "type": "paragraph",
+              "text": "• je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (studna) Obr. 14.6/362"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
+                "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "• voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Doporučený postup",
+              "items": [
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "document",
+              "title": "FG_7 — okruhy Brázdil",
+              "url": "./materials/geografie-kartografie/z0026p/FG_7.doc",
+              "source": "Brázdil",
+              "note": "Sdílený materiál pro více okruhů hydrologie"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -1478,7 +2880,7 @@ export const gk: Field = {
           "id": "z0026p-1-co-je-fyzicka-geografie-14",
           "title": "1. Co je fyzická geografie?",
           "summary": "Studijní okruh: 1. Co je fyzická geografie?",
-          "minutes": 12,
+          "minutes": 22,
           "sectionTitle": "Témata doc. Máčky",
           "blocks": [
             {
@@ -1487,35 +2889,79 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 14 / 31",
+              "label": "Okruh",
               "text": "1. Co je fyzická geografie?"
             },
             {
+              "type": "heading",
+              "text": "Přednáška FG_DN_1 (Máčka/Nývlt)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti"
+            },
+            {
+              "type": "paragraph",
+              "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les"
+            },
+            {
+              "type": "paragraph",
+              "text": "(Evropská agentura pro životní prostředí)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Jako krajina se označuje část zemského povrchu s typickou kombinací přírodních a kulturních prvků a charakteristickou scenerií"
+            },
+            {
+              "type": "paragraph",
+              "text": "krajina vzniklá přetvořením původní přírodní krajiny činností člověka"
+            },
+            {
+              "type": "paragraph",
+              "text": "Propustná přípovrchová vrstva sahající od vrcholků stromů po spodní hranici podzemní vody"
+            },
+            {
+              "type": "paragraph",
+              "text": "V kritické zóně dochází k pronikání živé a neživé přírody"
+            },
+            {
+              "type": "paragraph",
+              "text": "Komplexní vztahy v kritické zóně vytvářejí"
+            },
+            {
+              "type": "paragraph",
+              "text": "rozhraní mezi zemskou kůrou a svrchním pláštěm"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Doporučený postup",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "presentation",
+              "title": "FG_DN_1 — přednáška",
+              "url": "./materials/geografie-kartografie/z0026p/FG_DN_1.pptx",
+              "source": "GÚ MUNI / Máčka"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -1613,7 +3059,7 @@ export const gk: Field = {
           "id": "z0026p-3-1-vyvoj-litosfery-17",
           "title": "3.1 Vývoj litosféry",
           "summary": "Studijní okruh: 3.1 Vývoj litosféry",
-          "minutes": 12,
+          "minutes": 22,
           "sectionTitle": "Témata doc. Máčky",
           "blocks": [
             {
@@ -1622,35 +3068,79 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 17 / 31",
+              "label": "Okruh",
               "text": "3.1 Vývoj litosféry"
             },
             {
+              "type": "heading",
+              "text": "Přednáška FG_DN_2 (Máčka/Nývlt)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající"
+            },
+            {
+              "type": "paragraph",
+              "text": "Prostorová variabilita mocnosti zemské kůry"
+            },
+            {
+              "type": "paragraph",
+              "text": "Průměr na rovníku o 43 km větší než na pólu"
+            },
+            {
+              "type": "paragraph",
+              "text": "Klidná střední hladina moří, které jsou spojené i pod kontinenty"
+            },
+            {
+              "type": "paragraph",
+              "text": "Obrázek ukazuje skutečný poměr velikosti Země a Měsíce"
+            },
+            {
+              "type": "paragraph",
+              "text": "Protože dosáhla stavu hydrostatické rovnováhy."
+            },
+            {
+              "type": "paragraph",
+              "text": "Gutenbergova diskontinuita (plášť / jádro)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Minerály: olivín, pyroxen, granát, spinel"
+            },
+            {
+              "type": "paragraph",
+              "text": "intenzivní tektonická a vulkanická aktivita, orogeneze"
+            },
+            {
+              "type": "paragraph",
+              "text": "= stacionární ložisko magmatu ve svrchním plášti pod oceánskou nebo kontinentální kůrou"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Doporučený postup",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "presentation",
+              "title": "FG_DN_2 — přednáška",
+              "url": "./materials/geografie-kartografie/z0026p/FG_DN_2.pptx",
+              "source": "GÚ MUNI / Máčka"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -1658,7 +3148,7 @@ export const gk: Field = {
           "id": "z0026p-3-2-horninovy-cyklus-18",
           "title": "3.2 Horninový cyklus",
           "summary": "Studijní okruh: 3.2 Horninový cyklus",
-          "minutes": 12,
+          "minutes": 22,
           "sectionTitle": "Témata doc. Máčky",
           "blocks": [
             {
@@ -1667,35 +3157,79 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 18 / 31",
+              "label": "Okruh",
               "text": "3.2 Horninový cyklus"
             },
             {
+              "type": "heading",
+              "text": "Přednáška FG_DN_3 (Máčka/Nývlt)"
+            },
+            {
+              "type": "paragraph",
+              "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží"
+            },
+            {
+              "type": "paragraph",
+              "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)"
+            },
+            {
+              "type": "paragraph",
+              "text": "hlavní (podstatné): &gt; 10 objemových %"
+            },
+            {
+              "type": "paragraph",
+              "text": "vedlejší (podružné): &lt; 10 objemových %"
+            },
+            {
+              "type": "paragraph",
+              "text": "akcesorické (přídatné): ≤ 5 objemových %"
+            },
+            {
+              "type": "paragraph",
+              "text": "primární: tvoří se při vzniku samotné horniny"
+            },
+            {
+              "type": "paragraph",
+              "text": "sekundární: vznikají přeměnou z primárních (převážně zvětráváním)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Zemskou kůru tvoří z převážné většiny 8 prvků"
+            },
+            {
+              "type": "paragraph",
+              "text": "Vrstvy jsou ukloněné vůči hlavní vrstevní ploše setu vrstev"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Doporučený postup",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "presentation",
+              "title": "FG_DN_3 — přednáška",
+              "url": "./materials/geografie-kartografie/z0026p/FG_DN_3.pptx",
+              "source": "GÚ MUNI / Máčka"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -1703,7 +3237,7 @@ export const gk: Field = {
           "id": "z0026p-3-3-tektonicke-procesy-19",
           "title": "3.3 Tektonické procesy",
           "summary": "Studijní okruh: 3.3 Tektonické procesy",
-          "minutes": 12,
+          "minutes": 22,
           "sectionTitle": "Témata doc. Máčky",
           "blocks": [
             {
@@ -1712,35 +3246,79 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 19 / 31",
+              "label": "Okruh",
               "text": "3.3 Tektonické procesy"
             },
             {
+              "type": "heading",
+              "text": "Přednáška FG_DN_4 (Máčka/Nývlt)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km"
+            },
+            {
+              "type": "paragraph",
+              "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích"
+            },
+            {
+              "type": "paragraph",
+              "text": "Shoda mezi geologickými strukturami a tvary reliéfu"
+            },
+            {
+              "type": "paragraph",
+              "text": "Nesoulad mezi geologickými strukturami a tvary reliéfu"
+            },
+            {
+              "type": "paragraph",
+              "text": "Puklina v hornině, podél které nastal pozorovatelný pohyb"
+            },
+            {
+              "type": "paragraph",
+              "text": "Příklady působení endogenních a exogenních procesů"
+            },
+            {
+              "type": "paragraph",
+              "text": "Pohyby částí zemské kůry a svrchního pláště, při kterých dochází k deformaci hornin"
+            },
+            {
+              "type": "paragraph",
+              "text": "Studuje endogenní procesy, geologické struktury a tvary reliéfu související s deformací hornin"
+            },
+            {
+              "type": "paragraph",
+              "text": "Typy tektonických procesů podle směrů působících sil"
+            },
+            {
+              "type": "paragraph",
+              "text": "Průsečnice vodorovné roviny s nakloněnou vrstevní plochou"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Doporučený postup",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "presentation",
+              "title": "FG_DN_4 — přednáška",
+              "url": "./materials/geografie-kartografie/z0026p/FG_DN_4.pptx",
+              "source": "GÚ MUNI / Máčka"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -1748,7 +3326,7 @@ export const gk: Field = {
           "id": "z0026p-3-4-zvetravaci-procesy-20",
           "title": "3.4 Zvětrávací procesy",
           "summary": "Studijní okruh: 3.4 Zvětrávací procesy",
-          "minutes": 12,
+          "minutes": 22,
           "sectionTitle": "Témata doc. Máčky",
           "blocks": [
             {
@@ -1757,35 +3335,79 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 20 / 31",
+              "label": "Okruh",
               "text": "3.4 Zvětrávací procesy"
             },
             {
+              "type": "heading",
+              "text": "Přednáška FG_DN_5 (Máčka/Nývlt)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Snižování zemského povrchu, zmenšování výškových rozdílů"
+            },
+            {
+              "type": "paragraph",
+              "text": "Soubor procesů na svazích vyvolaných působením gravitace"
+            },
+            {
+              "type": "paragraph",
+              "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci"
+            },
+            {
+              "type": "paragraph",
+              "text": "Soubor procesů vedoucích k fyzickému rozpadu a chemickému rozkladu hornin nacházejících se v blízkosti zemského povrchu"
+            },
+            {
+              "type": "paragraph",
+              "text": "Mechanický rozpad horniny na menší částečky"
+            },
+            {
+              "type": "paragraph",
+              "text": "Mechanické a chemické působení organizmů"
+            },
+            {
+              "type": "paragraph",
+              "text": "Fyzikální zvětrávání je ovlivněno texturou a strukturou hornin"
+            },
+            {
+              "type": "paragraph",
+              "text": "Fyzikální zvětrávání urychluje chemické zvětrávání"
+            },
+            {
+              "type": "paragraph",
+              "text": "→ dochází ke zvětšování aktivního povrchu dostupného pro chemické reakce"
+            },
+            {
+              "type": "paragraph",
+              "text": "Procesy zahrnující objemové změny samotné horniny:"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Doporučený postup",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "presentation",
+              "title": "FG_DN_5 — přednáška",
+              "url": "./materials/geografie-kartografie/z0026p/FG_DN_5.pptx",
+              "source": "GÚ MUNI / Máčka"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -1838,7 +3460,7 @@ export const gk: Field = {
           "id": "z0026p-3-6-fluvialni-procesy-22",
           "title": "3.6 Fluviální procesy",
           "summary": "Studijní okruh: 3.6 Fluviální procesy",
-          "minutes": 12,
+          "minutes": 22,
           "sectionTitle": "Témata doc. Máčky",
           "blocks": [
             {
@@ -1847,35 +3469,79 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 22 / 31",
+              "label": "Okruh",
               "text": "3.6 Fluviální procesy"
             },
             {
+              "type": "heading",
+              "text": "Přednáška FG_DN_7 (Máčka/Nývlt)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek"
+            },
+            {
+              "type": "paragraph",
+              "text": "Intenzita srážky překročí infiltrační kapacitu půdy"
+            },
+            {
+              "type": "paragraph",
+              "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy"
+            },
+            {
+              "type": "paragraph",
+              "text": "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů"
+            },
+            {
+              "type": "paragraph",
+              "text": "suché vnitrozemské subtropické oblasti, polární oblasti"
+            },
+            {
+              "type": "paragraph",
+              "text": "Vrstva vody rovnoměrně rozložená po ploše povodí, která odteče za určité období"
+            },
+            {
+              "type": "paragraph",
+              "text": "Území, z něhož odtéká voda z atmosférických srážek nebo akumulovaná v ledovcích, ve stálé sněhové pokrývce, či permafrostu povrchovou i podzemní cestou do jediného závěrného profilu"
+            },
+            {
+              "type": "paragraph",
+              "text": "Komponenty (proměnné) fluviálního systému"
+            },
+            {
+              "type": "paragraph",
+              "text": "Hlavní typy fluviálních sedimentů v povodí"
+            },
+            {
+              "type": "paragraph",
+              "text": "Řádovost (hydrologické pořadí) vodních toků"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Doporučený postup",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "presentation",
+              "title": "FG_DN_7 — přednáška",
+              "url": "./materials/geografie-kartografie/z0026p/FG_DN_7.pptx",
+              "source": "GÚ MUNI / Máčka"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -1883,7 +3549,7 @@ export const gk: Field = {
           "id": "z0026p-3-7-glacialni-procesy-23",
           "title": "3.7 Glaciální procesy",
           "summary": "Studijní okruh: 3.7 Glaciální procesy",
-          "minutes": 12,
+          "minutes": 22,
           "sectionTitle": "Témata doc. Máčky",
           "blocks": [
             {
@@ -1892,35 +3558,79 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 23 / 31",
+              "label": "Okruh",
               "text": "3.7 Glaciální procesy"
             },
             {
+              "type": "heading",
+              "text": "Přednáška FG_DN_6 (Máčka/Nývlt)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných srážek převyšují roční úbytek ledovce táním (ablací)"
+            },
+            {
+              "type": "paragraph",
+              "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska"
+            },
+            {
+              "type": "paragraph",
+              "text": "65,6 m ekvivalentu nárůstu mořské hladiny"
+            },
+            {
+              "type": "paragraph",
+              "text": "Při transformaci sněhu v led dochází ke změně hustoty"
+            },
+            {
+              "type": "paragraph",
+              "text": "Ulehnutí sněhu (drobení vloček, sesedání)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Zmenšování povrchové plochy vloček (zaoblování)"
+            },
+            {
+              "type": "paragraph",
+              "text": "V ledu zůstávají uzavřené bubliny vzduchu"
+            },
+            {
+              "type": "paragraph",
+              "text": "Vhodné podmínky pro ledovce dány vysokou nadmořskou výškou"
+            },
+            {
+              "type": "paragraph",
+              "text": "Vhodné podmínky pro ledovce dány vysokou zeměpisnou šířkou"
+            },
+            {
+              "type": "paragraph",
+              "text": "Čára oddělující akumulační a ablační zónu ledovce"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Doporučený postup",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "presentation",
+              "title": "FG_DN_6 — přednáška",
+              "url": "./materials/geografie-kartografie/z0026p/FG_DN_6.pptx",
+              "source": "GÚ MUNI / Máčka"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -1928,7 +3638,7 @@ export const gk: Field = {
           "id": "z0026p-3-8-eolicke-procesy-24",
           "title": "3.8 Eolické procesy",
           "summary": "Studijní okruh: 3.8 Eolické procesy",
-          "minutes": 12,
+          "minutes": 22,
           "sectionTitle": "Témata doc. Máčky",
           "blocks": [
             {
@@ -1937,35 +3647,79 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 24 / 31",
+              "label": "Okruh",
               "text": "3.8 Eolické procesy"
             },
             {
+              "type": "heading",
+              "text": "Přednáška FG_DN_8 (Máčka/Nývlt)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Tvary reliéfu, které vznikly působením větru"
+            },
+            {
+              "type": "paragraph",
+              "text": "Podmínky za nichž se může uplatnit působení větru"
+            },
+            {
+              "type": "paragraph",
+              "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Teplé i chladné suché (aridní a semiaridní) oblasti"
+            },
+            {
+              "type": "paragraph",
+              "text": "Větrná eroze a transport probíhá podobně jako ve fluviálním prostředí, ovšem…"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Menší hustota vzduchu ve srovnání s vodou snižuje transportní kapacitu"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Obvykle jsou transportována zrna do velikosti písku"
+            },
+            {
+              "type": "paragraph",
+              "text": "- 3 druhy eolického transportu – rolování/posouvání,"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Prostorově neomezené ukládání materiálu, ale často kolem překážek"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Probíhá vytřídění a ukládání do vrstev"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Doporučený postup",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "presentation",
+              "title": "FG_DN_8 — přednáška",
+              "url": "./materials/geografie-kartografie/z0026p/FG_DN_8.pptx",
+              "source": "GÚ MUNI / Máčka"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -2027,35 +3781,137 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 26 / 31",
+              "label": "Okruh",
               "text": "3.10 Pedogeneze"
             },
             {
+              "type": "heading",
+              "text": "Otázky a okruhy — FG_8"
+            },
+            {
+              "type": "paragraph",
+              "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236 - 263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s."
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Klíčové body",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "Úvod • půda = je nejsvrchnější vrstva zemského povrchu, která poskytuje rostlinám živiny, vodu a prostředí pro růst kořenů půda je vodou, vzduchem a organismy prostoupená svrchní vrstva zemské kůry, která se vyvíjí pod vlivem vnějších faktorů a času a je produktem přeměn mineralogických a organických substancí, morfologicky organizovaná a poskytující přírodní prostředí rostlinám, živočichům a člověku • pedologie = je věda, která si klade za cíl, objasnit genezi (vznik) půd, charakterizovat jejich vlastnosti, stanovit klasifikační systém, zpracovat rozšíření půdních jednotek na zemském povrchu a určit možnosti hospodářského využití půd • předmětem pedologie je půda, resp.",
+                "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                "• půda vzniká působením půdotvorných faktorů, které podmiňují půdotvorné procesy • půdotvorné faktory: • matečná hornina • klima • organizmy • reliéf • čas"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "matečná hornina: skalní horniny + jejich zvětraliny (regolit) sypké sedimenty (např.",
+                "říční nebo mořské písky) starší půdy pasivní půdotvorný faktor - na daném místě se v průběhu času nemění a bez působení ostatních (aktivních) faktorů se z ní nemůže vyvinout půda klima: přímé působení: a.",
+                "teplota nepřímé působení: prostřednictvím vegetace Srážky – intenzita promývání půdy → obsah živin Teplota – rychlost rozkladu rostlinného opadu a odumřelých kořenů organizmy: intenzita biologické aktivity závisí na: a.",
+                "úživnost matečné horniny b.",
+                "klima důležitý faktor - bez činnosti organizmů by půdy nemohli vůbec vzniknout reliéf: pro vývoj půd má největší význam: a.",
+                "terénní deprese reliéf ovlivňuje provlhčení půdy a její teplotu čas: různé fyzikální, chemické a biologické procesy vyžadují ke svému uplatnění určité časové rozpětí"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "Složení a vlastnosti půdy • půda je disperzní systém pevné + kapalné + plynné fáze procentuální zastoupení jednotlivých fází: pevná 50%, kapalná 20 – 30%, plynná 25 – 30% pevná fáze obsahuje dvě složky: a.",
+                "organický podíl – minerální podíl silně převažuje nad organickým (45% - 5%) organický podíl obsahuje dvě složky: a.",
+                "živá organická hmota (edafon), b.",
+                "odumřelá organická hmota (humus) • humus: odumřelá, částečně rozložená organická hmota rostlinného i živočišného původu; převážně rostlinný původ; tmavá barva • půdní roztok • půdní vzduch – vyšší obsah CO2 a nižší obsah O2 než v atmosféře zdroje CO2: dýcháním kořenů a rozkladné procesy, úbytek O2: dýchání kořenů a chemické a biochemické reakce • optimální poměr vody a vzduchu v půdě 1:1 = dostatek vody, kořeny rostlin se nedusí • zvětrávání → zvětráváním vzniká minerální podíl půdy 1.",
+                "fyzikální (mechanické) 2."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1 Barva a zrnitost půdy • barva vzniká: a.",
+                "zděděním od matečné horniny, b.",
+                "jako výsledek půdotvorných procesů Organické látky: šedá, hnědočerná nebo černá barva Sloučeniny Fe a Mn: oxidované – červená, červenohnědá nebo hnědá; redukované – zelená, modrá, žlutá světlé barevné tóny vznikají vyplavením barevným minerálů a humusu vodou • zrnitost (textura) zrnitostních frakce jíl, prach a písek = jemnozem; hrubší částice = skelet Strahler&Strahler obr 9.2 s."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "• hranice zrnitostních frakcí: jíl <0,002 mm prach 0,002 – 0,02 mm písek 0,02 – 2,0 mm • půdní druh – určuje se podle zastoupení zrnitostních frakcí Označení půdy Obsah jílu (%) Skupinové Jednotlivé"
+            },
+            {
+              "type": "paragraph",
+              "text": "Hlinitopísčitá 10 – 20 Střední Písčitohlinitá 20 – 30"
+            },
+            {
+              "type": "paragraph",
+              "text": "Hlinitá 30 – 45 Těžká Jílovitohlinitá 45 – 60"
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "Úvod • půda = je nejsvrchnější vrstva zemského povrchu, která poskytuje rostlinám živiny, vodu a prostředí pro růst kořenů půda je vodou, vzduchem a organismy prostoupená svrchní vrstva zemské kůry, která se vyvíjí pod vlivem vnějších faktorů a času a je produktem přeměn mineralogických a organických substancí, morfologicky organizovaná a poskytující přírodní prostředí rostlinám, živočichům a člověku • pedologie = je věda, která si klade za cíl, objasnit genezi (vznik) půd, charakterizovat jejich vlastnosti, stanovit klasifikační systém, zpracovat rozšíření půdních jednotek na zemském povrchu a určit možnosti hospodářského využití půd • předmětem pedologie je půda, resp.",
+                "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                "• půda vzniká působením půdotvorných faktorů, které podmiňují půdotvorné procesy • půdotvorné faktory: • matečná hornina • klima • organizmy • reliéf • čas"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "matečná hornina: skalní horniny + jejich zvětraliny (regolit) sypké sedimenty (např.",
+                "říční nebo mořské písky) starší půdy pasivní půdotvorný faktor - na daném místě se v průběhu času nemění a bez působení ostatních (aktivních) faktorů se z ní nemůže vyvinout půda klima: přímé působení: a.",
+                "teplota nepřímé působení: prostřednictvím vegetace Srážky – intenzita promývání půdy → obsah živin Teplota – rychlost rozkladu rostlinného opadu a odumřelých kořenů organizmy: intenzita biologické aktivity závisí na: a.",
+                "úživnost matečné horniny b.",
+                "klima důležitý faktor - bez činnosti organizmů by půdy nemohli vůbec vzniknout reliéf: pro vývoj půd má největší význam: a.",
+                "terénní deprese reliéf ovlivňuje provlhčení půdy a její teplotu čas: různé fyzikální, chemické a biologické procesy vyžadují ke svému uplatnění určité časové rozpětí"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "Složení a vlastnosti půdy • půda je disperzní systém pevné + kapalné + plynné fáze procentuální zastoupení jednotlivých fází: pevná 50%, kapalná 20 – 30%, plynná 25 – 30% pevná fáze obsahuje dvě složky: a.",
+                "organický podíl – minerální podíl silně převažuje nad organickým (45% - 5%) organický podíl obsahuje dvě složky: a.",
+                "živá organická hmota (edafon), b.",
+                "odumřelá organická hmota (humus) • humus: odumřelá, částečně rozložená organická hmota rostlinného i živočišného původu; převážně rostlinný původ; tmavá barva • půdní roztok • půdní vzduch – vyšší obsah CO2 a nižší obsah O2 než v atmosféře zdroje CO2: dýcháním kořenů a rozkladné procesy, úbytek O2: dýchání kořenů a chemické a biochemické reakce • optimální poměr vody a vzduchu v půdě 1:1 = dostatek vody, kořeny rostlin se nedusí • zvětrávání → zvětráváním vzniká minerální podíl půdy 1.",
+                "fyzikální (mechanické) 2."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Klíčové body",
+              "items": [
+                "2.1 Barva a zrnitost půdy • barva vzniká: a.",
+                "zděděním od matečné horniny, b.",
+                "jako výsledek půdotvorných procesů Organické látky: šedá, hnědočerná nebo černá barva Sloučeniny Fe a Mn: oxidované – červená, červenohnědá nebo hnědá; redukované – zelená, modrá, žlutá světlé barevné tóny vznikají vyplavením barevným minerálů a humusu vodou • zrnitost (textura) zrnitostních frakce jíl, prach a písek = jemnozem; hrubší částice = skelet Strahler&Strahler obr 9.2 s."
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Doporučený postup",
+              "items": [
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "document",
+              "title": "FG_8 — okruhy Brázdil",
+              "url": "./materials/geografie-kartografie/z0026p/FG_8.doc",
+              "source": "Brázdil"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -2153,7 +4009,7 @@ export const gk: Field = {
           "id": "z0026p-5-environmentalni-zmeny-29",
           "title": "5. Environmentální změny",
           "summary": "Studijní okruh: 5. Environmentální změny",
-          "minutes": 12,
+          "minutes": 22,
           "sectionTitle": "Témata doc. Máčky",
           "blocks": [
             {
@@ -2162,35 +4018,79 @@ export const gk: Field = {
             },
             {
               "type": "paragraph",
-              "text": "Součást předmětu Fyzická geografie (PřF:Z0026p). Předmět podává základní představu o subsystému fyzickogeografické sféry Země se zaměřením na jednotlivé procesy a jevy, které se v ní odehrávají. Zároveň jde o prezentaci vzájemného propojení a souvislostí odehrávajících se procesů, objasnění příčin a mechanismů jejich fungování…"
+              "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 29 / 31",
+              "label": "Okruh",
               "text": "5. Environmentální změny"
             },
             {
+              "type": "heading",
+              "text": "Přednáška FG_DN_9 (Máčka/Nývlt)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Způsob určení stáří: radiometrické (U-Pb)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Horniny Měsíce převážně pozemského původu"
+            },
+            {
+              "type": "paragraph",
+              "text": "Červená barva – pozemský materiál (magma)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Zemský povrch vzniká pomalým, ale neustávajícím působením přírodních procesů; přepokládá stálost:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Rychlosti vývoje (pomalé, postupné změny)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Řada rysů zemského povrchu vznikla při rychlých událostech (kataklyzmatech), spíše než pozvolnou změnou"
+            },
+            {
+              "type": "paragraph",
+              "text": "Tvářnost zemského povrchu a rychlost jeho změn se v minulosti lišila"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Doporučený postup",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0026p",
-              "source": "IS MUNI"
+              "kind": "presentation",
+              "title": "FG_DN_9 — přednáška",
+              "url": "./materials/geografie-kartografie/z0026p/FG_DN_9.pptx",
+              "source": "GÚ MUNI / Máčka"
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Fyzická geografie",
+              "url": "https://is.muni.cz/predmet/sci/Z0026p",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -2314,6 +4214,168 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
+        },
+        {
+          "kind": "document",
+          "title": "FG_uvod",
+          "url": "./materials/geografie-kartografie/z0026p/FG_uvod.pdf",
+          "source": "Brázdil — skriptum"
+        },
+        {
+          "kind": "document",
+          "title": "FG_1",
+          "url": "./materials/geografie-kartografie/z0026p/FG_1.pdf",
+          "source": "Brázdil — skriptum"
+        },
+        {
+          "kind": "presentation",
+          "title": "Úvodní prezentace FG (archiv)",
+          "url": "./materials/geografie-kartografie/z0026p/FG_prezentace_uvod.pdf",
+          "source": "Brázdil",
+          "note": "Obsahově překrývá FG_uvod.pdf — použij jako doplňkovou prezentaci."
+        },
+        {
+          "kind": "document",
+          "title": "Kompletní zápisy z fyzické geografie",
+          "url": "./materials/geografie-kartografie/z0026p/fyzicka-geografie-kompletni-zapisy.pdf",
+          "source": "Archiv studijních podkladů"
+        },
+        {
+          "kind": "document",
+          "title": "Vypracované otázky ke zkoušce",
+          "url": "./materials/geografie-kartografie/z0026p/fyzicka-geografie-vypracovane-otazky-ke-zkousce.docx",
+          "source": "Archiv studijních podkladů"
+        },
+        {
+          "kind": "document",
+          "title": "Vypracované otázky z minulých let",
+          "url": "./materials/geografie-kartografie/z0026p/vypracovane-otazky-z-minulych-let2.docx",
+          "source": "Archiv studijních podkladů"
+        },
+        {
+          "kind": "document",
+          "title": "Vzor testu — geografie",
+          "url": "./materials/geografie-kartografie/z0026p/Vzor_testu-Geografie.pdf",
+          "source": "Archiv studijních podkladů"
+        },
+        {
+          "kind": "document",
+          "title": "Úvod do studia FG",
+          "url": "./materials/geografie-kartografie/z0026p/uvod-do-studia-fyz-geografie.doc",
+          "source": "Archiv studijních podkladů"
+        },
+        {
+          "kind": "document",
+          "title": "b-gek-fyzg.pdf",
+          "url": "./materials/geografie-kartografie/state-exams/b-gek-fyzg.pdf",
+          "source": "SZZ / přijímací zkoušky",
+          "note": "Obecný podklad pro státní a přijímací zkoušky z oboru."
+        },
+        {
+          "kind": "document",
+          "title": "b-gek-spolecna_cast.pdf",
+          "url": "./materials/geografie-kartografie/state-exams/b-gek-spolecna_cast.pdf",
+          "source": "SZZ / přijímací zkoušky",
+          "note": "Obecný podklad pro státní a přijímací zkoušky z oboru."
+        },
+        {
+          "kind": "document",
+          "title": "otazky-statnice-2020.docx",
+          "url": "./materials/geografie-kartografie/state-exams/otazky-statnice-2020.docx",
+          "source": "SZZ / přijímací zkoušky",
+          "note": "Obecný podklad pro státní a přijímací zkoušky z oboru."
+        },
+        {
+          "kind": "document",
+          "title": "otazky-bakalarska-2018.docx",
+          "url": "./materials/geografie-kartografie/state-exams/otazky-bakalarska-2018.docx",
+          "source": "SZZ / přijímací zkoušky",
+          "note": "Obecný podklad pro státní a přijímací zkoušky z oboru."
+        },
+        {
+          "kind": "document",
+          "title": "otazky-na-tema-1-a-2.docx",
+          "url": "./materials/geografie-kartografie/z0026p/otazky-na-tema-1-a-2.docx",
+          "source": "Okruhy ke zkoušce"
+        },
+        {
+          "kind": "document",
+          "title": "otazky-na-tema-3-a-4.docx",
+          "url": "./materials/geografie-kartografie/z0026p/otazky-na-tema-3-a-4.docx",
+          "source": "Okruhy ke zkoušce"
+        },
+        {
+          "kind": "document",
+          "title": "vetry-a-globalni-cirkulace-atmosfery.docx",
+          "url": "./materials/geografie-kartografie/z0026p/vetry-a-globalni-cirkulace-atmosfery.docx",
+          "source": "Okruhy ke zkoušce"
+        },
+        {
+          "kind": "document",
+          "title": "otazky-ze-tretiho-terminu-zkousky.docx",
+          "url": "./materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+          "source": "Okruhy ke zkoušce"
+        },
+        {
+          "kind": "document",
+          "title": "Československá geografická literatura 1970",
+          "url": "./materials/geografie-kartografie/z0026p/bibliografie-CGS-1970.pdf",
+          "source": "Rozhledy",
+          "note": "Historický bibliografický přehled — obecný referenční zdroj."
+        },
+        {
+          "kind": "presentation",
+          "title": "FG_DN_1 — přednáška",
+          "url": "./materials/geografie-kartografie/z0026p/FG_DN_1.pptx",
+          "source": "GÚ MUNI / Brázdil"
+        },
+        {
+          "kind": "presentation",
+          "title": "FG_DN_2 — přednáška",
+          "url": "./materials/geografie-kartografie/z0026p/FG_DN_2.pptx",
+          "source": "GÚ MUNI / Brázdil"
+        },
+        {
+          "kind": "presentation",
+          "title": "FG_DN_3 — přednáška",
+          "url": "./materials/geografie-kartografie/z0026p/FG_DN_3.pptx",
+          "source": "GÚ MUNI / Brázdil"
+        },
+        {
+          "kind": "presentation",
+          "title": "FG_DN_4 — přednáška",
+          "url": "./materials/geografie-kartografie/z0026p/FG_DN_4.pptx",
+          "source": "GÚ MUNI / Brázdil"
+        },
+        {
+          "kind": "presentation",
+          "title": "FG_DN_5 — přednáška",
+          "url": "./materials/geografie-kartografie/z0026p/FG_DN_5.pptx",
+          "source": "GÚ MUNI / Brázdil"
+        },
+        {
+          "kind": "presentation",
+          "title": "FG_DN_6 — přednáška",
+          "url": "./materials/geografie-kartografie/z0026p/FG_DN_6.pptx",
+          "source": "GÚ MUNI / Brázdil"
+        },
+        {
+          "kind": "presentation",
+          "title": "FG_DN_7 — přednáška",
+          "url": "./materials/geografie-kartografie/z0026p/FG_DN_7.pptx",
+          "source": "GÚ MUNI / Brázdil"
+        },
+        {
+          "kind": "presentation",
+          "title": "FG_DN_8 — přednáška",
+          "url": "./materials/geografie-kartografie/z0026p/FG_DN_8.pptx",
+          "source": "GÚ MUNI / Brázdil"
+        },
+        {
+          "kind": "presentation",
+          "title": "FG_DN_9 — přednáška",
+          "url": "./materials/geografie-kartografie/z0026p/FG_DN_9.pptx",
+          "source": "GÚ MUNI / Brázdil"
         }
       ],
     },
@@ -9278,39 +11340,59 @@ export const gk: Field = {
           "id": "z0059-1-uvod-vyznam-vody-v-krajine-hydrologie-jako-ved-1",
           "title": "1) Úvod. Význam vody v krajině. Hydrologie jako vědní disciplína, historický vývoj, organizace hydrologické služby.",
           "summary": "Studijní okruh: 1) Úvod. Význam vody v krajině. Hydrologie jako vědní disciplína, historický vývoj, organizace hydrologické služby.",
-          "minutes": 20,
+          "minutes": 25,
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Součást předmětu Hydrologie (PřF:Z0059). Předmět je zaměřen tak, aby posluchači získali znalosti o měření a pozorování hydrologických jevů a zaměřili se na základní metody zpracování dat v hydrologii."
+              "text": "Studijní materiál k předmětu Hydrologie (PřF:Z0059). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 1 / 12",
+              "label": "Okruh",
               "text": "1) Úvod. Význam vody v krajině. Hydrologie jako vědní disciplína, historický vývoj, organizace hydrologické služby."
             },
             {
+              "type": "heading",
+              "text": "Výtah ze studijní opory"
+            },
+            {
+              "type": "paragraph",
+              "text": "Univerzita Palackého v Olomouci Katedra geografie"
+            },
+            {
+              "type": "paragraph",
+              "text": "FYZICKÁ GEOGRAFIE 1 – HYDROLOGIE Distanční studijní opora"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Klíčové body",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Nastuduj úvodní souvislosti před dalšími okruhy",
-                "Připrav se na navazující témata v osnově"
+                "Obsah Obsah..............................................................................................................................................................3 Úvod ................................................................................................................................................................7 Vysvětlivky k ikonám .......................................................................................................................................8"
+              ]
+            },
+            {
+              "type": "list",
+              "label": "Doporučený postup",
+              "items": [
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0059",
-              "source": "IS MUNI"
+              "kind": "document",
+              "title": "Distanční studijní opora — Hydrologie (UP Olomouc)",
+              "url": "./materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+              "source": "Pavelková, Frajer",
+              "note": "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu."
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Hydrologie",
+              "url": "https://is.muni.cz/predmet/sci/Z0059",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -9318,39 +11400,60 @@ export const gk: Field = {
           "id": "z0059-2-vodni-zasoby-a-cirkulace-vody-na-zemi-zakladni-2",
           "title": "2) Vodní zásoby a cirkulace vody na Zemi - základní bilanční rovnice.",
           "summary": "Studijní okruh: 2) Vodní zásoby a cirkulace vody na Zemi - základní bilanční rovnice.",
-          "minutes": 15,
+          "minutes": 25,
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Součást předmětu Hydrologie (PřF:Z0059). Předmět je zaměřen tak, aby posluchači získali znalosti o měření a pozorování hydrologických jevů a zaměřili se na základní metody zpracování dat v hydrologii."
+              "text": "Studijní materiál k předmětu Hydrologie (PřF:Z0059). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 2 / 12",
+              "label": "Okruh",
               "text": "2) Vodní zásoby a cirkulace vody na Zemi - základní bilanční rovnice."
             },
             {
+              "type": "heading",
+              "text": "Výtah ze studijní opory"
+            },
+            {
+              "type": "paragraph",
+              "text": "Úvod do hydrologie .....................................................................................................................................9 1.1"
+            },
+            {
+              "type": "paragraph",
+              "text": "Hydrologie...........................................................................................................................................9"
+            },
+            {
+              "type": "paragraph",
+              "text": "Dělení hydrologie ..............................................................................................................................10"
+            },
+            {
+              "type": "paragraph",
+              "text": "Dějiny hydrologické vědy ..................................................................................................................12"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Doporučený postup",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0059",
-              "source": "IS MUNI"
+              "kind": "document",
+              "title": "Distanční studijní opora — Hydrologie (UP Olomouc)",
+              "url": "./materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+              "source": "Pavelková, Frajer",
+              "note": "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu."
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Hydrologie",
+              "url": "https://is.muni.cz/predmet/sci/Z0059",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -9358,39 +11461,68 @@ export const gk: Field = {
           "id": "z0059-3-hydrografie-rek-hydrograficke-charakteristiky-3",
           "title": "3) Hydrografie řek - hydrografické charakteristiky povodí, říční sítě a říčního koryta. Morfometrické a morfologické charakteristiky.",
           "summary": "Studijní okruh: 3) Hydrografie řek - hydrografické charakteristiky povodí, říční sítě a říčního koryta. Morfometrické a morfologické charakteristiky.",
-          "minutes": 20,
+          "minutes": 25,
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Součást předmětu Hydrologie (PřF:Z0059). Předmět je zaměřen tak, aby posluchači získali znalosti o měření a pozorování hydrologických jevů a zaměřili se na základní metody zpracování dat v hydrologii."
+              "text": "Studijní materiál k předmětu Hydrologie (PřF:Z0059). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 3 / 12",
+              "label": "Okruh",
               "text": "3) Hydrografie řek - hydrografické charakteristiky povodí, říční sítě a říčního koryta. Morfometrické a morfologické charakteristiky."
             },
             {
+              "type": "heading",
+              "text": "Výtah ze studijní opory"
+            },
+            {
+              "type": "paragraph",
+              "text": "Voda na Zemi ............................................................................................................................................15 2.1"
+            },
+            {
+              "type": "paragraph",
+              "text": "Původ vody na Zemi .........................................................................................................................15"
+            },
+            {
+              "type": "paragraph",
+              "text": "Zásoby vody na Zemi .......................................................................................................................16"
+            },
+            {
+              "type": "paragraph",
+              "text": "Fyzikální a chemické vlastnosti vody ...............................................................................................17"
+            },
+            {
+              "type": "paragraph",
+              "text": "Funkce vody .....................................................................................................................................19"
+            },
+            {
+              "type": "paragraph",
+              "text": "Hydrografie ................................................................................................................................................24 3.1"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Doporučený postup",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0059",
-              "source": "IS MUNI"
+              "kind": "document",
+              "title": "Distanční studijní opora — Hydrologie (UP Olomouc)",
+              "url": "./materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+              "source": "Pavelková, Frajer",
+              "note": "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu."
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Hydrologie",
+              "url": "https://is.muni.cz/predmet/sci/Z0059",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -9398,39 +11530,68 @@ export const gk: Field = {
           "id": "z0059-4-mereni-hodnot-hydrologickych-prvku-vodni-stav-4",
           "title": "4) Měření hodnot hydrologických prvků - vodní stav, rychlost proudění, průtok.",
           "summary": "Studijní okruh: 4) Měření hodnot hydrologických prvků - vodní stav, rychlost proudění, průtok.",
-          "minutes": 15,
+          "minutes": 25,
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Součást předmětu Hydrologie (PřF:Z0059). Předmět je zaměřen tak, aby posluchači získali znalosti o měření a pozorování hydrologických jevů a zaměřili se na základní metody zpracování dat v hydrologii."
+              "text": "Studijní materiál k předmětu Hydrologie (PřF:Z0059). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
             },
             {
               "type": "callout",
-              "label": "Okruh 4 / 12",
+              "label": "Okruh",
               "text": "4) Měření hodnot hydrologických prvků - vodní stav, rychlost proudění, průtok."
             },
             {
+              "type": "heading",
+              "text": "Výtah ze studijní opory"
+            },
+            {
+              "type": "paragraph",
+              "text": "Vývoj a organizace hydrologie v českých zemích ........................................................................13"
+            },
+            {
+              "type": "paragraph",
+              "text": "Geometrické a fyzikálně-geografické vlastnosti povodí ...................................................................31"
+            },
+            {
+              "type": "paragraph",
+              "text": "Plocha povodí ...............................................................................................................................31"
+            },
+            {
+              "type": "paragraph",
+              "text": "Střední šířka povodí .....................................................................................................................33"
+            },
+            {
+              "type": "paragraph",
+              "text": "Délka rozvodnice a délka povodí..................................................................................................33"
+            },
+            {
+              "type": "paragraph",
+              "text": "Tvar povodí ...................................................................................................................................33"
+            },
+            {
               "type": "list",
-              "label": "Doporučený postup studia",
+              "label": "Doporučený postup",
               "items": [
-                "Projdi hlavní pojmy a definice k tomuto tématu",
-                "Doplň si poznámky podle skript, přednášek nebo literatury v IS MUNI",
-                "Propoj obsah s předchozími okruhy v osnově předmětu",
-                "Připrav se na navazující témata v osnově"
+                "Projdi výtah a vlastní poznámky z přednášky",
+                "Otevři přiložené PDF/PPT v materiálech lekce",
+                "Propoj s předchozími a navazujícími okruhy v osnově"
               ]
             }
           ],
           "resources": [
             {
-              "kind": "link",
-              "title": "IS MUNI — detail předmětu",
-              "url": "https://is.muni.cz/predmet/sci/Z0059",
-              "source": "IS MUNI"
+              "kind": "document",
+              "title": "Distanční studijní opora — Hydrologie (UP Olomouc)",
+              "url": "./materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+              "source": "Pavelková, Frajer",
+              "note": "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu."
             },
             {
-              "kind": "document",
-              "title": "Osnova: Klíčová témata",
-              "note": "Oficiální témata z katalogu předmětů IS MUNI."
+              "kind": "link",
+              "title": "IS MUNI — Hydrologie",
+              "url": "https://is.muni.cz/predmet/sci/Z0059",
+              "source": "IS MUNI"
             }
           ]
         },
@@ -9784,6 +11945,13 @@ export const gk: Field = {
           "title": "Studijní plán v IS MUNI",
           "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
           "source": "IS MUNI"
+        },
+        {
+          "kind": "document",
+          "title": "Distanční studijní opora — Hydrologie (UP Olomouc)",
+          "url": "./materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+          "source": "Pavelková, Frajer",
+          "note": "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu."
         }
       ],
     },

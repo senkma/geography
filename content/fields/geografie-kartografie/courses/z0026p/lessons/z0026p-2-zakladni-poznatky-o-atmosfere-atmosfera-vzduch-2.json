@@ -1,0 +1,99 @@
+{
+  "id": "z0026p-2-zakladni-poznatky-o-atmosfere-atmosfera-vzduch-2",
+  "title": "2. Základní poznatky o atmosféře: Atmosféra, vzduch, chemické složení vzduchu, fyzikální vlastnosti. Vertikální struktura atmosféry. Ozon a jeho změny v atmosféře. Antropogenní změny vlastností atmosféry. Počasí, povětrnost, podnebí.",
+  "summary": "2. Základní poznatky o atmosféře: Atmosféra, vzduch, chemické složení vzduchu, fyzikální vlastnosti. Vertikální struktura atmosféry. Ozon…",
+  "minutes": 25,
+  "sectionTitle": "Témata prof. Brázdila",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Témata prof. Brázdila"
+    },
+    {
+      "type": "paragraph",
+      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
+    },
+    {
+      "type": "callout",
+      "label": "Okruh",
+      "text": "2. Základní poznatky o atmosféře: Atmosféra, vzduch, chemické složení vzduchu, fyzikální vlastnosti. Vertikální struktura atmosféry. Ozon a jeho změny v atmosféře. Antropogenní změny vlastností atmosféry. Počasí, povětrnost, podnebí."
+    },
+    {
+      "type": "heading",
+      "text": "Výtah ze skripta"
+    },
+    {
+      "type": "list",
+      "label": "Klíčové body",
+      "items": [
+        "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE - Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+        "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+        "- Fyzickogeografická sféra Země se skládá z jednotlivých geosfér: a) zemská kůra s georeliéfem – nejsvrchnější vrstva pevného zemského tělesa, jejíž povrch se označuje jako georeliéf b) atmosféra – plynný obal Země (po ozonovou vrstvu) c) hydrosféra – geosféra tvořená vodami oceánů a pevniny d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu e) pedosféra – půdní pokryv na povrchu pevnin f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy - fyzickogeografická + socioekonomická sféra = krajinná sféra Země"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wiley, New York. Kap. Prologue: s. 2-9. 2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.1 Elektromagnetické záření - sluneční záření – elektromagnetické x korpuskulární (částicové) - elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu - vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6 m) nebo nm (10-9 m) Obr. 2.1/31 - Strahler, Strahler (1999)"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.1.1 Záření a teplota - dva základní principy emise elektromagnetického záření: a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky) b) teplejší tělesa vyzařují mnohem více než tělesa chladnější (závislost na čtvrté mocnině absolutní teploty – Stefan-Boltzmannův zákon)"
+    },
+    {
+      "type": "list",
+      "label": "Klíčové body",
+      "items": [
+        "2.1.2 Sluneční záření - Slunce: jaderné reakce proton-protonového cyklu (přeměna vodíku na hélium) – povrchová teplota 6000 ˚C – výkon Slunce 2,8.1026 W – rychlost elektromagnetického záření 300 tisíc km.s-1 – 8 1/3 min.",
+        "než dorazí na Zemi - vzdálenější planety – méně energie od Slunce; Země – 1,7.1017 W - spektrum elektromagnetického záření: a) ultrafialové záření – 0,2-0,4 µm – pohlceno téměř úplně plyny v atmosféře – škodlivé pro živé organismy b) viditelné záření – 0,4-0,7 µm – světelná energie – barva závislá na vlnové délce (fialové, modrá, zelená, žlutá, oranžová, červená) – jen malá část pohlcována c) krátkovlnné infračervené záření – 0,7-3 µm – lidské oko není ne ně citlivé – snadno proniká atmosférou - a) + b) + c) = krátkovlnné záření d) tepelné infračervené záření – > 3 µm – vydáváno chladnějšími objekty – pociťováno jako teplo – označuje se jako dlouhovlnné záření (tepelné snímkování)"
+      ]
+    },
+    {
+      "type": "list",
+      "label": "Klíčové body",
+      "items": [
+        "2.1.3 Charakteristiky slunečního záření - různá intenzita vyzařování podle vlnové délky: ultrafialové – 9 %, viditelné – 41 %, krátkovlnné infračervené – 50 % (velmi málo energie pro L > 2 µm) - intenzita slunečního záření je největší ve viditelné části spektra - solární konstanta - celková intenzita elektromagnetického záření Slunce, dopadajícího na horní hranici atmosféry na jednotkovou plochu kolmou k paprskům při střední vzdálenosti ZeměSlunce: IS = 1367 W.m-2 ± 0,3 % 2.1.4 Dlouhovlnné záření Země - zemský povrch a atmosféra vyzařují méně energie o větších vlnových délkách (v porovnání se Sluncem) - intenzita vyzařování má tři maxima pro L = 5, 10 a 20 µm – vlnové délky mezi tím pohlcovány hladně vodní párou a CO2"
+      ]
+    },
+    {
+      "type": "list",
+      "label": "Doporučený postup",
+      "items": [
+        "Projdi výtah a vlastní poznámky z přednášky",
+        "Otevři přiložené PDF/PPT v materiálech lekce",
+        "Propoj s předchozími a navazujícími okruhy v osnově"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "document",
+      "title": "otazky-ze-tretiho-terminu-zkousky.docx",
+      "url": "./materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+      "source": "Okruhy ke zkoušce",
+      "note": "Sdílený materiál pro více okruhů"
+    },
+    {
+      "kind": "document",
+      "title": "otazky-na-tema-1-a-2.docx",
+      "url": "./materials/geografie-kartografie/z0026p/otazky-na-tema-1-a-2.docx",
+      "source": "Okruhy ke zkoušce",
+      "note": "Sdílený materiál pro více okruhů"
+    },
+    {
+      "kind": "document",
+      "title": "FG_1",
+      "url": "./materials/geografie-kartografie/z0026p/FG_1.pdf",
+      "source": "Brázdil — skriptum"
+    },
+    {
+      "kind": "link",
+      "title": "IS MUNI — Fyzická geografie",
+      "url": "https://is.muni.cz/predmet/sci/Z0026p",
+      "source": "IS MUNI"
+    }
+  ]
+}

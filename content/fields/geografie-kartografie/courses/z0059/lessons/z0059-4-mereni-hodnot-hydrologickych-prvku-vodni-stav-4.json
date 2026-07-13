@@ -1,0 +1,69 @@
+{
+  "id": "z0059-4-mereni-hodnot-hydrologickych-prvku-vodni-stav-4",
+  "title": "4) Měření hodnot hydrologických prvků - vodní stav, rychlost proudění, průtok.",
+  "summary": "Studijní okruh: 4) Měření hodnot hydrologických prvků - vodní stav, rychlost proudění, průtok.",
+  "minutes": 25,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Studijní materiál k předmětu Hydrologie (PřF:Z0059). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
+    },
+    {
+      "type": "callout",
+      "label": "Okruh",
+      "text": "4) Měření hodnot hydrologických prvků - vodní stav, rychlost proudění, průtok."
+    },
+    {
+      "type": "heading",
+      "text": "Výtah ze studijní opory"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vývoj a organizace hydrologie v českých zemích ........................................................................13"
+    },
+    {
+      "type": "paragraph",
+      "text": "Geometrické a fyzikálně-geografické vlastnosti povodí ...................................................................31"
+    },
+    {
+      "type": "paragraph",
+      "text": "Plocha povodí ...............................................................................................................................31"
+    },
+    {
+      "type": "paragraph",
+      "text": "Střední šířka povodí .....................................................................................................................33"
+    },
+    {
+      "type": "paragraph",
+      "text": "Délka rozvodnice a délka povodí..................................................................................................33"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tvar povodí ...................................................................................................................................33"
+    },
+    {
+      "type": "list",
+      "label": "Doporučený postup",
+      "items": [
+        "Projdi výtah a vlastní poznámky z přednášky",
+        "Otevři přiložené PDF/PPT v materiálech lekce",
+        "Propoj s předchozími a navazujícími okruhy v osnově"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "document",
+      "title": "Distanční studijní opora — Hydrologie (UP Olomouc)",
+      "url": "./materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+      "source": "Pavelková, Frajer",
+      "note": "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu."
+    },
+    {
+      "kind": "link",
+      "title": "IS MUNI — Hydrologie",
+      "url": "https://is.muni.cz/predmet/sci/Z0059",
+      "source": "IS MUNI"
+    }
+  ]
+}

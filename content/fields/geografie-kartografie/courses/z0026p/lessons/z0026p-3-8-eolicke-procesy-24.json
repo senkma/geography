@@ -1,0 +1,89 @@
+{
+  "id": "z0026p-3-8-eolicke-procesy-24",
+  "title": "3.8 Eolické procesy",
+  "summary": "Studijní okruh: 3.8 Eolické procesy",
+  "minutes": 22,
+  "sectionTitle": "Témata doc. Máčky",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Témata doc. Máčky"
+    },
+    {
+      "type": "paragraph",
+      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
+    },
+    {
+      "type": "callout",
+      "label": "Okruh",
+      "text": "3.8 Eolické procesy"
+    },
+    {
+      "type": "heading",
+      "text": "Přednáška FG_DN_8 (Máčka/Nývlt)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tvary reliéfu, které vznikly působením větru"
+    },
+    {
+      "type": "paragraph",
+      "text": "Podmínky za nichž se může uplatnit působení větru"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Teplé i chladné suché (aridní a semiaridní) oblasti"
+    },
+    {
+      "type": "paragraph",
+      "text": "Větrná eroze a transport probíhá podobně jako ve fluviálním prostředí, ovšem…"
+    },
+    {
+      "type": "paragraph",
+      "text": "- Menší hustota vzduchu ve srovnání s vodou snižuje transportní kapacitu"
+    },
+    {
+      "type": "paragraph",
+      "text": "- Obvykle jsou transportována zrna do velikosti písku"
+    },
+    {
+      "type": "paragraph",
+      "text": "- 3 druhy eolického transportu – rolování/posouvání,"
+    },
+    {
+      "type": "paragraph",
+      "text": "- Prostorově neomezené ukládání materiálu, ale často kolem překážek"
+    },
+    {
+      "type": "paragraph",
+      "text": "- Probíhá vytřídění a ukládání do vrstev"
+    },
+    {
+      "type": "list",
+      "label": "Doporučený postup",
+      "items": [
+        "Projdi výtah a vlastní poznámky z přednášky",
+        "Otevři přiložené PDF/PPT v materiálech lekce",
+        "Propoj s předchozími a navazujícími okruhy v osnově"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "presentation",
+      "title": "FG_DN_8 — přednáška",
+      "url": "./materials/geografie-kartografie/z0026p/FG_DN_8.pptx",
+      "source": "GÚ MUNI / Máčka"
+    },
+    {
+      "kind": "link",
+      "title": "IS MUNI — Fyzická geografie",
+      "url": "https://is.muni.cz/predmet/sci/Z0026p",
+      "source": "IS MUNI"
+    }
+  ]
+}

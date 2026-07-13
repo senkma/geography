@@ -1,0 +1,60 @@
+{
+  "id": "z0059-1-uvod-vyznam-vody-v-krajine-hydrologie-jako-ved-1",
+  "title": "1) Úvod. Význam vody v krajině. Hydrologie jako vědní disciplína, historický vývoj, organizace hydrologické služby.",
+  "summary": "Studijní okruh: 1) Úvod. Význam vody v krajině. Hydrologie jako vědní disciplína, historický vývoj, organizace hydrologické služby.",
+  "minutes": 25,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Studijní materiál k předmětu Hydrologie (PřF:Z0059). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
+    },
+    {
+      "type": "callout",
+      "label": "Okruh",
+      "text": "1) Úvod. Význam vody v krajině. Hydrologie jako vědní disciplína, historický vývoj, organizace hydrologické služby."
+    },
+    {
+      "type": "heading",
+      "text": "Výtah ze studijní opory"
+    },
+    {
+      "type": "paragraph",
+      "text": "Univerzita Palackého v Olomouci Katedra geografie"
+    },
+    {
+      "type": "paragraph",
+      "text": "FYZICKÁ GEOGRAFIE 1 – HYDROLOGIE Distanční studijní opora"
+    },
+    {
+      "type": "list",
+      "label": "Klíčové body",
+      "items": [
+        "Obsah Obsah..............................................................................................................................................................3 Úvod ................................................................................................................................................................7 Vysvětlivky k ikonám .......................................................................................................................................8"
+      ]
+    },
+    {
+      "type": "list",
+      "label": "Doporučený postup",
+      "items": [
+        "Projdi výtah a vlastní poznámky z přednášky",
+        "Otevři přiložené PDF/PPT v materiálech lekce",
+        "Propoj s předchozími a navazujícími okruhy v osnově"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "document",
+      "title": "Distanční studijní opora — Hydrologie (UP Olomouc)",
+      "url": "./materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+      "source": "Pavelková, Frajer",
+      "note": "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu."
+    },
+    {
+      "kind": "link",
+      "title": "IS MUNI — Hydrologie",
+      "url": "https://is.muni.cz/predmet/sci/Z0059",
+      "source": "IS MUNI"
+    }
+  ]
+}

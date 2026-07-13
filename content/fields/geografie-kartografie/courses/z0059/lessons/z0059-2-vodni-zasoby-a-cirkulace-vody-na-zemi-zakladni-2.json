@@ -1,0 +1,61 @@
+{
+  "id": "z0059-2-vodni-zasoby-a-cirkulace-vody-na-zemi-zakladni-2",
+  "title": "2) Vodní zásoby a cirkulace vody na Zemi - základní bilanční rovnice.",
+  "summary": "Studijní okruh: 2) Vodní zásoby a cirkulace vody na Zemi - základní bilanční rovnice.",
+  "minutes": 25,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Studijní materiál k předmětu Hydrologie (PřF:Z0059). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
+    },
+    {
+      "type": "callout",
+      "label": "Okruh",
+      "text": "2) Vodní zásoby a cirkulace vody na Zemi - základní bilanční rovnice."
+    },
+    {
+      "type": "heading",
+      "text": "Výtah ze studijní opory"
+    },
+    {
+      "type": "paragraph",
+      "text": "Úvod do hydrologie .....................................................................................................................................9 1.1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hydrologie...........................................................................................................................................9"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dělení hydrologie ..............................................................................................................................10"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dějiny hydrologické vědy ..................................................................................................................12"
+    },
+    {
+      "type": "list",
+      "label": "Doporučený postup",
+      "items": [
+        "Projdi výtah a vlastní poznámky z přednášky",
+        "Otevři přiložené PDF/PPT v materiálech lekce",
+        "Propoj s předchozími a navazujícími okruhy v osnově"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "document",
+      "title": "Distanční studijní opora — Hydrologie (UP Olomouc)",
+      "url": "./materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+      "source": "Pavelková, Frajer",
+      "note": "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu."
+    },
+    {
+      "kind": "link",
+      "title": "IS MUNI — Hydrologie",
+      "url": "https://is.muni.cz/predmet/sci/Z0059",
+      "source": "IS MUNI"
+    }
+  ]
+}

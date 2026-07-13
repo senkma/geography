@@ -1,0 +1,89 @@
+{
+  "id": "z0026p-1-co-je-fyzicka-geografie-14",
+  "title": "1. Co je fyzická geografie?",
+  "summary": "Studijní okruh: 1. Co je fyzická geografie?",
+  "minutes": 22,
+  "sectionTitle": "Témata doc. Máčky",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Témata doc. Máčky"
+    },
+    {
+      "type": "paragraph",
+      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
+    },
+    {
+      "type": "callout",
+      "label": "Okruh",
+      "text": "1. Co je fyzická geografie?"
+    },
+    {
+      "type": "heading",
+      "text": "Přednáška FG_DN_1 (Máčka/Nývlt)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Evropská agentura pro životní prostředí)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jako krajina se označuje část zemského povrchu s typickou kombinací přírodních a kulturních prvků a charakteristickou scenerií"
+    },
+    {
+      "type": "paragraph",
+      "text": "krajina vzniklá přetvořením původní přírodní krajiny činností člověka"
+    },
+    {
+      "type": "paragraph",
+      "text": "Propustná přípovrchová vrstva sahající od vrcholků stromů po spodní hranici podzemní vody"
+    },
+    {
+      "type": "paragraph",
+      "text": "V kritické zóně dochází k pronikání živé a neživé přírody"
+    },
+    {
+      "type": "paragraph",
+      "text": "Komplexní vztahy v kritické zóně vytvářejí"
+    },
+    {
+      "type": "paragraph",
+      "text": "rozhraní mezi zemskou kůrou a svrchním pláštěm"
+    },
+    {
+      "type": "list",
+      "label": "Doporučený postup",
+      "items": [
+        "Projdi výtah a vlastní poznámky z přednášky",
+        "Otevři přiložené PDF/PPT v materiálech lekce",
+        "Propoj s předchozími a navazujícími okruhy v osnově"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "presentation",
+      "title": "FG_DN_1 — přednáška",
+      "url": "./materials/geografie-kartografie/z0026p/FG_DN_1.pptx",
+      "source": "GÚ MUNI / Máčka"
+    },
+    {
+      "kind": "link",
+      "title": "IS MUNI — Fyzická geografie",
+      "url": "https://is.muni.cz/predmet/sci/Z0026p",
+      "source": "IS MUNI"
+    }
+  ]
+}

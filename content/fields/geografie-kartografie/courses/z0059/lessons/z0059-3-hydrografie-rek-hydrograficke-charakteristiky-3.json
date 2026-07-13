@@ -1,0 +1,69 @@
+{
+  "id": "z0059-3-hydrografie-rek-hydrograficke-charakteristiky-3",
+  "title": "3) Hydrografie řek - hydrografické charakteristiky povodí, říční sítě a říčního koryta. Morfometrické a morfologické charakteristiky.",
+  "summary": "Studijní okruh: 3) Hydrografie řek - hydrografické charakteristiky povodí, říční sítě a říčního koryta. Morfometrické a morfologické charakteristiky.",
+  "minutes": 25,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Studijní materiál k předmětu Hydrologie (PřF:Z0059). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
+    },
+    {
+      "type": "callout",
+      "label": "Okruh",
+      "text": "3) Hydrografie řek - hydrografické charakteristiky povodí, říční sítě a říčního koryta. Morfometrické a morfologické charakteristiky."
+    },
+    {
+      "type": "heading",
+      "text": "Výtah ze studijní opory"
+    },
+    {
+      "type": "paragraph",
+      "text": "Voda na Zemi ............................................................................................................................................15 2.1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Původ vody na Zemi .........................................................................................................................15"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zásoby vody na Zemi .......................................................................................................................16"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fyzikální a chemické vlastnosti vody ...............................................................................................17"
+    },
+    {
+      "type": "paragraph",
+      "text": "Funkce vody .....................................................................................................................................19"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hydrografie ................................................................................................................................................24 3.1"
+    },
+    {
+      "type": "list",
+      "label": "Doporučený postup",
+      "items": [
+        "Projdi výtah a vlastní poznámky z přednášky",
+        "Otevři přiložené PDF/PPT v materiálech lekce",
+        "Propoj s předchozími a navazujícími okruhy v osnově"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "document",
+      "title": "Distanční studijní opora — Hydrologie (UP Olomouc)",
+      "url": "./materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+      "source": "Pavelková, Frajer",
+      "note": "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu."
+    },
+    {
+      "kind": "link",
+      "title": "IS MUNI — Hydrologie",
+      "url": "https://is.muni.cz/predmet/sci/Z0059",
+      "source": "IS MUNI"
+    }
+  ]
+}
