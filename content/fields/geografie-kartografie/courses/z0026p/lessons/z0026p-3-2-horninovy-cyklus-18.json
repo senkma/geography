@@ -10,57 +10,34 @@
       "text": "Témata doc. Máčky"
     },
     {
-      "type": "paragraph",
-      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
-    },
-    {
       "type": "callout",
       "label": "Okruh",
       "text": "3.2 Horninový cyklus"
+    },
+    {
+      "type": "callout",
+      "label": "Jak číst tuto lekci",
+      "text": "Text je výtah ze skripta a přednášek — použij ho jako mapu k učení. Detaily a obrázky najdeš v PDF/PPT v materiálech lekce."
     },
     {
       "type": "heading",
       "text": "Přednáška FG_DN_3 (Máčka/Nývlt)"
     },
     {
-      "type": "paragraph",
-      "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží"
-    },
-    {
-      "type": "paragraph",
-      "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)"
-    },
-    {
-      "type": "paragraph",
-      "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)"
-    },
-    {
-      "type": "paragraph",
-      "text": "hlavní (podstatné): &gt; 10 objemových %"
-    },
-    {
-      "type": "paragraph",
-      "text": "vedlejší (podružné): &lt; 10 objemových %"
-    },
-    {
-      "type": "paragraph",
-      "text": "akcesorické (přídatné): ≤ 5 objemových %"
-    },
-    {
-      "type": "paragraph",
-      "text": "primární: tvoří se při vzniku samotné horniny"
-    },
-    {
-      "type": "paragraph",
-      "text": "sekundární: vznikají přeměnou z primárních (převážně zvětráváním)"
-    },
-    {
-      "type": "paragraph",
-      "text": "Zemskou kůru tvoří z převážné většiny 8 prvků"
-    },
-    {
-      "type": "paragraph",
-      "text": "Vrstvy jsou ukloněné vůči hlavní vrstevní ploše setu vrstev"
+      "type": "list",
+      "label": "Body přednášky",
+      "items": [
+        "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+        "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+        "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+        "hlavní (podstatné): &gt; 10 objemových %",
+        "vedlejší (podružné): &lt; 10 objemových %",
+        "akcesorické (přídatné): ≤ 5 objemových %",
+        "primární: tvoří se při vzniku samotné horniny",
+        "sekundární: vznikají přeměnou z primárních (převážně zvětráváním)",
+        "Zemskou kůru tvoří z převážné většiny 8 prvků",
+        "Vrstvy jsou ukloněné vůči hlavní vrstevní ploše setu vrstev"
+      ]
     },
     {
       "type": "list",

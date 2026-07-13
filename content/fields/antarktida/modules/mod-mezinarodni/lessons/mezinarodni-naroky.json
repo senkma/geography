@@ -5,8 +5,11 @@
   "minutes": 14,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Antarktická smlouva neřeší nároky definitivně — pouze je zmrazuje. Sedm států (Argentina, Austrálie, Chile, Francie, Nový Zéland, Norsko, Velká Británie) uplatňuje částečně překrývající se sektorová tvrzení."
+      "type": "list",
+      "items": [
+        "Antarktická smlouva neřeší nároky definitivně — pouze je zmrazuje.",
+        "Sedm států (Argentina, Austrálie, Chile, Francie, Nový Zéland, Norsko, Velká Británie) uplatňuje částečně překrývající se sektorová tvrzení."
+      ]
     },
     {
       "type": "list",

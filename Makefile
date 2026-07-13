@@ -67,6 +67,10 @@ process-inbox-fg: ## Zpracuje inbox/Fyzická geografie → lekce + materiály
 	node scripts/process-inbox-fyzicka-geografie.mjs
 	$(MAKE) gen-data
 
+reformat-lessons: ## Přeformátuje bloky lekcí (čitelnější výtahy)
+	node scripts/reformat-lesson-blocks.mjs
+	$(MAKE) gen-data
+
 migrate-antarktida: ## Export antarktida_modules.json → content/ (přepíše moduly!)
 	node scripts/reorganize-antarktida-themes.mjs
 	node scripts/migrate-antarktida-to-content.mjs

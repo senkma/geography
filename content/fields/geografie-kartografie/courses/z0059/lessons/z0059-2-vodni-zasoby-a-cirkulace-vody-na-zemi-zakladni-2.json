@@ -5,13 +5,14 @@
   "minutes": 25,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Studijní materiál k předmětu Hydrologie (PřF:Z0059). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
-    },
-    {
       "type": "callout",
       "label": "Okruh",
       "text": "2) Vodní zásoby a cirkulace vody na Zemi - základní bilanční rovnice."
+    },
+    {
+      "type": "callout",
+      "label": "Jak číst tuto lekci",
+      "text": "Text je výtah ze skripta a přednášek — použij ho jako mapu k učení. Detaily a obrázky najdeš v PDF/PPT v materiálech lekce."
     },
     {
       "type": "heading",

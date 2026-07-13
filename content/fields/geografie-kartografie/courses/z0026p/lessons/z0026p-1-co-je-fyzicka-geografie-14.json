@@ -10,57 +10,43 @@
       "text": "Témata doc. Máčky"
     },
     {
-      "type": "paragraph",
-      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
-    },
-    {
       "type": "callout",
       "label": "Okruh",
       "text": "1. Co je fyzická geografie?"
+    },
+    {
+      "type": "callout",
+      "label": "Jak číst tuto lekci",
+      "text": "Text je výtah ze skripta a přednášek — použij ho jako mapu k učení. Detaily a obrázky najdeš v PDF/PPT v materiálech lekce."
     },
     {
       "type": "heading",
       "text": "Přednáška FG_DN_1 (Máčka/Nývlt)"
     },
     {
-      "type": "paragraph",
-      "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti"
-    },
-    {
-      "type": "paragraph",
-      "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)"
-    },
-    {
-      "type": "paragraph",
-      "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les"
-    },
-    {
-      "type": "paragraph",
-      "text": "(Evropská agentura pro životní prostředí)"
+      "type": "list",
+      "label": "Body přednášky",
+      "items": [
+        "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+        "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+        "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+        "(Evropská agentura pro životní prostředí)"
+      ]
     },
     {
       "type": "paragraph",
       "text": "Jako krajina se označuje část zemského povrchu s typickou kombinací přírodních a kulturních prvků a charakteristickou scenerií"
     },
     {
-      "type": "paragraph",
-      "text": "krajina vzniklá přetvořením původní přírodní krajiny činností člověka"
-    },
-    {
-      "type": "paragraph",
-      "text": "Propustná přípovrchová vrstva sahající od vrcholků stromů po spodní hranici podzemní vody"
-    },
-    {
-      "type": "paragraph",
-      "text": "V kritické zóně dochází k pronikání živé a neživé přírody"
-    },
-    {
-      "type": "paragraph",
-      "text": "Komplexní vztahy v kritické zóně vytvářejí"
-    },
-    {
-      "type": "paragraph",
-      "text": "rozhraní mezi zemskou kůrou a svrchním pláštěm"
+      "type": "list",
+      "label": "Body přednášky",
+      "items": [
+        "krajina vzniklá přetvořením původní přírodní krajiny činností člověka",
+        "Propustná přípovrchová vrstva sahající od vrcholků stromů po spodní hranici podzemní vody",
+        "V kritické zóně dochází k pronikání živé a neživé přírody",
+        "Komplexní vztahy v kritické zóně vytvářejí",
+        "rozhraní mezi zemskou kůrou a svrchním pláštěm"
+      ]
     },
     {
       "type": "list",

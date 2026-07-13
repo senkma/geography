@@ -10,21 +10,25 @@
       "text": "Témata doc. Máčky"
     },
     {
-      "type": "paragraph",
-      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
-    },
-    {
       "type": "callout",
       "label": "Okruh",
       "text": "3.10 Pedogeneze"
+    },
+    {
+      "type": "callout",
+      "label": "Jak číst tuto lekci",
+      "text": "Text je výtah ze skripta a přednášek — použij ho jako mapu k učení. Detaily a obrázky najdeš v PDF/PPT v materiálech lekce."
     },
     {
       "type": "heading",
       "text": "Otázky a okruhy — FG_8"
     },
     {
-      "type": "paragraph",
-      "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236 - 263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s."
+      "type": "list",
+      "items": [
+        "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+        "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s."
+      ]
     },
     {
       "type": "list",
@@ -32,52 +36,37 @@
       "items": [
         "Úvod • půda = je nejsvrchnější vrstva zemského povrchu, která poskytuje rostlinám živiny, vodu a prostředí pro růst kořenů půda je vodou, vzduchem a organismy prostoupená svrchní vrstva zemské kůry, která se vyvíjí pod vlivem vnějších faktorů a času a je produktem přeměn mineralogických a organických substancí, morfologicky organizovaná a poskytující přírodní prostředí rostlinám, živočichům a člověku • pedologie = je věda, která si klade za cíl, objasnit genezi (vznik) půd, charakterizovat jejich vlastnosti, stanovit klasifikační systém, zpracovat rozšíření půdních jednotek na zemském povrchu a určit možnosti hospodářského využití půd • předmětem pedologie je půda, resp.",
         "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
-        "• půda vzniká působením půdotvorných faktorů, které podmiňují půdotvorné procesy • půdotvorné faktory: • matečná hornina • klima • organizmy • reliéf • čas"
-      ]
-    },
-    {
-      "type": "list",
-      "label": "Klíčové body",
-      "items": [
+        "půda vzniká působením půdotvorných faktorů, které podmiňují půdotvorné procesy • půdotvorné faktory: • matečná hornina • klima • organizmy • reliéf • čas",
         "matečná hornina: skalní horniny + jejich zvětraliny (regolit) sypké sedimenty (např.",
-        "říční nebo mořské písky) starší půdy pasivní půdotvorný faktor - na daném místě se v průběhu času nemění a bez působení ostatních (aktivních) faktorů se z ní nemůže vyvinout půda klima: přímé působení: a.",
+        "říční nebo mořské písky) starší půdy pasivní půdotvorný faktor",
+        "na daném místě se v průběhu času nemění a bez působení ostatních (aktivních) faktorů se z ní nemůže vyvinout půda klima: přímé působení: a.",
         "teplota nepřímé působení: prostřednictvím vegetace Srážky – intenzita promývání půdy → obsah živin Teplota – rychlost rozkladu rostlinného opadu a odumřelých kořenů organizmy: intenzita biologické aktivity závisí na: a.",
         "úživnost matečné horniny b.",
-        "klima důležitý faktor - bez činnosti organizmů by půdy nemohli vůbec vzniknout reliéf: pro vývoj půd má největší význam: a.",
-        "terénní deprese reliéf ovlivňuje provlhčení půdy a její teplotu čas: různé fyzikální, chemické a biologické procesy vyžadují ke svému uplatnění určité časové rozpětí"
-      ]
-    },
-    {
-      "type": "list",
-      "label": "Klíčové body",
-      "items": [
+        "klima důležitý faktor",
+        "bez činnosti organizmů by půdy nemohli vůbec vzniknout reliéf: pro vývoj půd má největší význam: a.",
+        "terénní deprese reliéf ovlivňuje provlhčení půdy a její teplotu čas: různé fyzikální, chemické a biologické procesy vyžadují ke svému uplatnění určité časové rozpětí",
         "Složení a vlastnosti půdy • půda je disperzní systém pevné + kapalné + plynné fáze procentuální zastoupení jednotlivých fází: pevná 50%, kapalná 20 – 30%, plynná 25 – 30% pevná fáze obsahuje dvě složky: a.",
         "organický podíl – minerální podíl silně převažuje nad organickým (45% - 5%) organický podíl obsahuje dvě složky: a.",
         "živá organická hmota (edafon), b.",
         "odumřelá organická hmota (humus) • humus: odumřelá, částečně rozložená organická hmota rostlinného i živočišného původu; převážně rostlinný původ; tmavá barva • půdní roztok • půdní vzduch – vyšší obsah CO2 a nižší obsah O2 než v atmosféře zdroje CO2: dýcháním kořenů a rozkladné procesy, úbytek O2: dýchání kořenů a chemické a biochemické reakce • optimální poměr vody a vzduchu v půdě 1:1 = dostatek vody, kořeny rostlin se nedusí • zvětrávání → zvětráváním vzniká minerální podíl půdy 1.",
-        "fyzikální (mechanické) 2."
-      ]
-    },
-    {
-      "type": "list",
-      "label": "Klíčové body",
-      "items": [
+        "fyzikální (mechanické) 2.",
         "2.1 Barva a zrnitost půdy • barva vzniká: a.",
         "zděděním od matečné horniny, b.",
         "jako výsledek půdotvorných procesů Organické látky: šedá, hnědočerná nebo černá barva Sloučeniny Fe a Mn: oxidované – červená, červenohnědá nebo hnědá; redukované – zelená, modrá, žlutá světlé barevné tóny vznikají vyplavením barevným minerálů a humusu vodou • zrnitost (textura) zrnitostních frakce jíl, prach a písek = jemnozem; hrubší částice = skelet Strahler&Strahler obr 9.2 s."
       ]
     },
     {
-      "type": "paragraph",
-      "text": "• hranice zrnitostních frakcí: jíl <0,002 mm prach 0,002 – 0,02 mm písek 0,02 – 2,0 mm • půdní druh – určuje se podle zastoupení zrnitostních frakcí Označení půdy Obsah jílu (%) Skupinové Jednotlivé"
+      "type": "callout",
+      "label": "hranice zrnitostních frakcí",
+      "text": "jíl <0,002 mm prach 0,002 – 0,02 mm písek 0,02 – 2,0 mm • půdní druh – určuje se podle zastoupení zrnitostních frakcí Označení půdy Obsah jílu (%) Skupinové Jednotlivé"
     },
     {
-      "type": "paragraph",
-      "text": "Hlinitopísčitá 10 – 20 Střední Písčitohlinitá 20 – 30"
-    },
-    {
-      "type": "paragraph",
-      "text": "Hlinitá 30 – 45 Těžká Jílovitohlinitá 45 – 60"
+      "type": "list",
+      "label": "Body přednášky",
+      "items": [
+        "Hlinitopísčitá 10 – 20 Střední Písčitohlinitá 20 – 30",
+        "Hlinitá 30 – 45 Těžká Jílovitohlinitá 45 – 60"
+      ]
     },
     {
       "type": "list",
@@ -85,36 +74,20 @@
       "items": [
         "Úvod • půda = je nejsvrchnější vrstva zemského povrchu, která poskytuje rostlinám živiny, vodu a prostředí pro růst kořenů půda je vodou, vzduchem a organismy prostoupená svrchní vrstva zemské kůry, která se vyvíjí pod vlivem vnějších faktorů a času a je produktem přeměn mineralogických a organických substancí, morfologicky organizovaná a poskytující přírodní prostředí rostlinám, živočichům a člověku • pedologie = je věda, která si klade za cíl, objasnit genezi (vznik) půd, charakterizovat jejich vlastnosti, stanovit klasifikační systém, zpracovat rozšíření půdních jednotek na zemském povrchu a určit možnosti hospodářského využití půd • předmětem pedologie je půda, resp.",
         "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
-        "• půda vzniká působením půdotvorných faktorů, které podmiňují půdotvorné procesy • půdotvorné faktory: • matečná hornina • klima • organizmy • reliéf • čas"
-      ]
-    },
-    {
-      "type": "list",
-      "label": "Klíčové body",
-      "items": [
+        "půda vzniká působením půdotvorných faktorů, které podmiňují půdotvorné procesy • půdotvorné faktory: • matečná hornina • klima • organizmy • reliéf • čas",
         "matečná hornina: skalní horniny + jejich zvětraliny (regolit) sypké sedimenty (např.",
-        "říční nebo mořské písky) starší půdy pasivní půdotvorný faktor - na daném místě se v průběhu času nemění a bez působení ostatních (aktivních) faktorů se z ní nemůže vyvinout půda klima: přímé působení: a.",
+        "říční nebo mořské písky) starší půdy pasivní půdotvorný faktor",
+        "na daném místě se v průběhu času nemění a bez působení ostatních (aktivních) faktorů se z ní nemůže vyvinout půda klima: přímé působení: a.",
         "teplota nepřímé působení: prostřednictvím vegetace Srážky – intenzita promývání půdy → obsah živin Teplota – rychlost rozkladu rostlinného opadu a odumřelých kořenů organizmy: intenzita biologické aktivity závisí na: a.",
         "úživnost matečné horniny b.",
-        "klima důležitý faktor - bez činnosti organizmů by půdy nemohli vůbec vzniknout reliéf: pro vývoj půd má největší význam: a.",
-        "terénní deprese reliéf ovlivňuje provlhčení půdy a její teplotu čas: různé fyzikální, chemické a biologické procesy vyžadují ke svému uplatnění určité časové rozpětí"
-      ]
-    },
-    {
-      "type": "list",
-      "label": "Klíčové body",
-      "items": [
+        "klima důležitý faktor",
+        "bez činnosti organizmů by půdy nemohli vůbec vzniknout reliéf: pro vývoj půd má největší význam: a.",
+        "terénní deprese reliéf ovlivňuje provlhčení půdy a její teplotu čas: různé fyzikální, chemické a biologické procesy vyžadují ke svému uplatnění určité časové rozpětí",
         "Složení a vlastnosti půdy • půda je disperzní systém pevné + kapalné + plynné fáze procentuální zastoupení jednotlivých fází: pevná 50%, kapalná 20 – 30%, plynná 25 – 30% pevná fáze obsahuje dvě složky: a.",
         "organický podíl – minerální podíl silně převažuje nad organickým (45% - 5%) organický podíl obsahuje dvě složky: a.",
         "živá organická hmota (edafon), b.",
         "odumřelá organická hmota (humus) • humus: odumřelá, částečně rozložená organická hmota rostlinného i živočišného původu; převážně rostlinný původ; tmavá barva • půdní roztok • půdní vzduch – vyšší obsah CO2 a nižší obsah O2 než v atmosféře zdroje CO2: dýcháním kořenů a rozkladné procesy, úbytek O2: dýchání kořenů a chemické a biochemické reakce • optimální poměr vody a vzduchu v půdě 1:1 = dostatek vody, kořeny rostlin se nedusí • zvětrávání → zvětráváním vzniká minerální podíl půdy 1.",
-        "fyzikální (mechanické) 2."
-      ]
-    },
-    {
-      "type": "list",
-      "label": "Klíčové body",
-      "items": [
+        "fyzikální (mechanické) 2.",
         "2.1 Barva a zrnitost půdy • barva vzniká: a.",
         "zděděním od matečné horniny, b.",
         "jako výsledek půdotvorných procesů Organické látky: šedá, hnědočerná nebo černá barva Sloučeniny Fe a Mn: oxidované – červená, červenohnědá nebo hnědá; redukované – zelená, modrá, žlutá světlé barevné tóny vznikají vyplavením barevným minerálů a humusu vodou • zrnitost (textura) zrnitostních frakce jíl, prach a písek = jemnozem; hrubší částice = skelet Strahler&Strahler obr 9.2 s."

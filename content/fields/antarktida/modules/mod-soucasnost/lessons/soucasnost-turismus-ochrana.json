@@ -5,8 +5,11 @@
   "minutes": 15,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Antarktický turismus roste — většina návštěvníků míří na poloostrov lodními výpravami. IAATO koordinuje bezpečnost a minimalizaci dopadů; přistání jsou regulována podle smluvního systému."
+      "type": "list",
+      "items": [
+        "Antarktický turismus roste — většina návštěvníků míří na poloostrov lodními výpravami.",
+        "IAATO koordinuje bezpečnost a minimalizaci dopadů; přistání jsou regulována podle smluvního systému."
+      ]
     },
     {
       "type": "list",

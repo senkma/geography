@@ -5,8 +5,11 @@
   "minutes": 18,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Česká vědecká stanice J. G. Mendela leží v severní části ostrova Jamese Rosse (poloostrov Ulu) u Antarktického poloostrova. Provozuje ji CARP od výstavby v letech 2004–2006."
+      "type": "list",
+      "items": [
+        "Mendela leží v severní části ostrova Jamese Rosse (poloostrov Ulu) u Antarktického poloostrova.",
+        "Provozuje ji CARP od výstavby v letech 2004–2006."
+      ]
     },
     {
       "type": "list",

@@ -5,8 +5,11 @@
   "minutes": 18,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Antarktida je pevninský kontinent obklopující jižní geografický pól, převážně jižně od jižního polárního kruhu (66,5° j. š.). Od ostatních kontinentů je oddělena Jižním oceánem; nejblíže je Jižní Amerika (Drakeův průliv)."
+      "type": "list",
+      "items": [
+        "Antarktida je pevninský kontinent obklopující jižní geografický pól, převážně jižně od jižního polárního kruhu (66,5° j. š.).",
+        "Od ostatních kontinentů je oddělena Jižním oceánem; nejblíže je Jižní Amerika (Drakeův průliv)."
+      ]
     },
     {
       "type": "list",

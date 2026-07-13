@@ -35,8 +35,11 @@ export const antarktida: Field = {
           "minutes": 18,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Antarktida je pevninský kontinent obklopující jižní geografický pól, převážně jižně od jižního polárního kruhu (66,5° j. š.). Od ostatních kontinentů je oddělena Jižním oceánem; nejblíže je Jižní Amerika (Drakeův průliv)."
+              "type": "list",
+              "items": [
+                "Antarktida je pevninský kontinent obklopující jižní geografický pól, převážně jižně od jižního polárního kruhu (66,5° j. š.).",
+                "Od ostatních kontinentů je oddělena Jižním oceánem; nejblíže je Jižní Amerika (Drakeův průliv)."
+              ]
             },
             {
               "type": "list",
@@ -86,8 +89,11 @@ export const antarktida: Field = {
           "minutes": 20,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Východní Antarktida tvoří starý prekambrický kraton, kdysi jádro superkontinentu Gondwany. Rozpad Gondwany a otevření Drakeova průlivu (≈ 34–30 Ma) umožnily vznik Antarktického cirkumpolárního proudu a trvalé zalednění."
+              "type": "list",
+              "items": [
+                "Východní Antarktida tvoří starý prekambrický kraton, kdysi jádro superkontinentu Gondwany.",
+                "Rozpad Gondwany a otevření Drakeova průlivu (≈ 34–30 Ma) umožnily vznik Antarktického cirkumpolárního proudu a trvalé zalednění."
+              ]
             },
             {
               "type": "list",
@@ -319,8 +325,11 @@ export const antarktida: Field = {
           "minutes": 22,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Antarktický ledovcový štít vzniká akumulací sněhu přeměněného na led, který odtéká od center k pobřeží. Rozlišujeme Východoantarktický (EAIS) a Západoantarktický (WAIS) štít."
+              "type": "list",
+              "items": [
+                "Antarktický ledovcový štít vzniká akumulací sněhu přeměněného na led, který odtéká od center k pobřeží.",
+                "Rozlišujeme Východoantarktický (EAIS) a Západoantarktický (WAIS) štít."
+              ]
             },
             {
               "type": "list",
@@ -499,12 +508,16 @@ export const antarktida: Field = {
           "minutes": 20,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Polární vír izoluje kontinent v zimě. Nad oceánem dominují silné západní větry (roaring forties, furious fifties, screaming sixties)."
+              "type": "list",
+              "items": [
+                "Polární vír izoluje kontinent v zimě.",
+                "Nad oceánem dominují silné západní větry (roaring forties, furious fifties, screaming sixties)."
+              ]
             },
             {
-              "type": "paragraph",
-              "text": "Katabatické větry: studený hustý vzduch stéká z ledové plošiny k pobřeží. V zúžených údolích dosahují extrémní síly."
+              "type": "callout",
+              "label": "Katabatické větry",
+              "text": "studený hustý vzduch stéká z ledové plošiny k pobřeží. V zúžených údolích dosahují extrémní síly."
             },
             {
               "type": "callout",
@@ -532,8 +545,11 @@ export const antarktida: Field = {
           "minutes": 20,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Ozonová díra — sezónní ztenčení stratosférického ozonu nad Antarktidou každé jižní jaro (září–říjen). Objev: Farman et al., stanice Halley, 1985."
+              "type": "list",
+              "items": [
+                "Ozonová díra — sezónní ztenčení stratosférického ozonu nad Antarktidou každé jižní jaro (září–říjen).",
+                "Objev: Farman et al., stanice Halley, 1985."
+              ]
             },
             {
               "type": "list",
@@ -883,8 +899,11 @@ export const antarktida: Field = {
           "minutes": 18,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Suchozemský život je chudý a soustředěný do nezamrzlých oblastí (poloostrov, oázy). Jižní oceán patří k nejproduktivnějším mořím."
+              "type": "list",
+              "items": [
+                "Suchozemský život je chudý a soustředěný do nezamrzlých oblastí (poloostrov, oázy).",
+                "Jižní oceán patří k nejproduktivnějším mořím."
+              ]
             },
             {
               "type": "list",
@@ -947,8 +966,11 @@ export const antarktida: Field = {
           "minutes": 15,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Od roku 2007 fungují na severním James Ross Island komory OTC (Open Top Chamber) pro studium reakce mechů a lišejníků na globální oteplování. Tři lokality LTRP se monitorují více než deset let."
+              "type": "list",
+              "items": [
+                "Od roku 2007 fungují na severním James Ross Island komory OTC (Open Top Chamber) pro studium reakce mechů a lišejníků na globální oteplování.",
+                "Tři lokality LTRP se monitorují více než deset let."
+              ]
             },
             {
               "type": "list",
@@ -1084,8 +1106,11 @@ export const antarktida: Field = {
           "minutes": 10,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "CARP zpřístupňuje data z dlouhodobých měření aktivní vrstvy a mezilehlých jezer (soubory AL-2016-2019, IL-2016-2019). Sekce univerzitních kurzů je ve výstavbě."
+              "type": "list",
+              "items": [
+                "CARP zpřístupňuje data z dlouhodobých měření aktivní vrstvy a mezilehlých jezer (soubory AL-2016-2019, IL-2016-2019).",
+                "Sekce univerzitních kurzů je ve výstavbě."
+              ]
             },
             {
               "type": "list",
@@ -1196,12 +1221,18 @@ export const antarktida: Field = {
           "minutes": 15,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Český antarktický výzkumný program (CARP, Czech Antarctic Research Programme) realizuje Masarykova univerzita. MUNI je jedinou univerzitou na světě a jedinou veřejnoprávní institucí v ČR, která vlastní a provozuje vědeckou stanici v Antarktidě."
+              "type": "list",
+              "items": [
+                "Český antarktický výzkumný program (CARP, Czech Antarctic Research Programme) realizuje Masarykova univerzita.",
+                "MUNI je jedinou univerzitou na světě a jedinou veřejnoprávní institucí v ČR, která vlastní a provozuje vědeckou stanici v Antarktidě."
+              ]
             },
             {
-              "type": "paragraph",
-              "text": "Program zajišťuje České republice konzultativní členství v rámci Antarktické smlouvy a umožňuje spolurozhodování o využití kontinentu. V zahraničí je chápán jako vládou financovaná iniciativa pro prohloubení poznání antarktické oblasti a celosvětového geo-ekosystému."
+              "type": "list",
+              "items": [
+                "Program zajišťuje České republice konzultativní členství v rámci Antarktické smlouvy a umožňuje spolurozhodování o využití kontinentu.",
+                "V zahraničí je chápán jako vládou financovaná iniciativa pro prohloubení poznání antarktické oblasti a celosvětového geo-ekosystému."
+              ]
             },
             {
               "type": "list",
@@ -1274,8 +1305,11 @@ export const antarktida: Field = {
           "minutes": 18,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Česká vědecká stanice J. G. Mendela leží v severní části ostrova Jamese Rosse (poloostrov Ulu) u Antarktického poloostrova. Provozuje ji CARP od výstavby v letech 2004–2006."
+              "type": "list",
+              "items": [
+                "Mendela leží v severní části ostrova Jamese Rosse (poloostrov Ulu) u Antarktického poloostrova.",
+                "Provozuje ji CARP od výstavby v letech 2004–2006."
+              ]
             },
             {
               "type": "list",
@@ -1353,8 +1387,11 @@ export const antarktida: Field = {
               "text": "Polar-Geo-Lab"
             },
             {
-              "type": "paragraph",
-              "text": "Sledování abiotických prostředí (ledovce, permafrost, atmosféra, hydrosféra) v měnícím se klimatu. Dvě skupiny: klimaticko-ledovcová (meteorologie, glaciologie) a geovědní (geomorfologie, permafrost, paleolimnologie)."
+              "type": "list",
+              "items": [
+                "Sledování abiotických prostředí (ledovce, permafrost, atmosféra, hydrosféra) v měnícím se klimatu.",
+                "Dvě skupiny: klimaticko-ledovcová (meteorologie, glaciologie) a geovědní (geomorfologie, permafrost, paleolimnologie)."
+              ]
             },
             {
               "type": "heading",
@@ -1420,8 +1457,11 @@ export const antarktida: Field = {
           "minutes": 18,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Antarktida byla poprvé spatřena v lednu 1820 — nezávisle ji zahlédli expediční lodě Fabiana Gottlieba von Bellingshausena (Rusko), Edwarda Bransfielda (Británie) a Nathanaiela Palmera (USA). Kontinent byl dlouho teoretizován jako Terra Australis."
+              "type": "list",
+              "items": [
+                "Antarktida byla poprvé spatřena v lednu 1820 — nezávisle ji zahlédli expediční lodě Fabiana Gottlieba von Bellingshausena (Rusko), Edwarda Bransfielda (Británie) a Nathanaiela Palmera (USA).",
+                "Kontinent byl dlouho teoretizován jako Terra Australis."
+              ]
             },
             {
               "type": "list",
@@ -1460,8 +1500,11 @@ export const antarktida: Field = {
           "minutes": 16,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Roald Amundsen dosáhl jižního pólu 14. prosince 1911 s týmem používajícím psí spřežení a lyže. Robert Falcon Scott přišel o 34 dní později (17. ledna 1912); všichni členové jeho poslední skupiny zemřeli na návratu."
+              "type": "list",
+              "items": [
+                "Roald Amundsen dosáhl jižního pólu",
+                "14. prosince 1911 s týmem používajícím psí spřežení a lyže. Robert Falcon Scott přišel o 34 dní později (17. ledna 1912); všichni členové jeho poslední skupiny zemřeli na návratu."
+              ]
             },
             {
               "type": "list",
@@ -1473,8 +1516,11 @@ export const antarktida: Field = {
               ]
             },
             {
-              "type": "paragraph",
-              "text": "Obě expedice přinesly cenná vědecká data (geologie, meteorologie, magnetismus). Scottovy deníky a Amundsenův přístup formují dodnes etiku polárního výzkumu."
+              "type": "list",
+              "items": [
+                "Obě expedice přinesly cenná vědecká data (geologie, meteorologie, magnetismus).",
+                "Scottovy deníky a Amundsenův přístup formují dodnes etiku polárního výzkumu."
+              ]
             }
           ],
           "resources": [
@@ -1493,8 +1539,11 @@ export const antarktida: Field = {
           "minutes": 15,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Mezinárodní geofyzikální rok (IGY) 1957–58 zmobilizoval desítky zemí k intenzivnímu antarktickému výzkumu. Vzniklo mnoho stálých stanic; věda se stala společným jazykem i v době studené války."
+              "type": "list",
+              "items": [
+                "Mezinárodní geofyzikální rok (IGY) 1957–58 zmobilizoval desítky zemí k intenzivnímu antarktickému výzkumu.",
+                "Vzniklo mnoho stálých stanic; věda se stala společným jazykem i v době studené války."
+              ]
             },
             {
               "type": "list",
@@ -1527,8 +1576,11 @@ export const antarktida: Field = {
           "minutes": 14,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Česká republika patří k zemím s dlouhodobě významným antarktickým výzkumem. Plány na českou základnu sahají do 90. let 20. století, kdy probíhaly právní, logistické a stavební přípravy."
+              "type": "list",
+              "items": [
+                "Česká republika patří k zemím s dlouhodobě významným antarktickým výzkumem. Plány na českou základnu sahají do",
+                "20. století, kdy probíhaly právní, logistické a stavební přípravy."
+              ]
             },
             {
               "type": "list",
@@ -1617,8 +1669,11 @@ export const antarktida: Field = {
           "minutes": 14,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Antarktická smlouva neřeší nároky definitivně — pouze je zmrazuje. Sedm států (Argentina, Austrálie, Chile, Francie, Nový Zéland, Norsko, Velká Británie) uplatňuje částečně překrývající se sektorová tvrzení."
+              "type": "list",
+              "items": [
+                "Antarktická smlouva neřeší nároky definitivně — pouze je zmrazuje.",
+                "Sedm států (Argentina, Austrálie, Chile, Francie, Nový Zéland, Norsko, Velká Británie) uplatňuje částečně překrývající se sektorová tvrzení."
+              ]
             },
             {
               "type": "list",
@@ -1667,8 +1722,11 @@ export const antarktida: Field = {
               ]
             },
             {
-              "type": "paragraph",
-              "text": "CARP spolupracuje v rámci SCAR a COMNAP s programy BAS, INACH, IAA a dalšími. Výsledky publikuje v časopise Czech Polar Reports."
+              "type": "list",
+              "items": [
+                "CARP spolupracuje v rámci SCAR a COMNAP s programy BAS, INACH, IAA a dalšími.",
+                "Výsledky publikuje v časopise Czech Polar Reports."
+              ]
             }
           ],
           "resources": [
@@ -1699,8 +1757,11 @@ export const antarktida: Field = {
           "minutes": 12,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "CARP spolupracuje v rámci COMNAP a SCAR s mezinárodními programy (IAA, INACH, BAS, MCMLTER aj.). Výsledky publikuje v časopise Czech Polar Reports (2× ročně, WoS od 2022, Scopus od 2014)."
+              "type": "list",
+              "items": [
+                "CARP spolupracuje v rámci COMNAP a SCAR s mezinárodními programy (IAA, INACH, BAS, MCMLTER aj.).",
+                "Výsledky publikuje v časopise Czech Polar Reports (2× ročně, WoS od 2022, Scopus od 2014)."
+              ]
             },
             {
               "type": "callout",
@@ -1758,8 +1819,11 @@ export const antarktida: Field = {
           "minutes": 14,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Většina terénního výzkumu probíhá během australského léta (listopad–březen), kdy je dostupné sluneční světlo a teploty umožňují práci v terénu. Stálé stanice fungují celoročně s rotujícími posádkami."
+              "type": "list",
+              "items": [
+                "Většina terénního výzkumu probíhá během australského léta (listopad–březen), kdy je dostupné sluneční světlo a teploty umožňují práci v terénu.",
+                "Stálé stanice fungují celoročně s rotujícími posádkami."
+              ]
             },
             {
               "type": "list",
@@ -1793,8 +1857,11 @@ export const antarktida: Field = {
           "minutes": 15,
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "Antarktický turismus roste — většina návštěvníků míří na poloostrov lodními výpravami. IAATO koordinuje bezpečnost a minimalizaci dopadů; přistání jsou regulována podle smluvního systému."
+              "type": "list",
+              "items": [
+                "Antarktický turismus roste — většina návštěvníků míří na poloostrov lodními výpravami.",
+                "IAATO koordinuje bezpečnost a minimalizaci dopadů; přistání jsou regulována podle smluvního systému."
+              ]
             },
             {
               "type": "list",

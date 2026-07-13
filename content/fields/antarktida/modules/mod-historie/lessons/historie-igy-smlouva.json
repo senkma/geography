@@ -5,8 +5,11 @@
   "minutes": 15,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Mezinárodní geofyzikální rok (IGY) 1957–58 zmobilizoval desítky zemí k intenzivnímu antarktickému výzkumu. Vzniklo mnoho stálých stanic; věda se stala společným jazykem i v době studené války."
+      "type": "list",
+      "items": [
+        "Mezinárodní geofyzikální rok (IGY) 1957–58 zmobilizoval desítky zemí k intenzivnímu antarktickému výzkumu.",
+        "Vzniklo mnoho stálých stanic; věda se stala společným jazykem i v době studené války."
+      ]
     },
     {
       "type": "list",

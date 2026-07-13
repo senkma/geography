@@ -10,57 +10,34 @@
       "text": "Témata doc. Máčky"
     },
     {
-      "type": "paragraph",
-      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
-    },
-    {
       "type": "callout",
       "label": "Okruh",
       "text": "3.8 Eolické procesy"
+    },
+    {
+      "type": "callout",
+      "label": "Jak číst tuto lekci",
+      "text": "Text je výtah ze skripta a přednášek — použij ho jako mapu k učení. Detaily a obrázky najdeš v PDF/PPT v materiálech lekce."
     },
     {
       "type": "heading",
       "text": "Přednáška FG_DN_8 (Máčka/Nývlt)"
     },
     {
-      "type": "paragraph",
-      "text": "Tvary reliéfu, které vznikly působením větru"
-    },
-    {
-      "type": "paragraph",
-      "text": "Podmínky za nichž se může uplatnit působení větru"
-    },
-    {
-      "type": "paragraph",
-      "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)"
-    },
-    {
-      "type": "paragraph",
-      "text": "Teplé i chladné suché (aridní a semiaridní) oblasti"
-    },
-    {
-      "type": "paragraph",
-      "text": "Větrná eroze a transport probíhá podobně jako ve fluviálním prostředí, ovšem…"
-    },
-    {
-      "type": "paragraph",
-      "text": "- Menší hustota vzduchu ve srovnání s vodou snižuje transportní kapacitu"
-    },
-    {
-      "type": "paragraph",
-      "text": "- Obvykle jsou transportována zrna do velikosti písku"
-    },
-    {
-      "type": "paragraph",
-      "text": "- 3 druhy eolického transportu – rolování/posouvání,"
-    },
-    {
-      "type": "paragraph",
-      "text": "- Prostorově neomezené ukládání materiálu, ale často kolem překážek"
-    },
-    {
-      "type": "paragraph",
-      "text": "- Probíhá vytřídění a ukládání do vrstev"
+      "type": "list",
+      "label": "Body přednášky",
+      "items": [
+        "Tvary reliéfu, které vznikly působením větru",
+        "Podmínky za nichž se může uplatnit působení větru",
+        "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+        "Teplé i chladné suché (aridní a semiaridní) oblasti",
+        "Větrná eroze a transport probíhá podobně jako ve fluviálním prostředí, ovšem…",
+        "Menší hustota vzduchu ve srovnání s vodou snižuje transportní kapacitu",
+        "Obvykle jsou transportována zrna do velikosti písku",
+        "3 druhy eolického transportu – rolování/posouvání,",
+        "Prostorově neomezené ukládání materiálu, ale často kolem překážek",
+        "Probíhá vytřídění a ukládání do vrstev"
+      ]
     },
     {
       "type": "list",

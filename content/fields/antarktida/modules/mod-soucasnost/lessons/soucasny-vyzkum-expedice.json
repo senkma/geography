@@ -5,8 +5,11 @@
   "minutes": 14,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Většina terénního výzkumu probíhá během australského léta (listopad–březen), kdy je dostupné sluneční světlo a teploty umožňují práci v terénu. Stálé stanice fungují celoročně s rotujícími posádkami."
+      "type": "list",
+      "items": [
+        "Většina terénního výzkumu probíhá během australského léta (listopad–březen), kdy je dostupné sluneční světlo a teploty umožňují práci v terénu.",
+        "Stálé stanice fungují celoročně s rotujícími posádkami."
+      ]
     },
     {
       "type": "list",

@@ -153,42 +153,7 @@ function norm(s) {
   return s.replace(/\s+/g, " ").trim().toLowerCase();
 }
 
-function dedupeParagraphs(paragraphs) {
-  const seen = new Set();
-  return paragraphs.filter((p) => {
-    const n = norm(p);
-    if (n.length < 40 || seen.has(n)) return false;
-    seen.add(n);
-    return true;
-  });
-}
-
-function textToBlocks(text, { max = 12, label } = {}) {
-  const raw = text
-    .split(/\n{2,}/)
-    .map((p) => p.replace(/\s+/g, " ").trim())
-    .filter((p) => p.length > 30 && !/^[\d\s.]+$/.test(p));
-  const paragraphs = dedupeParagraphs(raw).slice(0, max);
-  const blocks = [];
-  if (label) {
-    blocks.push({ type: "heading", text: label });
-  }
-  for (const p of paragraphs) {
-    if (p.length > 400) {
-      blocks.push({
-        type: "list",
-        label: "Klíčové body",
-        items: p
-          .split(/(?<=[.!?])\s+/)
-          .filter((s) => s.length > 20)
-          .slice(0, 8),
-      });
-    } else {
-      blocks.push({ type: "paragraph", text: p });
-    }
-  }
-  return blocks;
-}
+import { textToBlocks } from "./content/format-blocks.mjs";
 
 function dedupeBlocks(existing, extra) {
   const texts = new Set(
@@ -244,13 +209,14 @@ function buildLesson(lessonId, baseLessons, courseMeta, {
       ? [{ type: "heading", text: base.sectionTitle }]
       : []),
     {
-      type: "paragraph",
-      text: `Studijní materiál k předmětu ${courseMeta.title} (${courseMeta.code}). Níže je výtah z archivních podkladů — doplnění oficiální osnovy.`,
-    },
-    {
       type: "callout",
       label: "Okruh",
       text: base.title,
+    },
+    {
+      type: "callout",
+      label: "Jak číst tuto lekci",
+      text: "Text je výtah ze skripta a přednášek — použij ho jako mapu k učení. Detaily a obrázky najdeš v PDF/PPT v materiálech lekce.",
     },
     ...extraBlocks,
     {

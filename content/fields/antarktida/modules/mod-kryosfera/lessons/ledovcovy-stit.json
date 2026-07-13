@@ -5,8 +5,11 @@
   "minutes": 22,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Antarktický ledovcový štít vzniká akumulací sněhu přeměněného na led, který odtéká od center k pobřeží. Rozlišujeme Východoantarktický (EAIS) a Západoantarktický (WAIS) štít."
+      "type": "list",
+      "items": [
+        "Antarktický ledovcový štít vzniká akumulací sněhu přeměněného na led, který odtéká od center k pobřeží.",
+        "Rozlišujeme Východoantarktický (EAIS) a Západoantarktický (WAIS) štít."
+      ]
     },
     {
       "type": "list",

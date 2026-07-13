@@ -15,8 +15,11 @@
       ]
     },
     {
-      "type": "paragraph",
-      "text": "CARP spolupracuje v rámci SCAR a COMNAP s programy BAS, INACH, IAA a dalšími. Výsledky publikuje v časopise Czech Polar Reports."
+      "type": "list",
+      "items": [
+        "CARP spolupracuje v rámci SCAR a COMNAP s programy BAS, INACH, IAA a dalšími.",
+        "Výsledky publikuje v časopise Czech Polar Reports."
+      ]
     }
   ],
   "resources": [

@@ -5,8 +5,11 @@
   "minutes": 12,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "CARP spolupracuje v rámci COMNAP a SCAR s mezinárodními programy (IAA, INACH, BAS, MCMLTER aj.). Výsledky publikuje v časopise Czech Polar Reports (2× ročně, WoS od 2022, Scopus od 2014)."
+      "type": "list",
+      "items": [
+        "CARP spolupracuje v rámci COMNAP a SCAR s mezinárodními programy (IAA, INACH, BAS, MCMLTER aj.).",
+        "Výsledky publikuje v časopise Czech Polar Reports (2× ročně, WoS od 2022, Scopus od 2014)."
+      ]
     },
     {
       "type": "callout",

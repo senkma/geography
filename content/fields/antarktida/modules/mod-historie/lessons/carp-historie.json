@@ -5,8 +5,11 @@
   "minutes": 14,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Česká republika patří k zemím s dlouhodobě významným antarktickým výzkumem. Plány na českou základnu sahají do 90. let 20. století, kdy probíhaly právní, logistické a stavební přípravy."
+      "type": "list",
+      "items": [
+        "Česká republika patří k zemím s dlouhodobě významným antarktickým výzkumem. Plány na českou základnu sahají do",
+        "20. století, kdy probíhaly právní, logistické a stavební přípravy."
+      ]
     },
     {
       "type": "list",

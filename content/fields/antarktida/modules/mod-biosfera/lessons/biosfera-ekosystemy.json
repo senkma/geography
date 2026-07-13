@@ -5,8 +5,11 @@
   "minutes": 18,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Suchozemský život je chudý a soustředěný do nezamrzlých oblastí (poloostrov, oázy). Jižní oceán patří k nejproduktivnějším mořím."
+      "type": "list",
+      "items": [
+        "Suchozemský život je chudý a soustředěný do nezamrzlých oblastí (poloostrov, oázy).",
+        "Jižní oceán patří k nejproduktivnějším mořím."
+      ]
     },
     {
       "type": "list",

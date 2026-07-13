@@ -5,25 +5,26 @@
   "minutes": 25,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Studijní materiál k předmětu Hydrologie (PřF:Z0059). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
-    },
-    {
       "type": "callout",
       "label": "Okruh",
       "text": "1) Úvod. Význam vody v krajině. Hydrologie jako vědní disciplína, historický vývoj, organizace hydrologické služby."
+    },
+    {
+      "type": "callout",
+      "label": "Jak číst tuto lekci",
+      "text": "Text je výtah ze skripta a přednášek — použij ho jako mapu k učení. Detaily a obrázky najdeš v PDF/PPT v materiálech lekce."
     },
     {
       "type": "heading",
       "text": "Výtah ze studijní opory"
     },
     {
-      "type": "paragraph",
-      "text": "Univerzita Palackého v Olomouci Katedra geografie"
-    },
-    {
-      "type": "paragraph",
-      "text": "FYZICKÁ GEOGRAFIE 1 – HYDROLOGIE Distanční studijní opora"
+      "type": "list",
+      "label": "Body přednášky",
+      "items": [
+        "Univerzita Palackého v Olomouci Katedra geografie",
+        "FYZICKÁ GEOGRAFIE 1 – HYDROLOGIE Distanční studijní opora"
+      ]
     },
     {
       "type": "list",

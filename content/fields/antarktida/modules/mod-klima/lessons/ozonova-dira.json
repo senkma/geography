@@ -5,8 +5,11 @@
   "minutes": 20,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Ozonová díra — sezónní ztenčení stratosférického ozonu nad Antarktidou každé jižní jaro (září–říjen). Objev: Farman et al., stanice Halley, 1985."
+      "type": "list",
+      "items": [
+        "Ozonová díra — sezónní ztenčení stratosférického ozonu nad Antarktidou každé jižní jaro (září–říjen).",
+        "Objev: Farman et al., stanice Halley, 1985."
+      ]
     },
     {
       "type": "list",

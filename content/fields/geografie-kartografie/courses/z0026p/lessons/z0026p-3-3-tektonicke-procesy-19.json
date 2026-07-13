@@ -10,13 +10,14 @@
       "text": "Témata doc. Máčky"
     },
     {
-      "type": "paragraph",
-      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
-    },
-    {
       "type": "callout",
       "label": "Okruh",
       "text": "3.3 Tektonické procesy"
+    },
+    {
+      "type": "callout",
+      "label": "Jak číst tuto lekci",
+      "text": "Text je výtah ze skripta a přednášek — použij ho jako mapu k učení. Detaily a obrázky najdeš v PDF/PPT v materiálech lekce."
     },
     {
       "type": "heading",
@@ -27,40 +28,19 @@
       "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km"
     },
     {
-      "type": "paragraph",
-      "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích"
-    },
-    {
-      "type": "paragraph",
-      "text": "Shoda mezi geologickými strukturami a tvary reliéfu"
-    },
-    {
-      "type": "paragraph",
-      "text": "Nesoulad mezi geologickými strukturami a tvary reliéfu"
-    },
-    {
-      "type": "paragraph",
-      "text": "Puklina v hornině, podél které nastal pozorovatelný pohyb"
-    },
-    {
-      "type": "paragraph",
-      "text": "Příklady působení endogenních a exogenních procesů"
-    },
-    {
-      "type": "paragraph",
-      "text": "Pohyby částí zemské kůry a svrchního pláště, při kterých dochází k deformaci hornin"
-    },
-    {
-      "type": "paragraph",
-      "text": "Studuje endogenní procesy, geologické struktury a tvary reliéfu související s deformací hornin"
-    },
-    {
-      "type": "paragraph",
-      "text": "Typy tektonických procesů podle směrů působících sil"
-    },
-    {
-      "type": "paragraph",
-      "text": "Průsečnice vodorovné roviny s nakloněnou vrstevní plochou"
+      "type": "list",
+      "label": "Body přednášky",
+      "items": [
+        "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+        "Shoda mezi geologickými strukturami a tvary reliéfu",
+        "Nesoulad mezi geologickými strukturami a tvary reliéfu",
+        "Puklina v hornině, podél které nastal pozorovatelný pohyb",
+        "Příklady působení endogenních a exogenních procesů",
+        "Pohyby částí zemské kůry a svrchního pláště, při kterých dochází k deformaci hornin",
+        "Studuje endogenní procesy, geologické struktury a tvary reliéfu související s deformací hornin",
+        "Typy tektonických procesů podle směrů působících sil",
+        "Průsečnice vodorovné roviny s nakloněnou vrstevní plochou"
+      ]
     },
     {
       "type": "list",

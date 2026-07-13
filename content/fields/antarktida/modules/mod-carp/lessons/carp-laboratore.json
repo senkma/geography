@@ -9,8 +9,11 @@
       "text": "Polar-Geo-Lab"
     },
     {
-      "type": "paragraph",
-      "text": "Sledování abiotických prostředí (ledovce, permafrost, atmosféra, hydrosféra) v měnícím se klimatu. Dvě skupiny: klimaticko-ledovcová (meteorologie, glaciologie) a geovědní (geomorfologie, permafrost, paleolimnologie)."
+      "type": "list",
+      "items": [
+        "Sledování abiotických prostředí (ledovce, permafrost, atmosféra, hydrosféra) v měnícím se klimatu.",
+        "Dvě skupiny: klimaticko-ledovcová (meteorologie, glaciologie) a geovědní (geomorfologie, permafrost, paleolimnologie)."
+      ]
     },
     {
       "type": "heading",

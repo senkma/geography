@@ -10,57 +10,34 @@
       "text": "Témata doc. Máčky"
     },
     {
-      "type": "paragraph",
-      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
-    },
-    {
       "type": "callout",
       "label": "Okruh",
       "text": "3.1 Vývoj litosféry"
+    },
+    {
+      "type": "callout",
+      "label": "Jak číst tuto lekci",
+      "text": "Text je výtah ze skripta a přednášek — použij ho jako mapu k učení. Detaily a obrázky najdeš v PDF/PPT v materiálech lekce."
     },
     {
       "type": "heading",
       "text": "Přednáška FG_DN_2 (Máčka/Nývlt)"
     },
     {
-      "type": "paragraph",
-      "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající"
-    },
-    {
-      "type": "paragraph",
-      "text": "Prostorová variabilita mocnosti zemské kůry"
-    },
-    {
-      "type": "paragraph",
-      "text": "Průměr na rovníku o 43 km větší než na pólu"
-    },
-    {
-      "type": "paragraph",
-      "text": "Klidná střední hladina moří, které jsou spojené i pod kontinenty"
-    },
-    {
-      "type": "paragraph",
-      "text": "Obrázek ukazuje skutečný poměr velikosti Země a Měsíce"
-    },
-    {
-      "type": "paragraph",
-      "text": "Protože dosáhla stavu hydrostatické rovnováhy."
-    },
-    {
-      "type": "paragraph",
-      "text": "Gutenbergova diskontinuita (plášť / jádro)"
-    },
-    {
-      "type": "paragraph",
-      "text": "Minerály: olivín, pyroxen, granát, spinel"
-    },
-    {
-      "type": "paragraph",
-      "text": "intenzivní tektonická a vulkanická aktivita, orogeneze"
-    },
-    {
-      "type": "paragraph",
-      "text": "= stacionární ložisko magmatu ve svrchním plášti pod oceánskou nebo kontinentální kůrou"
+      "type": "list",
+      "label": "Body přednášky",
+      "items": [
+        "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+        "Prostorová variabilita mocnosti zemské kůry",
+        "Průměr na rovníku o 43 km větší než na pólu",
+        "Klidná střední hladina moří, které jsou spojené i pod kontinenty",
+        "Obrázek ukazuje skutečný poměr velikosti Země a Měsíce",
+        "Protože dosáhla stavu hydrostatické rovnováhy.",
+        "Gutenbergova diskontinuita (plášť / jádro)",
+        "Minerály: olivín, pyroxen, granát, spinel",
+        "intenzivní tektonická a vulkanická aktivita, orogeneze",
+        "stacionární ložisko magmatu ve svrchním plášti pod oceánskou nebo kontinentální kůrou"
+      ]
     },
     {
       "type": "list",

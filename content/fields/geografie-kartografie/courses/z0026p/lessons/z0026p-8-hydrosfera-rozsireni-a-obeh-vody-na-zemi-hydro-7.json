@@ -10,13 +10,14 @@
       "text": "Témata prof. Brázdila"
     },
     {
-      "type": "paragraph",
-      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
-    },
-    {
       "type": "callout",
       "label": "Okruh",
       "text": "8. Hydrosféra: Rozšíření a oběh vody na Zemi. Hydrologické procesy a hydrologická bilance."
+    },
+    {
+      "type": "callout",
+      "label": "Jak číst tuto lekci",
+      "text": "Text je výtah ze skripta a přednášek — použij ho jako mapu k učení. Detaily a obrázky najdeš v PDF/PPT v materiálech lekce."
     },
     {
       "type": "heading",
@@ -30,20 +31,20 @@
       "type": "list",
       "label": "Klíčové body",
       "items": [
-        "• povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
+        "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
         "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
         "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr."
       ]
     },
     {
       "type": "paragraph",
-      "text": "• pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k odnosu částic a rozpustných látek a vytváření toků a řek – modelační činitel v krajině"
+      "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k odnosu částic a rozpustných látek a vytváření toků a řek – modelační činitel v krajině"
     },
     {
       "type": "list",
       "label": "Klíčové body",
       "items": [
-        "• voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
+        "voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
       ]
     },
     {
@@ -52,7 +53,7 @@
     },
     {
       "type": "paragraph",
-      "text": "• hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (prosakování) • při srážkách roste hladina vody pod vrcholy kopců a rozvodí, v období sucha zase klesá"
+      "text": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (prosakování) • při srážkách roste hladina vody pod vrcholy kopců a rozvodí, v období sucha zase klesá"
     },
     {
       "type": "paragraph",
@@ -60,22 +61,16 @@
     },
     {
       "type": "paragraph",
-      "text": "• je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (studna) Obr. 14.6/362"
+      "text": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (studna) Obr. 14.6/362"
     },
     {
       "type": "list",
       "label": "Klíčové body",
       "items": [
-        "• povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
+        "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část odtéká z pevniny povrchovým nebo podzemním odtokem • hydrologie – komplexní studium vody na Zemi, tj.",
         "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
-        "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr."
-      ]
-    },
-    {
-      "type": "list",
-      "label": "Klíčové body",
-      "items": [
-        "• voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
+        "působením gravitace pronikají mezerami mezi půdními částicemi (pukliny, otvory po živočiších, prostory po ledových krystalcích aj.) • voda, která se dostane do půdy, je půdní voda a vytváří zvodnělou vrstvu (soil water belt) – voda z této vrstvy se může dostat na povrch nebo do atmosféry evapotranspirací (výpar + transpirace) Obr.",
+        "voda proniká díky gravitaci do hloubky • podzemní voda – část podpovrchové vody, která vyplňuje zónu saturace (pásmo nasycení) • hladina podzemní vody odděluje zónu saturace od svrchní vrstvy, kde póry nejsou plně vyplněny vodou – pásmo provzdušnění (zóna aerace) – voda se zde drží díky kapilárnímu napětí (tenký film vody na povrchu minerálů) – kapilární voda • různé dráhy pronikání vody do hloubky a do toků"
       ]
     },
     {

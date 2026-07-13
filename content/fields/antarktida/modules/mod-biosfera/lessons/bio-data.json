@@ -5,8 +5,11 @@
   "minutes": 10,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "CARP zpřístupňuje data z dlouhodobých měření aktivní vrstvy a mezilehlých jezer (soubory AL-2016-2019, IL-2016-2019). Sekce univerzitních kurzů je ve výstavbě."
+      "type": "list",
+      "items": [
+        "CARP zpřístupňuje data z dlouhodobých měření aktivní vrstvy a mezilehlých jezer (soubory AL-2016-2019, IL-2016-2019).",
+        "Sekce univerzitních kurzů je ve výstavbě."
+      ]
     },
     {
       "type": "list",

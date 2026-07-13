@@ -10,57 +10,43 @@
       "text": "Témata doc. Máčky"
     },
     {
-      "type": "paragraph",
-      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
-    },
-    {
       "type": "callout",
       "label": "Okruh",
       "text": "3.4 Zvětrávací procesy"
+    },
+    {
+      "type": "callout",
+      "label": "Jak číst tuto lekci",
+      "text": "Text je výtah ze skripta a přednášek — použij ho jako mapu k učení. Detaily a obrázky najdeš v PDF/PPT v materiálech lekce."
     },
     {
       "type": "heading",
       "text": "Přednáška FG_DN_5 (Máčka/Nývlt)"
     },
     {
-      "type": "paragraph",
-      "text": "Snižování zemského povrchu, zmenšování výškových rozdílů"
-    },
-    {
-      "type": "paragraph",
-      "text": "Soubor procesů na svazích vyvolaných působením gravitace"
-    },
-    {
-      "type": "paragraph",
-      "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci"
+      "type": "list",
+      "label": "Body přednášky",
+      "items": [
+        "Snižování zemského povrchu, zmenšování výškových rozdílů",
+        "Soubor procesů na svazích vyvolaných působením gravitace",
+        "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci"
+      ]
     },
     {
       "type": "paragraph",
       "text": "Soubor procesů vedoucích k fyzickému rozpadu a chemickému rozkladu hornin nacházejících se v blízkosti zemského povrchu"
     },
     {
-      "type": "paragraph",
-      "text": "Mechanický rozpad horniny na menší částečky"
-    },
-    {
-      "type": "paragraph",
-      "text": "Mechanické a chemické působení organizmů"
-    },
-    {
-      "type": "paragraph",
-      "text": "Fyzikální zvětrávání je ovlivněno texturou a strukturou hornin"
-    },
-    {
-      "type": "paragraph",
-      "text": "Fyzikální zvětrávání urychluje chemické zvětrávání"
-    },
-    {
-      "type": "paragraph",
-      "text": "→ dochází ke zvětšování aktivního povrchu dostupného pro chemické reakce"
-    },
-    {
-      "type": "paragraph",
-      "text": "Procesy zahrnující objemové změny samotné horniny:"
+      "type": "list",
+      "label": "Body přednášky",
+      "items": [
+        "Mechanický rozpad horniny na menší částečky",
+        "Mechanické a chemické působení organizmů",
+        "Fyzikální zvětrávání je ovlivněno texturou a strukturou hornin",
+        "Fyzikální zvětrávání urychluje chemické zvětrávání",
+        "→ dochází ke zvětšování aktivního povrchu dostupného pro chemické reakce",
+        "Procesy zahrnující objemové změny samotné horniny:"
+      ]
     },
     {
       "type": "list",

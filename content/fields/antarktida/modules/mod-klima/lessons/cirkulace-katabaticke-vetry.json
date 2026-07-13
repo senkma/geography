@@ -5,12 +5,16 @@
   "minutes": 20,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Polární vír izoluje kontinent v zimě. Nad oceánem dominují silné západní větry (roaring forties, furious fifties, screaming sixties)."
+      "type": "list",
+      "items": [
+        "Polární vír izoluje kontinent v zimě.",
+        "Nad oceánem dominují silné západní větry (roaring forties, furious fifties, screaming sixties)."
+      ]
     },
     {
-      "type": "paragraph",
-      "text": "Katabatické větry: studený hustý vzduch stéká z ledové plošiny k pobřeží. V zúžených údolích dosahují extrémní síly."
+      "type": "callout",
+      "label": "Katabatické větry",
+      "text": "studený hustý vzduch stéká z ledové plošiny k pobřeží. V zúžených údolích dosahují extrémní síly."
     },
     {
       "type": "callout",

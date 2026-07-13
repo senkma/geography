@@ -5,12 +5,18 @@
   "minutes": 15,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Český antarktický výzkumný program (CARP, Czech Antarctic Research Programme) realizuje Masarykova univerzita. MUNI je jedinou univerzitou na světě a jedinou veřejnoprávní institucí v ČR, která vlastní a provozuje vědeckou stanici v Antarktidě."
+      "type": "list",
+      "items": [
+        "Český antarktický výzkumný program (CARP, Czech Antarctic Research Programme) realizuje Masarykova univerzita.",
+        "MUNI je jedinou univerzitou na světě a jedinou veřejnoprávní institucí v ČR, která vlastní a provozuje vědeckou stanici v Antarktidě."
+      ]
     },
     {
-      "type": "paragraph",
-      "text": "Program zajišťuje České republice konzultativní členství v rámci Antarktické smlouvy a umožňuje spolurozhodování o využití kontinentu. V zahraničí je chápán jako vládou financovaná iniciativa pro prohloubení poznání antarktické oblasti a celosvětového geo-ekosystému."
+      "type": "list",
+      "items": [
+        "Program zajišťuje České republice konzultativní členství v rámci Antarktické smlouvy a umožňuje spolurozhodování o využití kontinentu.",
+        "V zahraničí je chápán jako vládou financovaná iniciativa pro prohloubení poznání antarktické oblasti a celosvětového geo-ekosystému."
+      ]
     },
     {
       "type": "list",

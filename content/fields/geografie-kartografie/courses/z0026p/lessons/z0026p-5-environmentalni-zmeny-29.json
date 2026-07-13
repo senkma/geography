@@ -10,57 +10,34 @@
       "text": "Témata doc. Máčky"
     },
     {
-      "type": "paragraph",
-      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
-    },
-    {
       "type": "callout",
       "label": "Okruh",
       "text": "5. Environmentální změny"
+    },
+    {
+      "type": "callout",
+      "label": "Jak číst tuto lekci",
+      "text": "Text je výtah ze skripta a přednášek — použij ho jako mapu k učení. Detaily a obrázky najdeš v PDF/PPT v materiálech lekce."
     },
     {
       "type": "heading",
       "text": "Přednáška FG_DN_9 (Máčka/Nývlt)"
     },
     {
-      "type": "paragraph",
-      "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)"
-    },
-    {
-      "type": "paragraph",
-      "text": "Způsob určení stáří: radiometrické (U-Pb)"
-    },
-    {
-      "type": "paragraph",
-      "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)"
-    },
-    {
-      "type": "paragraph",
-      "text": "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)"
-    },
-    {
-      "type": "paragraph",
-      "text": "Horniny Měsíce převážně pozemského původu"
-    },
-    {
-      "type": "paragraph",
-      "text": "Červená barva – pozemský materiál (magma)"
-    },
-    {
-      "type": "paragraph",
-      "text": "Zemský povrch vzniká pomalým, ale neustávajícím působením přírodních procesů; přepokládá stálost:"
-    },
-    {
-      "type": "paragraph",
-      "text": "Rychlosti vývoje (pomalé, postupné změny)"
-    },
-    {
-      "type": "paragraph",
-      "text": "Řada rysů zemského povrchu vznikla při rychlých událostech (kataklyzmatech), spíše než pozvolnou změnou"
-    },
-    {
-      "type": "paragraph",
-      "text": "Tvářnost zemského povrchu a rychlost jeho změn se v minulosti lišila"
+      "type": "list",
+      "label": "Body přednášky",
+      "items": [
+        "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+        "Způsob určení stáří: radiometrické (U-Pb)",
+        "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+        "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)",
+        "Horniny Měsíce převážně pozemského původu",
+        "Červená barva – pozemský materiál (magma)",
+        "Zemský povrch vzniká pomalým, ale neustávajícím působením přírodních procesů; přepokládá stálost:",
+        "Rychlosti vývoje (pomalé, postupné změny)",
+        "Řada rysů zemského povrchu vznikla při rychlých událostech (kataklyzmatech), spíše než pozvolnou změnou",
+        "Tvářnost zemského povrchu a rychlost jeho změn se v minulosti lišila"
+      ]
     },
     {
       "type": "list",

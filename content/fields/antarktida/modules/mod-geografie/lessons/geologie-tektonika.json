@@ -5,8 +5,11 @@
   "minutes": 20,
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Východní Antarktida tvoří starý prekambrický kraton, kdysi jádro superkontinentu Gondwany. Rozpad Gondwany a otevření Drakeova průlivu (≈ 34–30 Ma) umožnily vznik Antarktického cirkumpolárního proudu a trvalé zalednění."
+      "type": "list",
+      "items": [
+        "Východní Antarktida tvoří starý prekambrický kraton, kdysi jádro superkontinentu Gondwany.",
+        "Rozpad Gondwany a otevření Drakeova průlivu (≈ 34–30 Ma) umožnily vznik Antarktického cirkumpolárního proudu a trvalé zalednění."
+      ]
     },
     {
       "type": "list",

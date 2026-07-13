@@ -10,57 +10,43 @@
       "text": "Témata doc. Máčky"
     },
     {
-      "type": "paragraph",
-      "text": "Studijní materiál k předmětu Fyzická geografie (PřF:Z0026p). Níže je výtah z archivních podkladů — doplnění oficiální osnovy."
-    },
-    {
       "type": "callout",
       "label": "Okruh",
       "text": "3.6 Fluviální procesy"
+    },
+    {
+      "type": "callout",
+      "label": "Jak číst tuto lekci",
+      "text": "Text je výtah ze skripta a přednášek — použij ho jako mapu k učení. Detaily a obrázky najdeš v PDF/PPT v materiálech lekce."
     },
     {
       "type": "heading",
       "text": "Přednáška FG_DN_7 (Máčka/Nývlt)"
     },
     {
-      "type": "paragraph",
-      "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek"
-    },
-    {
-      "type": "paragraph",
-      "text": "Intenzita srážky překročí infiltrační kapacitu půdy"
-    },
-    {
-      "type": "paragraph",
-      "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy"
-    },
-    {
-      "type": "paragraph",
-      "text": "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů"
-    },
-    {
-      "type": "paragraph",
-      "text": "suché vnitrozemské subtropické oblasti, polární oblasti"
-    },
-    {
-      "type": "paragraph",
-      "text": "Vrstva vody rovnoměrně rozložená po ploše povodí, která odteče za určité období"
+      "type": "list",
+      "label": "Body přednášky",
+      "items": [
+        "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+        "Intenzita srážky překročí infiltrační kapacitu půdy",
+        "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+        "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů",
+        "suché vnitrozemské subtropické oblasti, polární oblasti",
+        "Vrstva vody rovnoměrně rozložená po ploše povodí, která odteče za určité období"
+      ]
     },
     {
       "type": "paragraph",
       "text": "Území, z něhož odtéká voda z atmosférických srážek nebo akumulovaná v ledovcích, ve stálé sněhové pokrývce, či permafrostu povrchovou i podzemní cestou do jediného závěrného profilu"
     },
     {
-      "type": "paragraph",
-      "text": "Komponenty (proměnné) fluviálního systému"
-    },
-    {
-      "type": "paragraph",
-      "text": "Hlavní typy fluviálních sedimentů v povodí"
-    },
-    {
-      "type": "paragraph",
-      "text": "Řádovost (hydrologické pořadí) vodních toků"
+      "type": "list",
+      "label": "Body přednášky",
+      "items": [
+        "Komponenty (proměnné) fluviálního systému",
+        "Hlavní typy fluviálních sedimentů v povodí",
+        "Řádovost (hydrologické pořadí) vodních toků"
+      ]
     },
     {
       "type": "list",
