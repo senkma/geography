@@ -35,9 +35,9 @@ export function buildStateExamSubjectLessons(subject: StateExamSubject): Lesson[
       },
     ];
     if (meta?.sectionTitle) {
-      blocks.push({
-        type: "paragraph",
-        text: `Blok: ${meta.sectionTitle}`,
+      blocks.unshift({
+        type: "heading",
+        text: meta.sectionTitle,
       });
     }
     if (meta?.courses?.length) {
@@ -51,6 +51,7 @@ export function buildStateExamSubjectLessons(subject: StateExamSubject): Lesson[
       id,
       title: topic,
       summary: topic.length > 120 ? `${topic.slice(0, 117)}…` : topic,
+      ...(meta?.sectionTitle ? { sectionTitle: meta.sectionTitle } : {}),
       blocks,
       resources: baseResources,
     });
@@ -83,4 +84,18 @@ export function buildStateExamLessons(exam: StateExam): StateExamSubjectWithLess
 
 export function countStateExamLessons(exam: StateExam): number {
   return buildStateExamLessons(exam).reduce((sum, s) => sum + s.lessons.length, 0);
+}
+
+export function groupLessonsBySection(lessons: Lesson[]) {
+  const groups: { title: string | null; lessons: Lesson[] }[] = [];
+  for (const lesson of lessons) {
+    const title = lesson.sectionTitle ?? null;
+    const last = groups[groups.length - 1];
+    if (last && last.title === title) {
+      last.lessons.push(lesson);
+    } else {
+      groups.push({ title, lessons: [lesson] });
+    }
+  }
+  return groups;
 }

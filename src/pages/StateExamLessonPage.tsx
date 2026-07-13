@@ -32,6 +32,7 @@ export function StateExamLessonPage() {
             <span className="chip">
               <Icon name="target" className="w-3.5 h-3.5" /> SZZ
             </span>
+            {lesson.sectionTitle && <span className="chip">{lesson.sectionTitle}</span>}
             <span className="chip">{subject.name}</span>
             <span className="chip">
               Okruh {idx + 1}/{lessons.length}

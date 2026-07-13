@@ -3,6 +3,7 @@ import { getField, getStateExam, getStateExamSubjects } from "../data";
 import { Icon } from "../components/Icon";
 import { ResourceList } from "../components/ResourceList";
 import { NotFound } from "./NotFound";
+import { groupLessonsBySection } from "../data/state-exam-lessons";
 import type { Lesson, StateExamSubject } from "../types";
 
 export function StateExamPage() {
@@ -190,24 +191,38 @@ function SubjectBlock({
         <p className="text-sm text-[var(--text-dim)] mt-2 leading-relaxed">{s.description}</p>
       )}
 
-      <div className="mt-5 space-y-2">
-        {lessons.map((lesson, i) => (
-          <Link
-            key={lesson.id}
-            to={`${base}/${lesson.id}`}
-            className="flex items-center gap-3 p-3 rounded-xl border border-[var(--border)] bg-white/50 hover:bg-white hover:border-emerald-500/40 transition group"
-          >
-            <span className="grid place-items-center w-8 h-8 rounded-lg bg-emerald-50 border border-[var(--border)] text-xs font-semibold text-emerald-700 shrink-0">
-              {i + 1}
-            </span>
-            <span className="text-sm leading-snug flex-1 line-clamp-2 group-hover:text-[var(--text)]">
-              {lesson.title}
-            </span>
-            <Icon
-              name="arrow"
-              className="w-4 h-4 text-[var(--text-dim)] group-hover:text-[var(--text)] shrink-0"
-            />
-          </Link>
+      <div className="mt-5 space-y-6">
+        {groupLessonsBySection(lessons).map((group, gi) => (
+          <div key={gi}>
+            {group.title && (
+              <div className="flex items-center gap-3 mb-3">
+                <h4 className="text-sm font-semibold tracking-tight text-emerald-800">
+                  {group.title}
+                </h4>
+                <div className="flex-1 h-px bg-[var(--border)]" />
+              </div>
+            )}
+            <div className="space-y-2">
+              {group.lessons.map((lesson, i) => (
+                <Link
+                  key={lesson.id}
+                  to={`${base}/${lesson.id}`}
+                  className="flex items-center gap-3 p-3 rounded-xl border border-[var(--border)] bg-white/50 hover:bg-white hover:border-emerald-500/40 transition group"
+                >
+                  <span className="grid place-items-center w-8 h-8 rounded-lg bg-emerald-50 border border-[var(--border)] text-xs font-semibold text-emerald-700 shrink-0">
+                    {i + 1}
+                  </span>
+                  <span className="text-sm leading-snug flex-1 line-clamp-2 group-hover:text-[var(--text)]">
+                    {lesson.title}
+                  </span>
+                  <Icon
+                    name="arrow"
+                    className="w-4 h-4 text-[var(--text-dim)] group-hover:text-[var(--text)] shrink-0"
+                  />
+                </Link>
+              ))}
+            </div>
+          </div>
         ))}
       </div>
 

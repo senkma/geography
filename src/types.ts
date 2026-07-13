@@ -50,6 +50,8 @@ export interface Lesson {
   summary?: string;
   /** Estimated reading/study time in minutes. */
   minutes?: number;
+  /** SZZ: název bloku okruhů (podnadpis). */
+  sectionTitle?: string;
   blocks?: ContentBlock[];
   resources?: Resource[];
   quiz?: Quiz;
