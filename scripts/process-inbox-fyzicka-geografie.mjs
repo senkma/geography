@@ -208,7 +208,7 @@ function dedupeBlocks(existing, extra) {
 }
 
 function pubUrl(field, container, filename) {
-  return `./materials/${field}/${container}/${encodeURIComponent(filename)}`;
+  return `/materials/${field}/${container}/${encodeURIComponent(filename)}`;
 }
 
 function copyMaterial(relPath, field, container, filename = basename(relPath)) {
@@ -565,7 +565,7 @@ for (const [rel, name] of [
   courseMaterials.push({
     kind: kindForFile(name),
     title: name,
-    url: `./materials/${FG_FIELD}/state-exams/${encodeURIComponent(name)}`,
+    url: `/materials/${FG_FIELD}/state-exams/${encodeURIComponent(name)}`,
     source: "SZZ / přijímací zkoušky",
     note: "Obecný podklad pro státní a přijímací zkoušky z oboru.",
   });

@@ -1141,25 +1141,25 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "FG_1 — okruhy Brázdil",
-              "url": "./materials/geografie-kartografie/z0026p/FG_1.doc",
+              "url": "/materials/geografie-kartografie/z0026p/FG_1.doc",
               "source": "Brázdil"
             },
             {
               "kind": "document",
               "title": "Výpisky — téma 1 (úvod)",
-              "url": "./materials/geografie-kartografie/z0026p/vypisky-z-fyzicke-geografie-mu-1-tema-od-brazdila.docx",
+              "url": "/materials/geografie-kartografie/z0026p/vypisky-z-fyzicke-geografie-mu-1-tema-od-brazdila.docx",
               "source": "Výpisky MU"
             },
             {
               "kind": "document",
               "title": "FG_1",
-              "url": "./materials/geografie-kartografie/z0026p/FG_1.pdf",
+              "url": "/materials/geografie-kartografie/z0026p/FG_1.pdf",
               "source": "Brázdil — skriptum"
             },
             {
               "kind": "document",
               "title": "FG_uvod",
-              "url": "./materials/geografie-kartografie/z0026p/FG_uvod.pdf",
+              "url": "/materials/geografie-kartografie/z0026p/FG_uvod.pdf",
               "source": "Brázdil — skriptum"
             },
             {
@@ -1171,14 +1171,14 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "otazky-na-tema-1-a-2.docx",
-              "url": "./materials/geografie-kartografie/z0026p/otazky-na-tema-1-a-2.docx",
+              "url": "/materials/geografie-kartografie/z0026p/otazky-na-tema-1-a-2.docx",
               "source": "Okruhy ke zkoušce",
               "note": "Sdílený materiál pro více okruhů"
             },
             {
               "kind": "document",
               "title": "otazky-ze-tretiho-terminu-zkousky.docx",
-              "url": "./materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+              "url": "/materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
               "source": "Okruhy ke zkoušce",
               "note": "Sdílený materiál pro více okruhů"
             }
@@ -1258,21 +1258,21 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "otazky-ze-tretiho-terminu-zkousky.docx",
-              "url": "./materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+              "url": "/materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
               "source": "Okruhy ke zkoušce",
               "note": "Sdílený materiál pro více okruhů"
             },
             {
               "kind": "document",
               "title": "otazky-na-tema-1-a-2.docx",
-              "url": "./materials/geografie-kartografie/z0026p/otazky-na-tema-1-a-2.docx",
+              "url": "/materials/geografie-kartografie/z0026p/otazky-na-tema-1-a-2.docx",
               "source": "Okruhy ke zkoušce",
               "note": "Sdílený materiál pro více okruhů"
             },
             {
               "kind": "document",
               "title": "FG_1",
-              "url": "./materials/geografie-kartografie/z0026p/FG_1.pdf",
+              "url": "/materials/geografie-kartografie/z0026p/FG_1.pdf",
               "source": "Brázdil — skriptum"
             },
             {
@@ -1633,32 +1633,32 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "FG_3 — okruhy Brázdil",
-              "url": "./materials/geografie-kartografie/z0026p/FG_3.doc",
+              "url": "/materials/geografie-kartografie/z0026p/FG_3.doc",
               "source": "Brázdil",
               "note": "Sdílený materiál pro více okruhů hydrologie"
             },
             {
               "kind": "document",
               "title": "FG_2 — okruhy Brázdil",
-              "url": "./materials/geografie-kartografie/z0026p/FG_2.doc",
+              "url": "/materials/geografie-kartografie/z0026p/FG_2.doc",
               "source": "Brázdil"
             },
             {
               "kind": "document",
               "title": "Výpisky — vlhkost vzduchu",
-              "url": "./materials/geografie-kartografie/z0026p/vypisky-z-fyzicke-geografie-mu-3-tema-od-brazdila-atm-vlhkost.docx",
+              "url": "/materials/geografie-kartografie/z0026p/vypisky-z-fyzicke-geografie-mu-3-tema-od-brazdila-atm-vlhkost.docx",
               "source": "Výpisky MU"
             },
             {
               "kind": "document",
               "title": "Výpisky — teplota a záření",
-              "url": "./materials/geografie-kartografie/z0026p/vypisky-z-fyzicke-geografie-mu-2-tema-od-brazdila-teplota.docx",
+              "url": "/materials/geografie-kartografie/z0026p/vypisky-z-fyzicke-geografie-mu-2-tema-od-brazdila-teplota.docx",
               "source": "Výpisky MU"
             },
             {
               "kind": "document",
               "title": "FG_1",
-              "url": "./materials/geografie-kartografie/z0026p/FG_1.pdf",
+              "url": "/materials/geografie-kartografie/z0026p/FG_1.pdf",
               "source": "Brázdil — skriptum"
             },
             {
@@ -1670,14 +1670,14 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "otazky-na-tema-3-a-4.docx",
-              "url": "./materials/geografie-kartografie/z0026p/otazky-na-tema-3-a-4.docx",
+              "url": "/materials/geografie-kartografie/z0026p/otazky-na-tema-3-a-4.docx",
               "source": "Okruhy ke zkoušce",
               "note": "Sdílený materiál pro více okruhů"
             },
             {
               "kind": "document",
               "title": "otazky-ze-tretiho-terminu-zkousky.docx",
-              "url": "./materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+              "url": "/materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
               "source": "Okruhy ke zkoušce",
               "note": "Sdílený materiál pro více okruhů"
             }
@@ -1895,20 +1895,20 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "FG_4 — okruhy Brázdil",
-              "url": "./materials/geografie-kartografie/z0026p/FG_4.doc",
+              "url": "/materials/geografie-kartografie/z0026p/FG_4.doc",
               "source": "Brázdil"
             },
             {
               "kind": "document",
               "title": "FG_3 — okruhy Brázdil",
-              "url": "./materials/geografie-kartografie/z0026p/FG_3.doc",
+              "url": "/materials/geografie-kartografie/z0026p/FG_3.doc",
               "source": "Brázdil",
               "note": "Sdílený materiál pro více okruhů hydrologie"
             },
             {
               "kind": "document",
               "title": "Výpisky — vlhkost vzduchu",
-              "url": "./materials/geografie-kartografie/z0026p/vypisky-z-fyzicke-geografie-mu-3-tema-od-brazdila-atm-vlhkost.docx",
+              "url": "/materials/geografie-kartografie/z0026p/vypisky-z-fyzicke-geografie-mu-3-tema-od-brazdila-atm-vlhkost.docx",
               "source": "Výpisky MU"
             },
             {
@@ -1920,21 +1920,21 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "otazky-na-tema-3-a-4.docx",
-              "url": "./materials/geografie-kartografie/z0026p/otazky-na-tema-3-a-4.docx",
+              "url": "/materials/geografie-kartografie/z0026p/otazky-na-tema-3-a-4.docx",
               "source": "Okruhy ke zkoušce",
               "note": "Sdílený materiál pro více okruhů"
             },
             {
               "kind": "document",
               "title": "vetry-a-globalni-cirkulace-atmosfery.docx",
-              "url": "./materials/geografie-kartografie/z0026p/vetry-a-globalni-cirkulace-atmosfery.docx",
+              "url": "/materials/geografie-kartografie/z0026p/vetry-a-globalni-cirkulace-atmosfery.docx",
               "source": "Okruhy ke zkoušce",
               "note": "Sdílený materiál pro více okruhů"
             },
             {
               "kind": "document",
               "title": "otazky-ze-tretiho-terminu-zkousky.docx",
-              "url": "./materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+              "url": "/materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
               "source": "Okruhy ke zkoušce",
               "note": "Sdílený materiál pro více okruhů"
             }
@@ -2030,7 +2030,7 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "FG_5 — okruhy Brázdil",
-              "url": "./materials/geografie-kartografie/z0026p/FG_5.doc",
+              "url": "/materials/geografie-kartografie/z0026p/FG_5.doc",
               "source": "Brázdil"
             },
             {
@@ -2042,7 +2042,7 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "otazky-ze-tretiho-terminu-zkousky.docx",
-              "url": "./materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+              "url": "/materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
               "source": "Okruhy ke zkoušce",
               "note": "Sdílený materiál pro více okruhů"
             }
@@ -2184,7 +2184,7 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "FG_6 — okruhy Brázdil",
-              "url": "./materials/geografie-kartografie/z0026p/FG_6.doc",
+              "url": "/materials/geografie-kartografie/z0026p/FG_6.doc",
               "source": "Brázdil"
             },
             {
@@ -2289,7 +2289,7 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "FG_7 — okruhy Brázdil",
-              "url": "./materials/geografie-kartografie/z0026p/FG_7.doc",
+              "url": "/materials/geografie-kartografie/z0026p/FG_7.doc",
               "source": "Brázdil",
               "note": "Sdílený materiál pro více okruhů hydrologie"
             },
@@ -2395,7 +2395,7 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "FG_7 — okruhy Brázdil",
-              "url": "./materials/geografie-kartografie/z0026p/FG_7.doc",
+              "url": "/materials/geografie-kartografie/z0026p/FG_7.doc",
               "source": "Brázdil",
               "note": "Sdílený materiál pro více okruhů hydrologie"
             },
@@ -2501,7 +2501,7 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "FG_7 — okruhy Brázdil",
-              "url": "./materials/geografie-kartografie/z0026p/FG_7.doc",
+              "url": "/materials/geografie-kartografie/z0026p/FG_7.doc",
               "source": "Brázdil",
               "note": "Sdílený materiál pro více okruhů hydrologie"
             },
@@ -2607,7 +2607,7 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "FG_7 — okruhy Brázdil",
-              "url": "./materials/geografie-kartografie/z0026p/FG_7.doc",
+              "url": "/materials/geografie-kartografie/z0026p/FG_7.doc",
               "source": "Brázdil",
               "note": "Sdílený materiál pro více okruhů hydrologie"
             },
@@ -2713,7 +2713,7 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "FG_7 — okruhy Brázdil",
-              "url": "./materials/geografie-kartografie/z0026p/FG_7.doc",
+              "url": "/materials/geografie-kartografie/z0026p/FG_7.doc",
               "source": "Brázdil",
               "note": "Sdílený materiál pro více okruhů hydrologie"
             },
@@ -2819,7 +2819,7 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "FG_7 — okruhy Brázdil",
-              "url": "./materials/geografie-kartografie/z0026p/FG_7.doc",
+              "url": "/materials/geografie-kartografie/z0026p/FG_7.doc",
               "source": "Brázdil",
               "note": "Sdílený materiál pro více okruhů hydrologie"
             },
@@ -2954,7 +2954,7 @@ export const gk: Field = {
             {
               "kind": "presentation",
               "title": "FG_DN_1 — přednáška",
-              "url": "./materials/geografie-kartografie/z0026p/FG_DN_1.pptx",
+              "url": "/materials/geografie-kartografie/z0026p/FG_DN_1.pptx",
               "source": "GÚ MUNI / Máčka"
             },
             {
@@ -3133,7 +3133,7 @@ export const gk: Field = {
             {
               "kind": "presentation",
               "title": "FG_DN_2 — přednáška",
-              "url": "./materials/geografie-kartografie/z0026p/FG_DN_2.pptx",
+              "url": "/materials/geografie-kartografie/z0026p/FG_DN_2.pptx",
               "source": "GÚ MUNI / Máčka"
             },
             {
@@ -3222,7 +3222,7 @@ export const gk: Field = {
             {
               "kind": "presentation",
               "title": "FG_DN_3 — přednáška",
-              "url": "./materials/geografie-kartografie/z0026p/FG_DN_3.pptx",
+              "url": "/materials/geografie-kartografie/z0026p/FG_DN_3.pptx",
               "source": "GÚ MUNI / Máčka"
             },
             {
@@ -3311,7 +3311,7 @@ export const gk: Field = {
             {
               "kind": "presentation",
               "title": "FG_DN_4 — přednáška",
-              "url": "./materials/geografie-kartografie/z0026p/FG_DN_4.pptx",
+              "url": "/materials/geografie-kartografie/z0026p/FG_DN_4.pptx",
               "source": "GÚ MUNI / Máčka"
             },
             {
@@ -3400,7 +3400,7 @@ export const gk: Field = {
             {
               "kind": "presentation",
               "title": "FG_DN_5 — přednáška",
-              "url": "./materials/geografie-kartografie/z0026p/FG_DN_5.pptx",
+              "url": "/materials/geografie-kartografie/z0026p/FG_DN_5.pptx",
               "source": "GÚ MUNI / Máčka"
             },
             {
@@ -3534,7 +3534,7 @@ export const gk: Field = {
             {
               "kind": "presentation",
               "title": "FG_DN_7 — přednáška",
-              "url": "./materials/geografie-kartografie/z0026p/FG_DN_7.pptx",
+              "url": "/materials/geografie-kartografie/z0026p/FG_DN_7.pptx",
               "source": "GÚ MUNI / Máčka"
             },
             {
@@ -3623,7 +3623,7 @@ export const gk: Field = {
             {
               "kind": "presentation",
               "title": "FG_DN_6 — přednáška",
-              "url": "./materials/geografie-kartografie/z0026p/FG_DN_6.pptx",
+              "url": "/materials/geografie-kartografie/z0026p/FG_DN_6.pptx",
               "source": "GÚ MUNI / Máčka"
             },
             {
@@ -3712,7 +3712,7 @@ export const gk: Field = {
             {
               "kind": "presentation",
               "title": "FG_DN_8 — přednáška",
-              "url": "./materials/geografie-kartografie/z0026p/FG_DN_8.pptx",
+              "url": "/materials/geografie-kartografie/z0026p/FG_DN_8.pptx",
               "source": "GÚ MUNI / Máčka"
             },
             {
@@ -3904,7 +3904,7 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "FG_8 — okruhy Brázdil",
-              "url": "./materials/geografie-kartografie/z0026p/FG_8.doc",
+              "url": "/materials/geografie-kartografie/z0026p/FG_8.doc",
               "source": "Brázdil"
             },
             {
@@ -4083,7 +4083,7 @@ export const gk: Field = {
             {
               "kind": "presentation",
               "title": "FG_DN_9 — přednáška",
-              "url": "./materials/geografie-kartografie/z0026p/FG_DN_9.pptx",
+              "url": "/materials/geografie-kartografie/z0026p/FG_DN_9.pptx",
               "source": "GÚ MUNI / Máčka"
             },
             {
@@ -4218,163 +4218,163 @@ export const gk: Field = {
         {
           "kind": "document",
           "title": "FG_uvod",
-          "url": "./materials/geografie-kartografie/z0026p/FG_uvod.pdf",
+          "url": "/materials/geografie-kartografie/z0026p/FG_uvod.pdf",
           "source": "Brázdil — skriptum"
         },
         {
           "kind": "document",
           "title": "FG_1",
-          "url": "./materials/geografie-kartografie/z0026p/FG_1.pdf",
+          "url": "/materials/geografie-kartografie/z0026p/FG_1.pdf",
           "source": "Brázdil — skriptum"
         },
         {
           "kind": "presentation",
           "title": "Úvodní prezentace FG (archiv)",
-          "url": "./materials/geografie-kartografie/z0026p/FG_prezentace_uvod.pdf",
+          "url": "/materials/geografie-kartografie/z0026p/FG_prezentace_uvod.pdf",
           "source": "Brázdil",
           "note": "Obsahově překrývá FG_uvod.pdf — použij jako doplňkovou prezentaci."
         },
         {
           "kind": "document",
           "title": "Kompletní zápisy z fyzické geografie",
-          "url": "./materials/geografie-kartografie/z0026p/fyzicka-geografie-kompletni-zapisy.pdf",
+          "url": "/materials/geografie-kartografie/z0026p/fyzicka-geografie-kompletni-zapisy.pdf",
           "source": "Archiv studijních podkladů"
         },
         {
           "kind": "document",
           "title": "Vypracované otázky ke zkoušce",
-          "url": "./materials/geografie-kartografie/z0026p/fyzicka-geografie-vypracovane-otazky-ke-zkousce.docx",
+          "url": "/materials/geografie-kartografie/z0026p/fyzicka-geografie-vypracovane-otazky-ke-zkousce.docx",
           "source": "Archiv studijních podkladů"
         },
         {
           "kind": "document",
           "title": "Vypracované otázky z minulých let",
-          "url": "./materials/geografie-kartografie/z0026p/vypracovane-otazky-z-minulych-let2.docx",
+          "url": "/materials/geografie-kartografie/z0026p/vypracovane-otazky-z-minulych-let2.docx",
           "source": "Archiv studijních podkladů"
         },
         {
           "kind": "document",
           "title": "Vzor testu — geografie",
-          "url": "./materials/geografie-kartografie/z0026p/Vzor_testu-Geografie.pdf",
+          "url": "/materials/geografie-kartografie/z0026p/Vzor_testu-Geografie.pdf",
           "source": "Archiv studijních podkladů"
         },
         {
           "kind": "document",
           "title": "Úvod do studia FG",
-          "url": "./materials/geografie-kartografie/z0026p/uvod-do-studia-fyz-geografie.doc",
+          "url": "/materials/geografie-kartografie/z0026p/uvod-do-studia-fyz-geografie.doc",
           "source": "Archiv studijních podkladů"
         },
         {
           "kind": "document",
           "title": "b-gek-fyzg.pdf",
-          "url": "./materials/geografie-kartografie/state-exams/b-gek-fyzg.pdf",
+          "url": "/materials/geografie-kartografie/state-exams/b-gek-fyzg.pdf",
           "source": "SZZ / přijímací zkoušky",
           "note": "Obecný podklad pro státní a přijímací zkoušky z oboru."
         },
         {
           "kind": "document",
           "title": "b-gek-spolecna_cast.pdf",
-          "url": "./materials/geografie-kartografie/state-exams/b-gek-spolecna_cast.pdf",
+          "url": "/materials/geografie-kartografie/state-exams/b-gek-spolecna_cast.pdf",
           "source": "SZZ / přijímací zkoušky",
           "note": "Obecný podklad pro státní a přijímací zkoušky z oboru."
         },
         {
           "kind": "document",
           "title": "otazky-statnice-2020.docx",
-          "url": "./materials/geografie-kartografie/state-exams/otazky-statnice-2020.docx",
+          "url": "/materials/geografie-kartografie/state-exams/otazky-statnice-2020.docx",
           "source": "SZZ / přijímací zkoušky",
           "note": "Obecný podklad pro státní a přijímací zkoušky z oboru."
         },
         {
           "kind": "document",
           "title": "otazky-bakalarska-2018.docx",
-          "url": "./materials/geografie-kartografie/state-exams/otazky-bakalarska-2018.docx",
+          "url": "/materials/geografie-kartografie/state-exams/otazky-bakalarska-2018.docx",
           "source": "SZZ / přijímací zkoušky",
           "note": "Obecný podklad pro státní a přijímací zkoušky z oboru."
         },
         {
           "kind": "document",
           "title": "otazky-na-tema-1-a-2.docx",
-          "url": "./materials/geografie-kartografie/z0026p/otazky-na-tema-1-a-2.docx",
+          "url": "/materials/geografie-kartografie/z0026p/otazky-na-tema-1-a-2.docx",
           "source": "Okruhy ke zkoušce"
         },
         {
           "kind": "document",
           "title": "otazky-na-tema-3-a-4.docx",
-          "url": "./materials/geografie-kartografie/z0026p/otazky-na-tema-3-a-4.docx",
+          "url": "/materials/geografie-kartografie/z0026p/otazky-na-tema-3-a-4.docx",
           "source": "Okruhy ke zkoušce"
         },
         {
           "kind": "document",
           "title": "vetry-a-globalni-cirkulace-atmosfery.docx",
-          "url": "./materials/geografie-kartografie/z0026p/vetry-a-globalni-cirkulace-atmosfery.docx",
+          "url": "/materials/geografie-kartografie/z0026p/vetry-a-globalni-cirkulace-atmosfery.docx",
           "source": "Okruhy ke zkoušce"
         },
         {
           "kind": "document",
           "title": "otazky-ze-tretiho-terminu-zkousky.docx",
-          "url": "./materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
+          "url": "/materials/geografie-kartografie/z0026p/otazky-ze-tretiho-terminu-zkousky.docx",
           "source": "Okruhy ke zkoušce"
         },
         {
           "kind": "document",
           "title": "Československá geografická literatura 1970",
-          "url": "./materials/geografie-kartografie/z0026p/bibliografie-CGS-1970.pdf",
+          "url": "/materials/geografie-kartografie/z0026p/bibliografie-CGS-1970.pdf",
           "source": "Rozhledy",
           "note": "Historický bibliografický přehled — obecný referenční zdroj."
         },
         {
           "kind": "presentation",
           "title": "FG_DN_1 — přednáška",
-          "url": "./materials/geografie-kartografie/z0026p/FG_DN_1.pptx",
+          "url": "/materials/geografie-kartografie/z0026p/FG_DN_1.pptx",
           "source": "GÚ MUNI / Brázdil"
         },
         {
           "kind": "presentation",
           "title": "FG_DN_2 — přednáška",
-          "url": "./materials/geografie-kartografie/z0026p/FG_DN_2.pptx",
+          "url": "/materials/geografie-kartografie/z0026p/FG_DN_2.pptx",
           "source": "GÚ MUNI / Brázdil"
         },
         {
           "kind": "presentation",
           "title": "FG_DN_3 — přednáška",
-          "url": "./materials/geografie-kartografie/z0026p/FG_DN_3.pptx",
+          "url": "/materials/geografie-kartografie/z0026p/FG_DN_3.pptx",
           "source": "GÚ MUNI / Brázdil"
         },
         {
           "kind": "presentation",
           "title": "FG_DN_4 — přednáška",
-          "url": "./materials/geografie-kartografie/z0026p/FG_DN_4.pptx",
+          "url": "/materials/geografie-kartografie/z0026p/FG_DN_4.pptx",
           "source": "GÚ MUNI / Brázdil"
         },
         {
           "kind": "presentation",
           "title": "FG_DN_5 — přednáška",
-          "url": "./materials/geografie-kartografie/z0026p/FG_DN_5.pptx",
+          "url": "/materials/geografie-kartografie/z0026p/FG_DN_5.pptx",
           "source": "GÚ MUNI / Brázdil"
         },
         {
           "kind": "presentation",
           "title": "FG_DN_6 — přednáška",
-          "url": "./materials/geografie-kartografie/z0026p/FG_DN_6.pptx",
+          "url": "/materials/geografie-kartografie/z0026p/FG_DN_6.pptx",
           "source": "GÚ MUNI / Brázdil"
         },
         {
           "kind": "presentation",
           "title": "FG_DN_7 — přednáška",
-          "url": "./materials/geografie-kartografie/z0026p/FG_DN_7.pptx",
+          "url": "/materials/geografie-kartografie/z0026p/FG_DN_7.pptx",
           "source": "GÚ MUNI / Brázdil"
         },
         {
           "kind": "presentation",
           "title": "FG_DN_8 — přednáška",
-          "url": "./materials/geografie-kartografie/z0026p/FG_DN_8.pptx",
+          "url": "/materials/geografie-kartografie/z0026p/FG_DN_8.pptx",
           "source": "GÚ MUNI / Brázdil"
         },
         {
           "kind": "presentation",
           "title": "FG_DN_9 — přednáška",
-          "url": "./materials/geografie-kartografie/z0026p/FG_DN_9.pptx",
+          "url": "/materials/geografie-kartografie/z0026p/FG_DN_9.pptx",
           "source": "GÚ MUNI / Brázdil"
         }
       ],
@@ -11384,7 +11384,7 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "Distanční studijní opora — Hydrologie (UP Olomouc)",
-              "url": "./materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+              "url": "/materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
               "source": "Pavelková, Frajer",
               "note": "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu."
             },
@@ -11445,7 +11445,7 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "Distanční studijní opora — Hydrologie (UP Olomouc)",
-              "url": "./materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+              "url": "/materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
               "source": "Pavelková, Frajer",
               "note": "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu."
             },
@@ -11514,7 +11514,7 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "Distanční studijní opora — Hydrologie (UP Olomouc)",
-              "url": "./materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+              "url": "/materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
               "source": "Pavelková, Frajer",
               "note": "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu."
             },
@@ -11583,7 +11583,7 @@ export const gk: Field = {
             {
               "kind": "document",
               "title": "Distanční studijní opora — Hydrologie (UP Olomouc)",
-              "url": "./materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+              "url": "/materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
               "source": "Pavelková, Frajer",
               "note": "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu."
             },
@@ -11949,7 +11949,7 @@ export const gk: Field = {
         {
           "kind": "document",
           "title": "Distanční studijní opora — Hydrologie (UP Olomouc)",
-          "url": "./materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
+          "url": "/materials/geografie-kartografie/z0059/D_FG1_Hydrologie.pdf",
           "source": "Pavelková, Frajer",
           "note": "Obecný studijní text k hydrologii — využij napříč lekcemi předmětu."
         }

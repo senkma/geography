@@ -59,6 +59,22 @@ export function readJsonIfExists(path) {
   return JSON.parse(readFileSync(path, "utf8"));
 }
 
+/** ./materials/… → /materials/… (kvůli SPA base a service workeru). */
+export function normalizeMaterialUrl(url) {
+  if (!url || typeof url !== "string") return url;
+  if (/^https?:\/\//i.test(url)) return url;
+  if (url.startsWith("./materials/")) return url.slice(1);
+  if (url.startsWith("materials/")) return `/${url}`;
+  return url;
+}
+
+export function normalizeResources(resources) {
+  if (!Array.isArray(resources)) return resources;
+  return resources.map((r) =>
+    r?.url ? { ...r, url: normalizeMaterialUrl(r.url) } : r,
+  );
+}
+
 export function listJsonFiles(dir) {
   if (!existsSync(dir)) return [];
   return readdirSync(dir)
@@ -94,9 +110,13 @@ export function mergeLesson(base, override, quiz) {
 
   if (override?.blocks?.length) merged.blocks = override.blocks;
   if (override?.resources?.length) {
-    merged.resources = override.resources;
+    merged.resources = normalizeResources(override.resources);
   }
   if (quiz) merged.quiz = quiz;
+
+  if (merged.resources?.length) {
+    merged.resources = normalizeResources(merged.resources);
+  }
 
   return merged;
 }

@@ -424,7 +424,7 @@ export const antarktida: Field = {
             {
               "kind": "document",
               "title": "Accelerated glacier changes on James Ross Island (2010–2023)",
-              "url": "./materials/antarktida/mod-kryosfera/accelerated-glacier-changes-on-the-james-ross-archipelago-antarctica-from-2010-to-2023.pdf",
+              "url": "/materials/antarktida/mod-kryosfera/accelerated-glacier-changes-on-the-james-ross-archipelago-antarctica-from-2010-to-2023.pdf",
               "source": "Journal of Glaciology / CARP oblast"
             }
           ]

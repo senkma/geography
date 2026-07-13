@@ -16,6 +16,7 @@ import {
   loadLessonOverrides,
   loadQuizzes,
   mergeLesson,
+  normalizeResources,
   readJsonIfExists,
   writeStatus,
 } from "./content/lib.mjs";
@@ -104,7 +105,9 @@ function buildMuniCourse(c, index, fieldId, stats) {
     ...(c.anotace ? { description: c.anotace } : {}),
     syllabus: c.syllabus ?? [],
     lessons,
-    resources: loadCourseMaterials(fieldId, id, defaultCourseResources(c)),
+    resources: normalizeResources(
+      loadCourseMaterials(fieldId, id, defaultCourseResources(c)),
+    ),
   };
 
   return course;
@@ -220,9 +223,9 @@ function buildAntarktidaModule(moduleId, stats) {
     syllabus: lessons.map((l) => l.title),
     lessons,
     ...(materialsData?.items?.length
-      ? { resources: materialsData.items }
+      ? { resources: normalizeResources(materialsData.items) }
       : materialsData?.resources?.length
-        ? { resources: materialsData.resources }
+        ? { resources: normalizeResources(materialsData.resources) }
         : {}),
   };
 }

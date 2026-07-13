@@ -1,5 +1,6 @@
 import type { Resource } from "../types";
 import { Icon, resourceIcon } from "./Icon";
+import { isLocalMaterial, materialUrl } from "../lib/materialUrl";
 
 const kindLabel: Record<string, string> = {
   presentation: "Prezentace",
@@ -28,6 +29,8 @@ function ResourceItem({
   r: Resource;
   layout: "grid" | "list";
 }) {
+  const href = materialUrl(r.url);
+  const downloadFile = href && r.kind !== "link" && isLocalMaterial(href);
   const inner = (
     <div className="flex items-start gap-3 w-full min-w-0">
       <span
@@ -73,7 +76,7 @@ function ResourceItem({
           <p className="text-xs text-[var(--text-dim)] mt-0.5">{r.note}</p>
         )}
       </div>
-      {r.url && (
+      {href && (
         <Icon
           name="arrow"
           className={
@@ -89,12 +92,11 @@ function ResourceItem({
   if (layout === "list") {
     const base =
       "block py-2.5 border-b border-[var(--border)] last:border-b-0 transition";
-    if (r.url) {
+    if (href) {
       return (
         <a
-          href={r.url}
-          target="_blank"
-          rel="noreferrer"
+          href={href}
+          {...(downloadFile ? { download: "" } : { target: "_blank", rel: "noreferrer" })}
           className={`${base} hover:bg-[var(--surface-muted)] -mx-1 px-1 rounded-sm`}
         >
           {inner}
@@ -106,12 +108,11 @@ function ResourceItem({
 
   const base =
     "block rounded-md border-2 border-[var(--border)] p-3.5 transition";
-  if (r.url) {
+  if (href) {
     return (
       <a
-        href={r.url}
-        target="_blank"
-        rel="noreferrer"
+        href={href}
+        {...(downloadFile ? { download: "" } : { target: "_blank", rel: "noreferrer" })}
         className={`${base} bg-[var(--surface)] hover:bg-[var(--surface-muted)] hover:border-[var(--border-strong)]`}
       >
         {inner}
