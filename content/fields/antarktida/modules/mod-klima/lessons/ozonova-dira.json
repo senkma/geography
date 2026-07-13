@@ -1,0 +1,41 @@
+{
+  "id": "ozonova-dira",
+  "title": "Ozonová díra nad Antarktidou",
+  "summary": "Sezónní ztenčení ozonu na jaře, chemie PSC a Montrealský protokol.",
+  "minutes": 20,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Ozonová díra — sezónní ztenčení stratosférického ozonu nad Antarktidou každé jižní jaro (září–říjen). Objev: Farman et al., stanice Halley, 1985."
+    },
+    {
+      "type": "list",
+      "label": "Mechanismus",
+      "items": [
+        "Polární noc → stabilní polární vír izoluje vzduch",
+        "Polární stratosférická oblaka (PSC) uvolňují chlor z freonů (CFC)",
+        "Jarní sluneční záření aktivuje katalytický rozklad O₃",
+        "Po rozpadu víru se díra zaplní ozonem z nižších šířek"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Montrealský protokol (1987)",
+      "text": "Postupný zákaz CFC; ozonová vrstva se pomalu zotavuje — očekává se návrat k hodnotám z poloviny 20. století."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "NASA Ozone Watch",
+      "url": "https://ozonewatch.gsfc.nasa.gov/",
+      "source": "NASA"
+    },
+    {
+      "kind": "link",
+      "title": "BAS — Ozone hole",
+      "url": "https://www.bas.ac.uk/data/our-data/publication/ozone-hole/",
+      "source": "BAS"
+    }
+  ]
+}

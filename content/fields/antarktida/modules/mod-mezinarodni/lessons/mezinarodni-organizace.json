@@ -1,0 +1,42 @@
+{
+  "id": "mezinarodni-organizace",
+  "title": "SCAR, COMNAP a CCAMLR",
+  "summary": "Vědecká koordinace, logistika stanic a ochrana mořských ekosystémů.",
+  "minutes": 13,
+  "blocks": [
+    {
+      "type": "list",
+      "label": "Hlavní organizace",
+      "items": [
+        "SCAR (Scientific Committee on Antarctic Research) — koordinace vědy, expertní skupiny",
+        "COMNAP — koordinace národních programů a logistiky stanic",
+        "CCAMLR — komise pro živé mořské zdroje, rybolov a MPA (mořské chráněné oblasti)",
+        "Council of Managers of National Antarctic Programs (COMNAP) — bezpečnost a sdílení kapacit"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "CARP spolupracuje v rámci SCAR a COMNAP s programy BAS, INACH, IAA a dalšími. Výsledky publikuje v časopise Czech Polar Reports."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "SCAR",
+      "url": "https://scar.org/",
+      "source": "SCAR"
+    },
+    {
+      "kind": "link",
+      "title": "COMNAP",
+      "url": "https://www.comnap.aq/",
+      "source": "COMNAP"
+    },
+    {
+      "kind": "link",
+      "title": "CCAMLR",
+      "url": "https://www.ccamlr.org/",
+      "source": "CCAMLR"
+    }
+  ]
+}

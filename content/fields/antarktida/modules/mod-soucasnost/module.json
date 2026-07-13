@@ -1,0 +1,13 @@
+{
+  "id": "mod-soucasnost",
+  "title": "Současnost a expedice",
+  "description": "Jak dnes probíhají expedice, etika výzkumu, turismus a ochrana kontinentu v éře klimatické změny.",
+  "section": "ostatni",
+  "tags": [
+    "Antarktida"
+  ],
+  "lessonOrder": [
+    "soucasny-vyzkum-expedice",
+    "soucasnost-turismus-ochrana"
+  ]
+}

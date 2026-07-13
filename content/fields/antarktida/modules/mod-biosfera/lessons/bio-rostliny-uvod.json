@@ -1,0 +1,30 @@
+{
+  "id": "bio-rostliny-uvod",
+  "title": "Rostliny a fyziologie autotrofů",
+  "summary": "Stresová fyziologie lišejníků, mechů, řas a sinic na James Ross Island.",
+  "minutes": 16,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Výzkum struktury a funkcí vegetace na ostrově Jamese Rosse se zaměřuje na schopnost antarktických autotrofů přežívat v extrémním prostředí — chlad, UV-B, vysychání a fotoinhibice."
+    },
+    {
+      "type": "list",
+      "label": "Hlavní směry",
+      "items": [
+        "Primární fotosyntetické procesy a fluorescence chlorofylu",
+        "Taxonomie a ekologie autotrofů; sbírka kultur a fotobioreaktory",
+        "Mapování vegetace drony a spektrální indexy",
+        "Biologické půdní krusty"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Rostliny a fyziologie",
+      "url": "https://carp.sci.muni.cz/vyzkum/#plants",
+      "source": "CARP"
+    }
+  ]
+}

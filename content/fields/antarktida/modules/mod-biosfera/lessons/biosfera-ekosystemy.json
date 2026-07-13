@@ -1,0 +1,34 @@
+{
+  "id": "biosfera-ekosystemy",
+  "title": "Biosféra a polární ekosystémy",
+  "summary": "Suchozemský život, mořská produktivita a krill.",
+  "minutes": 18,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Suchozemský život je chudý a soustředěný do nezamrzlých oblastí (poloostrov, oázy). Jižní oceán patří k nejproduktivnějším mořím."
+    },
+    {
+      "type": "list",
+      "label": "Suchozemsko",
+      "items": [
+        "Lišejníky, mechy, řasy, mikroorganismy",
+        "Dvě kvetoucí rostliny: Deschampsia antarctica a Colobanthus quitensis",
+        "Belgica antarctica — největší suchozemský bezobratlý"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Krill",
+      "text": "Euphausia superba je základem potravní sítě; vázán na mořský led a fytoplankton."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "SCAR — Life Sciences",
+      "url": "https://scar.org/science/life-sciences/",
+      "source": "SCAR"
+    }
+  ]
+}

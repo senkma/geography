@@ -1,0 +1,41 @@
+{
+  "id": "geologie-tektonika",
+  "title": "Geologický vývoj a tektonická stavba",
+  "summary": "Od Gondwany po skrytý subglaciální reliéf a rozdíl mezi mořsky ukotveným a pevninským ledem.",
+  "minutes": 20,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Východní Antarktida tvoří starý prekambrický kraton, kdysi jádro superkontinentu Gondwany. Rozpad Gondwany a otevření Drakeova průlivu (≈ 34–30 Ma) umožnily vznik Antarktického cirkumpolárního proudu a trvalé zalednění."
+    },
+    {
+      "type": "list",
+      "label": "Hlavní stavební prvky",
+      "items": [
+        "Východoantarktický kraton — stabilní staré jádro",
+        "Transantarktické pohoří — vyzdvižení podél zlomů",
+        "Západoantarktický riftový systém — ztenčená kůra",
+        "Aktivní vulkanismus — např. Mount Erebus"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Skrytý reliéf",
+      "text": "Radar odhalil pohoří Gamburcevových hor (velikosti Alp) i Bentleyho subglaciální příkop (> 2 500 m pod hladinou moře). Rozlišení podloží nad/pod mořem určuje stabilitu ledu."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "dataset",
+      "title": "BedMachine Antarctica",
+      "url": "https://nsidc.org/data/nsidc-0756",
+      "source": "NSIDC / NASA"
+    },
+    {
+      "kind": "link",
+      "title": "SCAR Geoscience",
+      "url": "https://scar.org/science/geosciences/",
+      "source": "SCAR"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "bio-ltrp-otc",
+  "title": "LTRP a komory Open Top Chamber",
+  "summary": "Dlouhodobé výzkumné plochy a simulace oteplování od roku 2007.",
+  "minutes": 15,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Od roku 2007 fungují na severním James Ross Island komory OTC (Open Top Chamber) pro studium reakce mechů a lišejníků na globální oteplování. Tři lokality LTRP se monitorují více než deset let."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Dominantní druhy: Bryum pseudotriquetrum, Xanthoria elegans, Umbilicaria decussata",
+        "Umělé oteplení závisí na charakteru stanoviště (oáza, skalní plošina, předpolí ledovce)",
+        "Zimní epizody s teplotou povrchu > 0 °C aktivují mechy a lišejníky z klidu"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Celoroční měření kyslíku v malých jezírkách dokumentují fotosyntézu mikrořas v létě a mikrobiální spotřebu v předzimním období."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Plants (EN)",
+      "url": "https://carp.sci.muni.cz/research/#plants",
+      "source": "CARP"
+    }
+  ]
+}

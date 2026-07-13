@@ -1,0 +1,33 @@
+{
+  "id": "atmo-glaciologie",
+  "title": "Glaciologie a hydrologie",
+  "summary": "Hmotnostní bilance pevninských ledovců a glacio-hydrologické procesy.",
+  "minutes": 16,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Intenzivní monitoring pevninských končících ledovců zahrnuje hmotnostní bilanci, georadar a hodnocení citlivosti na nedávné oteplování."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Dynamika sněhové pokrývky a povrchové tání",
+        "Modelování glacio-hydrologických procesí v proglaciálních údolích",
+        "Příspěvek k pochopení vzestupu hladiny moře z regionu poloostrova"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Výzkumná publikace",
+      "text": "Nedělčev et al. (2025, The Cryosphere): role tání sněhu, ledovců a dešťů v dynamice toků na James Ross Island."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Publikace",
+      "url": "https://carp.sci.muni.cz/publikace/",
+      "source": "CARP"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mod-kryosfera",
+  "title": "Kryosféra a led",
+  "description": "Ledovcové štíty, šelfové ledovce, mořský led a glaciologický výzkum v oblasti Antarktického poloostrova.",
+  "section": "veda",
+  "tags": [
+    "Antarktida",
+    "kryosféra",
+    "glaciologie"
+  ],
+  "lessonOrder": [
+    "ledovcovy-stit",
+    "selfove-ledovce-morsky-led",
+    "atmo-glaciologie"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "historie-igy-smlouva",
+  "title": "Od IGY po Antarktickou smlouvu",
+  "summary": "Mezinárodní geofyzikální rok 1957–58, stálé stanice a diplomatický kompromis roku 1959.",
+  "minutes": 15,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Mezinárodní geofyzikální rok (IGY) 1957–58 zmobilizoval desítky zemí k intenzivnímu antarktickému výzkumu. Vzniklo mnoho stálých stanic; věda se stala společným jazykem i v době studené války."
+    },
+    {
+      "type": "list",
+      "items": [
+        "1959: podpis Antarktické smlouvy ve Washingtonu (12 původních smluvních stran)",
+        "1961: smlouva vstoupila v platnost",
+        "Zmrazení územních nároků, mírové využití, svoboda vědeckého výzkumu",
+        "1991: Madridský protokol — posílení ochrany životního prostředí"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Československo / ČR",
+      "text": "Československo se účastnilo IGY; samostatná ČR získala konzultativní status díky antarktickému výzkumu (CARP) v 21. století."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "Antarctic Treaty Secretariat",
+      "url": "https://www.ats.aq/",
+      "source": "ATS"
+    }
+  ]
+}

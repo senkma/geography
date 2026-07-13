@@ -1,0 +1,40 @@
+{
+  "id": "historie-prvni-pruzkumy",
+  "title": "První průzkumy a Heroic Age",
+  "summary": "Od objevení kontinentu po éru hrdinských expedic — Cook, Bellingshausen, Ross a Shackleton.",
+  "minutes": 18,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Antarktida byla poprvé spatřena v lednu 1820 — nezávisle ji zahlédli expediční lodě Fabiana Gottlieba von Bellingshausena (Rusko), Edwarda Bransfielda (Británie) a Nathanaiela Palmera (USA). Kontinent byl dlouho teoretizován jako Terra Australis."
+    },
+    {
+      "type": "list",
+      "label": "Klíčové milníky 19. století",
+      "items": [
+        "1840: James Clark Ross — pojmenování Rossova moře a Rossova ledového šelfu",
+        "1895: první zdokumentovaný přistání na pevnině (Borchgrevink)",
+        "1901–1904: Discovery Expedition (Scott, Shackleton)"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Heroic Age",
+      "text": "Období ≈ 1897–1922 — desítky expedic, často s velkými oběťmi. Cílem bylo zeměpisné prvenství, mapování pobřeží a vědecká měření v extrémních podmínkách."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "SCAR — History of Antarctic exploration",
+      "url": "https://scar.org/about/antarctica/history/",
+      "source": "SCAR"
+    },
+    {
+      "kind": "link",
+      "title": "BAS — Antarctic history",
+      "url": "https://www.bas.ac.uk/about/antarctica/",
+      "source": "BAS"
+    }
+  ]
+}

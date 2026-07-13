@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "kind": "link",
+      "title": "BAS — Weather and climate",
+      "url": "https://www.bas.ac.uk/polar-operations/science/climate-weather/",
+      "source": "BAS"
+    },
+    {
+      "kind": "link",
+      "title": "NASA — Climate Change",
+      "url": "https://climate.nasa.gov/",
+      "source": "NASA"
+    }
+  ]
+}

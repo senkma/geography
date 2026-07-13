@@ -1,0 +1,39 @@
+{
+  "id": "carp-vyzkumny-program",
+  "title": "Multidisciplinární výzkumný program",
+  "summary": "Monitoring a komplexní studium jedné z největších deglaciovaných oblastí Antarktidy.",
+  "minutes": 16,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Výzkumný program stanice je zaměřen na dlouhodobý monitoring životního prostředí a multidisciplinární výzkum pobřežní antarktické oázy — jedné z největších deglaciovaných oblastí na kontinentě."
+    },
+    {
+      "type": "list",
+      "label": "Zahrnuté obory",
+      "items": [
+        "Vědy o Zemi: geologie, geomorfologie, paleontologie, geochemie, klimatologie, hydrologie",
+        "Biologie: botanika, ekologie, ekofyziologie, mikrobiologie, parazitologie, půdní biologie",
+        "Technické vědy: polymery, odolnost vůči UV záření"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Studovány jsou abiotické i biotické složky, jejich vztahy a fungování celého systému včetně predikcí dalšího vývoje."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Výzkumný program",
+      "url": "https://carp.sci.muni.cz/vyzkum/",
+      "source": "CARP"
+    },
+    {
+      "kind": "link",
+      "title": "CARP — Research programme",
+      "url": "https://carp.sci.muni.cz/research/#programme",
+      "source": "CARP"
+    }
+  ]
+}

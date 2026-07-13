@@ -1,0 +1,20 @@
+{
+  "id": "mod-geografie",
+  "title": "Geografie a geologie",
+  "description": "Poloha kontinentu, tektonika, geomorfologie a geovědní výzkum CARP na ostrově Jamese Rosse.",
+  "section": "veda",
+  "tags": [
+    "Antarktida",
+    "geologie",
+    "geomorfologie"
+  ],
+  "lessonOrder": [
+    "poloha-vymezeni",
+    "geologie-tektonika",
+    "geo-uvod",
+    "geo-permafrost",
+    "geo-paleolimnologie",
+    "geo-sedimenty",
+    "geo-databaze"
+  ]
+}

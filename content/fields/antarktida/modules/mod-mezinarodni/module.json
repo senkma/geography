@@ -1,0 +1,15 @@
+{
+  "id": "mod-mezinarodni",
+  "title": "Mezinárodní vztahy",
+  "description": "Antarktická smlouva, územní nároky, SCAR, COMNAP, CCAMLR a role České republiky v globální polární politice.",
+  "section": "ostatni",
+  "tags": [
+    "Antarktida"
+  ],
+  "lessonOrder": [
+    "vyzkum-smluvni-system",
+    "mezinarodni-naroky",
+    "mezinarodni-organizace",
+    "carp-spoluprace"
+  ]
+}

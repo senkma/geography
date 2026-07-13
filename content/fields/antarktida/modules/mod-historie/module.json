@@ -1,0 +1,15 @@
+{
+  "id": "mod-historie",
+  "title": "Historie",
+  "description": "Od Heroic Age a závodů k pólu po Mezinárodní geofyzikální rok a vznik české stanice Johanna Gregora Mendela.",
+  "section": "ostatni",
+  "tags": [
+    "Antarktida"
+  ],
+  "lessonOrder": [
+    "historie-prvni-pruzkumy",
+    "historie-zavody-k-polu",
+    "historie-igy-smlouva",
+    "carp-historie"
+  ]
+}

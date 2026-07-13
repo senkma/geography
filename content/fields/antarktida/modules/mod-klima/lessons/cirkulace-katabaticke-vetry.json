@@ -1,0 +1,33 @@
+{
+  "id": "cirkulace-katabaticke-vetry",
+  "title": "Atmosférická cirkulace a katabatické větry",
+  "summary": "Polární vír, západní větry a nejsilnější přízemní větry planety.",
+  "minutes": 20,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Polární vír izoluje kontinent v zimě. Nad oceánem dominují silné západní větry (roaring forties, furious fifties, screaming sixties)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Katabatické větry: studený hustý vzduch stéká z ledové plošiny k pobřeží. V zúžených údolích dosahují extrémní síly."
+    },
+    {
+      "type": "callout",
+      "label": "Největrnější místo",
+      "text": "Commonwealth Bay (Cape Denison) — průměr ≈ 80 km/h, nárazy > 300 km/h (Mawson)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Index SAM (Southern Annular Mode) popisuje kolísání pásu západních větrů; pozitivní fáze v posledních desetiletích souvisí s ozonovou dírou a skleníkovými plyny."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "NASA Earth Observatory — Antarctic winds",
+      "url": "https://earthobservatory.nasa.gov/",
+      "source": "NASA"
+    }
+  ]
+}

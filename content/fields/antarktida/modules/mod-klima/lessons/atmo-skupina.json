@@ -1,0 +1,34 @@
+{
+  "id": "atmo-skupina",
+  "title": "Atmosférické vědy v CARP",
+  "summary": "Climate–Glacier Working Group — od přízemí po stratosféru a vazba na kryosféru.",
+  "minutes": 14,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pracovní skupina Climate – Glacier Working Group (Klima – pracovní skupina pro ledovce) zkoumá polární meteorologii, klimatologii, hydrologii a glaciologii v oblasti Antarktického poloostrova a ostrova Jamese Rosse."
+    },
+    {
+      "type": "list",
+      "label": "Záběr výzkumu",
+      "items": [
+        "Atmosféra od povrchu po stratosféru",
+        "Změny hydrosféry a kryosféry",
+        "Dopady klimatických změn na toky, jezera a ledovce",
+        "Hmotnostní bilance ledovců a role ve vzestupu hladiny moře"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Skupina zajišťuje pozemní meteorologii, monitoring ledovců (glaciologie, georadar), energetický a sedimentární bilanc a monitoring UV záření."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Atmosférické vědy",
+      "url": "https://carp.sci.muni.cz/vyzkum/#atmospheric",
+      "source": "CARP"
+    }
+  ]
+}

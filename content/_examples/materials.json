@@ -1,0 +1,22 @@
+{
+  "description": "Materiály k celému předmětu — prezentace, skripta, datasety.",
+  "items": [
+    {
+      "kind": "link",
+      "title": "IS MUNI — detail předmětu",
+      "url": "https://is.muni.cz/predmet/sci/Z1035",
+      "source": "IS MUNI"
+    },
+    {
+      "kind": "presentation",
+      "title": "Přednáška 1 — úvod",
+      "note": "Doplň URL po nahrání na GÚ / OneDrive"
+    },
+    {
+      "kind": "document",
+      "title": "Skripta k předmětu",
+      "url": "https://…",
+      "source": "GÚ MUNI"
+    }
+  ]
+}

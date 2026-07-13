@@ -1,0 +1,28 @@
+{
+  "id": "atmo-uv-ozon",
+  "title": "UV záření a ozonová vrstva",
+  "summary": "Rekonstrukce slunečního UV a studium stratosférické ozonové vrstvy.",
+  "minutes": 14,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CARP provádí numerické modelování a rekonstrukci slunečního UV záření a sleduje stav stratosférické ozonové vrstvy v polárních podmínkách."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Monitoring erythemálního UV a celkového sloupce ozonu",
+        "Vazba mezi oblačností, albedem a aerosolem",
+        "Výzkum proměnlivosti slunečního záření na severním poloostrově (Szymszová et al.)"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "NASA Ozone Watch",
+      "url": "https://ozonewatch.gsfc.nasa.gov/",
+      "source": "NASA"
+    }
+  ]
+}

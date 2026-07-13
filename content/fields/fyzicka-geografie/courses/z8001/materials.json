@@ -1,0 +1,17 @@
+{
+  "description": "Materiály k předmětu Diplomová práce ze SG 2 (PřF:Z8001). Doplň prezentace, skripta a odkazy.",
+  "items": [
+    {
+      "kind": "link",
+      "title": "IS MUNI — detail předmětu",
+      "url": "https://is.muni.cz/predmet/sci/Z8001",
+      "source": "IS MUNI"
+    },
+    {
+      "kind": "link",
+      "title": "Studijní plán v IS MUNI",
+      "url": "https://is.muni.cz/plan/23699/fyzicka-geografie",
+      "source": "IS MUNI"
+    }
+  ]
+}

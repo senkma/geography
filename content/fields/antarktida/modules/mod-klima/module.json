@@ -1,0 +1,21 @@
+{
+  "id": "mod-klima",
+  "title": "Klimatologie a atmosféra",
+  "description": "Radiační bilance, cirkulace, ozonová vrstva, klimatická změna a atmosférický monitoring CARP.",
+  "section": "veda",
+  "tags": [
+    "Antarktida",
+    "klimatologie",
+    "atmosféra"
+  ],
+  "lessonOrder": [
+    "klima-teplota-radiace",
+    "cirkulace-katabaticke-vetry",
+    "ozonova-dira",
+    "zmena-klimatu",
+    "atmo-skupina",
+    "atmo-monitoring",
+    "atmo-modelovani",
+    "atmo-uv-ozon"
+  ]
+}

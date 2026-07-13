@@ -1,0 +1,16 @@
+{
+  "lessonId": "PRIKLAD-LEKCE-ID",
+  "title": "Kvíz: název tématu",
+  "questions": [
+    {
+      "question": "Která odpověď je správná?",
+      "options": [
+        { "text": "Správná odpověď", "correct": true },
+        { "text": "Špatná A", "correct": false },
+        { "text": "Špatná B", "correct": false },
+        { "text": "Špatná C", "correct": false }
+      ],
+      "explanation": "Krátké vysvětlení po vyhodnocení."
+    }
+  ]
+}

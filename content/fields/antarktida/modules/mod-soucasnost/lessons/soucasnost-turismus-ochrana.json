@@ -1,0 +1,35 @@
+{
+  "id": "soucasnost-turismus-ochrana",
+  "title": "Turismus, ochrana a budoucnost kontinentu",
+  "summary": "Madridský protokol, návštěvnost a tlak klimatické změny.",
+  "minutes": 15,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Antarktický turismus roste — většina návštěvníků míří na poloostrov lodními výpravami. IAATO koordinuje bezpečnost a minimalizaci dopadů; přistání jsou regulována podle smluvního systému."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Madridský protokol (1991) — ochrana životního prostředí, moratorium na těžbu",
+        "Citlivé oblasti: ASMA/ASPAs — zvláštní režim ochrany",
+        "Klimatická změna — oteplování poloostrova, nestabilita WAIS",
+        "Mezinárodní spolupráce jako podmínka udržitelnosti výzkumu"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "IAATO",
+      "url": "https://iaato.org/",
+      "source": "IAATO"
+    },
+    {
+      "kind": "link",
+      "title": "NASA — Antarctica and climate",
+      "url": "https://climate.nasa.gov/",
+      "source": "NASA"
+    }
+  ]
+}

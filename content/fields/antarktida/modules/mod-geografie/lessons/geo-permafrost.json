@@ -1,0 +1,40 @@
+{
+  "id": "geo-permafrost",
+  "title": "Permafrost a aktivní vrstva",
+  "summary": "Dlouhodobý monitoring termálního stavu a modelování aktivní vrstvy.",
+  "minutes": 16,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Klíčová aktivita skupiny je dlouhodobý monitoring permafrostu a aktivní vrstvy a studium dopadů atmosférického oteplování na periglaciální prostředí."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Numerické modelování časoprostorových změn aktivní vrstvy",
+        "Paraglaciální a periglaciální procesy formující reliéf",
+        "Fyzikální a biogeochemické vlastnosti půd v deglaciovaném terénu",
+        "Příspěvky do GTN-P, SoilTemp, Global Cryosphere Watch"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Výzkum",
+      "text": "Hrubeš et al. (2025, CATENA): permafrost jako zdroj bakterií mineralizujících horniny při ztlušťování aktivní vrstvy na James Ross Island."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "dataset",
+      "title": "GTN-P — Global Terrestrial Network for Permafrost",
+      "url": "https://gtnp.arcticportal.org/",
+      "source": "GTN-P"
+    },
+    {
+      "kind": "dataset",
+      "title": "SoilTemp",
+      "url": "https://soiltemp.project.earth/",
+      "source": "SoilTemp"
+    }
+  ]
+}

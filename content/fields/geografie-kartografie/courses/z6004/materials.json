@@ -1,0 +1,17 @@
+{
+  "description": "Materiály k předmětu Akademické dovednosti 2 (PřF:Z6004). Doplň prezentace, skripta a odkazy.",
+  "items": [
+    {
+      "kind": "link",
+      "title": "IS MUNI — detail předmětu",
+      "url": "https://is.muni.cz/predmet/sci/Z6004",
+      "source": "IS MUNI"
+    },
+    {
+      "kind": "link",
+      "title": "Studijní plán v IS MUNI",
+      "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+      "source": "IS MUNI"
+    }
+  ]
+}

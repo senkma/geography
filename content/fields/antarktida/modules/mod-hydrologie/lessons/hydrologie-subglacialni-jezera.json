@@ -1,0 +1,32 @@
+{
+  "id": "hydrologie-subglacialni-jezera",
+  "title": "Hydrologie a subglaciální jezera",
+  "summary": "Kapalná voda pod ledem, jezero Vostok a suchá údolí.",
+  "minutes": 16,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Geotermální teplo a tlak ledu udržují na bázi štítu kapalnou vodu — sítě subglaciálních jezer a toků."
+    },
+    {
+      "type": "callout",
+      "label": "Jezero Vostok",
+      "text": "Největší známé subglaciální jezero pod ≈ 4 km ledu; voda izolována statisíce až miliony let."
+    },
+    {
+      "type": "list",
+      "items": [
+        "McMurdo Dry Valleys — extrémně suché, ledem nepokryté oblasti",
+        "Bazální voda maže podloží a může zrychlit ledové proudy"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "dataset",
+      "title": "Antarctic Subglacial Lakes",
+      "url": "https://www.scar.org/science/subglacial/",
+      "source": "SCAR"
+    }
+  ]
+}

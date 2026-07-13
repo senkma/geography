@@ -1,5 +1,5 @@
 .PHONY: help install dev up down restart logs prod prod-down build preview \
-        gen-courses gen-antarktida gen-state-exams gen-data gen-icons icons
+        content-init migrate-antarktida gen-data gen-courses gen-antarktida gen-state-exams gen-icons icons
 
 # Lokální dev v Dockeru (Vite HMR) — http://localhost:8090
 URL_DEV := http://localhost:8090
@@ -49,19 +49,28 @@ build: ## Produkční build do dist/
 preview: build ## Náhled produkčního buildu
 	npm run preview
 
-# --- Generátory dat ---
+# --- Obsah (content/) ---
 
-gen-courses: ## Přegenerovat gk.ts a fg.ts z IS MUNI
-	node scripts/generate-courses.mjs
+content-init: ## Vytvoří složky předmětů v content/fields/
+	node scripts/content-init.mjs
 
-gen-antarktida: ## Přegenerovat antarktida.ts (témata + moduly)
+migrate-antarktida: ## Export antarktida_modules.json → content/ (přepíše moduly!)
 	node scripts/reorganize-antarktida-themes.mjs
-	node scripts/generate-antarktida.mjs
+	node scripts/migrate-antarktida-to-content.mjs
+
+gen-data: content-init ## Sestaví src/data z content/ + IS MUNI + SZZ
+	node scripts/build-content.mjs
+	node scripts/generate-state-exams.mjs
+
+gen-courses: ## Jen gk.ts + fg.ts
+	node scripts/content-init.mjs
+	node scripts/build-content.mjs
+
+gen-antarktida: migrate-antarktida ## Antarktida: export JSON → content + sestavení
+	node scripts/build-content.mjs
 
 gen-state-exams: ## Přegenerovat data státních zkoušek
 	node scripts/generate-state-exams.mjs
-
-gen-data: gen-courses gen-antarktida gen-state-exams ## Přegenerovat všechna data
 
 gen-icons icons: ## Vygenerovat PWA ikony
 	node scripts/generate-icons.mjs

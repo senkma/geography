@@ -1,0 +1,31 @@
+{
+  "id": "PRIKLAD-LEKCE-ID",
+  "title": "Volitelný přepis názvu",
+  "summary": "Krátký popis lekce pro seznam.",
+  "minutes": 15,
+  "sectionTitle": "Volitelný podnadpis bloku v osnově",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hlavní výklad — vlastní shrnutí, ne kopie skripta."
+    },
+    {
+      "type": "list",
+      "label": "Klíčové pojmy",
+      "items": ["Pojem 1", "Pojem 2", "Pojem 3"]
+    },
+    {
+      "type": "callout",
+      "label": "Zapamatuj si",
+      "text": "Jedna věta, kterou si musíš odnést."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "IS MUNI — detail předmětu",
+      "url": "https://is.muni.cz/predmet/sci/Z1035",
+      "source": "IS MUNI"
+    }
+  ]
+}

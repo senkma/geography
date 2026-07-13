@@ -1,0 +1,37 @@
+{
+  "id": "carp-spoluprace",
+  "title": "Mezinárodní spolupráce a publikace",
+  "summary": "COMNAP, SCAR, Czech Polar Reports a etický kodex expedice.",
+  "minutes": 12,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CARP spolupracuje v rámci COMNAP a SCAR s mezinárodními programy (IAA, INACH, BAS, MCMLTER aj.). Výsledky publikuje v časopise Czech Polar Reports (2× ročně, WoS od 2022, Scopus od 2014)."
+    },
+    {
+      "type": "callout",
+      "label": "Code of Conduct",
+      "text": "CARP uplatňuje kodex chování pro bezpečné a respektující prostředí na expedici — zákaz diskriminace, obtěžování a nevhodného chování."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "Czech Polar Reports",
+      "url": "https://journals.muni.cz/CPR/",
+      "source": "MUNI Press"
+    },
+    {
+      "kind": "link",
+      "title": "CARP — Code of Conduct",
+      "url": "https://carp.sci.muni.cz/about-us/code-of-conduct/",
+      "source": "CARP"
+    },
+    {
+      "kind": "link",
+      "title": "SCAR",
+      "url": "https://scar.org/",
+      "source": "SCAR"
+    }
+  ]
+}

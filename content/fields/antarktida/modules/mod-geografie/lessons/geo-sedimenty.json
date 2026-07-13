@@ -1,0 +1,29 @@
+{
+  "id": "geo-sedimenty",
+  "title": "Sedimentární kaskády a geomorfologie",
+  "summary": "Transport materiálu ledovcovými, fluviálními, gravitačními a eolickými procesy.",
+  "minutes": 14,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Skupina kvantifikuje sedimentární bilanci a dynamiku krajiny v systémech sedimentární kaskády — od ledovců přes potoky po větrnou erozi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Geomorfologicky heterogenní prostředí oázy slouží jako sentinel site pro včasné varování globálních klimatických bodů zlomu (tipping points)."
+    },
+    {
+      "type": "callout",
+      "label": "Publikace",
+      "text": "Uslular et al. (2025, Journal of Maps): geomorfologie Stansbury Peninsula na Nelson Island v rámci CARP spolupráce."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "map",
+      "title": "SCAR Antarctic Digital Database",
+      "url": "https://www.add.scar.org/",
+      "source": "SCAR"
+    }
+  ]
+}

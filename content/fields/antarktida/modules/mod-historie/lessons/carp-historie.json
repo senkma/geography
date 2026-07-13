@@ -1,0 +1,34 @@
+{
+  "id": "carp-historie",
+  "title": "Historie českého výzkumu v Antarktidě",
+  "summary": "Od plánů v 90. letech po otevření stanice Mendel v roce 2007.",
+  "minutes": 14,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Česká republika patří k zemím s dlouhodobě významným antarktickým výzkumem. Plány na českou základnu sahají do 90. let 20. století, kdy probíhaly právní, logistické a stavební přípravy."
+    },
+    {
+      "type": "list",
+      "items": [
+        "2004–2006: výstavba stanice na severní části ostrova Jamese Rosse",
+        "Únor 2006: dokončení stavby",
+        "22. února 2007: oficiální otevření stanice Johanna Gregora Mendela",
+        "Od té doby každé jižní léto (australské léto) vědecké expedice"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "J. G. Mendel",
+      "text": "Stanice nese jméno Johanna Gregora Mendela (1822–1884), zakladatele moderní genetiky a průkopníka meteorologie, který působil v Brně."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Historie (EN)",
+      "url": "https://carp.sci.muni.cz/about-us/#history",
+      "source": "CARP"
+    }
+  ]
+}

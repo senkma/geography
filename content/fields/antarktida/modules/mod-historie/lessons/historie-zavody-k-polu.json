@@ -1,0 +1,33 @@
+{
+  "id": "historie-zavody-k-polu",
+  "title": "Závody k jižnímu pólu",
+  "summary": "Amundsen (1911) a Scott (1912) — první dosažení pólu a tragický návrat Terra Nova.",
+  "minutes": 16,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roald Amundsen dosáhl jižního pólu 14. prosince 1911 s týmem používajícím psí spřežení a lyže. Robert Falcon Scott přišel o 34 dní později (17. ledna 1912); všichni členové jeho poslední skupiny zemřeli na návratu."
+    },
+    {
+      "type": "list",
+      "label": "Proč Amundsen uspěl dříve",
+      "items": [
+        "Zkušenosti z Arktidy a efektivní logistika se psy",
+        "Jednodušší trasa přes Rossův ledový šelf k pólu",
+        "Scott spoléhal více na pony a motorové sáně — omezená spolehlivost"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Obě expedice přinesly cenná vědecká data (geologie, meteorologie, magnetismus). Scottovy deníky a Amundsenův přístup formují dodnes etiku polárního výzkumu."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "Scott Polar Research Institute",
+      "url": "https://www.spri.cam.ac.uk/",
+      "source": "SPRI"
+    }
+  ]
+}

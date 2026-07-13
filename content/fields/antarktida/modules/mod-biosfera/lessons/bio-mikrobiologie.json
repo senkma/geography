@@ -1,0 +1,41 @@
+{
+  "id": "bio-mikrobiologie",
+  "title": "Mikrobiologie a CAMB",
+  "summary": "Psychrofilní bakterie, kryokonity, houby na horninách a antimikrobiální látky.",
+  "minutes": 16,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Mikrobiologický výzkum zahrnuje monitoring, taxonomii a experimenty s bakteriemi a mikroskopickými houbami z abiotických zdrojů i z ústní sliznice a trusu antarktických živočichů."
+    },
+    {
+      "type": "list",
+      "label": "Témata",
+      "items": [
+        "Heterotrofní mikrobiomy ve vodních tocích, jezerech a kryokonitech",
+        "Permafrost, stíněné skály a jezerní sedimenty — metagenomika",
+        "Antimikrobiální sloučeniny z antarktických izolátů",
+        "„Bezpečnost Antarktidy“ — prevence zavlečení nepůvodních druhů"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "CCM / CAMB",
+      "text": "Česká sbírka mikroorganismů spravuje ≈ 10 000 kmenů z Antarktidy; vybrané izoláty jsou v České antarktické mikrobiální biobance (CAMB)."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Mikrobiologie",
+      "url": "https://carp.sci.muni.cz/vyzkum/#microbiology",
+      "source": "CARP"
+    },
+    {
+      "kind": "link",
+      "title": "Czech Collection of Microorganisms",
+      "url": "https://www.sci.muni.cz/ccm",
+      "source": "MUNI"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mod-biosfera",
+  "title": "Biosféra a ekologie",
+  "description": "Polární ekosystémy, mikrobiologie, extremofily a biologický výzkum CARP.",
+  "section": "veda",
+  "tags": [
+    "Antarktida",
+    "ekologie",
+    "biologie"
+  ],
+  "lessonOrder": [
+    "biosfera-ekosystemy",
+    "bio-rostliny-uvod",
+    "bio-ltrp-otc",
+    "bio-mikrobiologie",
+    "bio-ltem",
+    "bio-extremofily",
+    "bio-data"
+  ]
+}

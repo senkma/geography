@@ -1,0 +1,35 @@
+{
+  "id": "soucasny-vyzkum-expedice",
+  "title": "Moderní expedice a sezónní provoz",
+  "summary": "Australské léto, logistika, bezpečnost a etika v terénu.",
+  "minutes": 14,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Většina terénního výzkumu probíhá během australského léta (listopad–březen), kdy je dostupné sluneční světlo a teploty umožňují práci v terénu. Stálé stanice fungují celoročně s rotujícími posádkami."
+    },
+    {
+      "type": "list",
+      "label": "Typická expedice (např. CARP)",
+      "items": [
+        "Příprava v Brně — kalibrace přístrojů, školení bezpečnosti",
+        "Přesun lodí nebo letadly přes Jižní Ameriku nebo Nový Zéland",
+        "Sezónní provoz stanice Mendel (≈ leden–polovina března)",
+        "Terénní měření, vzorkování, monitoring sítí"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Code of Conduct",
+      "text": "Národní programy uplatňují kodex chování — bezpečnost, rovnost a ochrana citlivých ekosystémů mají přednost před individuálními cíli."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Code of Conduct",
+      "url": "https://carp.sci.muni.cz/about-us/code-of-conduct/",
+      "source": "CARP"
+    }
+  ]
+}

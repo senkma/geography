@@ -1,0 +1,13 @@
+{
+  "id": "mod-ocean",
+  "title": "Oceánografie",
+  "description": "Jižní oceán, Antarktický cirkumpolární proud a role oceánu v globální cirkulaci.",
+  "section": "veda",
+  "tags": [
+    "Antarktida",
+    "oceánografie"
+  ],
+  "lessonOrder": [
+    "jizni-ocean-acc"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "carp-uvod",
+  "title": "Český antarktický výzkumný program (CARP)",
+  "summary": "Národní program MUNI — konzultativní členství ČR v Antarktické smlouvě a multidisciplinární výzkum.",
+  "minutes": 15,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Český antarktický výzkumný program (CARP, Czech Antarctic Research Programme) realizuje Masarykova univerzita. MUNI je jedinou univerzitou na světě a jedinou veřejnoprávní institucí v ČR, která vlastní a provozuje vědeckou stanici v Antarktidě."
+    },
+    {
+      "type": "paragraph",
+      "text": "Program zajišťuje České republice konzultativní členství v rámci Antarktické smlouvy a umožňuje spolurozhodování o využití kontinentu. V zahraničí je chápán jako vládou financovaná iniciativa pro prohloubení poznání antarktické oblasti a celosvětového geo-ekosystému."
+    },
+    {
+      "type": "list",
+      "label": "Výzkumná infrastruktura CARP",
+      "items": [
+        "Stanice J. G. Mendela na ostrově Jamese Rosse",
+        "Technicko-logistické útočiště CZ*ECO Nelson (Jižní Shetlandy)",
+        "Polar-Geo-Lab a Polar-Bio-Lab v Brně"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — O nás",
+      "url": "https://carp.sci.muni.cz/o-nas/",
+      "source": "CARP"
+    },
+    {
+      "kind": "link",
+      "title": "Polar portál MUNI",
+      "url": "https://carp.sci.muni.cz/",
+      "source": "Masarykova univerzita"
+    }
+  ]
+}

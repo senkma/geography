@@ -1,0 +1,23 @@
+{
+  "id": "antarktida",
+  "title": "Antarktida",
+  "subtitle": "Geografie · klima · biosféra · CARP · historie",
+  "level": "Speciální modul",
+  "accent": "#8fbfe0",
+  "icon": "snow",
+  "description": "Vědní disciplíny o Antarktidě (geologie, kryosféra, klima, oceán, hydrologie, biosféra, paleoklima), český výzkum CARP, historie průzkumu, mezinárodní smluvní systém a současné expedice.",
+  "sourceUrl": "https://carp.sci.muni.cz/",
+  "moduleOrder": [
+    "mod-geografie",
+    "mod-kryosfera",
+    "mod-klima",
+    "mod-ocean",
+    "mod-hydrologie",
+    "mod-biosfera",
+    "mod-paleoklima",
+    "mod-carp",
+    "mod-historie",
+    "mod-mezinarodni",
+    "mod-soucasnost"
+  ]
+}

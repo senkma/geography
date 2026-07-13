@@ -1,0 +1,17 @@
+{
+  "description": "Materiály k předmětu Pokročilá francouzština- zk (PřF:JF002). Doplň prezentace, skripta a odkazy.",
+  "items": [
+    {
+      "kind": "link",
+      "title": "IS MUNI — detail předmětu",
+      "url": "https://is.muni.cz/predmet/sci/JF002",
+      "source": "IS MUNI"
+    },
+    {
+      "kind": "link",
+      "title": "Studijní plán v IS MUNI",
+      "url": "https://is.muni.cz/plan/23699/fyzicka-geografie",
+      "source": "IS MUNI"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 import type { Field } from "../types";
 
-/** Data z IS MUNI — studijní plán 23634 (FG specializace v rámci B-GEK). Lekce generovány z osnov. */
+/** Sestaveno z content/ + IS MUNI (plán 23634). */
 export const gk: Field = {
   id: "geografie-kartografie",
   title: "Geografie a kartografie",
@@ -10,8 +10,7 @@ export const gk: Field = {
   icon: "compass",
   description:
     "Bakalářský program Geografie a kartografie (B-GEK). Předměty a osnovy jsou převzaty z oficiálního studijního plánu specializace Fyzická geografie (plán 23634) v IS MUNI — společná oborová část a specializační předměty FG. Zdroj osnov: zkouškové okruhy nebo klíčová témata z katalogu předmětů.",
-  sourceUrl:
-    "https://is.muni.cz/plan/23634/fyzicka-geografie",
+  sourceUrl: "https://is.muni.cz/plan/23634/fyzicka-geografie",
   courses: [
     {
       id: "z1035",
@@ -413,6 +412,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z1035",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -816,6 +827,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z1069",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -2279,6 +2302,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0026p",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -2436,6 +2471,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0026c",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -3003,6 +3050,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z3090p",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -3637,6 +3696,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z3090c",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -4122,6 +4193,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0135p",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -4484,6 +4567,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0135c",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -4559,6 +4654,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z2062p",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -4634,6 +4741,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z2062c",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -4709,6 +4828,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0147",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -4784,6 +4915,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0262",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -5351,6 +5494,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z2166",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -5877,6 +6032,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z2111",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -6403,6 +6570,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z2211",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -6806,6 +6985,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z2069",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -7537,6 +7728,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z2012",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -7612,6 +7815,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z3104",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -7687,6 +7902,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z8108",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -8254,6 +8481,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0120",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -8534,6 +8773,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z5004",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -8609,6 +8860,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z8118",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -8971,6 +9234,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z6004",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -9497,6 +9772,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0059",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -10314,6 +10601,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0076",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -10717,6 +11016,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0086",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -11202,6 +11513,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0005",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -11728,6 +12051,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0051",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -12398,6 +12733,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z4066",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -12801,6 +13148,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0064",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -13204,6 +13563,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0073",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -13377,6 +13748,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0124",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -13944,6 +14327,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z5151",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -14347,6 +14742,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0025",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -14422,6 +14829,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0082",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -14963,6 +15382,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z0109",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -15571,6 +16002,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z1313",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -15810,6 +16253,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z5790",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -16295,6 +16750,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z6010",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -16739,6 +17206,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z6666",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -16814,6 +17293,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z7051",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -17463,6 +17954,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z8105",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -17538,6 +18041,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z8109",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -18064,6 +18579,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/Z8114",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     },
@@ -18508,6 +19035,18 @@ export const gk: Field = {
           "kind": "document",
           "title": "Osnova: Klíčová témata",
           "note": "Oficiální témata z katalogu předmětů IS MUNI."
+        },
+        {
+          "kind": "link",
+          "title": "IS MUNI — detail předmětu",
+          "url": "https://is.muni.cz/predmet/sci/ZX511",
+          "source": "IS MUNI"
+        },
+        {
+          "kind": "link",
+          "title": "Studijní plán v IS MUNI",
+          "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+          "source": "IS MUNI"
         }
       ],
     }

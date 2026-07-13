@@ -1,0 +1,35 @@
+{
+  "id": "zmena-klimatu",
+  "title": "Antarktida a současná změna klimatu",
+  "summary": "Nerovnoměrné oteplování, ústup ledovců a nejistota projekcí hladiny.",
+  "minutes": 20,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Poloostrov a Západní Antarktida se oteplují rychle; vnitrozemí Východní Antarktidy zůstává relativně stabilní."
+    },
+    {
+      "type": "list",
+      "label": "Pozorované změny",
+      "items": [
+        "Ztenčování Thwaites a Pine Island",
+        "Rozpady šelfů Larsen A/B",
+        "Rekordně nízké rozlohy mořského ledu",
+        "Epizody povrchového tání (vých. Antarktida, březen 2022)"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Thwaites",
+      "text": "„Ledovec soudného dne“ — potenciál ≈ 0,65 m; zátka pro část WAIS a riziko marine ice sheet instability."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "NASA — Climate Change",
+      "url": "https://climate.nasa.gov/",
+      "source": "NASA"
+    }
+  ]
+}

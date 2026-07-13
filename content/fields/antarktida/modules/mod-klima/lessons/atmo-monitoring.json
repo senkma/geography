@@ -1,0 +1,52 @@
+{
+  "id": "atmo-monitoring",
+  "title": "Dlouhodobý monitoring klimatu",
+  "summary": "Síť měření na James Ross Island a příspěvek do globálních databází.",
+  "minutes": 16,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CARP řídí dlouhodobé sledování atmosférických parametrů a klimatických podmínek na ostrově Jamese Rosse a dalších lokalitách Antarktického poloostrova."
+    },
+    {
+      "type": "list",
+      "label": "Hlavní témata monitoringu",
+      "items": [
+        "Dlouhodobé klimatické podmínky a atmosférické procesy",
+        "Proměnlivost klimatu a dopady na suchozemské ekosystémy",
+        "Povrchová výměna energie, mikroklima, půda a vegetace",
+        "Toky povrchové vody v proglaciálních oblastech"
+      ]
+    },
+    {
+      "type": "list",
+      "label": "Globální databáze",
+      "items": [
+        "Globální databáze mikroklimatu",
+        "PANGAEA (World Data Center)",
+        "World Glacier Monitoring Service",
+        "Global Terrestrial Network for Glaciers"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "dataset",
+      "title": "PANGAEA",
+      "url": "https://www.pangaea.de/",
+      "source": "AWI"
+    },
+    {
+      "kind": "dataset",
+      "title": "Global Terrestrial Network for Glaciers",
+      "url": "https://wgms.ch/products_ref_glaciers/",
+      "source": "WGMS"
+    },
+    {
+      "kind": "link",
+      "title": "BAS READER database",
+      "url": "https://www.bas.ac.uk/data/our-data/",
+      "source": "BAS"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "klima-teplota-radiace",
+  "title": "Klima: teplota a radiační bilance",
+  "summary": "Proč je Antarktida extrémně studená — výška, albedo, polární noc a inverze.",
+  "minutes": 22,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Antarktida kombinuje vysokou nadmořskou výšku (průměr > 2 000 m), albedo sněhu a ledu (80–90 %), dlouhou polární noc a suchý vzduch s malým skleníkovým efektem."
+    },
+    {
+      "type": "callout",
+      "label": "Rekordy",
+      "text": "Přízemní minimum −89,2 °C (Vostok, 1983). Družicová měření až −93 až −98 °C. Maximum na kontinentu 18,3 °C (Esperanza, 2020)."
+    },
+    {
+      "type": "list",
+      "label": "Energetická bilance",
+      "items": [
+        "Silný sezónní chod slunečního záření",
+        "Vysoké albedo — většina záření se odráží",
+        "Trvalé vyzařování tepla → roční bilance záporná",
+        "Přízemní teplotní inverze pohání katabatické větry"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "BAS — Antarctic climate",
+      "url": "https://www.bas.ac.uk/about/antarctica/geography-and-climate/",
+      "source": "BAS"
+    }
+  ]
+}

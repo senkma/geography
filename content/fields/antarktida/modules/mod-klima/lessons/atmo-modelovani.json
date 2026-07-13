@@ -1,0 +1,29 @@
+{
+  "id": "atmo-modelovani",
+  "title": "Modelování atmosféry a extrémní jevy",
+  "summary": "Mezní vrstva, foehn a numerické simulace počasí.",
+  "minutes": 15,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Skupina numericky modeluje atmosférickou cirkulaci a procesy v mezní vrstvě, včetně extrémních povětrnostních jevů na poloostrově."
+    },
+    {
+      "type": "callout",
+      "label": "Foehn",
+      "text": "Větry typu foehn způsobují anomálně vysoké přízemní teploty a rychlé tání sněhu a ledu — klíčový mechanismus oteplování v závětří hřebenů."
+    },
+    {
+      "type": "paragraph",
+      "text": "Spolupráce s University of Bergen, SLF Davos, Karlovou univerzitou a dalšími centry polárního klimatu."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Atmospheric Sciences (EN)",
+      "url": "https://carp.sci.muni.cz/research/#atmospheric",
+      "source": "CARP"
+    }
+  ]
+}

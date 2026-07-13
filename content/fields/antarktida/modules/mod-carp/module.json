@@ -1,0 +1,18 @@
+{
+  "id": "mod-carp",
+  "title": "CARP",
+  "description": "Český antarktický výzkumný program Masarykovy univerzity — stanice Mendel a Nelson, brněnské laboratoře a multidisciplinární výzkumný program.",
+  "section": "ostatni",
+  "tags": [
+    "Antarktida",
+    "CARP",
+    "MUNI"
+  ],
+  "lessonOrder": [
+    "carp-uvod",
+    "carp-vyzkumny-program",
+    "carp-mendel",
+    "carp-nelson",
+    "carp-laboratore"
+  ]
+}

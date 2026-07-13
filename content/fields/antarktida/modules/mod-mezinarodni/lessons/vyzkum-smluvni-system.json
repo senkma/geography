@@ -1,0 +1,40 @@
+{
+  "id": "vyzkum-smluvni-system",
+  "title": "Výzkum, stanice a smluvní systém",
+  "summary": "Antarktická smlouva, Madridský protokol a mezinárodní stanice.",
+  "minutes": 16,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Antarktická smlouva (1959, platnost 1961) vyhrazuje kontinent míru a vědě; zmrazuje územní nároky."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Zákaz vojenských aktivit a jaderných zkoušek",
+        "Svoboda vědeckého výzkumu a sdílení dat",
+        "Madridský protokol (1991) — ochrana životního prostředí, zákaz těžby",
+        "CCAMLR — ochrana mořských živých zdrojů"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Česká stanice",
+      "text": "Masarykova univerzita provozuje stanici Johanna Gregora Mendela na ostrově Jamese Rosse (viz modul CARP)."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "Antarctic Treaty Secretariat",
+      "url": "https://www.ats.aq/",
+      "source": "ATS"
+    },
+    {
+      "kind": "link",
+      "title": "CARP — Český antarktický výzkum",
+      "url": "https://carp.sci.muni.cz/",
+      "source": "Masarykova univerzita"
+    }
+  ]
+}

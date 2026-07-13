@@ -1,0 +1,51 @@
+{
+  "id": "poloha-vymezeni",
+  "title": "Poloha, vymezení a základní charakteristika",
+  "summary": "Nejjižnější, nejchladnější a největší poušť planety — základní údaje a členění kontinentu.",
+  "minutes": 18,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Antarktida je pevninský kontinent obklopující jižní geografický pól, převážně jižně od jižního polárního kruhu (66,5° j. š.). Od ostatních kontinentů je oddělena Jižním oceánem; nejblíže je Jižní Amerika (Drakeův průliv)."
+    },
+    {
+      "type": "list",
+      "label": "Klíčové údaje",
+      "items": [
+        "Rozloha ≈ 14,2 mil. km² (5. největší kontinent)",
+        "≈ 98 % povrchu pokrývá led; průměrná mocnost ledu ≈ 1,9–2,1 km",
+        "Drží ≈ 60–70 % světové sladké vody a ≈ 90 % veškerého ledu",
+        "Nejnižší naměřená přízemní teplota: −89,2 °C (stanice Vostok, 1983)"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Zapamatuj si",
+      "text": "Antarktida je největší poušť na Zemi — vnitrozemí dostává často méně než 50 mm srážek ročně. Led se hromadí tisíce let, protože téměř netaje."
+    },
+    {
+      "type": "list",
+      "label": "Členění kontinentu",
+      "items": [
+        "Východní Antarktida — starý kraton, Východoantarktický ledovcový štít (EAIS)",
+        "Západní Antarktida — souostroví a pánve pod hladinou moře, Západoantarktický štít (WAIS)",
+        "Transantarktické pohoří — horský val oddělující obě části",
+        "Antarktický poloostrov — nejsevernější a nejrychleji se oteplující oblast"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "map",
+      "title": "Antarctic Digital Database",
+      "url": "https://www.add.scar.org/",
+      "source": "SCAR"
+    },
+    {
+      "kind": "link",
+      "title": "Antarctica — BAS overview",
+      "url": "https://www.bas.ac.uk/about/antarctica/",
+      "source": "BAS"
+    }
+  ]
+}

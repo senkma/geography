@@ -1,0 +1,17 @@
+{
+  "description": "Materiály k předmětu Digitální zprac. materiálů DPZ (PřF:Z8114). Doplň prezentace, skripta a odkazy.",
+  "items": [
+    {
+      "kind": "link",
+      "title": "IS MUNI — detail předmětu",
+      "url": "https://is.muni.cz/predmet/sci/Z8114",
+      "source": "IS MUNI"
+    },
+    {
+      "kind": "link",
+      "title": "Studijní plán v IS MUNI",
+      "url": "https://is.muni.cz/plan/23634/fyzicka-geografie",
+      "source": "IS MUNI"
+    }
+  ]
+}

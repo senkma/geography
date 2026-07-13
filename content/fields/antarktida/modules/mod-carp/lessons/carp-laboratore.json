@@ -1,0 +1,47 @@
+{
+  "id": "carp-laboratore",
+  "title": "Polar-Geo-Lab, Polar-Bio-Lab a EEL",
+  "summary": "Brněnské laboratoře podporující terénní výzkum v Arktidě i Antarktidě.",
+  "minutes": 16,
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Polar-Geo-Lab"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sledování abiotických prostředí (ledovce, permafrost, atmosféra, hydrosféra) v měnícím se klimatu. Dvě skupiny: klimaticko-ledovcová (meteorologie, glaciologie) a geovědní (geomorfologie, permafrost, paleolimnologie)."
+    },
+    {
+      "type": "heading",
+      "text": "Polar-Bio-Lab"
+    },
+    {
+      "type": "list",
+      "items": [
+        "EEL — Laboratoř života v extrémních prostředích: stresová fyziologie autotrofů, kultivace, reakce na oteplování a ozonovou díru",
+        "CCM — Česká sbírka mikroorganismů: ≈ 10 000 kmenů antarktických izolátů, CAMB biobanka"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Polar-Geo-Lab",
+      "url": "https://carp.sci.muni.cz/infrastructure/#polar-geo-lab",
+      "source": "CARP"
+    },
+    {
+      "kind": "link",
+      "title": "CARP — Polar-Bio-Lab / EEL",
+      "url": "https://carp.sci.muni.cz/infrastructure/#polar-bio-lab",
+      "source": "CARP"
+    },
+    {
+      "kind": "link",
+      "title": "Česká sbírka mikroorganismů",
+      "url": "https://www.sci.muni.cz/ccm",
+      "source": "MUNI"
+    }
+  ]
+}

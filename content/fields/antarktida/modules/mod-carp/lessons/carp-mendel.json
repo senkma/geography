@@ -1,0 +1,40 @@
+{
+  "id": "carp-mendel",
+  "title": "Stanice Johanna Gregora Mendela",
+  "summary": "Hlavní česká antarktická stanice na poloostrově Ulu — technické vybavení a provoz.",
+  "minutes": 18,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Česká vědecká stanice J. G. Mendela leží v severní části ostrova Jamese Rosse (poloostrov Ulu) u Antarktického poloostrova. Provozuje ji CARP od výstavby v letech 2004–2006."
+    },
+    {
+      "type": "list",
+      "label": "Provoz a koncepce",
+      "items": [
+        "Sezónní provoz: typicky leden – polovina března (australské léto)",
+        "Obnovitelné zdroje: vítr a sluneční záření",
+        "Kapacita posádky až 16 osob; suché a mokré laboratoře",
+        "Zodiac čluny, terénní vozidla, technické dílny"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Stanice je zaměřena na výzkum nezamrzajících suchozemských ekosystémů a geosystémů — unikátní přírodní laboratoř v měnícím se polárním prostředí."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Infrastruktura Mendel",
+      "url": "https://carp.sci.muni.cz/infrastructure/#mendel",
+      "source": "CARP"
+    },
+    {
+      "kind": "video",
+      "title": "Virtuální prohlídka stanice Mendel",
+      "url": "https://www.youtube.com/watch?v=9HVsoko9Y0M",
+      "source": "CARP"
+    }
+  ]
+}

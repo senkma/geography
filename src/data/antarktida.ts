@@ -1,6 +1,6 @@
 import type { Field } from "../types";
 
-/** Generováno z scripts/antarktida_modules.json — CARP, BAS, SCAR, NASA. */
+/** Sestaveno z content/fields/antarktida/. */
 export const antarktida: Field = {
   id: "antarktida",
   title: "Antarktida",

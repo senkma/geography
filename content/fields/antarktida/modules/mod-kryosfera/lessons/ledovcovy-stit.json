@@ -1,0 +1,44 @@
+{
+  "id": "ledovcovy-stit",
+  "title": "Ledovcový štít a kryosféra",
+  "summary": "Největší zásobárna ledu — akumulace, tok, ablace a vztah k hladině oceánu.",
+  "minutes": 22,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Antarktický ledovcový štít vzniká akumulací sněhu přeměněného na led, který odtéká od center k pobřeží. Rozlišujeme Východoantarktický (EAIS) a Západoantarktický (WAIS) štít."
+    },
+    {
+      "type": "list",
+      "label": "Porovnání štítů",
+      "items": [
+        "EAIS: větší objem, podloží převážně nad hladinou moře, stabilnější",
+        "WAIS: část pod hladinou moře, citlivější na oteplování, potenciál ≈ 3–5 m hladiny",
+        "Celý antarktický led: potenciální vzestup hladiny ≈ 58 m"
+      ]
+    },
+    {
+      "type": "list",
+      "label": "Bilance hmoty",
+      "items": [
+        "Akumulace — sněžení ve vnitrozemí",
+        "Ablace — převážně odlamování ledovců a tání spodní strany šelfů",
+        "Ledové proudy (Thwaites, Pine Island) vykazují zrychlené ztenčování"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "NASA — Vital Signs of the Planet: Ice Sheets",
+      "url": "https://climate.nasa.gov/vital-signs/ice-sheets/",
+      "source": "NASA"
+    },
+    {
+      "kind": "dataset",
+      "title": "World Glacier Monitoring Service",
+      "url": "https://wgms.ch/",
+      "source": "WGMS"
+    }
+  ]
+}

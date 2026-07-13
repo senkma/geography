@@ -1,0 +1,35 @@
+{
+  "id": "geo-databaze",
+  "title": "Geovědní databáze CARP",
+  "summary": "Mezinárodní úložiště dat z permafrostu, aktivní vrstvy a kryosféry.",
+  "minutes": 10,
+  "blocks": [
+    {
+      "type": "list",
+      "items": [
+        "Global Terrestrial Network — Permafrost (GTN-P)",
+        "Circumpolar Active Layer Monitoring (CALM)",
+        "Permafrost databáze",
+        "SCAR Antarctic Digital Database (ADD)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Data jsou sdílena s mezinárodní komunitou; kontakt na vedoucí sekcí nebo šéfa programu CARP."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Databáze (geovědy)",
+      "url": "https://carp.sci.muni.cz/vyzkum/#databases",
+      "source": "CARP"
+    },
+    {
+      "kind": "dataset",
+      "title": "CALM",
+      "url": "https://www2.geo.su.se/calm/",
+      "source": "CALM"
+    }
+  ]
+}

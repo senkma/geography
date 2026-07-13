@@ -1,0 +1,25 @@
+{
+  "id": "bio-extremofily",
+  "title": "Extrémní organismy a biodiverzita",
+  "summary": "Macrochloris, Solorina spongiosa a odolnost vůči stresu.",
+  "minutes": 13,
+  "blocks": [
+    {
+      "type": "list",
+      "items": [
+        "První popis Macrochloris rubrioleum pro James Ross Island",
+        "Monitorování vzácného lišejníku Solorina spongiosa",
+        "Studované taxony: Nostoc commune, Sanionia uncinata, Usnea antarctica aj.",
+        "Kryorezistence, desikace a radiační biologie v laboratoři EEL"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — EEL laboratoř",
+      "url": "https://carp.sci.muni.cz/infrastructure/#eel",
+      "source": "CARP"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "geo-uvod",
+  "title": "Geovědy v antarktické oáze",
+  "summary": "James Ross Archipelago jako přírodní laboratoř a sentinel site globálních změn.",
+  "minutes": 14,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Geovědní skupina CARP studuje interakce zemského povrchu a litosféry s atmosférou, kryosférou, hydrosférou a biosférou v jedné z největších deglaciovaných oáz Antarktidy."
+    },
+    {
+      "type": "list",
+      "label": "Metody",
+      "items": [
+        "Vysoké rozlišení dálkového průzkumu (UAV/drony)",
+        "Celoroční mikroklimatické senzory",
+        "Laboratorní analýzy geologických vzorků a jezerních sedimentů"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Terénní práce na James Ross Archipelago; mezinárodní spolupráce (IAA, INACH, BAS) rozšiřuje záběr na celý poloostrov."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Geovědní obory",
+      "url": "https://carp.sci.muni.cz/vyzkum/#geo",
+      "source": "CARP"
+    }
+  ]
+}

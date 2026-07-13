@@ -1,0 +1,13 @@
+{
+  "id": "mod-paleoklima",
+  "title": "Paleoklimatologie",
+  "description": "Ledovcová jádra, proxy záznamy a rekonstrukce klimatu z antarktického ledu.",
+  "section": "veda",
+  "tags": [
+    "Antarktida",
+    "paleoklimatologie"
+  ],
+  "lessonOrder": [
+    "paleoklimatologie-jadra"
+  ]
+}

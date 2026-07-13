@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "kind": "link",
+      "title": "Antarctic Digital Database",
+      "url": "https://www.add.scar.org/",
+      "source": "SCAR"
+    },
+    {
+      "kind": "link",
+      "title": "CARP — Geologie",
+      "url": "https://carp.sci.muni.cz/vyzkum/",
+      "source": "CARP"
+    }
+  ]
+}

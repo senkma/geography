@@ -1,0 +1,13 @@
+{
+  "id": "mod-hydrologie",
+  "title": "Hydrologie",
+  "description": "Subglaciální jezera, odtoky a vodní bilance antarktického ledového štítu.",
+  "section": "veda",
+  "tags": [
+    "Antarktida",
+    "hydrologie"
+  ],
+  "lessonOrder": [
+    "hydrologie-subglacialni-jezera"
+  ]
+}

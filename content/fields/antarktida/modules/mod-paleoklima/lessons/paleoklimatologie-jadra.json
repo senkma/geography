@@ -1,0 +1,30 @@
+{
+  "id": "paleoklimatologie-jadra",
+  "title": "Paleoklimatologie a ledovcová jádra",
+  "summary": "Led jako archiv klimatu — izotopy, bublinky a Milankovičovy cykly.",
+  "minutes": 20,
+  "blocks": [
+    {
+      "type": "list",
+      "label": "Co led uchovává",
+      "items": [
+        "Vzduchové bublinky — dávná atmosféra včetně CO₂",
+        "Izotopy δ¹⁸O, δD — teplotní proxy",
+        "Prachové a sopečné vrstvy — datace a suchost"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Vostok a EPICA",
+      "text": "Vostok ≈ 420 000 let; EPICA Dome C ≈ 800 000 let. Dnešní CO₂ převyšuje maxima celého záznamu."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "BAS — Ice cores",
+      "url": "https://www.bas.ac.uk/project/ice-cores/",
+      "source": "BAS"
+    }
+  ]
+}

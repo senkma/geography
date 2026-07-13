@@ -1,0 +1,35 @@
+{
+  "id": "carp-nelson",
+  "title": "CZ*ECO Nelson",
+  "summary": "Technicko-logistické útočiště na Nelsonově ostrově — historie Eco-Nelson a současný výzkum.",
+  "minutes": 14,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Terénní tábor CZ*ECO Nelson na Jižních Shetlandách založil Jaroslav Pavlíček v sezóně 1988–89 jako „Eco-Nelson“ — jediná soukromá výzkumná stanice v Antarktidě."
+    },
+    {
+      "type": "list",
+      "items": [
+        "2017: odkoupení Českou antarktickou nadací, pronájem CARP na 99 let",
+        "Rekonstrukce od sezóny 2018–19",
+        "Nezamrzlá oáza ≈ 4 km²; teplejší oceánské klima než James Ross",
+        "Výzkum: klimatologie, ornitologie, fyziologie rostlin"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — CZ*ECO Nelson",
+      "url": "https://carp.sci.muni.cz/infrastructure/#nelson",
+      "source": "CARP"
+    },
+    {
+      "kind": "link",
+      "title": "Česká antarktická nadace",
+      "url": "https://www.antarcticfoundation.cz/",
+      "source": "CAF"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jizni-ocean-acc",
+  "title": "Jižní oceán a ACC",
+  "summary": "Antarktický cirkumpolární proud a tepelná izolace kontinentu.",
+  "minutes": 20,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Antarktický cirkumpolární proud (ACC) je objemově největší mořský proud (≈ 130–150 Sv), poháněný západními větry kolem celé Země."
+    },
+    {
+      "type": "callout",
+      "label": "Tektonika a klima",
+      "text": "Otevření Drakeova průlivu umožnilo ACC a ochlazení Antarktidy — učebnicový vliv uspořádání kontinentů na klima."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Antarktická konvergence — studená voda klesá pod teplejší subantarktickou",
+        "Upwelling bohatý na živiny a uhlík",
+        "AABW uzavírá spodní větev termohalinní cirkulace"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "SCAR — Southern Ocean",
+      "url": "https://scar.org/science/southern-ocean/",
+      "source": "SCAR"
+    }
+  ]
+}

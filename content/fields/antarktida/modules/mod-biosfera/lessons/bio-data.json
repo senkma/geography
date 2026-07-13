@@ -1,0 +1,36 @@
+{
+  "id": "bio-data",
+  "title": "Biodata a univerzitní kurzy",
+  "summary": "Otevřená data z LTRP a připravované kurzy MUNI.",
+  "minutes": 10,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CARP zpřístupňuje data z dlouhodobých měření aktivní vrstvy a mezilehlých jezer (soubory AL-2016-2019, IL-2016-2019). Sekce univerzitních kurzů je ve výstavbě."
+    },
+    {
+      "type": "list",
+      "label": "Mikrobiologické databáze",
+      "items": [
+        "Czech Antarctic Microbial Biobank (CAMB)",
+        "NCBI GenBank",
+        "MycoBank",
+        "BacDive"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Databáze",
+      "url": "https://carp.sci.muni.cz/vyzkum/#databases",
+      "source": "CARP"
+    },
+    {
+      "kind": "link",
+      "title": "CARP — University Courses",
+      "url": "https://carp.sci.muni.cz/research/#courses",
+      "source": "CARP"
+    }
+  ]
+}

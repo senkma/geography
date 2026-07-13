@@ -1,0 +1,40 @@
+{
+  "id": "mezinarodni-naroky",
+  "title": "Územní nároky a status kontinentu",
+  "summary": "Sedm států s formálními nároky, dělení sektorů a princip „neosídlení“.",
+  "minutes": 14,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Antarktická smlouva neřeší nároky definitivně — pouze je zmrazuje. Sedm států (Argentina, Austrálie, Chile, Francie, Nový Zéland, Norsko, Velká Británie) uplatňuje částečně překrývající se sektorová tvrzení."
+    },
+    {
+      "type": "list",
+      "label": "Zásady smlouvy",
+      "items": [
+        "Kontinent není pod suverenitou žádného státu",
+        "Zákaz vojenských aktivit a jaderných zkoušek",
+        "Svoboda vědeckého výzkumu a inspekce",
+        "Konzultativní členství pro státy provádějící podstatný výzkum"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Česká republika je konzultativním členem díky programu CARP — účastní se rozhodování o budoucnosti kontinentu."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "ATS — Parties",
+      "url": "https://www.ats.aq/devAS/Info/Parties",
+      "source": "ATS"
+    },
+    {
+      "kind": "link",
+      "title": "CARP — O nás",
+      "url": "https://carp.sci.muni.cz/o-nas/",
+      "source": "CARP"
+    }
+  ]
+}

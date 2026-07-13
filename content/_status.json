@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-07-13T13:44:46.046Z",
+  "fields": {
+    "geografie-kartografie": {
+      "courses": 45,
+      "lessonsTotal": 403,
+      "lessonsCustom": 0,
+      "quizzes": 0
+    },
+    "fyzicka-geografie": {
+      "courses": 53,
+      "lessonsTotal": 341,
+      "lessonsCustom": 0,
+      "quizzes": 0
+    },
+    "antarktida": {
+      "courses": 11,
+      "modules": 11,
+      "lessonsTotal": 43,
+      "lessonsCustom": 43,
+      "quizzes": 0
+    }
+  }
+}

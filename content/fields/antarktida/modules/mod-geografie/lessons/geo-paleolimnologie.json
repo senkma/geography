@@ -1,0 +1,26 @@
+{
+  "id": "geo-paleolimnologie",
+  "title": "Paleolimnologie a antarktická jezera",
+  "summary": "Sedimenty jezer jako archiv klimatu a vývoje ekosystémů.",
+  "minutes": 15,
+  "blocks": [
+    {
+      "type": "list",
+      "label": "Kvartérní paleoprostředí",
+      "items": [
+        "Chronologie odledňování z forem reliéfu a sedimentů",
+        "Jezerní záznamy klimatu a prostředí; diatomové, archeální a bakteriální společenstva",
+        "Fyzikální limnologie — hydrologický vývoj a hydrochemie jezer",
+        "Porovnání s ledovcovými jádry z čapky ostrova Jamese Rosse"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — Geo-Sciences (EN)",
+      "url": "https://carp.sci.muni.cz/research/#geo",
+      "source": "CARP"
+    }
+  ]
+}

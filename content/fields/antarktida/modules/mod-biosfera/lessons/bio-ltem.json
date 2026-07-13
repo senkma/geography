@@ -1,0 +1,39 @@
+{
+  "id": "bio-ltem",
+  "title": "LTEM — dlouhodobý monitoring prostředí",
+  "summary": "Sledování mikrobiálních společenstev na poloostrově Ulu ve spolupráci s UK a MCMLTER.",
+  "minutes": 14,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Long-Term Environmental Monitoring (LTEM) sleduje změny abundance, struktury a diverzity mikrobiálních společenstev z reprezentativních stanovišť poloostrova Ulu a propojuje je s abiotickými parametry."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Spolupráce CARP (MUNI) a Přírodovědecké fakulty UK",
+        "Vazby na MCMLTER, Instituto Antártico Argentino a další",
+        "Podskupiny: Diversity in Cryospheric Ecosystems, Extreme Aquatic Ecology",
+        "Data v otevřených repozitářích; fyzické vzorky archivovány"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cílem je identifikovat environmentální prahy a předpovídat budoucnost antarktické mikrobiální diverzity v oteplujícím se světě."
+    }
+  ],
+  "resources": [
+    {
+      "kind": "link",
+      "title": "CARP — LTEM",
+      "url": "https://carp.sci.muni.cz/research/#LTEM",
+      "source": "CARP"
+    },
+    {
+      "kind": "link",
+      "title": "McMurdo LTER",
+      "url": "https://mcm.lternet.edu/",
+      "source": "NSF LTER"
+    }
+  ]
+}
