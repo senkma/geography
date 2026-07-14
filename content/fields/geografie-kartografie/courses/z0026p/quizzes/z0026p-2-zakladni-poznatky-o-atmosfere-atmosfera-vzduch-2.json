@@ -1,0 +1,116 @@
+{
+  "lessonId": "z0026p-2-zakladni-poznatky-o-atmosfere-atmosfera-vzduch-2",
+  "title": "Kvíz: Atmosféra a sluneční záření",
+  "questions": [
+    {
+      "question": "Které záření je téměř úplně pohlceno plyny v atmosféře a je škodlivé pro organismy?",
+      "options": [
+        {
+          "text": "Ultrafialové (0,2–0,4 µm)",
+          "correct": true
+        },
+        {
+          "text": "Viditelné (0,4–0,7 µm)",
+          "correct": false
+        },
+        {
+          "text": "Tepelné infračervené > 3 µm",
+          "correct": false
+        },
+        {
+          "text": "Rádiové vlny",
+          "correct": false
+        }
+      ],
+      "explanation": "UV záření je filtrováno především v horních vrstvách atmosféry."
+    },
+    {
+      "question": "Přibližně jak dlouho trvá cesta slunečního světla k Zemi?",
+      "options": [
+        {
+          "text": "8⅓ minuty",
+          "correct": true
+        },
+        {
+          "text": "1 sekunda",
+          "correct": false
+        },
+        {
+          "text": "1 hodina",
+          "correct": false
+        },
+        {
+          "text": "24 hodin",
+          "correct": false
+        }
+      ],
+      "explanation": "Elektromagnetické záření cestuje rychlostí ~300 000 km·s⁻¹."
+    },
+    {
+      "question": "Jaký podíl intenzity slunečního záření připadá na viditelné světlo?",
+      "options": [
+        {
+          "text": "Přibližně 41 %",
+          "correct": true
+        },
+        {
+          "text": "9 %",
+          "correct": false
+        },
+        {
+          "text": "70 %",
+          "correct": false
+        },
+        {
+          "text": "95 %",
+          "correct": false
+        }
+      ],
+      "explanation": "Maximální intenzita je ve viditelné části spektra; UV tvoří ~9 %."
+    },
+    {
+      "question": "Dlouhovlnné záření Země má maxima při vlnových délkách přibližně…",
+      "options": [
+        {
+          "text": "5, 10 a 20 µm",
+          "correct": true
+        },
+        {
+          "text": "0,4, 0,5 a 0,6 µm",
+          "correct": false
+        },
+        {
+          "text": "1, 2 a 3 µm",
+          "correct": false
+        },
+        {
+          "text": "100, 200 a 300 µm",
+          "correct": false
+        }
+      ],
+      "explanation": "Mezilehlé vlnové délky jsou silně pohlcovány vodní parou a CO₂."
+    },
+    {
+      "question": "Atmosféra v geografickém pojetí zahrnuje plynný obal Země…",
+      "options": [
+        {
+          "text": "po ozonovou vrstvu",
+          "correct": true
+        },
+        {
+          "text": "až po Měsíc",
+          "correct": false
+        },
+        {
+          "text": "pouze do 1 km výšky",
+          "correct": false
+        },
+        {
+          "text": "výhradně troposféru",
+          "correct": false
+        }
+      ],
+      "explanation": "Meteorologie a klimatologie studují dění v atmosféře."
+    }
+  ]
+}

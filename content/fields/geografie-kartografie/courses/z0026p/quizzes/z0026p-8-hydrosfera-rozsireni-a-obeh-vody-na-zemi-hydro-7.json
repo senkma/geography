@@ -1,0 +1,116 @@
+{
+  "lessonId": "z0026p-8-hydrosfera-rozsireni-a-obeh-vody-na-zemi-hydro-7",
+  "title": "Kvíz: Hydrosféra a oběh vody",
+  "questions": [
+    {
+      "question": "Co je infiltrace?",
+      "options": [
+        {
+          "text": "Pronikání srážkové vody do půdy a hornin gravitací",
+          "correct": true
+        },
+        {
+          "text": "Výpar z listů rostlin",
+          "correct": false
+        },
+        {
+          "text": "Proudění vody v řece",
+          "correct": false
+        },
+        {
+          "text": "Tání ledovce",
+          "correct": false
+        }
+      ],
+      "explanation": "Infiltrační kapacita určuje, kolik vody půda pojme."
+    },
+    {
+      "question": "Podzemní voda se nachází především v…",
+      "options": [
+        {
+          "text": "zóně saturace",
+          "correct": true
+        },
+        {
+          "text": "pásmu provzdušnění nad hladinou",
+          "correct": false
+        },
+        {
+          "text": "atmosféře",
+          "correct": false
+        },
+        {
+          "text": "kryosféře výhradně",
+          "correct": false
+        }
+      ],
+      "explanation": "Nad hladinou je pásmo provzdušnění s kapilární vodou."
+    },
+    {
+      "question": "Kdy vzniká plošný (povrchový) odtok?",
+      "options": [
+        {
+          "text": "Když intenzita srážky překročí infiltrační kapacitu nebo je půda nasycená",
+          "correct": true
+        },
+        {
+          "text": "Vždy při každém dešti bez výjimky",
+          "correct": false
+        },
+        {
+          "text": "Pouze při tání sněhu v horách",
+          "correct": false
+        },
+        {
+          "text": "Jen v propustných píscích",
+          "correct": false
+        }
+      ],
+      "explanation": "Přebytečná voda teče po povrchu do rýh a toků."
+    },
+    {
+      "question": "Hydrologie studuje…",
+      "options": [
+        {
+          "text": "systém povrchových a podpovrchových vod na Zemi",
+          "correct": true
+        },
+        {
+          "text": "pouze oceány",
+          "correct": false
+        },
+        {
+          "text": "jen chemické složení atmosféry",
+          "correct": false
+        },
+        {
+          "text": "výhradně ledovce",
+          "correct": false
+        }
+      ],
+      "explanation": "Hydrologický cyklus propojuje výpar, srážky a odtok."
+    },
+    {
+      "question": "Hladina podzemní vody je typicky nejvyšší…",
+      "options": [
+        {
+          "text": "pod rozvodími a vrcholy kopců",
+          "correct": true
+        },
+        {
+          "text": "v ústí řeky",
+          "correct": false
+        },
+        {
+          "text": "na dně jezera",
+          "correct": false
+        },
+        {
+          "text": "v pouštní kotlině",
+          "correct": false
+        }
+      ],
+      "explanation": "V údolích klesá k úrovni toků a jezer (prosakování)."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-3-3-tektonicke-procesy-19",
+  "title": "Kvíz: Tektonické procesy",
+  "questions": [
+    {
+      "question": "Zlom je definován jako…",
+      "options": [
+        {
+          "text": "puklina v hornině s pozorovatelným pohybem podél ní",
+          "correct": true
+        },
+        {
+          "text": "pouze vrstevní plocha",
+          "correct": false
+        },
+        {
+          "text": "náraz větru na svah",
+          "correct": false
+        },
+        {
+          "text": "erozní rýha po dešti",
+          "correct": false
+        }
+      ],
+      "explanation": "Tektonické zlomy vznikají napětím v zemské kůře."
+    },
+    {
+      "question": "Allochton je horninové těleso…",
+      "options": [
+        {
+          "text": "přemístěné na autochton vzdáleněji než 5 km",
+          "correct": true
+        },
+        {
+          "text": "na místě vzniku bez pohybu",
+          "correct": false
+        },
+        {
+          "text": "pouze v atmosféře",
+          "correct": false
+        },
+        {
+          "text": "vždy mladší než okolí",
+          "correct": false
+        }
+      ],
+      "explanation": "Tektonické přesuny mohou přenášet velké masivy hornin."
+    },
+    {
+      "question": "Morfostruktura znamená…",
+      "options": [
+        {
+          "text": "shodu geologických struktur s tvary reliéfu",
+          "correct": true
+        },
+        {
+          "text": "vždy nesoulad struktury a reliéfu",
+          "correct": false
+        },
+        {
+          "text": "pouze fluviální erozi",
+          "correct": false
+        },
+        {
+          "text": "absenci tektoniky",
+          "correct": false
+        }
+      ],
+      "explanation": "Morfologická anomálie = nesoulad struktury a povrchu."
+    },
+    {
+      "question": "Tektonika studuje především…",
+      "options": [
+        {
+          "text": "endogenní procesy a deformace zemské kůry",
+          "correct": true
+        },
+        {
+          "text": "pouze zvětrávání na povrchu",
+          "correct": false
+        },
+        {
+          "text": "jen oběh vody",
+          "correct": false
+        },
+        {
+          "text": "výhradně klima",
+          "correct": false
+        }
+      ],
+      "explanation": "Endogenní síly vytvářejí zlomy, vrásnění a reliéf."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-3-8-eolicke-procesy-24",
+  "title": "Kvíz: Eolické procesy",
+  "questions": [
+    {
+      "question": "Eolické tvary reliéfu vznikají primárně v…",
+      "options": [
+        {
+          "text": "aridních a semiaridních oblastech s volným sedimentem",
+          "correct": true
+        },
+        {
+          "text": "tropickém deštném lese",
+          "correct": false
+        },
+        {
+          "text": "pod ledovcem",
+          "correct": false
+        },
+        {
+          "text": "výhradně na dně oceánu",
+          "correct": false
+        }
+      ],
+      "explanation": "Potřebný je dostupný prach nebo písek a účinný vítr."
+    },
+    {
+      "question": "Který typ eolického transportu zahrnuje „poskakování“ zrn větrem?",
+      "options": [
+        {
+          "text": "Saltace",
+          "correct": true
+        },
+        {
+          "text": "Suspenze",
+          "correct": false
+        },
+        {
+          "text": "Rolování bez odskoku",
+          "correct": false
+        },
+        {
+          "text": "Pouze fluviální transport",
+          "correct": false
+        }
+      ],
+      "explanation": "Saltace = zrna se zvedají a dopadají; suspenze = jemný prach ve vzduchu."
+    },
+    {
+      "question": "Větrem se obvykle efektivně transportují zrna do velikosti…",
+      "options": [
+        {
+          "text": "písku",
+          "correct": true
+        },
+        {
+          "text": "balvanů",
+          "correct": false
+        },
+        {
+          "text": "pouze jílu ve vodě",
+          "correct": false
+        },
+        {
+          "text": "celých kamenů",
+          "correct": false
+        }
+      ],
+      "explanation": "Nižší hustota vzduchu omezuje transportní kapacitu větru."
+    },
+    {
+      "question": "Eolická akumulace často probíhá…",
+      "options": [
+        {
+          "text": "kolem překážek s vytříděním materiálu",
+          "correct": true
+        },
+        {
+          "text": "pouze v řečištích",
+          "correct": false
+        },
+        {
+          "text": "výhradně pod vodou",
+          "correct": false
+        },
+        {
+          "text": "bez pohybu částic",
+          "correct": false
+        }
+      ],
+      "explanation": "Vítr ukládá písek do dun a návějů."
+    }
+  ]
+}

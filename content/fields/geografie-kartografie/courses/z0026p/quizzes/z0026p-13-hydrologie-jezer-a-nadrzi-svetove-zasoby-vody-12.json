@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-13-hydrologie-jezer-a-nadrzi-svetove-zasoby-vody-12",
+  "title": "Kvíz: Jezera a zásoby vody",
+  "questions": [
+    {
+      "question": "Povrchová sladká voda (jezera, toky) tvoří přibližně…",
+      "options": [
+        {
+          "text": "0,02 % celkových zásob sladké vody",
+          "correct": true
+        },
+        {
+          "text": "50 % sladké vody",
+          "correct": false
+        },
+        {
+          "text": "10 % všech vod na Zemi",
+          "correct": false
+        },
+        {
+          "text": "většinu hydrosféry",
+          "correct": false
+        }
+      ],
+      "explanation": "Největší zásoby sladké vody jsou v ledovcích a podzemních vodách."
+    },
+    {
+      "question": "Na pevnině v globální bilanci platí: srážky = …",
+      "options": [
+        {
+          "text": "výpar + odtok",
+          "correct": true
+        },
+        {
+          "text": "pouze výpar",
+          "correct": false
+        },
+        {
+          "text": "pouze infiltrace",
+          "correct": false
+        },
+        {
+          "text": "odtok + srážky",
+          "correct": false
+        }
+      ],
+      "explanation": "Část vody se vsakuje, část odtéká, část se vrací do atmosféry."
+    },
+    {
+      "question": "Hladina podzemní vody v údolí často odpovídá…",
+      "options": [
+        {
+          "text": "hladině řeky nebo jezera",
+          "correct": true
+        },
+        {
+          "text": "vrcholu hory",
+          "correct": false
+        },
+        {
+          "text": "hladině moře vždy přímo",
+          "correct": false
+        },
+        {
+          "text": "pouze srážkám v daný den",
+          "correct": false
+        }
+      ],
+      "explanation": "Voda prosakuje z údolí do toků a nádrží."
+    },
+    {
+      "question": "Bezodtoká jezera vznikají v…",
+      "options": [
+        {
+          "text": "uzavřených povodích bez odtoku do moře",
+          "correct": true
+        },
+        {
+          "text": "všech říčních ústích",
+          "correct": false
+        },
+        {
+          "text": "pouze v oceánu",
+          "correct": false
+        },
+        {
+          "text": "výhradně pod ledovcem",
+          "correct": false
+        }
+      ],
+      "explanation": "Voda odtéká jen výparem nebo infiltrací."
+    }
+  ]
+}

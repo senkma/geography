@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-12-hydrologie-podpovrchovych-vod-zdroje-vzniku-p-11",
+  "title": "Kvíz: Podpovrchové vody",
+  "questions": [
+    {
+      "question": "Půdní voda (soil water belt) je…",
+      "options": [
+        {
+          "text": "voda v půdním pokryvu mezi povrchem a zónou saturace",
+          "correct": true
+        },
+        {
+          "text": "voda pouze v řece",
+          "correct": false
+        },
+        {
+          "text": "voda v atmosféře",
+          "correct": false
+        },
+        {
+          "text": "voda v ledovci",
+          "correct": false
+        }
+      ],
+      "explanation": "Může se vracet výparem nebo prosakovat hlouběji."
+    },
+    {
+      "question": "Nepropustná vrstva typicky obsahuje…",
+      "options": [
+        {
+          "text": "jíly nebo břidlice s málo volné vody",
+          "correct": true
+        },
+        {
+          "text": "čistý štěrk",
+          "correct": false
+        },
+        {
+          "text": "propustný písek",
+          "correct": false
+        },
+        {
+          "text": "porézní vápenec bez jílů",
+          "correct": false
+        }
+      ],
+      "explanation": "Brání sestupu vody a vytváří podmínky pro artéské soustavy."
+    },
+    {
+      "question": "Čočkovité břidlice mohou vytvořit…",
+      "options": [
+        {
+          "text": "zavěšené vodní těleso",
+          "correct": true
+        },
+        {
+          "text": "vždy artéský vrt",
+          "correct": false
+        },
+        {
+          "text": "pouze povrchový odtok",
+          "correct": false
+        },
+        {
+          "text": "kritickou zónu",
+          "correct": false
+        }
+      ],
+      "explanation": "Geologická struktura určuje uložení podzemní vody."
+    },
+    {
+      "question": "Hlavní zdroj podzemní vody na pevnině je…",
+      "options": [
+        {
+          "text": "infiltrace srážkové vody",
+          "correct": true
+        },
+        {
+          "text": "výhradně tání ledovců",
+          "correct": false
+        },
+        {
+          "text": "kondenzace v jeskyních",
+          "correct": false
+        },
+        {
+          "text": "proudění z oceánu pod kontinentem",
+          "correct": false
+        }
+      ],
+      "explanation": "Srážky doplňují zásoby v zóně saturace."
+    }
+  ]
+}

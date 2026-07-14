@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-5-zaklady-predpovedi-pocasi-zdroje-dat-pro-predp-5",
+  "title": "Kvíz: Předpověď počasí a vzduchové hmoty",
+  "questions": [
+    {
+      "question": "Co je vzduchová hmota?",
+      "options": [
+        {
+          "text": "Velký objem vzduchu s jednotnými vlastnostmi teploty a vlhkosti",
+          "correct": true
+        },
+        {
+          "text": "Pouze vrstva inverze v údolí",
+          "correct": false
+        },
+        {
+          "text": "Jedna cumulonimbusová bouřka",
+          "correct": false
+        },
+        {
+          "text": "Vzduch v bezprostřední blízkosti fronty",
+          "correct": false
+        }
+      ],
+      "explanation": "Vzduchové hmoty se klasifikují podle původu a povrchu (např. mT, cP)."
+    },
+    {
+      "question": "Co charakterizuje studenou frontu?",
+      "options": [
+        {
+          "text": "Klín studeného vzduchu pod teplý → cumulonimby a přeháňky",
+          "correct": true
+        },
+        {
+          "text": "Pomalé zatažení a dlouhé deště",
+          "correct": false
+        },
+        {
+          "text": "Pouze jasno a vysoký tlak",
+          "correct": false
+        },
+        {
+          "text": "Absence srážek",
+          "correct": false
+        }
+      ],
+      "explanation": "Studený vzduch podjíždí pod teplý a rychle ho vytlačuje vzhůru."
+    },
+    {
+      "question": "Jaký je rozdíl mezi počasím a povětrností?",
+      "options": [
+        {
+          "text": "Počasí = okamžitý stav; povětrnost = charakter počasí během několika dnů",
+          "correct": true
+        },
+        {
+          "text": "Počasí = dlouhodobý průměr; povětrnost = okamžitý stav",
+          "correct": false
+        },
+        {
+          "text": "Synonyma bez rozdílu",
+          "correct": false
+        },
+        {
+          "text": "Povětrnost se měří jen v létě",
+          "correct": false
+        }
+      ],
+      "explanation": "Klima je ještě delší časová úroveň než povětrnost."
+    },
+    {
+      "question": "Tropická vzduchová hmota se označuje písmenem…",
+      "options": [
+        {
+          "text": "T",
+          "correct": true
+        },
+        {
+          "text": "P",
+          "correct": false
+        },
+        {
+          "text": "A",
+          "correct": false
+        },
+        {
+          "text": "c",
+          "correct": false
+        }
+      ],
+      "explanation": "P = polární, A = arktická, m/c = mořská/kontinentální."
+    }
+  ]
+}

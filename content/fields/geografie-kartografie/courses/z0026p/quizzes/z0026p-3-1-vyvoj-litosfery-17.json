@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-3-1-vyvoj-litosfery-17",
+  "title": "Kvíz: Vývoj litosféry",
+  "questions": [
+    {
+      "question": "Průměrná mocnost zemské kůry na rovníku je oproti pólu…",
+      "options": [
+        {
+          "text": "asi o 43 km větší",
+          "correct": true
+        },
+        {
+          "text": "stejná",
+          "correct": false
+        },
+        {
+          "text": "o 43 km menší",
+          "correct": false
+        },
+        {
+          "text": "o 430 km větší",
+          "correct": false
+        }
+      ],
+      "explanation": "Souvisí s rotací Země a rozlišením mezi kontinentální a oceánskou kůrou."
+    },
+    {
+      "question": "Gutenbergova diskontinuita odděluje…",
+      "options": [
+        {
+          "text": "plášť a jádro",
+          "correct": true
+        },
+        {
+          "text": "kůru a plášť",
+          "correct": false
+        },
+        {
+          "text": "litosféru a atmosféru",
+          "correct": false
+        },
+        {
+          "text": "hydrosféru a biosféru",
+          "correct": false
+        }
+      ],
+      "explanation": "Jde o významnou seismickou hranici v hloubce ~2900 km."
+    },
+    {
+      "question": "Geoid vzniká, protože Země dosáhla stavu…",
+      "options": [
+        {
+          "text": "hydrostatické rovnováhy",
+          "correct": true
+        },
+        {
+          "text": "chemické rovnováhy",
+          "correct": false
+        },
+        {
+          "text": "radioaktivní rovnováhy",
+          "correct": false
+        },
+        {
+          "text": "tektonické rovnováhy",
+          "correct": false
+        }
+      ],
+      "explanation": "Hladina moří kopíruje ekvipotenciální povrch gravitace."
+    },
+    {
+      "question": "Které minerály jsou typické pro hlubší části pláště?",
+      "options": [
+        {
+          "text": "Olivín, pyroxen, granát, spinel",
+          "correct": true
+        },
+        {
+          "text": "Křemen, živec, mika",
+          "correct": false
+        },
+        {
+          "text": "Halit a sádrovec",
+          "correct": false
+        },
+        {
+          "text": "Pouze uhlí a vápenec",
+          "correct": false
+        }
+      ],
+      "explanation": "Složení se mění s hloubkou a tlakem."
+    }
+  ]
+}

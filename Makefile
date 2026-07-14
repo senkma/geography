@@ -67,6 +67,10 @@ process-inbox-fg: ## Zpracuje inbox/Fyzická geografie → lekce + materiály
 	node scripts/process-inbox-fyzicka-geografie.mjs
 	$(MAKE) gen-data
 
+gen-quizzes-fg: ## Vygeneruje kvízy pro Z0026p (Fyzická geografie)
+	node scripts/generate-z0026p-quizzes.mjs
+	$(MAKE) gen-data
+
 reformat-lessons: ## Přeformátuje bloky lekcí (čitelnější výtahy)
 	node scripts/reformat-lesson-blocks.mjs
 	$(MAKE) gen-data

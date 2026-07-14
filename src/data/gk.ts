@@ -749,7 +749,122 @@ export const gk: Field = {
               "source": "Okruhy ke zkoušce",
               "note": "Sdílený materiál pro více okruhů"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Úvod do fyzické geografie",
+            "questions": [
+              {
+                "question": "Co je hlavním objektem studia fyzické geografie?",
+                "options": [
+                  {
+                    "text": "Fyzickogeografická sféra Země",
+                    "correct": true
+                  },
+                  {
+                    "text": "Socioekonomická sféra Země",
+                    "correct": false
+                  },
+                  {
+                    "text": "Pouze litosféra a georeliéf",
+                    "correct": false
+                  },
+                  {
+                    "text": "Krajinná sféra včetně lidské kultury",
+                    "correct": false
+                  }
+                ],
+                "explanation": "FG studuje přírodní geosféry a procesy v nich; krajinná sféra vzniká až spojením s lidskou činností."
+              },
+              {
+                "question": "Která geosféra je definována teplotou pod bodem mrazu po více než 2 roky?",
+                "options": [
+                  {
+                    "text": "Kryosféra",
+                    "correct": true
+                  },
+                  {
+                    "text": "Pedosféra",
+                    "correct": false
+                  },
+                  {
+                    "text": "Hydrosféra",
+                    "correct": false
+                  },
+                  {
+                    "text": "Biosféra",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Kryosféra zahrnuje část kůry a hydrosféry trvale zamrzlé nebo s dlouhodobě zápornou teplotou."
+              },
+              {
+                "question": "Podle Stefan-Boltzmannova zákona platí, že teplejší tělesa…",
+                "options": [
+                  {
+                    "text": "vyzařují výrazně více energie než chladnější",
+                    "correct": true
+                  },
+                  {
+                    "text": "vyzařují jen kratší vlnové délky",
+                    "correct": false
+                  },
+                  {
+                    "text": "mají vždy nižší albedo",
+                    "correct": false
+                  },
+                  {
+                    "text": "pohlcují méně slunečního záření",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Intenzita vyzařování roste s čtvrtou mocninou absolutní teploty tělesa."
+              },
+              {
+                "question": "Jaká je přibližná hodnota solární konstanty?",
+                "options": [
+                  {
+                    "text": "1367 W·m⁻²",
+                    "correct": true
+                  },
+                  {
+                    "text": "100 W·m⁻²",
+                    "correct": false
+                  },
+                  {
+                    "text": "367 W·m⁻²",
+                    "correct": false
+                  },
+                  {
+                    "text": "2367 W·m⁻²",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Solární konstanta je intenzita záření na horní hranici atmosféry při střední vzdálenosti Země od Slunce."
+              },
+              {
+                "question": "Která trojice odpovídá klíčovým geografickým otázkám?",
+                "options": [
+                  {
+                    "text": "Kde? — Proč tam? — Co s tím?",
+                    "correct": true
+                  },
+                  {
+                    "text": "Kdy? — Kolik? — Kdo?",
+                    "correct": false
+                  },
+                  {
+                    "text": "Jak hluboko? — Jak rychle? — Kam odtéká?",
+                    "correct": false
+                  },
+                  {
+                    "text": "Co je to? — Jak staré? — Z čeho se skládá?",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Geografie kombinuje prostorovou distribuci, vysvětlení a aplikaci poznatků."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-2-zakladni-poznatky-o-atmosfere-atmosfera-vzduch-2",
@@ -907,7 +1022,122 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Atmosféra a sluneční záření",
+            "questions": [
+              {
+                "question": "Které záření je téměř úplně pohlceno plyny v atmosféře a je škodlivé pro organismy?",
+                "options": [
+                  {
+                    "text": "Ultrafialové (0,2–0,4 µm)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Viditelné (0,4–0,7 µm)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Tepelné infračervené > 3 µm",
+                    "correct": false
+                  },
+                  {
+                    "text": "Rádiové vlny",
+                    "correct": false
+                  }
+                ],
+                "explanation": "UV záření je filtrováno především v horních vrstvách atmosféry."
+              },
+              {
+                "question": "Přibližně jak dlouho trvá cesta slunečního světla k Zemi?",
+                "options": [
+                  {
+                    "text": "8⅓ minuty",
+                    "correct": true
+                  },
+                  {
+                    "text": "1 sekunda",
+                    "correct": false
+                  },
+                  {
+                    "text": "1 hodina",
+                    "correct": false
+                  },
+                  {
+                    "text": "24 hodin",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Elektromagnetické záření cestuje rychlostí ~300 000 km·s⁻¹."
+              },
+              {
+                "question": "Jaký podíl intenzity slunečního záření připadá na viditelné světlo?",
+                "options": [
+                  {
+                    "text": "Přibližně 41 %",
+                    "correct": true
+                  },
+                  {
+                    "text": "9 %",
+                    "correct": false
+                  },
+                  {
+                    "text": "70 %",
+                    "correct": false
+                  },
+                  {
+                    "text": "95 %",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Maximální intenzita je ve viditelné části spektra; UV tvoří ~9 %."
+              },
+              {
+                "question": "Dlouhovlnné záření Země má maxima při vlnových délkách přibližně…",
+                "options": [
+                  {
+                    "text": "5, 10 a 20 µm",
+                    "correct": true
+                  },
+                  {
+                    "text": "0,4, 0,5 a 0,6 µm",
+                    "correct": false
+                  },
+                  {
+                    "text": "1, 2 a 3 µm",
+                    "correct": false
+                  },
+                  {
+                    "text": "100, 200 a 300 µm",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Mezilehlé vlnové délky jsou silně pohlcovány vodní parou a CO₂."
+              },
+              {
+                "question": "Atmosféra v geografickém pojetí zahrnuje plynný obal Země…",
+                "options": [
+                  {
+                    "text": "po ozonovou vrstvu",
+                    "correct": true
+                  },
+                  {
+                    "text": "až po Měsíc",
+                    "correct": false
+                  },
+                  {
+                    "text": "pouze do 1 km výšky",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně troposféru",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Meteorologie a klimatologie studují dění v atmosféře."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-3-zakladni-meteorologicke-prvky-slunecni-zareni-3",
@@ -1513,7 +1743,122 @@ export const gk: Field = {
               "source": "Okruhy ke zkoušce",
               "note": "Sdílený materiál pro více okruhů"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Meteorologické prvky",
+            "questions": [
+              {
+                "question": "Kde se standardně měří teplota vzduchu na meteorologické stanici?",
+                "options": [
+                  {
+                    "text": "2 m nad zemí v bílé žaluziové budce",
+                    "correct": true
+                  },
+                  {
+                    "text": "Přímo na povrchu trávy",
+                    "correct": false
+                  },
+                  {
+                    "text": "10 m nad střechou budovy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Ve stínu stromu bez krytu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Budka brání přímému slunečnímu záření a umožňuje cirkulaci vzduchu."
+              },
+              {
+                "question": "Kdy bývá obvykle denní minimum teploty vzduchu?",
+                "options": [
+                  {
+                    "text": "Půl hodiny až krátce po východu Slunce",
+                    "correct": true
+                  },
+                  {
+                    "text": "O půlnoci",
+                    "correct": false
+                  },
+                  {
+                    "text": "Ve 12. hodin",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při západu Slunce",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Nejprve pokračuje noční ochlazování, teprve pak sluneční ohřev."
+              },
+              {
+                "question": "Co je tepelný ostrov města?",
+                "options": [
+                  {
+                    "text": "Oblast s vyšší teplotou než okolní krajina, zejména v noci",
+                    "correct": true
+                  },
+                  {
+                    "text": "Oblast s nižší teplotou kvůli lesům",
+                    "correct": false
+                  },
+                  {
+                    "text": "Pouze zimní jev bez letního efektu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Výhradně jev u pobřeží moře",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Zástavba akumuluje teplo, odvádí srážkovou vodu a mění povrch."
+              },
+              {
+                "question": "Přibližný průměrný vertikální teplotní gradient v troposféře je…",
+                "options": [
+                  {
+                    "text": "0,65 °C na 100 m",
+                    "correct": true
+                  },
+                  {
+                    "text": "0,1 °C na 100 m",
+                    "correct": false
+                  },
+                  {
+                    "text": "2 °C na 100 m",
+                    "correct": false
+                  },
+                  {
+                    "text": "Teplota s výškou roste",
+                    "correct": false
+                  }
+                ],
+                "explanation": "S výškou teplota v troposféře obecně klesá."
+              },
+              {
+                "question": "Kolik procent vody na Zemi je slaných?",
+                "options": [
+                  {
+                    "text": "Přibližně 97,2 %",
+                    "correct": true
+                  },
+                  {
+                    "text": "50 %",
+                    "correct": false
+                  },
+                  {
+                    "text": "80 %",
+                    "correct": false
+                  },
+                  {
+                    "text": "99,9 %",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Většina sladké vody je vázána v ledovcích a podzemních zásobách."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-4-vseobecna-cirkulace-atmosfery-vzduchove-hmoty-4",
@@ -1842,7 +2187,122 @@ export const gk: Field = {
               "source": "Okruhy ke zkoušce",
               "note": "Sdílený materiál pro více okruhů"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Cirkulace atmosféry",
+            "questions": [
+              {
+                "question": "Jaká je normální hodnota barometrického tlaku na hladině moře?",
+                "options": [
+                  {
+                    "text": "1013,2 hPa",
+                    "correct": true
+                  },
+                  {
+                    "text": "7600 hPa",
+                    "correct": false
+                  },
+                  {
+                    "text": "500 hPa",
+                    "correct": false
+                  },
+                  {
+                    "text": "101,32 hPa",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Odpovídá přibližně 760 mmHg (Torrů)."
+              },
+              {
+                "question": "Směr větru udáváme jako…",
+                "options": [
+                  {
+                    "text": "odkud vítr vane",
+                    "correct": true
+                  },
+                  {
+                    "text": "kam vítr vane",
+                    "correct": false
+                  },
+                  {
+                    "text": "kolmý směr k izobarám",
+                    "correct": false
+                  },
+                  {
+                    "text": "směr nejvyššího tlaku",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Vítr vanoucí ze severu = severní vítr."
+              },
+              {
+                "question": "Co je anticyklona?",
+                "options": [
+                  {
+                    "text": "Oblast vysokého atmosférického tlaku",
+                    "correct": true
+                  },
+                  {
+                    "text": "Oblast nízkého tlaku",
+                    "correct": false
+                  },
+                  {
+                    "text": "Fronta studeného vzduchu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Pás mezi dvěma frontami",
+                    "correct": false
+                  }
+                ],
+                "explanation": "V anticykloně obvykle sestupuje vzduch → jasno a stabilní počasí."
+              },
+              {
+                "question": "Jak se chová mořská bríza?",
+                "options": [
+                  {
+                    "text": "Odpoledne vanoucí od moře na pevninu",
+                    "correct": true
+                  },
+                  {
+                    "text": "V noci od moře na pevninu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Celý den od pevniny k moři",
+                    "correct": false
+                  },
+                  {
+                    "text": "Jen v zimě od pevniny k moři",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Pevnina se odpoledne rychleji ohřívá → tlakový gradient a vánek z moře."
+              },
+              {
+                "question": "Výpar z oceánů je přibližně kolikrát větší než z pevnin?",
+                "options": [
+                  {
+                    "text": "6×",
+                    "correct": true
+                  },
+                  {
+                    "text": "2×",
+                    "correct": false
+                  },
+                  {
+                    "text": "Stejný",
+                    "correct": false
+                  },
+                  {
+                    "text": "20×",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Oceány jsou dominantním zdrojem vodní páry v hydrologickém cyklu."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-5-zaklady-predpovedi-pocasi-zdroje-dat-pro-predp-5",
@@ -2028,7 +2488,100 @@ export const gk: Field = {
               "source": "Okruhy ke zkoušce",
               "note": "Sdílený materiál pro více okruhů"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Předpověď počasí a vzduchové hmoty",
+            "questions": [
+              {
+                "question": "Co je vzduchová hmota?",
+                "options": [
+                  {
+                    "text": "Velký objem vzduchu s jednotnými vlastnostmi teploty a vlhkosti",
+                    "correct": true
+                  },
+                  {
+                    "text": "Pouze vrstva inverze v údolí",
+                    "correct": false
+                  },
+                  {
+                    "text": "Jedna cumulonimbusová bouřka",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vzduch v bezprostřední blízkosti fronty",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Vzduchové hmoty se klasifikují podle původu a povrchu (např. mT, cP)."
+              },
+              {
+                "question": "Co charakterizuje studenou frontu?",
+                "options": [
+                  {
+                    "text": "Klín studeného vzduchu pod teplý → cumulonimby a přeháňky",
+                    "correct": true
+                  },
+                  {
+                    "text": "Pomalé zatažení a dlouhé deště",
+                    "correct": false
+                  },
+                  {
+                    "text": "Pouze jasno a vysoký tlak",
+                    "correct": false
+                  },
+                  {
+                    "text": "Absence srážek",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Studený vzduch podjíždí pod teplý a rychle ho vytlačuje vzhůru."
+              },
+              {
+                "question": "Jaký je rozdíl mezi počasím a povětrností?",
+                "options": [
+                  {
+                    "text": "Počasí = okamžitý stav; povětrnost = charakter počasí během několika dnů",
+                    "correct": true
+                  },
+                  {
+                    "text": "Počasí = dlouhodobý průměr; povětrnost = okamžitý stav",
+                    "correct": false
+                  },
+                  {
+                    "text": "Synonyma bez rozdílu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Povětrnost se měří jen v létě",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Klima je ještě delší časová úroveň než povětrnost."
+              },
+              {
+                "question": "Tropická vzduchová hmota se označuje písmenem…",
+                "options": [
+                  {
+                    "text": "T",
+                    "correct": true
+                  },
+                  {
+                    "text": "P",
+                    "correct": false
+                  },
+                  {
+                    "text": "A",
+                    "correct": false
+                  },
+                  {
+                    "text": "c",
+                    "correct": false
+                  }
+                ],
+                "explanation": "P = polární, A = arktická, m/c = mořská/kontinentální."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-7-zmeny-a-kolisani-klimatu-zakladni-klimatotvorn-6",
@@ -2212,7 +2765,122 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Klima a klasifikace",
+            "questions": [
+              {
+                "question": "Köppenova klasifikace vychází primárně z…",
+                "options": [
+                  {
+                    "text": "teploty a srážek",
+                    "correct": true
+                  },
+                  {
+                    "text": "jen z nadmořské výšky",
+                    "correct": false
+                  },
+                  {
+                    "text": "jen z tlaku",
+                    "correct": false
+                  },
+                  {
+                    "text": "jen z vegetace bez měření",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Hranice pásů odpovídají typům vegetace a distribuci srážek."
+              },
+              {
+                "question": "Který Köppenův pás je charakteristický suchým klimatem (výpar > srážky)?",
+                "options": [
+                  {
+                    "text": "B",
+                    "correct": true
+                  },
+                  {
+                    "text": "A",
+                    "correct": false
+                  },
+                  {
+                    "text": "C",
+                    "correct": false
+                  },
+                  {
+                    "text": "E",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Pás A = tropický, C = mírný, E = polární."
+              },
+              {
+                "question": "Co je izohyeta?",
+                "options": [
+                  {
+                    "text": "Čára stejného ročního množství srážek",
+                    "correct": true
+                  },
+                  {
+                    "text": "Čára stejné teploty",
+                    "correct": false
+                  },
+                  {
+                    "text": "Čára stejného tlaku",
+                    "correct": false
+                  },
+                  {
+                    "text": "Čára stejné nadmořské výšky",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Analogicky k izotermě nebo izobarě."
+              },
+              {
+                "question": "Oceánské klima má oproti kontinentálnímu…",
+                "options": [
+                  {
+                    "text": "menší roční amplitudu teplot",
+                    "correct": true
+                  },
+                  {
+                    "text": "větší roční amplitudu teplot",
+                    "correct": false
+                  },
+                  {
+                    "text": "méně srážek",
+                    "correct": false
+                  },
+                  {
+                    "text": "nižší vlhkost vzduchu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Moře moderuje teplotní extrémy pevniny."
+              },
+              {
+                "question": "Klima v geografickém pojetí je…",
+                "options": [
+                  {
+                    "text": "dlouhodobý charakter počasí vyjádřený průměrnými hodnotami prvků",
+                    "correct": true
+                  },
+                  {
+                    "text": "okamžitý stav atmosféry",
+                    "correct": false
+                  },
+                  {
+                    "text": "pouze teplota v červenci",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně globální oteplování",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Klima vyžaduje dlouhé časové řady pozorování."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-8-hydrosfera-rozsireni-a-obeh-vody-na-zemi-hydro-7",
@@ -2314,7 +2982,122 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Hydrosféra a oběh vody",
+            "questions": [
+              {
+                "question": "Co je infiltrace?",
+                "options": [
+                  {
+                    "text": "Pronikání srážkové vody do půdy a hornin gravitací",
+                    "correct": true
+                  },
+                  {
+                    "text": "Výpar z listů rostlin",
+                    "correct": false
+                  },
+                  {
+                    "text": "Proudění vody v řece",
+                    "correct": false
+                  },
+                  {
+                    "text": "Tání ledovce",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Infiltrační kapacita určuje, kolik vody půda pojme."
+              },
+              {
+                "question": "Podzemní voda se nachází především v…",
+                "options": [
+                  {
+                    "text": "zóně saturace",
+                    "correct": true
+                  },
+                  {
+                    "text": "pásmu provzdušnění nad hladinou",
+                    "correct": false
+                  },
+                  {
+                    "text": "atmosféře",
+                    "correct": false
+                  },
+                  {
+                    "text": "kryosféře výhradně",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Nad hladinou je pásmo provzdušnění s kapilární vodou."
+              },
+              {
+                "question": "Kdy vzniká plošný (povrchový) odtok?",
+                "options": [
+                  {
+                    "text": "Když intenzita srážky překročí infiltrační kapacitu nebo je půda nasycená",
+                    "correct": true
+                  },
+                  {
+                    "text": "Vždy při každém dešti bez výjimky",
+                    "correct": false
+                  },
+                  {
+                    "text": "Pouze při tání sněhu v horách",
+                    "correct": false
+                  },
+                  {
+                    "text": "Jen v propustných píscích",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Přebytečná voda teče po povrchu do rýh a toků."
+              },
+              {
+                "question": "Hydrologie studuje…",
+                "options": [
+                  {
+                    "text": "systém povrchových a podpovrchových vod na Zemi",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze oceány",
+                    "correct": false
+                  },
+                  {
+                    "text": "jen chemické složení atmosféry",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně ledovce",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Hydrologický cyklus propojuje výpar, srážky a odtok."
+              },
+              {
+                "question": "Hladina podzemní vody je typicky nejvyšší…",
+                "options": [
+                  {
+                    "text": "pod rozvodími a vrcholy kopců",
+                    "correct": true
+                  },
+                  {
+                    "text": "v ústí řeky",
+                    "correct": false
+                  },
+                  {
+                    "text": "na dně jezera",
+                    "correct": false
+                  },
+                  {
+                    "text": "v pouštní kotlině",
+                    "correct": false
+                  }
+                ],
+                "explanation": "V údolích klesá k úrovni toků a jezer (prosakování)."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-9-hydrografie-merne-jednotky-odtoku-hydrografick-8",
@@ -2416,7 +3199,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Hydrografie a podzemní voda",
+            "questions": [
+              {
+                "question": "Co je povodí?",
+                "options": [
+                  {
+                    "text": "Území odtékající do jednoho závěrného profilu",
+                    "correct": true
+                  },
+                  {
+                    "text": "Pouze údolí hlavní řeky",
+                    "correct": false
+                  },
+                  {
+                    "text": "Oblast bez odtoku do moře",
+                    "correct": false
+                  },
+                  {
+                    "text": "Plocha jezera",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Povodí zahrnuje povrchový i podzemní odtok."
+              },
+              {
+                "question": "Zvodnělá vrstva (zvodeň) je typicky tvořena…",
+                "options": [
+                  {
+                    "text": "propustným pískem nebo pískovcem",
+                    "correct": true
+                  },
+                  {
+                    "text": "jíly a břidlicemi",
+                    "correct": false
+                  },
+                  {
+                    "text": "granitem bez puklin",
+                    "correct": false
+                  },
+                  {
+                    "text": "ledovcovým ledem",
+                    "correct": false
+                  }
+                ],
+                "explanation": "V zvodni obsahuje voda volné póry a může volně protékat."
+              },
+              {
+                "question": "Artéská voda vzniká, když…",
+                "options": [
+                  {
+                    "text": "je propustná vrstva mezi nepropustnými vrstvami a voda je pod tlakem",
+                    "correct": true
+                  },
+                  {
+                    "text": "voda stojí v propustném písku bez tlaku",
+                    "correct": false
+                  },
+                  {
+                    "text": "voda teče pouze v řece",
+                    "correct": false
+                  },
+                  {
+                    "text": "je voda zamrzlá v permafrostu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Při vrtu může voda vystřikovat nad úroveň terénu."
+              },
+              {
+                "question": "Kapilární voda se drží v půdě díky…",
+                "options": [
+                  {
+                    "text": "kapilárnímu napětí na povrchu minerálů",
+                    "correct": true
+                  },
+                  {
+                    "text": "vysokému tlaku vzduchu",
+                    "correct": false
+                  },
+                  {
+                    "text": "proudění řeky",
+                    "correct": false
+                  },
+                  {
+                    "text": "radioaktivnímu rozpadu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Nachází se v pásmu provzdušnění nad hladinou podzemní vody."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-10-hydrometrie-mereni-vodnich-stavu-a-prutoku-9",
@@ -2518,7 +3394,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Hydrometrie",
+            "questions": [
+              {
+                "question": "Evapotranspirace zahrnuje…",
+                "options": [
+                  {
+                    "text": "výpar z půdy a transpiraci rostlin",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze srážky",
+                    "correct": false
+                  },
+                  {
+                    "text": "pouze podzemní odtok",
+                    "correct": false
+                  },
+                  {
+                    "text": "jen tání sněhu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Spolu s infiltrací určuje, kolik vody zůstane pro odtok."
+              },
+              {
+                "question": "Zóna saturace je charakteristická tím, že…",
+                "options": [
+                  {
+                    "text": "všechny póry jsou vyplněny vodou",
+                    "correct": true
+                  },
+                  {
+                    "text": "póry jsou pouze částečně vlhké",
+                    "correct": false
+                  },
+                  {
+                    "text": "neobsahuje žádnou vodu",
+                    "correct": false
+                  },
+                  {
+                    "text": "je vždy nad úrovní půdy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Odděluje ji od pásma provzdušnění hladina podzemní vody."
+              },
+              {
+                "question": "Při intenzivním dešti na nasycené půdě…",
+                "options": [
+                  {
+                    "text": "vzniká rychlý povrchový odtok",
+                    "correct": true
+                  },
+                  {
+                    "text": "všechna voda se vsákne",
+                    "correct": false
+                  },
+                  {
+                    "text": "klesne hladina podzemní vody",
+                    "correct": false
+                  },
+                  {
+                    "text": "nefunguje gravitace",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Infiltrační kapacita je vyčerpána → plošný odtok."
+              },
+              {
+                "question": "Hydrometrie se zabývá…",
+                "options": [
+                  {
+                    "text": "měřením a vyhodnocováním vodních stavů a průtoků",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze chemickou analýzou vody",
+                    "correct": false
+                  },
+                  {
+                    "text": "jen mapováním geologie",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně předpovědí počasí",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Data slouží pro hydrologické bilance a povodňovou ochranu."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-11-vodni-rezim-rek-rezim-prutoku-a-typizace-rek-10",
@@ -2620,7 +3589,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Vodní režim řek",
+            "questions": [
+              {
+                "question": "Vodní režim řeky popisuje…",
+                "options": [
+                  {
+                    "text": "časové změny průtoku v závislosti na zdrojích vody",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze průměrnou teplotu vody",
+                    "correct": false
+                  },
+                  {
+                    "text": "chemické složení řeky",
+                    "correct": false
+                  },
+                  {
+                    "text": "šířku říční nivy v mapě",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Zahrnuje základní (podzemní) i přímý (dešťový) odtok."
+              },
+              {
+                "question": "V období sucha obvykle…",
+                "options": [
+                  {
+                    "text": "klesá hladina podzemní vody a základní průtok",
+                    "correct": true
+                  },
+                  {
+                    "text": "stoupá hladina pod rozvodím",
+                    "correct": false
+                  },
+                  {
+                    "text": "průtok výhradně roste",
+                    "correct": false
+                  },
+                  {
+                    "text": "zmizí podzemní voda úplně",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Řeky jsou zásobovány z podzemních zdrojů i v období bez srážek."
+              },
+              {
+                "question": "Povodňová vlna na řece často souvisí s…",
+                "options": [
+                  {
+                    "text": "plošným odtokem po intenzivních srážkách",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze táním ledovce",
+                    "correct": false
+                  },
+                  {
+                    "text": "poklesem teploty",
+                    "correct": false
+                  },
+                  {
+                    "text": "absencí srážek",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Rychlý nárůst průtoku, když půda nevsákne dešťovou vodu."
+              },
+              {
+                "question": "Řeky jako geomorfologický činitel…",
+                "options": [
+                  {
+                    "text": "odnášejí sedimenty a modelují krajinu",
+                    "correct": true
+                  },
+                  {
+                    "text": "nemění reliéf",
+                    "correct": false
+                  },
+                  {
+                    "text": "působí jen v pouštích",
+                    "correct": false
+                  },
+                  {
+                    "text": "vznikají pouze pod ledovcem",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Fluviální eroze a akumulace formují údolí a náplavy."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-12-hydrologie-podpovrchovych-vod-zdroje-vzniku-p-11",
@@ -2722,7 +3784,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Podpovrchové vody",
+            "questions": [
+              {
+                "question": "Půdní voda (soil water belt) je…",
+                "options": [
+                  {
+                    "text": "voda v půdním pokryvu mezi povrchem a zónou saturace",
+                    "correct": true
+                  },
+                  {
+                    "text": "voda pouze v řece",
+                    "correct": false
+                  },
+                  {
+                    "text": "voda v atmosféře",
+                    "correct": false
+                  },
+                  {
+                    "text": "voda v ledovci",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Může se vracet výparem nebo prosakovat hlouběji."
+              },
+              {
+                "question": "Nepropustná vrstva typicky obsahuje…",
+                "options": [
+                  {
+                    "text": "jíly nebo břidlice s málo volné vody",
+                    "correct": true
+                  },
+                  {
+                    "text": "čistý štěrk",
+                    "correct": false
+                  },
+                  {
+                    "text": "propustný písek",
+                    "correct": false
+                  },
+                  {
+                    "text": "porézní vápenec bez jílů",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Brání sestupu vody a vytváří podmínky pro artéské soustavy."
+              },
+              {
+                "question": "Čočkovité břidlice mohou vytvořit…",
+                "options": [
+                  {
+                    "text": "zavěšené vodní těleso",
+                    "correct": true
+                  },
+                  {
+                    "text": "vždy artéský vrt",
+                    "correct": false
+                  },
+                  {
+                    "text": "pouze povrchový odtok",
+                    "correct": false
+                  },
+                  {
+                    "text": "kritickou zónu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Geologická struktura určuje uložení podzemní vody."
+              },
+              {
+                "question": "Hlavní zdroj podzemní vody na pevnině je…",
+                "options": [
+                  {
+                    "text": "infiltrace srážkové vody",
+                    "correct": true
+                  },
+                  {
+                    "text": "výhradně tání ledovců",
+                    "correct": false
+                  },
+                  {
+                    "text": "kondenzace v jeskyních",
+                    "correct": false
+                  },
+                  {
+                    "text": "proudění z oceánu pod kontinentem",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Srážky doplňují zásoby v zóně saturace."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-13-hydrologie-jezer-a-nadrzi-svetove-zasoby-vody-12",
@@ -2824,7 +3979,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Jezera a zásoby vody",
+            "questions": [
+              {
+                "question": "Povrchová sladká voda (jezera, toky) tvoří přibližně…",
+                "options": [
+                  {
+                    "text": "0,02 % celkových zásob sladké vody",
+                    "correct": true
+                  },
+                  {
+                    "text": "50 % sladké vody",
+                    "correct": false
+                  },
+                  {
+                    "text": "10 % všech vod na Zemi",
+                    "correct": false
+                  },
+                  {
+                    "text": "většinu hydrosféry",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Největší zásoby sladké vody jsou v ledovcích a podzemních vodách."
+              },
+              {
+                "question": "Na pevnině v globální bilanci platí: srážky = …",
+                "options": [
+                  {
+                    "text": "výpar + odtok",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze výpar",
+                    "correct": false
+                  },
+                  {
+                    "text": "pouze infiltrace",
+                    "correct": false
+                  },
+                  {
+                    "text": "odtok + srážky",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Část vody se vsakuje, část odtéká, část se vrací do atmosféry."
+              },
+              {
+                "question": "Hladina podzemní vody v údolí často odpovídá…",
+                "options": [
+                  {
+                    "text": "hladině řeky nebo jezera",
+                    "correct": true
+                  },
+                  {
+                    "text": "vrcholu hory",
+                    "correct": false
+                  },
+                  {
+                    "text": "hladině moře vždy přímo",
+                    "correct": false
+                  },
+                  {
+                    "text": "pouze srážkám v daný den",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Voda prosakuje z údolí do toků a nádrží."
+              },
+              {
+                "question": "Bezodtoká jezera vznikají v…",
+                "options": [
+                  {
+                    "text": "uzavřených povodích bez odtoku do moře",
+                    "correct": true
+                  },
+                  {
+                    "text": "všech říčních ústích",
+                    "correct": false
+                  },
+                  {
+                    "text": "pouze v oceánu",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně pod ledovcem",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Voda odtéká jen výparem nebo infiltrací."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-14-svetovy-ocean-struktura-procesy-vlastnosti-vo-13",
@@ -2908,7 +4156,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Co je fyzická geografie?",
+            "questions": [
+              {
+                "question": "Jak se obvykle definuje krajina v geografickém smyslu?",
+                "options": [
+                  {
+                    "text": "Část zemského povrchu s typickou kombinací přírodních a kulturních prvků",
+                    "correct": true
+                  },
+                  {
+                    "text": "Výhradně přírodní pokryv bez vlivu člověka",
+                    "correct": false
+                  },
+                  {
+                    "text": "Pouze lesní porost a orná půda",
+                    "correct": false
+                  },
+                  {
+                    "text": "Administrativní jednotka obce nebo katastr",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Krajina vzniká přetvářením přírodní krajiny lidskou činností."
+              },
+              {
+                "question": "Co je kritická zóna?",
+                "options": [
+                  {
+                    "text": "Propustná přípovrchová vrstva od korun stromů po spodní hranici podzemní vody",
+                    "correct": true
+                  },
+                  {
+                    "text": "Pouze půdní profil do hloubky 1 m",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vrstva ozonu v stratosféře",
+                    "correct": false
+                  },
+                  {
+                    "text": "Zóna tektonické aktivita pod oceány",
+                    "correct": false
+                  }
+                ],
+                "explanation": "V kritické zóně probíhá výměna mezi litosférou, atmosférou, vodou a živými organismy."
+              },
+              {
+                "question": "Co typicky zvyšuje druhovou diverzitu ptáků v krajině?",
+                "options": [
+                  {
+                    "text": "Střídání otevřených ploch a lesů",
+                    "correct": true
+                  },
+                  {
+                    "text": "Monokultura smrku",
+                    "correct": false
+                  },
+                  {
+                    "text": "Souvislá zástavba",
+                    "correct": false
+                  },
+                  {
+                    "text": "Umělá nádrž bez břehů",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Mozaikovitá struktura krajiny nabízí více ekologických nik."
+              },
+              {
+                "question": "Lesnatost krajiny je v první řadě ovlivněna…",
+                "options": [
+                  {
+                    "text": "způsobem využití země člověkem",
+                    "correct": true
+                  },
+                  {
+                    "text": "výhradně nadmořskou výškou",
+                    "correct": false
+                  },
+                  {
+                    "text": "směrem světových stran",
+                    "correct": false
+                  },
+                  {
+                    "text": "pouze typem matečné horniny",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Odlesňování a zemědělství mění podíl lesa v krajině."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-2-paradigmata-pro-fyzickou-geografii-15",
@@ -2991,7 +4332,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Vývoj litosféry",
+            "questions": [
+              {
+                "question": "Průměrná mocnost zemské kůry na rovníku je oproti pólu…",
+                "options": [
+                  {
+                    "text": "asi o 43 km větší",
+                    "correct": true
+                  },
+                  {
+                    "text": "stejná",
+                    "correct": false
+                  },
+                  {
+                    "text": "o 43 km menší",
+                    "correct": false
+                  },
+                  {
+                    "text": "o 430 km větší",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Souvisí s rotací Země a rozlišením mezi kontinentální a oceánskou kůrou."
+              },
+              {
+                "question": "Gutenbergova diskontinuita odděluje…",
+                "options": [
+                  {
+                    "text": "plášť a jádro",
+                    "correct": true
+                  },
+                  {
+                    "text": "kůru a plášť",
+                    "correct": false
+                  },
+                  {
+                    "text": "litosféru a atmosféru",
+                    "correct": false
+                  },
+                  {
+                    "text": "hydrosféru a biosféru",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Jde o významnou seismickou hranici v hloubce ~2900 km."
+              },
+              {
+                "question": "Geoid vzniká, protože Země dosáhla stavu…",
+                "options": [
+                  {
+                    "text": "hydrostatické rovnováhy",
+                    "correct": true
+                  },
+                  {
+                    "text": "chemické rovnováhy",
+                    "correct": false
+                  },
+                  {
+                    "text": "radioaktivní rovnováhy",
+                    "correct": false
+                  },
+                  {
+                    "text": "tektonické rovnováhy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Hladina moří kopíruje ekvipotenciální povrch gravitace."
+              },
+              {
+                "question": "Které minerály jsou typické pro hlubší části pláště?",
+                "options": [
+                  {
+                    "text": "Olivín, pyroxen, granát, spinel",
+                    "correct": true
+                  },
+                  {
+                    "text": "Křemen, živec, mika",
+                    "correct": false
+                  },
+                  {
+                    "text": "Halit a sádrovec",
+                    "correct": false
+                  },
+                  {
+                    "text": "Pouze uhlí a vápenec",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Složení se mění s hloubkou a tlakem."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-3-2-horninovy-cyklus-18",
@@ -3058,7 +4492,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Horninový cyklus",
+            "questions": [
+              {
+                "question": "Pozitivní gradace znamená, že velikost částic…",
+                "options": [
+                  {
+                    "text": "se odspodu nahoru zmenšuje",
+                    "correct": true
+                  },
+                  {
+                    "text": "se odspodu nahoru zvětšuje",
+                    "correct": false
+                  },
+                  {
+                    "text": "je všude stejná",
+                    "correct": false
+                  },
+                  {
+                    "text": "nezávisí na vrstvách",
+                    "correct": false
+                  }
+                ],
+                "explanation": "U sedimentů často odráží ustupující energii prostředí při ukládání."
+              },
+              {
+                "question": "Sekundární minerály vznikají převážně…",
+                "options": [
+                  {
+                    "text": "přeměnou primárních minerálů (často zvětráváním)",
+                    "correct": true
+                  },
+                  {
+                    "text": "při tání magmatu",
+                    "correct": false
+                  },
+                  {
+                    "text": "pouze v kosmu",
+                    "correct": false
+                  },
+                  {
+                    "text": "bez jakékoli změny prostředí",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Primární minerály jsou stabilní za podmínek vzniku horniny."
+              },
+              {
+                "question": "Akcesorické minerály tvoří objemově…",
+                "options": [
+                  {
+                    "text": "nejvýše asi 5 %",
+                    "correct": true
+                  },
+                  {
+                    "text": "vždy více než 50 %",
+                    "correct": false
+                  },
+                  {
+                    "text": "přesně 10 %",
+                    "correct": false
+                  },
+                  {
+                    "text": "0 %",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Hlavní minerály >10 %, vedlejší <10 % objemu."
+              },
+              {
+                "question": "Vrstva v sedimentech je vymezena…",
+                "options": [
+                  {
+                    "text": "vrstevními plochami a odlišným složením od sousedních vrstev",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze barvou bez rozhraní",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně fosiliemi",
+                    "correct": false
+                  },
+                  {
+                    "text": "směrem severu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Vrstvy mohou být ukloněny vůči horizontále."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-3-3-tektonicke-procesy-19",
@@ -3128,7 +4655,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Tektonické procesy",
+            "questions": [
+              {
+                "question": "Zlom je definován jako…",
+                "options": [
+                  {
+                    "text": "puklina v hornině s pozorovatelným pohybem podél ní",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze vrstevní plocha",
+                    "correct": false
+                  },
+                  {
+                    "text": "náraz větru na svah",
+                    "correct": false
+                  },
+                  {
+                    "text": "erozní rýha po dešti",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Tektonické zlomy vznikají napětím v zemské kůře."
+              },
+              {
+                "question": "Allochton je horninové těleso…",
+                "options": [
+                  {
+                    "text": "přemístěné na autochton vzdáleněji než 5 km",
+                    "correct": true
+                  },
+                  {
+                    "text": "na místě vzniku bez pohybu",
+                    "correct": false
+                  },
+                  {
+                    "text": "pouze v atmosféře",
+                    "correct": false
+                  },
+                  {
+                    "text": "vždy mladší než okolí",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Tektonické přesuny mohou přenášet velké masivy hornin."
+              },
+              {
+                "question": "Morfostruktura znamená…",
+                "options": [
+                  {
+                    "text": "shodu geologických struktur s tvary reliéfu",
+                    "correct": true
+                  },
+                  {
+                    "text": "vždy nesoulad struktury a reliéfu",
+                    "correct": false
+                  },
+                  {
+                    "text": "pouze fluviální erozi",
+                    "correct": false
+                  },
+                  {
+                    "text": "absenci tektoniky",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Morfologická anomálie = nesoulad struktury a povrchu."
+              },
+              {
+                "question": "Tektonika studuje především…",
+                "options": [
+                  {
+                    "text": "endogenní procesy a deformace zemské kůry",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze zvětrávání na povrchu",
+                    "correct": false
+                  },
+                  {
+                    "text": "jen oběh vody",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně klima",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Endogenní síly vytvářejí zlomy, vrásnění a reliéf."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-3-4-zvetravaci-procesy-20",
@@ -3204,7 +4824,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Zvětrávací procesy",
+            "questions": [
+              {
+                "question": "Zvětrávání zahrnuje…",
+                "options": [
+                  {
+                    "text": "fyzický rozpad a chemický rozklad hornin",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze transport větrem",
+                    "correct": false
+                  },
+                  {
+                    "text": "jen transport ledovcem",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně biologickou produkci",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Probíhá v blízkosti povrchu za okolních podmínek."
+              },
+              {
+                "question": "Denudace je…",
+                "options": [
+                  {
+                    "text": "snižování povrchu a vyrovnávání reliéfu",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze ukládání sedimentů",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně vulkanická činnost",
+                    "correct": false
+                  },
+                  {
+                    "text": "nárůst nadmořské výšky",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Spolu s erozí a zvětráváním patří mezi exogenní procesy."
+              },
+              {
+                "question": "Fyzikální zvětrávání urychluje chemické tím, že…",
+                "options": [
+                  {
+                    "text": "zvyšuje povrchovou oblast reakcí",
+                    "correct": true
+                  },
+                  {
+                    "text": "snižuje teplotu horniny",
+                    "correct": false
+                  },
+                  {
+                    "text": "zastavuje reakce s vodou",
+                    "correct": false
+                  },
+                  {
+                    "text": "vytváří pevnější minerály",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Rozpad na menší částice = více reaktivních ploch."
+              },
+              {
+                "question": "Eroze je…",
+                "options": [
+                  {
+                    "text": "odnos materiálu vodou, větrem nebo ledovci",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze chemický rozklad",
+                    "correct": false
+                  },
+                  {
+                    "text": "sedimentace v moři",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně působení gravitace bez transportu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Gravitace spouští pohyb, ale eroze zahrnuje i transport."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-3-5-gravitacni-svahove-procesy-21",
@@ -3288,7 +5001,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Fluviální procesy",
+            "questions": [
+              {
+                "question": "Povodí je území, které…",
+                "options": [
+                  {
+                    "text": "odvádí vodu do jednoho závěrného profilu",
+                    "correct": true
+                  },
+                  {
+                    "text": "nemá žádný odtok",
+                    "correct": false
+                  },
+                  {
+                    "text": "odtéká do dvou oceánů",
+                    "correct": false
+                  },
+                  {
+                    "text": "je vždy menší než 1 km²",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Zahrnuje síť toků, podzemní odtok i srážky na povrchu."
+              },
+              {
+                "question": "Plošný odtok vzniká, když…",
+                "options": [
+                  {
+                    "text": "krajina nepojme srážkovou vodu infiltrací",
+                    "correct": true
+                  },
+                  {
+                    "text": "je půda vždy suchá",
+                    "correct": false
+                  },
+                  {
+                    "text": "nejsou žádné srážky",
+                    "correct": false
+                  },
+                  {
+                    "text": "voda proudí jen v podzemí",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Voda se rozlévá po povrchu a koncentruje se do rýh."
+              },
+              {
+                "question": "Vysoké srážky jsou typické pro…",
+                "options": [
+                  {
+                    "text": "rovníkové a monzunové oblasti",
+                    "correct": true
+                  },
+                  {
+                    "text": "vnitrozemské pouště",
+                    "correct": false
+                  },
+                  {
+                    "text": "střední Arktidu",
+                    "correct": false
+                  },
+                  {
+                    "text": "všechny polární oblasti bez výjimky",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Nízké srážky: suché subtropy a některé polární oblasti."
+              },
+              {
+                "question": "Fluviální systém zahrnuje jako komponenty např…",
+                "options": [
+                  {
+                    "text": "odtok, sedimenty a síť toků",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze teplotu vzduchu",
+                    "correct": false
+                  },
+                  {
+                    "text": "jen biosféru",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně větrnou erosi",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Řádovost toků popisuje hierarchii v drenážní síti."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-3-7-glacialni-procesy-23",
@@ -3362,7 +5168,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Glaciální procesy",
+            "questions": [
+              {
+                "question": "Ledovec vzniká tam, kde…",
+                "options": [
+                  {
+                    "text": "akumulace sněhu převyšuje ablaci (tání)",
+                    "correct": true
+                  },
+                  {
+                    "text": "nikdy nesněží",
+                    "correct": false
+                  },
+                  {
+                    "text": "je pouze větrná eroze",
+                    "correct": false
+                  },
+                  {
+                    "text": "teplota je vždy nad 0 °C",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Čára sněžnice odděluje akumulační a ablační zónu."
+              },
+              {
+                "question": "Kolik % ledovcového ledu tvoří Antarktida a Grónsko?",
+                "options": [
+                  {
+                    "text": "Přibližně 96 %",
+                    "correct": true
+                  },
+                  {
+                    "text": "50 %",
+                    "correct": false
+                  },
+                  {
+                    "text": "70 %",
+                    "correct": false
+                  },
+                  {
+                    "text": "100 %",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Zbývající ledovce jsou horské a polární mimo tyto štíty."
+              },
+              {
+                "question": "Roztátí všech současných ledovců by zvýšilo hladinu moří asi o…",
+                "options": [
+                  {
+                    "text": "65,6 m",
+                    "correct": true
+                  },
+                  {
+                    "text": "6,5 m",
+                    "correct": false
+                  },
+                  {
+                    "text": "656 m",
+                    "correct": false
+                  },
+                  {
+                    "text": "0,6 m",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Většina zásob sladké vody je vázána v ledovcích."
+              },
+              {
+                "question": "Glaciální procesy patří mezi…",
+                "options": [
+                  {
+                    "text": "exogenní geomorfologické činitele",
+                    "correct": true
+                  },
+                  {
+                    "text": "endogenní tektonické síly",
+                    "correct": false
+                  },
+                  {
+                    "text": "pouze biogenní činitele",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně antropogenní faktory",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Led a sníh modelují reliéf v chladných oblastech."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-3-8-eolicke-procesy-24",
@@ -3438,7 +5337,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Eolické procesy",
+            "questions": [
+              {
+                "question": "Eolické tvary reliéfu vznikají primárně v…",
+                "options": [
+                  {
+                    "text": "aridních a semiaridních oblastech s volným sedimentem",
+                    "correct": true
+                  },
+                  {
+                    "text": "tropickém deštném lese",
+                    "correct": false
+                  },
+                  {
+                    "text": "pod ledovcem",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně na dně oceánu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Potřebný je dostupný prach nebo písek a účinný vítr."
+              },
+              {
+                "question": "Který typ eolického transportu zahrnuje „poskakování“ zrn větrem?",
+                "options": [
+                  {
+                    "text": "Saltace",
+                    "correct": true
+                  },
+                  {
+                    "text": "Suspenze",
+                    "correct": false
+                  },
+                  {
+                    "text": "Rolování bez odskoku",
+                    "correct": false
+                  },
+                  {
+                    "text": "Pouze fluviální transport",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Saltace = zrna se zvedají a dopadají; suspenze = jemný prach ve vzduchu."
+              },
+              {
+                "question": "Větrem se obvykle efektivně transportují zrna do velikosti…",
+                "options": [
+                  {
+                    "text": "písku",
+                    "correct": true
+                  },
+                  {
+                    "text": "balvanů",
+                    "correct": false
+                  },
+                  {
+                    "text": "pouze jílu ve vodě",
+                    "correct": false
+                  },
+                  {
+                    "text": "celých kamenů",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Nižší hustota vzduchu omezuje transportní kapacitu větru."
+              },
+              {
+                "question": "Eolická akumulace často probíhá…",
+                "options": [
+                  {
+                    "text": "kolem překážek s vytříděním materiálu",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze v řečištích",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně pod vodou",
+                    "correct": false
+                  },
+                  {
+                    "text": "bez pohybu částic",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Vítr ukládá písek do dun a návějů."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-3-9-marinni-procesy-25",
@@ -3597,7 +5589,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Pedogeneze",
+            "questions": [
+              {
+                "question": "Půdotvorné faktory (klimaxová rovnice) jsou…",
+                "options": [
+                  {
+                    "text": "matečná hornina, klima, organismy, reliéf, čas",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze teplota a srážky",
+                    "correct": false
+                  },
+                  {
+                    "text": "jen nadmořská výška",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně lidská činnost",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Jen s aktivními faktory vzniká z horniny půda."
+              },
+              {
+                "question": "Humus je…",
+                "options": [
+                  {
+                    "text": "částečně rozložená organická hmota v půdě",
+                    "correct": true
+                  },
+                  {
+                    "text": "čistý jíl bez organiky",
+                    "correct": false
+                  },
+                  {
+                    "text": "pouze živý kořen",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně minerální část půdy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Vzniká rozkladem rostlinných a živočišných zbytků."
+              },
+              {
+                "question": "Jílová frakce má zrnitost…",
+                "options": [
+                  {
+                    "text": "menší než 0,002 mm",
+                    "correct": true
+                  },
+                  {
+                    "text": "0,02–2 mm",
+                    "correct": false
+                  },
+                  {
+                    "text": "2–20 mm",
+                    "correct": false
+                  },
+                  {
+                    "text": "větší než 2 mm",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Prach: 0,002–0,02 mm; písek: 0,02–2 mm."
+              },
+              {
+                "question": "Bez činnosti organismů by půdy…",
+                "options": [
+                  {
+                    "text": "nemohly vzniknout",
+                    "correct": true
+                  },
+                  {
+                    "text": "byly identické s matečnou horninou",
+                    "correct": false
+                  },
+                  {
+                    "text": "existovaly jen v pouštích",
+                    "correct": false
+                  },
+                  {
+                    "text": "neměly žádnou vodu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Biogenní činitelé mění horninu a tvoří profil půdy."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-3-11-ekosystemove-procesy-27",
@@ -3680,7 +5765,100 @@ export const gk: Field = {
               "url": "https://is.muni.cz/predmet/sci/Z0026p",
               "source": "IS MUNI"
             }
-          ]
+          ],
+          "quiz": {
+            "title": "Kvíz: Environmentální změny",
+            "questions": [
+              {
+                "question": "Uniformitarianismus předpokládá, že geologické procesy…",
+                "options": [
+                  {
+                    "text": "probíhají stejnými zákony jako dnes, včetně pomalých změn",
+                    "correct": true
+                  },
+                  {
+                    "text": "v minulosti neexistovaly",
+                    "correct": false
+                  },
+                  {
+                    "text": "byly vždy katastrofické",
+                    "correct": false
+                  },
+                  {
+                    "text": "se týkají jen Měsíce",
+                    "correct": false
+                  }
+                ],
+                "explanation": "„The present is the key to the past.“"
+              },
+              {
+                "question": "Katastrofismus zdůrazňuje…",
+                "options": [
+                  {
+                    "text": "rychlé události formující reliéf",
+                    "correct": true
+                  },
+                  {
+                    "text": "pouze pomalé změny",
+                    "correct": false
+                  },
+                  {
+                    "text": "absenci vulkanismu",
+                    "correct": false
+                  },
+                  {
+                    "text": "výhradně lidskou činnost",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Historická debata s uniformitarianismem o tempu změn."
+              },
+              {
+                "question": "Radiometrické datování (např. U-Pb) slouží k…",
+                "options": [
+                  {
+                    "text": "určení stáří hornin",
+                    "correct": true
+                  },
+                  {
+                    "text": "měření průtoku řeky",
+                    "correct": false
+                  },
+                  {
+                    "text": "předpovědi počasí",
+                    "correct": false
+                  },
+                  {
+                    "text": "mapování půdních typů",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Radioaktivní rozpad poskytuje časovou osu geologie."
+              },
+              {
+                "question": "Nejstarší známé minerály na Zemi (Jack Hills) mají stáří přes…",
+                "options": [
+                  {
+                    "text": "4,4 miliardy let",
+                    "correct": true
+                  },
+                  {
+                    "text": "4,4 milionu let",
+                    "correct": false
+                  },
+                  {
+                    "text": "440 milionů let",
+                    "correct": false
+                  },
+                  {
+                    "text": "44 000 let",
+                    "correct": false
+                  }
+                ],
+                "explanation": "U-Pb datování zirkonů z australských hornin."
+              }
+            ]
+          }
         },
         {
           "id": "z0026p-6-clovek-pretvari-prirodu-30",

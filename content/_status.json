@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-13T14:54:42.357Z",
+  "generatedAt": "2026-07-13T15:00:57.592Z",
   "fields": {
     "geografie-kartografie": {
       "courses": 45,
       "lessonsTotal": 403,
       "lessonsCustom": 26,
-      "quizzes": 0
+      "quizzes": 22
     },
     "fyzicka-geografie": {
       "courses": 53,

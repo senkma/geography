@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-3-4-zvetravaci-procesy-20",
+  "title": "Kvíz: Zvětrávací procesy",
+  "questions": [
+    {
+      "question": "Zvětrávání zahrnuje…",
+      "options": [
+        {
+          "text": "fyzický rozpad a chemický rozklad hornin",
+          "correct": true
+        },
+        {
+          "text": "pouze transport větrem",
+          "correct": false
+        },
+        {
+          "text": "jen transport ledovcem",
+          "correct": false
+        },
+        {
+          "text": "výhradně biologickou produkci",
+          "correct": false
+        }
+      ],
+      "explanation": "Probíhá v blízkosti povrchu za okolních podmínek."
+    },
+    {
+      "question": "Denudace je…",
+      "options": [
+        {
+          "text": "snižování povrchu a vyrovnávání reliéfu",
+          "correct": true
+        },
+        {
+          "text": "pouze ukládání sedimentů",
+          "correct": false
+        },
+        {
+          "text": "výhradně vulkanická činnost",
+          "correct": false
+        },
+        {
+          "text": "nárůst nadmořské výšky",
+          "correct": false
+        }
+      ],
+      "explanation": "Spolu s erozí a zvětráváním patří mezi exogenní procesy."
+    },
+    {
+      "question": "Fyzikální zvětrávání urychluje chemické tím, že…",
+      "options": [
+        {
+          "text": "zvyšuje povrchovou oblast reakcí",
+          "correct": true
+        },
+        {
+          "text": "snižuje teplotu horniny",
+          "correct": false
+        },
+        {
+          "text": "zastavuje reakce s vodou",
+          "correct": false
+        },
+        {
+          "text": "vytváří pevnější minerály",
+          "correct": false
+        }
+      ],
+      "explanation": "Rozpad na menší částice = více reaktivních ploch."
+    },
+    {
+      "question": "Eroze je…",
+      "options": [
+        {
+          "text": "odnos materiálu vodou, větrem nebo ledovci",
+          "correct": true
+        },
+        {
+          "text": "pouze chemický rozklad",
+          "correct": false
+        },
+        {
+          "text": "sedimentace v moři",
+          "correct": false
+        },
+        {
+          "text": "výhradně působení gravitace bez transportu",
+          "correct": false
+        }
+      ],
+      "explanation": "Gravitace spouští pohyb, ale eroze zahrnuje i transport."
+    }
+  ]
+}

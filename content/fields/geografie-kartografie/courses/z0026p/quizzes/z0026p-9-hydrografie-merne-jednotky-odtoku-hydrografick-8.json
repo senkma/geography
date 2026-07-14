@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-9-hydrografie-merne-jednotky-odtoku-hydrografick-8",
+  "title": "Kvíz: Hydrografie a podzemní voda",
+  "questions": [
+    {
+      "question": "Co je povodí?",
+      "options": [
+        {
+          "text": "Území odtékající do jednoho závěrného profilu",
+          "correct": true
+        },
+        {
+          "text": "Pouze údolí hlavní řeky",
+          "correct": false
+        },
+        {
+          "text": "Oblast bez odtoku do moře",
+          "correct": false
+        },
+        {
+          "text": "Plocha jezera",
+          "correct": false
+        }
+      ],
+      "explanation": "Povodí zahrnuje povrchový i podzemní odtok."
+    },
+    {
+      "question": "Zvodnělá vrstva (zvodeň) je typicky tvořena…",
+      "options": [
+        {
+          "text": "propustným pískem nebo pískovcem",
+          "correct": true
+        },
+        {
+          "text": "jíly a břidlicemi",
+          "correct": false
+        },
+        {
+          "text": "granitem bez puklin",
+          "correct": false
+        },
+        {
+          "text": "ledovcovým ledem",
+          "correct": false
+        }
+      ],
+      "explanation": "V zvodni obsahuje voda volné póry a může volně protékat."
+    },
+    {
+      "question": "Artéská voda vzniká, když…",
+      "options": [
+        {
+          "text": "je propustná vrstva mezi nepropustnými vrstvami a voda je pod tlakem",
+          "correct": true
+        },
+        {
+          "text": "voda stojí v propustném písku bez tlaku",
+          "correct": false
+        },
+        {
+          "text": "voda teče pouze v řece",
+          "correct": false
+        },
+        {
+          "text": "je voda zamrzlá v permafrostu",
+          "correct": false
+        }
+      ],
+      "explanation": "Při vrtu může voda vystřikovat nad úroveň terénu."
+    },
+    {
+      "question": "Kapilární voda se drží v půdě díky…",
+      "options": [
+        {
+          "text": "kapilárnímu napětí na povrchu minerálů",
+          "correct": true
+        },
+        {
+          "text": "vysokému tlaku vzduchu",
+          "correct": false
+        },
+        {
+          "text": "proudění řeky",
+          "correct": false
+        },
+        {
+          "text": "radioaktivnímu rozpadu",
+          "correct": false
+        }
+      ],
+      "explanation": "Nachází se v pásmu provzdušnění nad hladinou podzemní vody."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-10-hydrometrie-mereni-vodnich-stavu-a-prutoku-9",
+  "title": "Kvíz: Hydrometrie",
+  "questions": [
+    {
+      "question": "Evapotranspirace zahrnuje…",
+      "options": [
+        {
+          "text": "výpar z půdy a transpiraci rostlin",
+          "correct": true
+        },
+        {
+          "text": "pouze srážky",
+          "correct": false
+        },
+        {
+          "text": "pouze podzemní odtok",
+          "correct": false
+        },
+        {
+          "text": "jen tání sněhu",
+          "correct": false
+        }
+      ],
+      "explanation": "Spolu s infiltrací určuje, kolik vody zůstane pro odtok."
+    },
+    {
+      "question": "Zóna saturace je charakteristická tím, že…",
+      "options": [
+        {
+          "text": "všechny póry jsou vyplněny vodou",
+          "correct": true
+        },
+        {
+          "text": "póry jsou pouze částečně vlhké",
+          "correct": false
+        },
+        {
+          "text": "neobsahuje žádnou vodu",
+          "correct": false
+        },
+        {
+          "text": "je vždy nad úrovní půdy",
+          "correct": false
+        }
+      ],
+      "explanation": "Odděluje ji od pásma provzdušnění hladina podzemní vody."
+    },
+    {
+      "question": "Při intenzivním dešti na nasycené půdě…",
+      "options": [
+        {
+          "text": "vzniká rychlý povrchový odtok",
+          "correct": true
+        },
+        {
+          "text": "všechna voda se vsákne",
+          "correct": false
+        },
+        {
+          "text": "klesne hladina podzemní vody",
+          "correct": false
+        },
+        {
+          "text": "nefunguje gravitace",
+          "correct": false
+        }
+      ],
+      "explanation": "Infiltrační kapacita je vyčerpána → plošný odtok."
+    },
+    {
+      "question": "Hydrometrie se zabývá…",
+      "options": [
+        {
+          "text": "měřením a vyhodnocováním vodních stavů a průtoků",
+          "correct": true
+        },
+        {
+          "text": "pouze chemickou analýzou vody",
+          "correct": false
+        },
+        {
+          "text": "jen mapováním geologie",
+          "correct": false
+        },
+        {
+          "text": "výhradně předpovědí počasí",
+          "correct": false
+        }
+      ],
+      "explanation": "Data slouží pro hydrologické bilance a povodňovou ochranu."
+    }
+  ]
+}

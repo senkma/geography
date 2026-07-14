@@ -1,0 +1,116 @@
+{
+  "lessonId": "z0026p-3-zakladni-meteorologicke-prvky-slunecni-zareni-3",
+  "title": "Kvíz: Meteorologické prvky",
+  "questions": [
+    {
+      "question": "Kde se standardně měří teplota vzduchu na meteorologické stanici?",
+      "options": [
+        {
+          "text": "2 m nad zemí v bílé žaluziové budce",
+          "correct": true
+        },
+        {
+          "text": "Přímo na povrchu trávy",
+          "correct": false
+        },
+        {
+          "text": "10 m nad střechou budovy",
+          "correct": false
+        },
+        {
+          "text": "Ve stínu stromu bez krytu",
+          "correct": false
+        }
+      ],
+      "explanation": "Budka brání přímému slunečnímu záření a umožňuje cirkulaci vzduchu."
+    },
+    {
+      "question": "Kdy bývá obvykle denní minimum teploty vzduchu?",
+      "options": [
+        {
+          "text": "Půl hodiny až krátce po východu Slunce",
+          "correct": true
+        },
+        {
+          "text": "O půlnoci",
+          "correct": false
+        },
+        {
+          "text": "Ve 12. hodin",
+          "correct": false
+        },
+        {
+          "text": "Při západu Slunce",
+          "correct": false
+        }
+      ],
+      "explanation": "Nejprve pokračuje noční ochlazování, teprve pak sluneční ohřev."
+    },
+    {
+      "question": "Co je tepelný ostrov města?",
+      "options": [
+        {
+          "text": "Oblast s vyšší teplotou než okolní krajina, zejména v noci",
+          "correct": true
+        },
+        {
+          "text": "Oblast s nižší teplotou kvůli lesům",
+          "correct": false
+        },
+        {
+          "text": "Pouze zimní jev bez letního efektu",
+          "correct": false
+        },
+        {
+          "text": "Výhradně jev u pobřeží moře",
+          "correct": false
+        }
+      ],
+      "explanation": "Zástavba akumuluje teplo, odvádí srážkovou vodu a mění povrch."
+    },
+    {
+      "question": "Přibližný průměrný vertikální teplotní gradient v troposféře je…",
+      "options": [
+        {
+          "text": "0,65 °C na 100 m",
+          "correct": true
+        },
+        {
+          "text": "0,1 °C na 100 m",
+          "correct": false
+        },
+        {
+          "text": "2 °C na 100 m",
+          "correct": false
+        },
+        {
+          "text": "Teplota s výškou roste",
+          "correct": false
+        }
+      ],
+      "explanation": "S výškou teplota v troposféře obecně klesá."
+    },
+    {
+      "question": "Kolik procent vody na Zemi je slaných?",
+      "options": [
+        {
+          "text": "Přibližně 97,2 %",
+          "correct": true
+        },
+        {
+          "text": "50 %",
+          "correct": false
+        },
+        {
+          "text": "80 %",
+          "correct": false
+        },
+        {
+          "text": "99,9 %",
+          "correct": false
+        }
+      ],
+      "explanation": "Většina sladké vody je vázána v ledovcích a podzemních zásobách."
+    }
+  ]
+}

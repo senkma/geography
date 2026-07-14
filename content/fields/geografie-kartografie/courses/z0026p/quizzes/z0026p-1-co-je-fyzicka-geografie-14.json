@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-1-co-je-fyzicka-geografie-14",
+  "title": "Kvíz: Co je fyzická geografie?",
+  "questions": [
+    {
+      "question": "Jak se obvykle definuje krajina v geografickém smyslu?",
+      "options": [
+        {
+          "text": "Část zemského povrchu s typickou kombinací přírodních a kulturních prvků",
+          "correct": true
+        },
+        {
+          "text": "Výhradně přírodní pokryv bez vlivu člověka",
+          "correct": false
+        },
+        {
+          "text": "Pouze lesní porost a orná půda",
+          "correct": false
+        },
+        {
+          "text": "Administrativní jednotka obce nebo katastr",
+          "correct": false
+        }
+      ],
+      "explanation": "Krajina vzniká přetvářením přírodní krajiny lidskou činností."
+    },
+    {
+      "question": "Co je kritická zóna?",
+      "options": [
+        {
+          "text": "Propustná přípovrchová vrstva od korun stromů po spodní hranici podzemní vody",
+          "correct": true
+        },
+        {
+          "text": "Pouze půdní profil do hloubky 1 m",
+          "correct": false
+        },
+        {
+          "text": "Vrstva ozonu v stratosféře",
+          "correct": false
+        },
+        {
+          "text": "Zóna tektonické aktivita pod oceány",
+          "correct": false
+        }
+      ],
+      "explanation": "V kritické zóně probíhá výměna mezi litosférou, atmosférou, vodou a živými organismy."
+    },
+    {
+      "question": "Co typicky zvyšuje druhovou diverzitu ptáků v krajině?",
+      "options": [
+        {
+          "text": "Střídání otevřených ploch a lesů",
+          "correct": true
+        },
+        {
+          "text": "Monokultura smrku",
+          "correct": false
+        },
+        {
+          "text": "Souvislá zástavba",
+          "correct": false
+        },
+        {
+          "text": "Umělá nádrž bez břehů",
+          "correct": false
+        }
+      ],
+      "explanation": "Mozaikovitá struktura krajiny nabízí více ekologických nik."
+    },
+    {
+      "question": "Lesnatost krajiny je v první řadě ovlivněna…",
+      "options": [
+        {
+          "text": "způsobem využití země člověkem",
+          "correct": true
+        },
+        {
+          "text": "výhradně nadmořskou výškou",
+          "correct": false
+        },
+        {
+          "text": "směrem světových stran",
+          "correct": false
+        },
+        {
+          "text": "pouze typem matečné horniny",
+          "correct": false
+        }
+      ],
+      "explanation": "Odlesňování a zemědělství mění podíl lesa v krajině."
+    }
+  ]
+}

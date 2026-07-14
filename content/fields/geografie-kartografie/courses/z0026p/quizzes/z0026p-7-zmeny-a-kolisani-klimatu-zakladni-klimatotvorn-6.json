@@ -1,0 +1,116 @@
+{
+  "lessonId": "z0026p-7-zmeny-a-kolisani-klimatu-zakladni-klimatotvorn-6",
+  "title": "Kvíz: Klima a klasifikace",
+  "questions": [
+    {
+      "question": "Köppenova klasifikace vychází primárně z…",
+      "options": [
+        {
+          "text": "teploty a srážek",
+          "correct": true
+        },
+        {
+          "text": "jen z nadmořské výšky",
+          "correct": false
+        },
+        {
+          "text": "jen z tlaku",
+          "correct": false
+        },
+        {
+          "text": "jen z vegetace bez měření",
+          "correct": false
+        }
+      ],
+      "explanation": "Hranice pásů odpovídají typům vegetace a distribuci srážek."
+    },
+    {
+      "question": "Který Köppenův pás je charakteristický suchým klimatem (výpar > srážky)?",
+      "options": [
+        {
+          "text": "B",
+          "correct": true
+        },
+        {
+          "text": "A",
+          "correct": false
+        },
+        {
+          "text": "C",
+          "correct": false
+        },
+        {
+          "text": "E",
+          "correct": false
+        }
+      ],
+      "explanation": "Pás A = tropický, C = mírný, E = polární."
+    },
+    {
+      "question": "Co je izohyeta?",
+      "options": [
+        {
+          "text": "Čára stejného ročního množství srážek",
+          "correct": true
+        },
+        {
+          "text": "Čára stejné teploty",
+          "correct": false
+        },
+        {
+          "text": "Čára stejného tlaku",
+          "correct": false
+        },
+        {
+          "text": "Čára stejné nadmořské výšky",
+          "correct": false
+        }
+      ],
+      "explanation": "Analogicky k izotermě nebo izobarě."
+    },
+    {
+      "question": "Oceánské klima má oproti kontinentálnímu…",
+      "options": [
+        {
+          "text": "menší roční amplitudu teplot",
+          "correct": true
+        },
+        {
+          "text": "větší roční amplitudu teplot",
+          "correct": false
+        },
+        {
+          "text": "méně srážek",
+          "correct": false
+        },
+        {
+          "text": "nižší vlhkost vzduchu",
+          "correct": false
+        }
+      ],
+      "explanation": "Moře moderuje teplotní extrémy pevniny."
+    },
+    {
+      "question": "Klima v geografickém pojetí je…",
+      "options": [
+        {
+          "text": "dlouhodobý charakter počasí vyjádřený průměrnými hodnotami prvků",
+          "correct": true
+        },
+        {
+          "text": "okamžitý stav atmosféry",
+          "correct": false
+        },
+        {
+          "text": "pouze teplota v červenci",
+          "correct": false
+        },
+        {
+          "text": "výhradně globální oteplování",
+          "correct": false
+        }
+      ],
+      "explanation": "Klima vyžaduje dlouhé časové řady pozorování."
+    }
+  ]
+}

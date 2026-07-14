@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-11-vodni-rezim-rek-rezim-prutoku-a-typizace-rek-10",
+  "title": "Kvíz: Vodní režim řek",
+  "questions": [
+    {
+      "question": "Vodní režim řeky popisuje…",
+      "options": [
+        {
+          "text": "časové změny průtoku v závislosti na zdrojích vody",
+          "correct": true
+        },
+        {
+          "text": "pouze průměrnou teplotu vody",
+          "correct": false
+        },
+        {
+          "text": "chemické složení řeky",
+          "correct": false
+        },
+        {
+          "text": "šířku říční nivy v mapě",
+          "correct": false
+        }
+      ],
+      "explanation": "Zahrnuje základní (podzemní) i přímý (dešťový) odtok."
+    },
+    {
+      "question": "V období sucha obvykle…",
+      "options": [
+        {
+          "text": "klesá hladina podzemní vody a základní průtok",
+          "correct": true
+        },
+        {
+          "text": "stoupá hladina pod rozvodím",
+          "correct": false
+        },
+        {
+          "text": "průtok výhradně roste",
+          "correct": false
+        },
+        {
+          "text": "zmizí podzemní voda úplně",
+          "correct": false
+        }
+      ],
+      "explanation": "Řeky jsou zásobovány z podzemních zdrojů i v období bez srážek."
+    },
+    {
+      "question": "Povodňová vlna na řece často souvisí s…",
+      "options": [
+        {
+          "text": "plošným odtokem po intenzivních srážkách",
+          "correct": true
+        },
+        {
+          "text": "pouze táním ledovce",
+          "correct": false
+        },
+        {
+          "text": "poklesem teploty",
+          "correct": false
+        },
+        {
+          "text": "absencí srážek",
+          "correct": false
+        }
+      ],
+      "explanation": "Rychlý nárůst průtoku, když půda nevsákne dešťovou vodu."
+    },
+    {
+      "question": "Řeky jako geomorfologický činitel…",
+      "options": [
+        {
+          "text": "odnášejí sedimenty a modelují krajinu",
+          "correct": true
+        },
+        {
+          "text": "nemění reliéf",
+          "correct": false
+        },
+        {
+          "text": "působí jen v pouštích",
+          "correct": false
+        },
+        {
+          "text": "vznikají pouze pod ledovcem",
+          "correct": false
+        }
+      ],
+      "explanation": "Fluviální eroze a akumulace formují údolí a náplavy."
+    }
+  ]
+}

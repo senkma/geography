@@ -1,0 +1,116 @@
+{
+  "lessonId": "z0026p-4-vseobecna-cirkulace-atmosfery-vzduchove-hmoty-4",
+  "title": "Kvíz: Cirkulace atmosféry",
+  "questions": [
+    {
+      "question": "Jaká je normální hodnota barometrického tlaku na hladině moře?",
+      "options": [
+        {
+          "text": "1013,2 hPa",
+          "correct": true
+        },
+        {
+          "text": "7600 hPa",
+          "correct": false
+        },
+        {
+          "text": "500 hPa",
+          "correct": false
+        },
+        {
+          "text": "101,32 hPa",
+          "correct": false
+        }
+      ],
+      "explanation": "Odpovídá přibližně 760 mmHg (Torrů)."
+    },
+    {
+      "question": "Směr větru udáváme jako…",
+      "options": [
+        {
+          "text": "odkud vítr vane",
+          "correct": true
+        },
+        {
+          "text": "kam vítr vane",
+          "correct": false
+        },
+        {
+          "text": "kolmý směr k izobarám",
+          "correct": false
+        },
+        {
+          "text": "směr nejvyššího tlaku",
+          "correct": false
+        }
+      ],
+      "explanation": "Vítr vanoucí ze severu = severní vítr."
+    },
+    {
+      "question": "Co je anticyklona?",
+      "options": [
+        {
+          "text": "Oblast vysokého atmosférického tlaku",
+          "correct": true
+        },
+        {
+          "text": "Oblast nízkého tlaku",
+          "correct": false
+        },
+        {
+          "text": "Fronta studeného vzduchu",
+          "correct": false
+        },
+        {
+          "text": "Pás mezi dvěma frontami",
+          "correct": false
+        }
+      ],
+      "explanation": "V anticykloně obvykle sestupuje vzduch → jasno a stabilní počasí."
+    },
+    {
+      "question": "Jak se chová mořská bríza?",
+      "options": [
+        {
+          "text": "Odpoledne vanoucí od moře na pevninu",
+          "correct": true
+        },
+        {
+          "text": "V noci od moře na pevninu",
+          "correct": false
+        },
+        {
+          "text": "Celý den od pevniny k moři",
+          "correct": false
+        },
+        {
+          "text": "Jen v zimě od pevniny k moři",
+          "correct": false
+        }
+      ],
+      "explanation": "Pevnina se odpoledne rychleji ohřívá → tlakový gradient a vánek z moře."
+    },
+    {
+      "question": "Výpar z oceánů je přibližně kolikrát větší než z pevnin?",
+      "options": [
+        {
+          "text": "6×",
+          "correct": true
+        },
+        {
+          "text": "2×",
+          "correct": false
+        },
+        {
+          "text": "Stejný",
+          "correct": false
+        },
+        {
+          "text": "20×",
+          "correct": false
+        }
+      ],
+      "explanation": "Oceány jsou dominantním zdrojem vodní páry v hydrologickém cyklu."
+    }
+  ]
+}

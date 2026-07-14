@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-3-7-glacialni-procesy-23",
+  "title": "Kvíz: Glaciální procesy",
+  "questions": [
+    {
+      "question": "Ledovec vzniká tam, kde…",
+      "options": [
+        {
+          "text": "akumulace sněhu převyšuje ablaci (tání)",
+          "correct": true
+        },
+        {
+          "text": "nikdy nesněží",
+          "correct": false
+        },
+        {
+          "text": "je pouze větrná eroze",
+          "correct": false
+        },
+        {
+          "text": "teplota je vždy nad 0 °C",
+          "correct": false
+        }
+      ],
+      "explanation": "Čára sněžnice odděluje akumulační a ablační zónu."
+    },
+    {
+      "question": "Kolik % ledovcového ledu tvoří Antarktida a Grónsko?",
+      "options": [
+        {
+          "text": "Přibližně 96 %",
+          "correct": true
+        },
+        {
+          "text": "50 %",
+          "correct": false
+        },
+        {
+          "text": "70 %",
+          "correct": false
+        },
+        {
+          "text": "100 %",
+          "correct": false
+        }
+      ],
+      "explanation": "Zbývající ledovce jsou horské a polární mimo tyto štíty."
+    },
+    {
+      "question": "Roztátí všech současných ledovců by zvýšilo hladinu moří asi o…",
+      "options": [
+        {
+          "text": "65,6 m",
+          "correct": true
+        },
+        {
+          "text": "6,5 m",
+          "correct": false
+        },
+        {
+          "text": "656 m",
+          "correct": false
+        },
+        {
+          "text": "0,6 m",
+          "correct": false
+        }
+      ],
+      "explanation": "Většina zásob sladké vody je vázána v ledovcích."
+    },
+    {
+      "question": "Glaciální procesy patří mezi…",
+      "options": [
+        {
+          "text": "exogenní geomorfologické činitele",
+          "correct": true
+        },
+        {
+          "text": "endogenní tektonické síly",
+          "correct": false
+        },
+        {
+          "text": "pouze biogenní činitele",
+          "correct": false
+        },
+        {
+          "text": "výhradně antropogenní faktory",
+          "correct": false
+        }
+      ],
+      "explanation": "Led a sníh modelují reliéf v chladných oblastech."
+    }
+  ]
+}

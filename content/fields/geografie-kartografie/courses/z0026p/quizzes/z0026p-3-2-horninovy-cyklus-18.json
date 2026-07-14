@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-3-2-horninovy-cyklus-18",
+  "title": "Kvíz: Horninový cyklus",
+  "questions": [
+    {
+      "question": "Pozitivní gradace znamená, že velikost částic…",
+      "options": [
+        {
+          "text": "se odspodu nahoru zmenšuje",
+          "correct": true
+        },
+        {
+          "text": "se odspodu nahoru zvětšuje",
+          "correct": false
+        },
+        {
+          "text": "je všude stejná",
+          "correct": false
+        },
+        {
+          "text": "nezávisí na vrstvách",
+          "correct": false
+        }
+      ],
+      "explanation": "U sedimentů často odráží ustupující energii prostředí při ukládání."
+    },
+    {
+      "question": "Sekundární minerály vznikají převážně…",
+      "options": [
+        {
+          "text": "přeměnou primárních minerálů (často zvětráváním)",
+          "correct": true
+        },
+        {
+          "text": "při tání magmatu",
+          "correct": false
+        },
+        {
+          "text": "pouze v kosmu",
+          "correct": false
+        },
+        {
+          "text": "bez jakékoli změny prostředí",
+          "correct": false
+        }
+      ],
+      "explanation": "Primární minerály jsou stabilní za podmínek vzniku horniny."
+    },
+    {
+      "question": "Akcesorické minerály tvoří objemově…",
+      "options": [
+        {
+          "text": "nejvýše asi 5 %",
+          "correct": true
+        },
+        {
+          "text": "vždy více než 50 %",
+          "correct": false
+        },
+        {
+          "text": "přesně 10 %",
+          "correct": false
+        },
+        {
+          "text": "0 %",
+          "correct": false
+        }
+      ],
+      "explanation": "Hlavní minerály >10 %, vedlejší <10 % objemu."
+    },
+    {
+      "question": "Vrstva v sedimentech je vymezena…",
+      "options": [
+        {
+          "text": "vrstevními plochami a odlišným složením od sousedních vrstev",
+          "correct": true
+        },
+        {
+          "text": "pouze barvou bez rozhraní",
+          "correct": false
+        },
+        {
+          "text": "výhradně fosiliemi",
+          "correct": false
+        },
+        {
+          "text": "směrem severu",
+          "correct": false
+        }
+      ],
+      "explanation": "Vrstvy mohou být ukloněny vůči horizontále."
+    }
+  ]
+}

@@ -2,9 +2,19 @@ import { useMemo, useState } from "react";
 import type { Quiz } from "../types";
 import { Icon } from "./Icon";
 
+function scoreMessage(score: number, total: number): { text: string; tone: string } {
+  const pct = total ? (score / total) * 100 : 0;
+  if (pct === 100) return { text: "Výborně — všechno sedí!", tone: "perfect" };
+  if (pct >= 80) return { text: "Skvělá práce, jen drobnosti.", tone: "great" };
+  if (pct >= 60) return { text: "Solidní základ — projdi si vysvětlení.", tone: "good" };
+  if (pct >= 40) return { text: "Ještě procvič — lekci máš v hlavě z poloviny.", tone: "ok" };
+  return { text: "Zkus to znovu po přečtení lekce.", tone: "retry" };
+}
+
 export function QuizView({ quiz }: { quiz: Quiz }) {
   const [answers, setAnswers] = useState<Record<number, number>>({});
   const [submitted, setSubmitted] = useState(false);
+  const [active, setActive] = useState(0);
 
   const score = useMemo(() => {
     let s = 0;
@@ -16,58 +26,94 @@ export function QuizView({ quiz }: { quiz: Quiz }) {
   }, [answers, quiz.questions]);
 
   const total = quiz.questions.length;
-  const allAnswered = Object.keys(answers).length === total;
+  const answered = Object.keys(answers).length;
+  const progress = total ? (answered / total) * 100 : 0;
+  const result = scoreMessage(score, total);
 
   function choose(qi: number, oi: number) {
     if (submitted) return;
     setAnswers((a) => ({ ...a, [qi]: oi }));
+    if (qi < total - 1) {
+      setTimeout(() => setActive(qi + 1), 180);
+    }
   }
 
   function reset() {
     setAnswers({});
     setSubmitted(false);
+    setActive(0);
   }
 
   return (
-    <div className="card p-5 sm:p-6">
-      <div className="flex items-center gap-2.5 mb-5">
-        <span className="grid place-items-center w-9 h-9 rounded-md bg-[var(--surface-muted)] border-2 border-[var(--border)]">
+    <div className="quiz-shell">
+      <header className="quiz-header">
+        <div className="quiz-header-icon">
           <Icon name="quiz" className="w-5 h-5 text-[var(--accent-2)]" />
-        </span>
-        <div>
-          <h3 className="font-semibold leading-tight">{quiz.title}</h3>
-          <p className="text-xs text-[var(--text-dim)]">
+        </div>
+        <div className="min-w-0 flex-1">
+          <h3 className="quiz-title">{quiz.title}</h3>
+          <p className="quiz-meta">
             {total} {total === 1 ? "otázka" : total < 5 ? "otázky" : "otázek"}
+            {!submitted && ` · zodpovězeno ${answered}/${total}`}
           </p>
         </div>
-      </div>
+        {submitted && (
+          <div className={`quiz-score-badge quiz-score-badge--${result.tone}`}>
+            <span className="quiz-score-num">
+              {score}/{total}
+            </span>
+          </div>
+        )}
+      </header>
 
-      <ol className="space-y-6">
+      {!submitted && (
+        <div className="quiz-progress" aria-hidden>
+          <div className="quiz-progress-bar" style={{ width: `${progress}%` }} />
+        </div>
+      )}
+
+      {submitted && (
+        <div className={`quiz-result-banner quiz-result-banner--${result.tone}`}>
+          <p className="font-semibold">{result.text}</p>
+          <p className="text-sm opacity-90 mt-0.5">
+            Správně {score} z {total} ({Math.round((score / total) * 100)} %)
+          </p>
+        </div>
+      )}
+
+      <div className="quiz-questions">
         {quiz.questions.map((q, qi) => {
           const chosen = answers[qi];
+          const isActive = !submitted && qi === active;
+          const isDone = answers[qi] != null;
+
           return (
-            <li key={qi}>
-              <p className="font-medium mb-3">
-                <span className="text-[var(--text-dim)] mr-2">{qi + 1}.</span>
-                {q.question}
-              </p>
-              <div className="grid gap-2">
+            <article
+              key={qi}
+              className={`quiz-question ${isActive ? "quiz-question--active" : ""} ${
+                isDone && !submitted ? "quiz-question--done" : ""
+              }`}
+              id={`quiz-q-${qi}`}
+            >
+              <div className="quiz-question-head">
+                <span className="quiz-question-num">{qi + 1}</span>
+                <p className="quiz-question-text">{q.question}</p>
+              </div>
+
+              <div className="quiz-options">
                 {q.options.map((opt, oi) => {
                   const isChosen = chosen === oi;
                   const showState = submitted && (isChosen || opt.correct);
                   const correct = opt.correct;
-                  let cls =
-                    "text-left px-4 py-3 rounded-xl border transition flex items-center gap-3 ";
+                  let cls = "quiz-option ";
                   if (showState) {
                     cls += correct
-                      ? "border-emerald-500/70 bg-emerald-100 text-emerald-900"
-                      : "border-rose-400/70 bg-rose-100 text-rose-900";
+                      ? "quiz-option--correct"
+                      : "quiz-option--wrong";
                   } else if (isChosen) {
-                    cls += "border-sky-400/70 bg-sky-100";
-                  } else {
-                    cls +=
-                      "border-[var(--border)] bg-white/60 hover:bg-white";
+                    cls += "quiz-option--chosen";
                   }
+
                   return (
                     <button
                       key={oi}
@@ -76,7 +122,7 @@ export function QuizView({ quiz }: { quiz: Quiz }) {
                       className={cls}
                       disabled={submitted}
                     >
-                      <span className="grid place-items-center w-5 h-5 shrink-0 rounded-full border border-current/40 text-[11px]">
+                      <span className="quiz-option-letter">
                         {submitted && correct ? (
                           <Icon name="check" className="w-3.5 h-3.5" />
                         ) : submitted && isChosen && !correct ? (
@@ -85,51 +131,43 @@ export function QuizView({ quiz }: { quiz: Quiz }) {
                           String.fromCharCode(65 + oi)
                         )}
                       </span>
-                      <span className="text-sm">{opt.text}</span>
+                      <span className="text-sm leading-snug">{opt.text}</span>
                     </button>
                   );
                 })}
               </div>
+
               {submitted && q.explanation && (
-                <p className="mt-2.5 text-sm text-[var(--text-dim)] border-l-2 border-emerald-400/60 ml-1 pl-3">
-                  {q.explanation}
-                </p>
+                <p className="quiz-explanation">{q.explanation}</p>
               )}
-            </li>
+            </article>
           );
         })}
-      </ol>
+      </div>
 
-      <div className="mt-6 flex items-center justify-between gap-3">
+      <footer className="quiz-footer">
         {submitted ? (
-          <>
-            <p className="text-sm">
-              Výsledek:{" "}
-              <span className="font-semibold gold-text text-base">
-                {score} / {total}
-              </span>
-            </p>
-            <button className="btn" onClick={reset}>
-              Zkusit znovu
-            </button>
-          </>
+          <button type="button" className="btn" onClick={reset}>
+            Zkusit znovu
+          </button>
         ) : (
           <>
             <p className="text-xs text-[var(--text-dim)]">
-              {allAnswered
+              {answered === total
                 ? "Vše zodpovězeno — můžeš vyhodnotit."
-                : `Zodpovězeno ${Object.keys(answers).length}/${total}`}
+                : "Klikni na odpověď — postupně projdeš všechny otázky."}
             </p>
             <button
+              type="button"
               className="btn btn-primary disabled:opacity-40 disabled:cursor-not-allowed"
               onClick={() => setSubmitted(true)}
-              disabled={!allAnswered}
+              disabled={answered < total}
             >
               Vyhodnotit
             </button>
           </>
         )}
-      </div>
+      </footer>
     </div>
   );
 }

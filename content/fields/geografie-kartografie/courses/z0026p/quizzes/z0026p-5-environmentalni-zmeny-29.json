@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-5-environmentalni-zmeny-29",
+  "title": "Kvíz: Environmentální změny",
+  "questions": [
+    {
+      "question": "Uniformitarianismus předpokládá, že geologické procesy…",
+      "options": [
+        {
+          "text": "probíhají stejnými zákony jako dnes, včetně pomalých změn",
+          "correct": true
+        },
+        {
+          "text": "v minulosti neexistovaly",
+          "correct": false
+        },
+        {
+          "text": "byly vždy katastrofické",
+          "correct": false
+        },
+        {
+          "text": "se týkají jen Měsíce",
+          "correct": false
+        }
+      ],
+      "explanation": "„The present is the key to the past.“"
+    },
+    {
+      "question": "Katastrofismus zdůrazňuje…",
+      "options": [
+        {
+          "text": "rychlé události formující reliéf",
+          "correct": true
+        },
+        {
+          "text": "pouze pomalé změny",
+          "correct": false
+        },
+        {
+          "text": "absenci vulkanismu",
+          "correct": false
+        },
+        {
+          "text": "výhradně lidskou činnost",
+          "correct": false
+        }
+      ],
+      "explanation": "Historická debata s uniformitarianismem o tempu změn."
+    },
+    {
+      "question": "Radiometrické datování (např. U-Pb) slouží k…",
+      "options": [
+        {
+          "text": "určení stáří hornin",
+          "correct": true
+        },
+        {
+          "text": "měření průtoku řeky",
+          "correct": false
+        },
+        {
+          "text": "předpovědi počasí",
+          "correct": false
+        },
+        {
+          "text": "mapování půdních typů",
+          "correct": false
+        }
+      ],
+      "explanation": "Radioaktivní rozpad poskytuje časovou osu geologie."
+    },
+    {
+      "question": "Nejstarší známé minerály na Zemi (Jack Hills) mají stáří přes…",
+      "options": [
+        {
+          "text": "4,4 miliardy let",
+          "correct": true
+        },
+        {
+          "text": "4,4 milionu let",
+          "correct": false
+        },
+        {
+          "text": "440 milionů let",
+          "correct": false
+        },
+        {
+          "text": "44 000 let",
+          "correct": false
+        }
+      ],
+      "explanation": "U-Pb datování zirkonů z australských hornin."
+    }
+  ]
+}

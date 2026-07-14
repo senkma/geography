@@ -1,0 +1,116 @@
+{
+  "lessonId": "z0026p-1-uvod-do-studia-fyzicke-geografie-fg-jako-vedni-1",
+  "title": "Kvíz: Úvod do fyzické geografie",
+  "questions": [
+    {
+      "question": "Co je hlavním objektem studia fyzické geografie?",
+      "options": [
+        {
+          "text": "Fyzickogeografická sféra Země",
+          "correct": true
+        },
+        {
+          "text": "Socioekonomická sféra Země",
+          "correct": false
+        },
+        {
+          "text": "Pouze litosféra a georeliéf",
+          "correct": false
+        },
+        {
+          "text": "Krajinná sféra včetně lidské kultury",
+          "correct": false
+        }
+      ],
+      "explanation": "FG studuje přírodní geosféry a procesy v nich; krajinná sféra vzniká až spojením s lidskou činností."
+    },
+    {
+      "question": "Která geosféra je definována teplotou pod bodem mrazu po více než 2 roky?",
+      "options": [
+        {
+          "text": "Kryosféra",
+          "correct": true
+        },
+        {
+          "text": "Pedosféra",
+          "correct": false
+        },
+        {
+          "text": "Hydrosféra",
+          "correct": false
+        },
+        {
+          "text": "Biosféra",
+          "correct": false
+        }
+      ],
+      "explanation": "Kryosféra zahrnuje část kůry a hydrosféry trvale zamrzlé nebo s dlouhodobě zápornou teplotou."
+    },
+    {
+      "question": "Podle Stefan-Boltzmannova zákona platí, že teplejší tělesa…",
+      "options": [
+        {
+          "text": "vyzařují výrazně více energie než chladnější",
+          "correct": true
+        },
+        {
+          "text": "vyzařují jen kratší vlnové délky",
+          "correct": false
+        },
+        {
+          "text": "mají vždy nižší albedo",
+          "correct": false
+        },
+        {
+          "text": "pohlcují méně slunečního záření",
+          "correct": false
+        }
+      ],
+      "explanation": "Intenzita vyzařování roste s čtvrtou mocninou absolutní teploty tělesa."
+    },
+    {
+      "question": "Jaká je přibližná hodnota solární konstanty?",
+      "options": [
+        {
+          "text": "1367 W·m⁻²",
+          "correct": true
+        },
+        {
+          "text": "100 W·m⁻²",
+          "correct": false
+        },
+        {
+          "text": "367 W·m⁻²",
+          "correct": false
+        },
+        {
+          "text": "2367 W·m⁻²",
+          "correct": false
+        }
+      ],
+      "explanation": "Solární konstanta je intenzita záření na horní hranici atmosféry při střední vzdálenosti Země od Slunce."
+    },
+    {
+      "question": "Která trojice odpovídá klíčovým geografickým otázkám?",
+      "options": [
+        {
+          "text": "Kde? — Proč tam? — Co s tím?",
+          "correct": true
+        },
+        {
+          "text": "Kdy? — Kolik? — Kdo?",
+          "correct": false
+        },
+        {
+          "text": "Jak hluboko? — Jak rychle? — Kam odtéká?",
+          "correct": false
+        },
+        {
+          "text": "Co je to? — Jak staré? — Z čeho se skládá?",
+          "correct": false
+        }
+      ],
+      "explanation": "Geografie kombinuje prostorovou distribuci, vysvětlení a aplikaci poznatků."
+    }
+  ]
+}

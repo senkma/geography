@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-3-6-fluvialni-procesy-22",
+  "title": "Kvíz: Fluviální procesy",
+  "questions": [
+    {
+      "question": "Povodí je území, které…",
+      "options": [
+        {
+          "text": "odvádí vodu do jednoho závěrného profilu",
+          "correct": true
+        },
+        {
+          "text": "nemá žádný odtok",
+          "correct": false
+        },
+        {
+          "text": "odtéká do dvou oceánů",
+          "correct": false
+        },
+        {
+          "text": "je vždy menší než 1 km²",
+          "correct": false
+        }
+      ],
+      "explanation": "Zahrnuje síť toků, podzemní odtok i srážky na povrchu."
+    },
+    {
+      "question": "Plošný odtok vzniká, když…",
+      "options": [
+        {
+          "text": "krajina nepojme srážkovou vodu infiltrací",
+          "correct": true
+        },
+        {
+          "text": "je půda vždy suchá",
+          "correct": false
+        },
+        {
+          "text": "nejsou žádné srážky",
+          "correct": false
+        },
+        {
+          "text": "voda proudí jen v podzemí",
+          "correct": false
+        }
+      ],
+      "explanation": "Voda se rozlévá po povrchu a koncentruje se do rýh."
+    },
+    {
+      "question": "Vysoké srážky jsou typické pro…",
+      "options": [
+        {
+          "text": "rovníkové a monzunové oblasti",
+          "correct": true
+        },
+        {
+          "text": "vnitrozemské pouště",
+          "correct": false
+        },
+        {
+          "text": "střední Arktidu",
+          "correct": false
+        },
+        {
+          "text": "všechny polární oblasti bez výjimky",
+          "correct": false
+        }
+      ],
+      "explanation": "Nízké srážky: suché subtropy a některé polární oblasti."
+    },
+    {
+      "question": "Fluviální systém zahrnuje jako komponenty např…",
+      "options": [
+        {
+          "text": "odtok, sedimenty a síť toků",
+          "correct": true
+        },
+        {
+          "text": "pouze teplotu vzduchu",
+          "correct": false
+        },
+        {
+          "text": "jen biosféru",
+          "correct": false
+        },
+        {
+          "text": "výhradně větrnou erosi",
+          "correct": false
+        }
+      ],
+      "explanation": "Řádovost toků popisuje hierarchii v drenážní síti."
+    }
+  ]
+}

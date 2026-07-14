@@ -1,0 +1,94 @@
+{
+  "lessonId": "z0026p-3-10-pedogeneze-26",
+  "title": "Kvíz: Pedogeneze",
+  "questions": [
+    {
+      "question": "Půdotvorné faktory (klimaxová rovnice) jsou…",
+      "options": [
+        {
+          "text": "matečná hornina, klima, organismy, reliéf, čas",
+          "correct": true
+        },
+        {
+          "text": "pouze teplota a srážky",
+          "correct": false
+        },
+        {
+          "text": "jen nadmořská výška",
+          "correct": false
+        },
+        {
+          "text": "výhradně lidská činnost",
+          "correct": false
+        }
+      ],
+      "explanation": "Jen s aktivními faktory vzniká z horniny půda."
+    },
+    {
+      "question": "Humus je…",
+      "options": [
+        {
+          "text": "částečně rozložená organická hmota v půdě",
+          "correct": true
+        },
+        {
+          "text": "čistý jíl bez organiky",
+          "correct": false
+        },
+        {
+          "text": "pouze živý kořen",
+          "correct": false
+        },
+        {
+          "text": "výhradně minerální část půdy",
+          "correct": false
+        }
+      ],
+      "explanation": "Vzniká rozkladem rostlinných a živočišných zbytků."
+    },
+    {
+      "question": "Jílová frakce má zrnitost…",
+      "options": [
+        {
+          "text": "menší než 0,002 mm",
+          "correct": true
+        },
+        {
+          "text": "0,02–2 mm",
+          "correct": false
+        },
+        {
+          "text": "2–20 mm",
+          "correct": false
+        },
+        {
+          "text": "větší než 2 mm",
+          "correct": false
+        }
+      ],
+      "explanation": "Prach: 0,002–0,02 mm; písek: 0,02–2 mm."
+    },
+    {
+      "question": "Bez činnosti organismů by půdy…",
+      "options": [
+        {
+          "text": "nemohly vzniknout",
+          "correct": true
+        },
+        {
+          "text": "byly identické s matečnou horninou",
+          "correct": false
+        },
+        {
+          "text": "existovaly jen v pouštích",
+          "correct": false
+        },
+        {
+          "text": "neměly žádnou vodu",
+          "correct": false
+        }
+      ],
+      "explanation": "Biogenní činitelé mění horninu a tvoří profil půdy."
+    }
+  ]
+}
