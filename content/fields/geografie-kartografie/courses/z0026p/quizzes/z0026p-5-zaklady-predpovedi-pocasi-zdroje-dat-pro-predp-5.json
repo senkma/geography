@@ -89,6 +89,358 @@
         }
       ],
       "explanation": "P = polární, A = arktická, m/c = mořská/kontinentální."
+    },
+    {
+      "question": "Které tvrzení patří k okruhu „Základy předpovědi počasí: zdroje dat pro předp…\"?",
+      "options": [
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        },
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost vzduchu, oblačnost)…",
+          "correct": true
+        },
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost vzduchu, oblačnost)…",
+          "correct": false
+        }
+      ],
+      "explanation": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost vzduchu, oblačnost)…"
+    },
+    {
+      "question": "Které tvrzení odpovídá obsahu lekce?",
+      "options": [
+        {
+          "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+          "correct": false
+        },
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": true
+        },
+        {
+          "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+          "correct": false
+        },
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+          "correct": false
+        }
+      ],
+      "explanation": "Správně: 6.1 Putující cyklony a anticyklony"
+    },
+    {
+      "question": "Co je správné tvrzení k pojmu „dělení vzduchových hmot podle termodynamického hlediska\"?",
+      "options": [
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        },
+        {
+          "text": "a) teplé – při přemisťování do dané oblasti se ochlazují, přinášejí oteplení, stabilní zvrstvení nebo inverze b) studené - při přemisťování do dané oblasti se oteplují, přinášejí …",
+          "correct": true
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        },
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost vzduchu, oblačnost)…",
+          "correct": false
+        }
+      ],
+      "explanation": "Výklad: a) teplé – při přemisťování do dané oblasti se ochlazují, přinášejí oteplení, stabilní zvrstvení nebo inverze b) studené - při přemisťování do dané oblasti se oteplují, přinášejí …"
+    },
+    {
+      "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (8)",
+      "options": [
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+          "correct": false
+        },
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        },
+        {
+          "text": "a) frontální cyklony mírných a polárních šířek – od slabých po cyklonální bouře",
+          "correct": true
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        }
+      ],
+      "explanation": "a) frontální cyklony mírných a polárních šířek – od slabých po cyklonální bouře"
+    },
+    {
+      "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (9)",
+      "options": [
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+          "correct": false
+        },
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        },
+        {
+          "text": "b) tropické cyklony tropického nebo subtropického pásma – od mírných po destruktivní • anticyklony: sestupné pohyby, jasné počasí (někdy kumuly), v centru slab…",
+          "correct": true
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        }
+      ],
+      "explanation": "b) tropické cyklony tropického nebo subtropického pásma – od mírných po destruktivní • anticyklony: sestupné pohyby, jasné počasí (někdy kumuly), v centru slab…"
+    },
+    {
+      "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (10)",
+      "options": [
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+          "correct": false
+        },
+        {
+          "text": "6.1.1 Vzduchové hmoty",
+          "correct": true
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        },
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        }
+      ],
+      "explanation": "6.1.1 Vzduchové hmoty"
+    },
+    {
+      "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (11)",
+      "options": [
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+          "correct": false
+        },
+        {
+          "text": "Vzduchová hmota Symbol Oblast vzniku Arktická A Severní ledový oceán a přilehlá pevnina Antarktická AA Antarktida Polární P kontinenty a oceány, 50-60º z.š.",
+          "correct": true
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        },
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        }
+      ],
+      "explanation": "Vzduchová hmota Symbol Oblast vzniku Arktická A Severní ledový oceán a přilehlá pevnina Antarktická AA Antarktida Polární P kontinenty a oceány, 50-60º z.š."
+    },
+    {
+      "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (12)",
+      "options": [
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+          "correct": false
+        },
+        {
+          "text": "Tropická T kontinenty a oceány, 20-35º z.š.",
+          "correct": true
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        },
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        }
+      ],
+      "explanation": "Tropická T kontinenty a oceány, 20-35º z.š."
+    },
+    {
+      "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (13)",
+      "options": [
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+          "correct": false
+        },
+        {
+          "text": "Ekvatoriální E oceány blízko rovníku",
+          "correct": true
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        },
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        }
+      ],
+      "explanation": "Ekvatoriální E oceány blízko rovníku"
+    },
+    {
+      "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (14)",
+      "options": [
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+          "correct": false
+        },
+        {
+          "text": "dělení vzduchových hmot podle typu aktivního povrchu, nad nímž vznikají: mořské (m) – nad oceány a kontinentální (c) – nad pevninou",
+          "correct": true
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        },
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        }
+      ],
+      "explanation": "dělení vzduchových hmot podle typu aktivního povrchu, nad nímž vznikají: mořské (m) – nad oceány a kontinentální (c) – nad pevninou"
+    },
+    {
+      "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (15)",
+      "options": [
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+          "correct": false
+        },
+        {
+          "text": "a) teplé – při přemisťování do dané oblasti se ochlazují, přinášejí oteplení, stabilní zvrstvení nebo inverze b) studené - při přemisťování do dané oblasti se …",
+          "correct": true
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        },
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        }
+      ],
+      "explanation": "a) teplé – při přemisťování do dané oblasti se ochlazují, přinášejí oteplení, stabilní zvrstvení nebo inverze b) studené - při přemisťování do dané oblasti se …"
+    },
+    {
+      "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (16)",
+      "options": [
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+          "correct": false
+        },
+        {
+          "text": "6.1.2 Studená, teplá a oklusní fronta",
+          "correct": true
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        },
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        }
+      ],
+      "explanation": "6.1.2 Studená, teplá a oklusní fronta"
+    },
+    {
+      "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (17)",
+      "options": [
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+          "correct": false
+        },
+        {
+          "text": "fronta – ostře vyjádřená hranice oddělující jednu vzduchovou hmotu od druhé",
+          "correct": true
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        },
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        }
+      ],
+      "explanation": "fronta – ostře vyjádřená hranice oddělující jednu vzduchovou hmotu od druhé"
+    },
+    {
+      "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (18)",
+      "options": [
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+          "correct": false
+        },
+        {
+          "text": "pohybuje-li se jedna vzduchová hmota do druhé, fronta svírá malý úhel s povrchem Obr.",
+          "correct": true
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        },
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        }
+      ],
+      "explanation": "pohybuje-li se jedna vzduchová hmota do druhé, fronta svírá malý úhel s povrchem Obr."
+    },
+    {
+      "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (19)",
+      "options": [
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+          "correct": false
+        },
+        {
+          "text": "6.3/138 – SS + 2.49/55 + 2.50/56 z Netopil: Fyzická geografie I",
+          "correct": true
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        },
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        }
+      ],
+      "explanation": "6.3/138 – SS + 2.49/55 + 2.50/56 z Netopil: Fyzická geografie I"
+    },
+    {
+      "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (20)",
+      "options": [
+        {
+          "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+          "correct": false
+        },
+        {
+          "text": "studená fronta – klín postupujícího studeného vzduchu, vynucený výstup vzduchu – cumulonimby Cb, bouřky, přeháňky Obr.",
+          "correct": true
+        },
+        {
+          "text": "povětrnost – ráz počasí během několika dnů",
+          "correct": false
+        },
+        {
+          "text": "6.1 Putující cyklony a anticyklony",
+          "correct": false
+        }
+      ],
+      "explanation": "studená fronta – klín postupujícího studeného vzduchu, vynucený výstup vzduchu – cumulonimby Cb, bouřky, přeháňky Obr."
     }
   ]
 }

@@ -72,14 +72,18 @@ export function CoursePage() {
                 Lekce a materiály
               </h2>
               <div className="space-y-3">
-                {course.lessons.map((l, i) => (
-                  <LessonListItem
-                    key={l.id}
-                    lesson={l}
-                    index={i}
-                    to={`/obor/${field.id}/predmet/${course.id}/lekce/${l.id}`}
-                  />
-                ))}
+                {course.lessons.map((l, i) => {
+                  const base = `/obor/${field.id}/predmet/${course.id}/lekce/${l.id}`;
+                  return (
+                    <LessonListItem
+                      key={l.id}
+                      lesson={l}
+                      index={i}
+                      lessonTo={base}
+                      quizTo={l.quiz ? `${base}?sekce=kviz` : undefined}
+                    />
+                  );
+                })}
               </div>
             </section>
           ) : (

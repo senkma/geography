@@ -231,7 +231,7 @@ function SubjectBlock({
                   key={lesson.id}
                   lesson={lesson}
                   index={i}
-                  to={`${base}/${lesson.id}`}
+                  lessonTo={`${base}/${lesson.id}`}
                   compact
                 />
               ))}

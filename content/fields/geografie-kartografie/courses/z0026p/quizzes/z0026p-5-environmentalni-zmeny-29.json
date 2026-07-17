@@ -89,6 +89,358 @@
         }
       ],
       "explanation": "U-Pb datování zirkonů z australských hornin."
+    },
+    {
+      "question": "Které tvrzení patří k okruhu „Environmentální změny\"?",
+      "options": [
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        },
+        {
+          "text": "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)",
+          "correct": false
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": true
+        },
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        }
+      ],
+      "explanation": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (6)",
+      "options": [
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        },
+        {
+          "text": "Červená barva – pozemský materiál (magma)",
+          "correct": true
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": false
+        }
+      ],
+      "explanation": "Červená barva – pozemský materiál (magma)"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (7)",
+      "options": [
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        },
+        {
+          "text": "Zemský povrch vzniká pomalým, ale neustávajícím působením přírodních procesů; přepokládá stálost:",
+          "correct": true
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": false
+        }
+      ],
+      "explanation": "Zemský povrch vzniká pomalým, ale neustávajícím působením přírodních procesů; přepokládá stálost:"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (8)",
+      "options": [
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        },
+        {
+          "text": "Rychlosti vývoje (pomalé, postupné změny)",
+          "correct": true
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": false
+        }
+      ],
+      "explanation": "Rychlosti vývoje (pomalé, postupné změny)"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (9)",
+      "options": [
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        },
+        {
+          "text": "Řada rysů zemského povrchu vznikla při rychlých událostech (kataklyzmatech), spíše než pozvolnou změnou",
+          "correct": true
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": false
+        }
+      ],
+      "explanation": "Řada rysů zemského povrchu vznikla při rychlých událostech (kataklyzmatech), spíše než pozvolnou změnou"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (10)",
+      "options": [
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        },
+        {
+          "text": "Tvářnost zemského povrchu a rychlost jeho změn se v minulosti lišila",
+          "correct": true
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": false
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        }
+      ],
+      "explanation": "Tvářnost zemského povrchu a rychlost jeho změn se v minulosti lišila"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (11)",
+      "options": [
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        },
+        {
+          "text": "Projdi výtah a vlastní poznámky z přednášky",
+          "correct": true
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": false
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        }
+      ],
+      "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (12)",
+      "options": [
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        },
+        {
+          "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+          "correct": true
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": false
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        }
+      ],
+      "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (13)",
+      "options": [
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        },
+        {
+          "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+          "correct": true
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": false
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        }
+      ],
+      "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (14)",
+      "options": [
+        {
+          "text": "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)",
+          "correct": false
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": true
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        },
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        }
+      ],
+      "explanation": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (15)",
+      "options": [
+        {
+          "text": "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)",
+          "correct": false
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": true
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": false
+        },
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        }
+      ],
+      "explanation": "Způsob určení stáří: radiometrické (U-Pb)"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (16)",
+      "options": [
+        {
+          "text": "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)",
+          "correct": false
+        },
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": true
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": false
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        }
+      ],
+      "explanation": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (17)",
+      "options": [
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        },
+        {
+          "text": "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)",
+          "correct": true
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": false
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        }
+      ],
+      "explanation": "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (18)",
+      "options": [
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        },
+        {
+          "text": "Horniny Měsíce převážně pozemského původu",
+          "correct": true
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": false
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        }
+      ],
+      "explanation": "Horniny Měsíce převážně pozemského původu"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (19)",
+      "options": [
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        },
+        {
+          "text": "Červená barva – pozemský materiál (magma)",
+          "correct": true
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": false
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        }
+      ],
+      "explanation": "Červená barva – pozemský materiál (magma)"
+    },
+    {
+      "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (20)",
+      "options": [
+        {
+          "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+          "correct": false
+        },
+        {
+          "text": "Zemský povrch vzniká pomalým, ale neustávajícím působením přírodních procesů; přepokládá stálost:",
+          "correct": true
+        },
+        {
+          "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+          "correct": false
+        },
+        {
+          "text": "Způsob určení stáří: radiometrické (U-Pb)",
+          "correct": false
+        }
+      ],
+      "explanation": "Zemský povrch vzniká pomalým, ale neustávajícím působením přírodních procesů; přepokládá stálost:"
     }
   ]
 }

@@ -111,6 +111,336 @@
         }
       ],
       "explanation": "Klima vyžaduje dlouhé časové řady pozorování."
+    },
+    {
+      "question": "Které tvrzení patří k okruhu „Změny a kolísání klimatu: základní klimatotvorn…\"?",
+      "options": [
+        {
+          "text": "a) roční chod teploty vzduchu závisí na zeměpisné šířce (v návaznosti na insolaci)",
+          "correct": false
+        },
+        {
+          "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+          "correct": false
+        },
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": true
+        },
+        {
+          "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vegetaci, pěstování země…",
+          "correct": false
+        }
+      ],
+      "explanation": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např."
+    },
+    {
+      "question": "Které tvrzení odpovídá obsahu lekce?",
+      "options": [
+        {
+          "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+          "correct": false
+        },
+        {
+          "text": "7.1 Globální srážky Obr. 7.1/156-157 – SS nebo jiná mapa rozložení srážek",
+          "correct": true
+        },
+        {
+          "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+          "correct": false
+        },
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": false
+        }
+      ],
+      "explanation": "Správně: 7.1 Globální srážky Obr. 7.1/156-157 – SS nebo jiná mapa rozložení srážek"
+    },
+    {
+      "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (8)",
+      "options": [
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": false
+        },
+        {
+          "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+          "correct": false
+        },
+        {
+          "text": "7.2 Klimatické klasifikace",
+          "correct": true
+        },
+        {
+          "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+          "correct": false
+        }
+      ],
+      "explanation": "7.2 Klimatické klasifikace"
+    },
+    {
+      "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (9)",
+      "options": [
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": false
+        },
+        {
+          "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+          "correct": false
+        },
+        {
+          "text": "pomocí klimatických typů lze klasifikovat klimata z globálního hlediska:",
+          "correct": true
+        },
+        {
+          "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+          "correct": false
+        }
+      ],
+      "explanation": "pomocí klimatických typů lze klasifikovat klimata z globálního hlediska:"
+    },
+    {
+      "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (10)",
+      "options": [
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": false
+        },
+        {
+          "text": "a) konvenční klasifikace – vymezují typy klimatu podle předem konvenčně stanovených mezních hodnot jednoho nebo více meteorologických prvků (např.teplota vzduc…",
+          "correct": true
+        },
+        {
+          "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+          "correct": false
+        },
+        {
+          "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+          "correct": false
+        }
+      ],
+      "explanation": "a) konvenční klasifikace – vymezují typy klimatu podle předem konvenčně stanovených mezních hodnot jednoho nebo více meteorologických prvků (např.teplota vzduc…"
+    },
+    {
+      "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (11)",
+      "options": [
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": false
+        },
+        {
+          "text": "b) genetické klasifikace – opírají se o cirkulační klimatotvorné faktory (např.",
+          "correct": true
+        },
+        {
+          "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+          "correct": false
+        },
+        {
+          "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+          "correct": false
+        }
+      ],
+      "explanation": "b) genetické klasifikace – opírají se o cirkulační klimatotvorné faktory (např."
+    },
+    {
+      "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (12)",
+      "options": [
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": false
+        },
+        {
+          "text": "vzduchové hmoty, fronty) a klasifikační metoda je i metodou výkladu vzniku určitého klimatické typu",
+          "correct": true
+        },
+        {
+          "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+          "correct": false
+        },
+        {
+          "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+          "correct": false
+        }
+      ],
+      "explanation": "vzduchové hmoty, fronty) a klasifikační metoda je i metodou výkladu vzniku určitého klimatické typu"
+    },
+    {
+      "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (13)",
+      "options": [
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": false
+        },
+        {
+          "text": "7.2.1 Köppenova klasifikace",
+          "correct": true
+        },
+        {
+          "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+          "correct": false
+        },
+        {
+          "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+          "correct": false
+        }
+      ],
+      "explanation": "7.2.1 Köppenova klasifikace"
+    },
+    {
+      "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (14)",
+      "options": [
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": false
+        },
+        {
+          "text": "klasifikace klimatu od Wladimira Köppena (s různými následnými modifikacemi) je nejznámější konvenční klimatickou klasifikací → základ teplota vzduchu a srážky…",
+          "correct": true
+        },
+        {
+          "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+          "correct": false
+        },
+        {
+          "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+          "correct": false
+        }
+      ],
+      "explanation": "klasifikace klimatu od Wladimira Köppena (s různými následnými modifikacemi) je nejznámější konvenční klimatickou klasifikací → základ teplota vzduchu a srážky…"
+    },
+    {
+      "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (15)",
+      "options": [
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": false
+        },
+        {
+          "text": "hlavní klimatické pásy: a) A",
+          "correct": true
+        },
+        {
+          "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+          "correct": false
+        },
+        {
+          "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+          "correct": false
+        }
+      ],
+      "explanation": "hlavní klimatické pásy: a) A"
+    },
+    {
+      "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (16)",
+      "options": [
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": false
+        },
+        {
+          "text": "pás vlhkého tropického klimatu (průměrná teplota každého měsíce nad 18 ºC, bez zimního období, velké srážky převažující výpar)",
+          "correct": true
+        },
+        {
+          "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+          "correct": false
+        },
+        {
+          "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+          "correct": false
+        }
+      ],
+      "explanation": "pás vlhkého tropického klimatu (průměrná teplota každého měsíce nad 18 ºC, bez zimního období, velké srážky převažující výpar)"
+    },
+    {
+      "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (17)",
+      "options": [
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": false
+        },
+        {
+          "text": "b) B – pás suchého klimatu (výpar větší než srážky, bez přebytku vody – žádné stálé toky)",
+          "correct": true
+        },
+        {
+          "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+          "correct": false
+        },
+        {
+          "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+          "correct": false
+        }
+      ],
+      "explanation": "b) B – pás suchého klimatu (výpar větší než srážky, bez přebytku vody – žádné stálé toky)"
+    },
+    {
+      "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (18)",
+      "options": [
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": false
+        },
+        {
+          "text": "c) C – pás mírně teplého klimatu (omezen izotermou 18 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce, vyjádřená sezonalita)",
+          "correct": true
+        },
+        {
+          "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+          "correct": false
+        },
+        {
+          "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+          "correct": false
+        }
+      ],
+      "explanation": "c) C – pás mírně teplého klimatu (omezen izotermou 18 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce, vyjádřená sezonalita)"
+    },
+    {
+      "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (19)",
+      "options": [
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": false
+        },
+        {
+          "text": "pás mírně studeného (boreálního) klimatu (omezen izotermou 10 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce)",
+          "correct": true
+        },
+        {
+          "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+          "correct": false
+        },
+        {
+          "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+          "correct": false
+        }
+      ],
+      "explanation": "pás mírně studeného (boreálního) klimatu (omezen izotermou 10 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce)"
+    },
+    {
+      "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (20)",
+      "options": [
+        {
+          "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+          "correct": false
+        },
+        {
+          "text": "e) E – pás polárního klimatu (teplota nejteplejšího měsíce pod 10 ºC) Obr.",
+          "correct": true
+        },
+        {
+          "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+          "correct": false
+        },
+        {
+          "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+          "correct": false
+        }
+      ],
+      "explanation": "e) E – pás polárního klimatu (teplota nejteplejšího měsíce pod 10 ºC) Obr."
     }
   ]
 }

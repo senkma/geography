@@ -89,6 +89,358 @@
         }
       ],
       "explanation": "Složení se mění s hloubkou a tlakem."
+    },
+    {
+      "question": "Které tvrzení patří k okruhu „Vývoj litosféry\"?",
+      "options": [
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Klidná střední hladina moří, které jsou spojené i pod kontinenty",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        },
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": true
+        }
+      ],
+      "explanation": "Litosféra, její vznik, vývoj a procesy v ní probíhající"
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (6)",
+      "options": [
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": false
+        },
+        {
+          "text": "Protože dosáhla stavu hydrostatické rovnováhy.",
+          "correct": true
+        },
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        }
+      ],
+      "explanation": "Protože dosáhla stavu hydrostatické rovnováhy."
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (7)",
+      "options": [
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": false
+        },
+        {
+          "text": "Gutenbergova diskontinuita (plášť / jádro)",
+          "correct": true
+        },
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        }
+      ],
+      "explanation": "Gutenbergova diskontinuita (plášť / jádro)"
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (8)",
+      "options": [
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": false
+        },
+        {
+          "text": "Minerály: olivín, pyroxen, granát, spinel",
+          "correct": true
+        },
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        }
+      ],
+      "explanation": "Minerály: olivín, pyroxen, granát, spinel"
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (9)",
+      "options": [
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": false
+        },
+        {
+          "text": "intenzivní tektonická a vulkanická aktivita, orogeneze",
+          "correct": true
+        },
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        }
+      ],
+      "explanation": "intenzivní tektonická a vulkanická aktivita, orogeneze"
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (10)",
+      "options": [
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": false
+        },
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        },
+        {
+          "text": "stacionární ložisko magmatu ve svrchním plášti pod oceánskou nebo kontinentální kůrou",
+          "correct": true
+        }
+      ],
+      "explanation": "stacionární ložisko magmatu ve svrchním plášti pod oceánskou nebo kontinentální kůrou"
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (11)",
+      "options": [
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": false
+        },
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        },
+        {
+          "text": "Projdi výtah a vlastní poznámky z přednášky",
+          "correct": true
+        }
+      ],
+      "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (12)",
+      "options": [
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": false
+        },
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        },
+        {
+          "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+          "correct": true
+        }
+      ],
+      "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (13)",
+      "options": [
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": false
+        },
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        },
+        {
+          "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+          "correct": true
+        }
+      ],
+      "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (14)",
+      "options": [
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        },
+        {
+          "text": "Klidná střední hladina moří, které jsou spojené i pod kontinenty",
+          "correct": false
+        },
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": true
+        }
+      ],
+      "explanation": "Litosféra, její vznik, vývoj a procesy v ní probíhající"
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (15)",
+      "options": [
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        },
+        {
+          "text": "Klidná střední hladina moří, které jsou spojené i pod kontinenty",
+          "correct": false
+        },
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": true
+        }
+      ],
+      "explanation": "Prostorová variabilita mocnosti zemské kůry"
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (16)",
+      "options": [
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": false
+        },
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Klidná střední hladina moří, které jsou spojené i pod kontinenty",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": true
+        }
+      ],
+      "explanation": "Průměr na rovníku o 43 km větší než na pólu"
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (17)",
+      "options": [
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": false
+        },
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        },
+        {
+          "text": "Klidná střední hladina moří, které jsou spojené i pod kontinenty",
+          "correct": true
+        }
+      ],
+      "explanation": "Klidná střední hladina moří, které jsou spojené i pod kontinenty"
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (18)",
+      "options": [
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": false
+        },
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        },
+        {
+          "text": "Obrázek ukazuje skutečný poměr velikosti Země a Měsíce",
+          "correct": true
+        }
+      ],
+      "explanation": "Obrázek ukazuje skutečný poměr velikosti Země a Měsíce"
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (19)",
+      "options": [
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": false
+        },
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        },
+        {
+          "text": "Protože dosáhla stavu hydrostatické rovnováhy.",
+          "correct": true
+        }
+      ],
+      "explanation": "Protože dosáhla stavu hydrostatické rovnováhy."
+    },
+    {
+      "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (20)",
+      "options": [
+        {
+          "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+          "correct": false
+        },
+        {
+          "text": "Prostorová variabilita mocnosti zemské kůry",
+          "correct": false
+        },
+        {
+          "text": "Průměr na rovníku o 43 km větší než na pólu",
+          "correct": false
+        },
+        {
+          "text": "Gutenbergova diskontinuita (plášť / jádro)",
+          "correct": true
+        }
+      ],
+      "explanation": "Gutenbergova diskontinuita (plášť / jádro)"
     }
   ]
 }

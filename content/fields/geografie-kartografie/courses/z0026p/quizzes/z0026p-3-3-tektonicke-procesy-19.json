@@ -89,6 +89,358 @@
         }
       ],
       "explanation": "Endogenní síly vytvářejí zlomy, vrásnění a reliéf."
+    },
+    {
+      "question": "Které tvrzení odpovídá obsahu lekce?",
+      "options": [
+        {
+          "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+          "correct": false
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": true
+        },
+        {
+          "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+          "correct": false
+        },
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": false
+        }
+      ],
+      "explanation": "Správně: Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km"
+    },
+    {
+      "question": "Které tvrzení patří k okruhu „Tektonické procesy\"?",
+      "options": [
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": false
+        },
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": true
+        },
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        },
+        {
+          "text": "Nesoulad mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        }
+      ],
+      "explanation": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích"
+    },
+    {
+      "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (7)",
+      "options": [
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        },
+        {
+          "text": "Pohyby částí zemské kůry a svrchního pláště, při kterých dochází k deformaci hornin",
+          "correct": true
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": false
+        },
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": false
+        }
+      ],
+      "explanation": "Pohyby částí zemské kůry a svrchního pláště, při kterých dochází k deformaci hornin"
+    },
+    {
+      "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (8)",
+      "options": [
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        },
+        {
+          "text": "Studuje endogenní procesy, geologické struktury a tvary reliéfu související s deformací hornin",
+          "correct": true
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": false
+        },
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": false
+        }
+      ],
+      "explanation": "Studuje endogenní procesy, geologické struktury a tvary reliéfu související s deformací hornin"
+    },
+    {
+      "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (9)",
+      "options": [
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        },
+        {
+          "text": "Typy tektonických procesů podle směrů působících sil",
+          "correct": true
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": false
+        },
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": false
+        }
+      ],
+      "explanation": "Typy tektonických procesů podle směrů působících sil"
+    },
+    {
+      "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (10)",
+      "options": [
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": false
+        },
+        {
+          "text": "Průsečnice vodorovné roviny s nakloněnou vrstevní plochou",
+          "correct": true
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": false
+        },
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        }
+      ],
+      "explanation": "Průsečnice vodorovné roviny s nakloněnou vrstevní plochou"
+    },
+    {
+      "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (11)",
+      "options": [
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": false
+        },
+        {
+          "text": "Projdi výtah a vlastní poznámky z přednášky",
+          "correct": true
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": false
+        },
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        }
+      ],
+      "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+    },
+    {
+      "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (12)",
+      "options": [
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": false
+        },
+        {
+          "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+          "correct": true
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": false
+        },
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        }
+      ],
+      "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+    },
+    {
+      "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (13)",
+      "options": [
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": false
+        },
+        {
+          "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+          "correct": true
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": false
+        },
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        }
+      ],
+      "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+    },
+    {
+      "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (14)",
+      "options": [
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": true
+        },
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": false
+        },
+        {
+          "text": "Nesoulad mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        }
+      ],
+      "explanation": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km"
+    },
+    {
+      "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (15)",
+      "options": [
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        },
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": true
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": false
+        },
+        {
+          "text": "Nesoulad mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        }
+      ],
+      "explanation": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích"
+    },
+    {
+      "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (16)",
+      "options": [
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": false
+        },
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": true
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": false
+        },
+        {
+          "text": "Nesoulad mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        }
+      ],
+      "explanation": "Shoda mezi geologickými strukturami a tvary reliéfu"
+    },
+    {
+      "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (17)",
+      "options": [
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": false
+        },
+        {
+          "text": "Nesoulad mezi geologickými strukturami a tvary reliéfu",
+          "correct": true
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": false
+        },
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        }
+      ],
+      "explanation": "Nesoulad mezi geologickými strukturami a tvary reliéfu"
+    },
+    {
+      "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (18)",
+      "options": [
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": false
+        },
+        {
+          "text": "Puklina v hornině, podél které nastal pozorovatelný pohyb",
+          "correct": true
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": false
+        },
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        }
+      ],
+      "explanation": "Puklina v hornině, podél které nastal pozorovatelný pohyb"
+    },
+    {
+      "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (19)",
+      "options": [
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": false
+        },
+        {
+          "text": "Příklady působení endogenních a exogenních procesů",
+          "correct": true
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": false
+        },
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        }
+      ],
+      "explanation": "Příklady působení endogenních a exogenních procesů"
+    },
+    {
+      "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (20)",
+      "options": [
+        {
+          "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+          "correct": false
+        },
+        {
+          "text": "Pohyby částí zemské kůry a svrchního pláště, při kterých dochází k deformaci hornin",
+          "correct": true
+        },
+        {
+          "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+          "correct": false
+        },
+        {
+          "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+          "correct": false
+        }
+      ],
+      "explanation": "Pohyby částí zemské kůry a svrchního pláště, při kterých dochází k deformaci hornin"
     }
   ]
 }

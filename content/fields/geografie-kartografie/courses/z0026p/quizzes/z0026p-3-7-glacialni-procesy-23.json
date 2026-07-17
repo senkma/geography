@@ -89,6 +89,358 @@
         }
       ],
       "explanation": "Led a sníh modelují reliéf v chladných oblastech."
+    },
+    {
+      "question": "Které tvrzení odpovídá obsahu lekce?",
+      "options": [
+        {
+          "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+          "correct": false
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": true
+        },
+        {
+          "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+          "correct": false
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        }
+      ],
+      "explanation": "Správně: Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…"
+    },
+    {
+      "question": "Které tvrzení patří k okruhu „Glaciální procesy\"?",
+      "options": [
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných srážek převyšují roční ú…",
+          "correct": false
+        },
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": true
+        },
+        {
+          "text": "Při transformaci sněhu v led dochází ke změně hustoty",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": false
+        }
+      ],
+      "explanation": "65,6 m ekvivalentu nárůstu mořské hladiny"
+    },
+    {
+      "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (7)",
+      "options": [
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": false
+        },
+        {
+          "text": "V ledu zůstávají uzavřené bubliny vzduchu",
+          "correct": true
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        }
+      ],
+      "explanation": "V ledu zůstávají uzavřené bubliny vzduchu"
+    },
+    {
+      "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (8)",
+      "options": [
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": false
+        },
+        {
+          "text": "Vhodné podmínky pro ledovce dány vysokou nadmořskou výškou",
+          "correct": true
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        }
+      ],
+      "explanation": "Vhodné podmínky pro ledovce dány vysokou nadmořskou výškou"
+    },
+    {
+      "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (9)",
+      "options": [
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": false
+        },
+        {
+          "text": "Vhodné podmínky pro ledovce dány vysokou zeměpisnou šířkou",
+          "correct": true
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        }
+      ],
+      "explanation": "Vhodné podmínky pro ledovce dány vysokou zeměpisnou šířkou"
+    },
+    {
+      "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (10)",
+      "options": [
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": false
+        },
+        {
+          "text": "Čára oddělující akumulační a ablační zónu ledovce",
+          "correct": true
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": false
+        }
+      ],
+      "explanation": "Čára oddělující akumulační a ablační zónu ledovce"
+    },
+    {
+      "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (11)",
+      "options": [
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": false
+        },
+        {
+          "text": "Projdi výtah a vlastní poznámky z přednášky",
+          "correct": true
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": false
+        }
+      ],
+      "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+    },
+    {
+      "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (12)",
+      "options": [
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": false
+        },
+        {
+          "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+          "correct": true
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": false
+        }
+      ],
+      "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+    },
+    {
+      "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (13)",
+      "options": [
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": false
+        },
+        {
+          "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+          "correct": true
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": false
+        }
+      ],
+      "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+    },
+    {
+      "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (14)",
+      "options": [
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": false
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": true
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": false
+        }
+      ],
+      "explanation": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…"
+    },
+    {
+      "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (15)",
+      "options": [
+        {
+          "text": "Při transformaci sněhu v led dochází ke změně hustoty",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": true
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        },
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": false
+        }
+      ],
+      "explanation": "96 % tvoří ledovcové štíty Antarktidy a Grónska"
+    },
+    {
+      "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (16)",
+      "options": [
+        {
+          "text": "Při transformaci sněhu v led dochází ke změně hustoty",
+          "correct": false
+        },
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": true
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": false
+        }
+      ],
+      "explanation": "65,6 m ekvivalentu nárůstu mořské hladiny"
+    },
+    {
+      "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (17)",
+      "options": [
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": false
+        },
+        {
+          "text": "Při transformaci sněhu v led dochází ke změně hustoty",
+          "correct": true
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": false
+        }
+      ],
+      "explanation": "Při transformaci sněhu v led dochází ke změně hustoty"
+    },
+    {
+      "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (18)",
+      "options": [
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": false
+        },
+        {
+          "text": "Ulehnutí sněhu (drobení vloček, sesedání)",
+          "correct": true
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": false
+        }
+      ],
+      "explanation": "Ulehnutí sněhu (drobení vloček, sesedání)"
+    },
+    {
+      "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (19)",
+      "options": [
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": false
+        },
+        {
+          "text": "Zmenšování povrchové plochy vloček (zaoblování)",
+          "correct": true
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": false
+        }
+      ],
+      "explanation": "Zmenšování povrchové plochy vloček (zaoblování)"
+    },
+    {
+      "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (20)",
+      "options": [
+        {
+          "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+          "correct": false
+        },
+        {
+          "text": "V ledu zůstávají uzavřené bubliny vzduchu",
+          "correct": true
+        },
+        {
+          "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+          "correct": false
+        },
+        {
+          "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+          "correct": false
+        }
+      ],
+      "explanation": "V ledu zůstávají uzavřené bubliny vzduchu"
     }
   ]
 }

@@ -111,6 +111,336 @@
         }
       ],
       "explanation": "Meteorologie a klimatologie studují dění v atmosféře."
+    },
+    {
+      "question": "Které tvrzení patří k okruhu „Základní poznatky o atmosféře: Atmosféra, vzduc…\"?",
+      "options": [
+        {
+          "text": "Fyzickogeografická sféra Země se skládá z jednotlivých geosfér:",
+          "correct": false
+        },
+        {
+          "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+          "correct": false
+        },
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": true
+        },
+        {
+          "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+          "correct": false
+        }
+      ],
+      "explanation": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE"
+    },
+    {
+      "question": "Které tvrzení odpovídá obsahu lekce?",
+      "options": [
+        {
+          "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+          "correct": false
+        },
+        {
+          "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+          "correct": true
+        },
+        {
+          "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+          "correct": false
+        },
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": false
+        }
+      ],
+      "explanation": "Správně: 2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+    },
+    {
+      "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (8)",
+      "options": [
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": false
+        },
+        {
+          "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+          "correct": false
+        },
+        {
+          "text": "d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu",
+          "correct": true
+        },
+        {
+          "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+          "correct": false
+        }
+      ],
+      "explanation": "d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu"
+    },
+    {
+      "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (9)",
+      "options": [
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": false
+        },
+        {
+          "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+          "correct": false
+        },
+        {
+          "text": "e) pedosféra – půdní pokryv na povrchu pevnin",
+          "correct": true
+        },
+        {
+          "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+          "correct": false
+        }
+      ],
+      "explanation": "e) pedosféra – půdní pokryv na povrchu pevnin"
+    },
+    {
+      "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (10)",
+      "options": [
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": false
+        },
+        {
+          "text": "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy",
+          "correct": true
+        },
+        {
+          "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+          "correct": false
+        },
+        {
+          "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+          "correct": false
+        }
+      ],
+      "explanation": "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy"
+    },
+    {
+      "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (11)",
+      "options": [
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": false
+        },
+        {
+          "text": "fyzickogeografická + socioekonomická sféra = krajinná sféra Země",
+          "correct": true
+        },
+        {
+          "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+          "correct": false
+        },
+        {
+          "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+          "correct": false
+        }
+      ],
+      "explanation": "fyzickogeografická + socioekonomická sféra = krajinná sféra Země"
+    },
+    {
+      "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (12)",
+      "options": [
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": false
+        },
+        {
+          "text": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wil…",
+          "correct": true
+        },
+        {
+          "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+          "correct": false
+        },
+        {
+          "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+          "correct": false
+        }
+      ],
+      "explanation": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wil…"
+    },
+    {
+      "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (13)",
+      "options": [
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": false
+        },
+        {
+          "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+          "correct": true
+        },
+        {
+          "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+          "correct": false
+        },
+        {
+          "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+          "correct": false
+        }
+      ],
+      "explanation": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+    },
+    {
+      "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (14)",
+      "options": [
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": false
+        },
+        {
+          "text": "2.1 Elektromagnetické záření",
+          "correct": true
+        },
+        {
+          "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+          "correct": false
+        },
+        {
+          "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+          "correct": false
+        }
+      ],
+      "explanation": "2.1 Elektromagnetické záření"
+    },
+    {
+      "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (15)",
+      "options": [
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": false
+        },
+        {
+          "text": "sluneční záření – elektromagnetické x korpuskulární (částicové)",
+          "correct": true
+        },
+        {
+          "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+          "correct": false
+        },
+        {
+          "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+          "correct": false
+        }
+      ],
+      "explanation": "sluneční záření – elektromagnetické x korpuskulární (částicové)"
+    },
+    {
+      "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (16)",
+      "options": [
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": false
+        },
+        {
+          "text": "elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu",
+          "correct": true
+        },
+        {
+          "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+          "correct": false
+        },
+        {
+          "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+          "correct": false
+        }
+      ],
+      "explanation": "elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu"
+    },
+    {
+      "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (17)",
+      "options": [
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": false
+        },
+        {
+          "text": "vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6",
+          "correct": true
+        },
+        {
+          "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+          "correct": false
+        },
+        {
+          "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+          "correct": false
+        }
+      ],
+      "explanation": "vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6"
+    },
+    {
+      "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (18)",
+      "options": [
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": false
+        },
+        {
+          "text": "2.1.1 Záření a teplota",
+          "correct": true
+        },
+        {
+          "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+          "correct": false
+        },
+        {
+          "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+          "correct": false
+        }
+      ],
+      "explanation": "2.1.1 Záření a teplota"
+    },
+    {
+      "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (19)",
+      "options": [
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": false
+        },
+        {
+          "text": "dva základní principy emise elektromagnetického záření:",
+          "correct": true
+        },
+        {
+          "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+          "correct": false
+        },
+        {
+          "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+          "correct": false
+        }
+      ],
+      "explanation": "dva základní principy emise elektromagnetického záření:"
+    },
+    {
+      "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (20)",
+      "options": [
+        {
+          "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+          "correct": false
+        },
+        {
+          "text": "a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky)",
+          "correct": true
+        },
+        {
+          "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+          "correct": false
+        },
+        {
+          "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+          "correct": false
+        }
+      ],
+      "explanation": "a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky)"
     }
   ]
 }

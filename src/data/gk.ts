@@ -862,6 +862,336 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Geografie kombinuje prostorovou distribuci, vysvětlení a aplikaci poznatků."
+              },
+              {
+                "question": "Která odpověď nejlépe doplňuje: „Co je geografie\"?",
+                "options": [
+                  {
+                    "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+                    "correct": false
+                  },
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": true
+                  },
+                  {
+                    "text": "Proč to tam je? Snaží se vysvětlit,",
+                    "correct": false
+                  },
+                  {
+                    "text": "proč jsou věci rozmístěné zrovna takovým způsobem",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Výklad: Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím."
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Úvod do studia fyzické geografie: FG jako vědní…\"?",
+                "options": [
+                  {
+                    "text": "proč jsou věci rozmístěné zrovna takovým způsobem",
+                    "correct": false
+                  },
+                  {
+                    "text": "Proč to tam je? Snaží se vysvětlit,",
+                    "correct": false
+                  },
+                  {
+                    "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+                    "correct": true
+                  },
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí"
+              },
+              {
+                "question": "Která odpověď nejlépe doplňuje: „Co je fyzická geografie\"?",
+                "options": [
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Úkolem fyzické geografie je vysvětlovat prostorové aspekty nejrůznějších přírodních jevů vázaných na litosféru, atmosféru, hydrosféru a biosféru. Geografie /Geography/",
+                    "correct": true
+                  },
+                  {
+                    "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+                    "correct": false
+                  },
+                  {
+                    "text": "Proč to tam je? Snaží se vysvětlit,",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Výklad: Úkolem fyzické geografie je vysvětlovat prostorové aspekty nejrůznějších přírodních jevů vázaných na litosféru, atmosféru, hydrosféru a biosféru. Geografie /Geography/"
+              },
+              {
+                "question": "Co je správné tvrzení k pojmu „Objekt studia\"?",
+                "options": [
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+                    "correct": false
+                  },
+                  {
+                    "text": "fyzickogeografická sféra Země",
+                    "correct": true
+                  },
+                  {
+                    "text": "Proč to tam je? Snaží se vysvětlit,",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Výklad: fyzickogeografická sféra Země"
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: 2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+              },
+              {
+                "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Fyzickogeografická sféra Země se skládá z jednotlivých geosfér:",
+                    "correct": true
+                  },
+                  {
+                    "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+                    "correct": false
+                  },
+                  {
+                    "text": "Proč to tam je? Snaží se vysvětlit,",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Fyzickogeografická sféra Země se skládá z jednotlivých geosfér:"
+              },
+              {
+                "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": false
+                  },
+                  {
+                    "text": "a) zemská kůra s georeliéfem – nejsvrchnější vrstva pevného zemského tělesa, jejíž povrch se označuje jako georeliéf",
+                    "correct": true
+                  },
+                  {
+                    "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+                    "correct": false
+                  },
+                  {
+                    "text": "Proč to tam je? Snaží se vysvětlit,",
+                    "correct": false
+                  }
+                ],
+                "explanation": "a) zemská kůra s georeliéfem – nejsvrchnější vrstva pevného zemského tělesa, jejíž povrch se označuje jako georeliéf"
+              },
+              {
+                "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": false
+                  },
+                  {
+                    "text": "b) atmosféra – plynný obal Země (po ozonovou vrstvu)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+                    "correct": false
+                  },
+                  {
+                    "text": "Proč to tam je? Snaží se vysvětlit,",
+                    "correct": false
+                  }
+                ],
+                "explanation": "b) atmosféra – plynný obal Země (po ozonovou vrstvu)"
+              },
+              {
+                "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": false
+                  },
+                  {
+                    "text": "c) hydrosféra – geosféra tvořená vodami oceánů a pevniny",
+                    "correct": true
+                  },
+                  {
+                    "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+                    "correct": false
+                  },
+                  {
+                    "text": "Proč to tam je? Snaží se vysvětlit,",
+                    "correct": false
+                  }
+                ],
+                "explanation": "c) hydrosféra – geosféra tvořená vodami oceánů a pevniny"
+              },
+              {
+                "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": false
+                  },
+                  {
+                    "text": "d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu",
+                    "correct": true
+                  },
+                  {
+                    "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+                    "correct": false
+                  },
+                  {
+                    "text": "Proč to tam je? Snaží se vysvětlit,",
+                    "correct": false
+                  }
+                ],
+                "explanation": "d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu"
+              },
+              {
+                "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": false
+                  },
+                  {
+                    "text": "e) pedosféra – půdní pokryv na povrchu pevnin",
+                    "correct": true
+                  },
+                  {
+                    "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+                    "correct": false
+                  },
+                  {
+                    "text": "Proč to tam je? Snaží se vysvětlit,",
+                    "correct": false
+                  }
+                ],
+                "explanation": "e) pedosféra – půdní pokryv na povrchu pevnin"
+              },
+              {
+                "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": false
+                  },
+                  {
+                    "text": "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy",
+                    "correct": true
+                  },
+                  {
+                    "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+                    "correct": false
+                  },
+                  {
+                    "text": "Proč to tam je? Snaží se vysvětlit,",
+                    "correct": false
+                  }
+                ],
+                "explanation": "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy"
+              },
+              {
+                "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": false
+                  },
+                  {
+                    "text": "fyzickogeografická + socioekonomická sféra = krajinná sféra Země",
+                    "correct": true
+                  },
+                  {
+                    "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+                    "correct": false
+                  },
+                  {
+                    "text": "Proč to tam je? Snaží se vysvětlit,",
+                    "correct": false
+                  }
+                ],
+                "explanation": "fyzickogeografická + socioekonomická sféra = krajinná sféra Země"
+              },
+              {
+                "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wil…",
+                    "correct": true
+                  },
+                  {
+                    "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+                    "correct": false
+                  },
+                  {
+                    "text": "Proč to tam je? Snaží se vysvětlit,",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wil…"
+              },
+              {
+                "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+                    "correct": false
+                  },
+                  {
+                    "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+                    "correct": true
+                  },
+                  {
+                    "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+                    "correct": false
+                  },
+                  {
+                    "text": "Proč to tam je? Snaží se vysvětlit,",
+                    "correct": false
+                  }
+                ],
+                "explanation": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
               }
             ]
           }
@@ -1135,6 +1465,336 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Meteorologie a klimatologie studují dění v atmosféře."
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Základní poznatky o atmosféře: Atmosféra, vzduc…\"?",
+                "options": [
+                  {
+                    "text": "Fyzickogeografická sféra Země se skládá z jednotlivých geosfér:",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  },
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE"
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: 2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+              },
+              {
+                "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  },
+                  {
+                    "text": "d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu"
+              },
+              {
+                "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  },
+                  {
+                    "text": "e) pedosféra – půdní pokryv na povrchu pevnin",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "e) pedosféra – půdní pokryv na povrchu pevnin"
+              },
+              {
+                "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy"
+              },
+              {
+                "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "fyzickogeografická + socioekonomická sféra = krajinná sféra Země",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "fyzickogeografická + socioekonomická sféra = krajinná sféra Země"
+              },
+              {
+                "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wil…",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wil…"
+              },
+              {
+                "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+              },
+              {
+                "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "2.1 Elektromagnetické záření",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "2.1 Elektromagnetické záření"
+              },
+              {
+                "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "sluneční záření – elektromagnetické x korpuskulární (částicové)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "sluneční záření – elektromagnetické x korpuskulární (částicové)"
+              },
+              {
+                "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu"
+              },
+              {
+                "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6"
+              },
+              {
+                "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "2.1.1 Záření a teplota",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "2.1.1 Záření a teplota"
+              },
+              {
+                "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "dva základní principy emise elektromagnetického záření:",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "dva základní principy emise elektromagnetického záření:"
+              },
+              {
+                "question": "K tématu „Základní poznatky o atmosféře: Atmosféra,…\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky)"
               }
             ]
           }
@@ -1856,6 +2516,336 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Většina sladké vody je vázána v ledovcích a podzemních zásobách."
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Základní meteorologické prvky: Sluneční záření.…\"?",
+                "options": [
+                  {
+                    "text": "Fyzickogeografická sféra Země se skládá z jednotlivých geosfér:",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  },
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE"
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: 2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+              },
+              {
+                "question": "K tématu „Základní meteorologické prvky: Sluneční z…\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  },
+                  {
+                    "text": "d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu"
+              },
+              {
+                "question": "K tématu „Základní meteorologické prvky: Sluneční z…\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  },
+                  {
+                    "text": "e) pedosféra – půdní pokryv na povrchu pevnin",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "e) pedosféra – půdní pokryv na povrchu pevnin"
+              },
+              {
+                "question": "K tématu „Základní meteorologické prvky: Sluneční z…\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy"
+              },
+              {
+                "question": "K tématu „Základní meteorologické prvky: Sluneční z…\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "fyzickogeografická + socioekonomická sféra = krajinná sféra Země",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "fyzickogeografická + socioekonomická sféra = krajinná sféra Země"
+              },
+              {
+                "question": "K tématu „Základní meteorologické prvky: Sluneční z…\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wil…",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wil…"
+              },
+              {
+                "question": "K tématu „Základní meteorologické prvky: Sluneční z…\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+              },
+              {
+                "question": "K tématu „Základní meteorologické prvky: Sluneční z…\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "2.1 Elektromagnetické záření",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "2.1 Elektromagnetické záření"
+              },
+              {
+                "question": "K tématu „Základní meteorologické prvky: Sluneční z…\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "sluneční záření – elektromagnetické x korpuskulární (částicové)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "sluneční záření – elektromagnetické x korpuskulární (částicové)"
+              },
+              {
+                "question": "K tématu „Základní meteorologické prvky: Sluneční z…\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "elektromagnetické záření – soubor záření různých vlnových délek vycházejícího od povrchu objektu"
+              },
+              {
+                "question": "K tématu „Základní meteorologické prvky: Sluneční z…\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "vlnová délka L – vzdálenost od jednoho hřbetu vlny k sousednímu hřbetu; jednotka – µm (10-6"
+              },
+              {
+                "question": "K tématu „Základní meteorologické prvky: Sluneční z…\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "2.1.1 Záření a teplota",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "2.1.1 Záření a teplota"
+              },
+              {
+                "question": "K tématu „Základní meteorologické prvky: Sluneční z…\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "dva základní principy emise elektromagnetického záření:",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "dva základní principy emise elektromagnetického záření:"
+              },
+              {
+                "question": "K tématu „Základní meteorologické prvky: Sluneční z…\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "ÚVOD DO STUDIA FYZICKÉ GEOGRAFIE",
+                    "correct": false
+                  },
+                  {
+                    "text": "a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Fyzická geografie je vědní disciplína v rámci geografických věd, zabývající se studiem fyzickogeografické sféry Země.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Z časového a prostorového hlediska popisuje, studuje a prognózuje procesy a jevy, které se v ní odehrávají.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "a) nepřímý vztah mezi vlnovou délkou záření daného tělesa a jeho teplotou (Slunce – kratší vlnové délky, Země – větší vlnové délky)"
               }
             ]
           }
@@ -2300,6 +3290,336 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Oceány jsou dominantním zdrojem vodní páry v hydrologickém cyklu."
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Všeobecná cirkulace atmosféry: Vzduchové hmoty.…\"?",
+                "options": [
+                  {
+                    "text": "Voda hraje klíčovou roli na Zemi z následujících příčin",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+                    "correct": false
+                  },
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": true
+                  },
+                  {
+                    "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil"
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např. soli)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např. soli)"
+              },
+              {
+                "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+                    "correct": false
+                  },
+                  {
+                    "text": "97 % tvoří slaná voda, 2,8 % sladká voda (mimo slaná jezera a vnitřní moře)",
+                    "correct": true
+                  },
+                  {
+                    "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "97 % tvoří slaná voda, 2,8 % sladká voda (mimo slaná jezera a vnitřní moře)"
+              },
+              {
+                "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+                    "correct": false
+                  },
+                  {
+                    "text": "Hlavní část sladké vody je vázána v ledovcových štítech a horských ledovcích (2,15 %) a podpovrchové vodě, hlavně podzemní (0, 63 %) – zbytek 0,02 %, takže sla…",
+                    "correct": true
+                  },
+                  {
+                    "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Hlavní část sladké vody je vázána v ledovcových štítech a horských ledovcích (2,15 %) a podpovrchové vodě, hlavně podzemní (0, 63 %) – zbytek 0,02 %, takže sla…"
+              },
+              {
+                "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": false
+                  },
+                  {
+                    "text": "Zbytek 0,02 % se rozděluje na půdní vodu (v dosahu kořenů rostlin), povrchovou vodu (jezera, vodní toky, bažiny) a vodu v atmosféře.",
+                    "correct": true
+                  },
+                  {
+                    "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Zbytek 0,02 % se rozděluje na půdní vodu (v dosahu kořenů rostlin), povrchovou vodu (jezera, vodní toky, bažiny) a vodu v atmosféře."
+              },
+              {
+                "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": false
+                  },
+                  {
+                    "text": "4. Atmosférická vlhkost a srážky • voda existuje ve třech skupenstvích – pevném (led), kapalném (voda), plynném (vodní pára) • při fázových změnách se spotřebo…",
+                    "correct": true
+                  },
+                  {
+                    "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+                    "correct": false
+                  }
+                ],
+                "explanation": "4. Atmosférická vlhkost a srážky • voda existuje ve třech skupenstvích – pevném (led), kapalném (voda), plynném (vodní pára) • při fázových změnách se spotřebo…"
+              },
+              {
+                "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": false
+                  },
+                  {
+                    "text": "4.1 Voda v globální perspektivě",
+                    "correct": true
+                  },
+                  {
+                    "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+                    "correct": false
+                  }
+                ],
+                "explanation": "4.1 Voda v globální perspektivě"
+              },
+              {
+                "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": false
+                  },
+                  {
+                    "text": "voda hraje klíčovou roli na Zemi z následujících příčin:",
+                    "correct": true
+                  },
+                  {
+                    "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+                    "correct": false
+                  }
+                ],
+                "explanation": "voda hraje klíčovou roli na Zemi z následujících příčin:"
+              },
+              {
+                "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": false
+                  },
+                  {
+                    "text": "a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např.",
+                    "correct": true
+                  },
+                  {
+                    "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+                    "correct": false
+                  }
+                ],
+                "explanation": "a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např."
+              },
+              {
+                "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": false
+                  },
+                  {
+                    "text": "b) voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému",
+                    "correct": true
+                  },
+                  {
+                    "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+                    "correct": false
+                  }
+                ],
+                "explanation": "b) voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému"
+              },
+              {
+                "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": false
+                  },
+                  {
+                    "text": "c) vodou v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému",
+                    "correct": true
+                  },
+                  {
+                    "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+                    "correct": false
+                  }
+                ],
+                "explanation": "c) vodou v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému"
+              },
+              {
+                "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": false
+                  },
+                  {
+                    "text": "4.1.1 Hydrosféra a hydrologický cyklus Obr. 4.2/78 – SS",
+                    "correct": true
+                  },
+                  {
+                    "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+                    "correct": false
+                  }
+                ],
+                "explanation": "4.1.1 Hydrosféra a hydrologický cyklus Obr. 4.2/78 – SS"
+              },
+              {
+                "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": false
+                  },
+                  {
+                    "text": "jezera, vodní toky, bažiny) a vodu v atmosféře • hydrologický cyklus – popisuje globální výměnu vody mezi jednotlivými rezervoáry:",
+                    "correct": true
+                  },
+                  {
+                    "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+                    "correct": false
+                  }
+                ],
+                "explanation": "jezera, vodní toky, bažiny) a vodu v atmosféře • hydrologický cyklus – popisuje globální výměnu vody mezi jednotlivými rezervoáry:"
+              },
+              {
+                "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": false
+                  },
+                  {
+                    "text": "a) výpar z oceánů a pevnin (plus transpirace) do atmosféry v podobě vodní páry, z oceánů šestkrát větší",
+                    "correct": true
+                  },
+                  {
+                    "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+                    "correct": false
+                  }
+                ],
+                "explanation": "a) výpar z oceánů a pevnin (plus transpirace) do atmosféry v podobě vodní páry, z oceánů šestkrát větší"
+              },
+              {
+                "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+                    "correct": false
+                  },
+                  {
+                    "text": "b) kondenzace nebo sublimace vodní páry v atmosféře, vypadávající v podobě srážek (srážky nad oceány asi čtyřikrát větší než nad pevninou)",
+                    "correct": true
+                  },
+                  {
+                    "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+                    "correct": false
+                  }
+                ],
+                "explanation": "b) kondenzace nebo sublimace vodní páry v atmosféře, vypadávající v podobě srážek (srážky nad oceány asi čtyřikrát větší než nad pevninou)"
               }
             ]
           }
@@ -2579,6 +3899,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "P = polární, A = arktická, m/c = mořská/kontinentální."
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Základy předpovědi počasí: zdroje dat pro předp…\"?",
+                "options": [
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  },
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost vzduchu, oblačnost)…",
+                    "correct": true
+                  },
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost vzduchu, oblačnost)…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost vzduchu, oblačnost)…"
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: 6.1 Putující cyklony a anticyklony"
+              },
+              {
+                "question": "Co je správné tvrzení k pojmu „dělení vzduchových hmot podle termodynamického hlediska\"?",
+                "options": [
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  },
+                  {
+                    "text": "a) teplé – při přemisťování do dané oblasti se ochlazují, přinášejí oteplení, stabilní zvrstvení nebo inverze b) studené - při přemisťování do dané oblasti se oteplují, přinášejí …",
+                    "correct": true
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  },
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost vzduchu, oblačnost)…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Výklad: a) teplé – při přemisťování do dané oblasti se ochlazují, přinášejí oteplení, stabilní zvrstvení nebo inverze b) studené - při přemisťování do dané oblasti se oteplují, přinášejí …"
+              },
+              {
+                "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  },
+                  {
+                    "text": "a) frontální cyklony mírných a polárních šířek – od slabých po cyklonální bouře",
+                    "correct": true
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  }
+                ],
+                "explanation": "a) frontální cyklony mírných a polárních šířek – od slabých po cyklonální bouře"
+              },
+              {
+                "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  },
+                  {
+                    "text": "b) tropické cyklony tropického nebo subtropického pásma – od mírných po destruktivní • anticyklony: sestupné pohyby, jasné počasí (někdy kumuly), v centru slab…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  }
+                ],
+                "explanation": "b) tropické cyklony tropického nebo subtropického pásma – od mírných po destruktivní • anticyklony: sestupné pohyby, jasné počasí (někdy kumuly), v centru slab…"
+              },
+              {
+                "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1.1 Vzduchové hmoty",
+                    "correct": true
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  }
+                ],
+                "explanation": "6.1.1 Vzduchové hmoty"
+              },
+              {
+                "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vzduchová hmota Symbol Oblast vzniku Arktická A Severní ledový oceán a přilehlá pevnina Antarktická AA Antarktida Polární P kontinenty a oceány, 50-60º z.š.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Vzduchová hmota Symbol Oblast vzniku Arktická A Severní ledový oceán a přilehlá pevnina Antarktická AA Antarktida Polární P kontinenty a oceány, 50-60º z.š."
+              },
+              {
+                "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+                    "correct": false
+                  },
+                  {
+                    "text": "Tropická T kontinenty a oceány, 20-35º z.š.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Tropická T kontinenty a oceány, 20-35º z.š."
+              },
+              {
+                "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+                    "correct": false
+                  },
+                  {
+                    "text": "Ekvatoriální E oceány blízko rovníku",
+                    "correct": true
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Ekvatoriální E oceány blízko rovníku"
+              },
+              {
+                "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+                    "correct": false
+                  },
+                  {
+                    "text": "dělení vzduchových hmot podle typu aktivního povrchu, nad nímž vznikají: mořské (m) – nad oceány a kontinentální (c) – nad pevninou",
+                    "correct": true
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  }
+                ],
+                "explanation": "dělení vzduchových hmot podle typu aktivního povrchu, nad nímž vznikají: mořské (m) – nad oceány a kontinentální (c) – nad pevninou"
+              },
+              {
+                "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+                    "correct": false
+                  },
+                  {
+                    "text": "a) teplé – při přemisťování do dané oblasti se ochlazují, přinášejí oteplení, stabilní zvrstvení nebo inverze b) studené - při přemisťování do dané oblasti se …",
+                    "correct": true
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  }
+                ],
+                "explanation": "a) teplé – při přemisťování do dané oblasti se ochlazují, přinášejí oteplení, stabilní zvrstvení nebo inverze b) studené - při přemisťování do dané oblasti se …"
+              },
+              {
+                "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1.2 Studená, teplá a oklusní fronta",
+                    "correct": true
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  }
+                ],
+                "explanation": "6.1.2 Studená, teplá a oklusní fronta"
+              },
+              {
+                "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+                    "correct": false
+                  },
+                  {
+                    "text": "fronta – ostře vyjádřená hranice oddělující jednu vzduchovou hmotu od druhé",
+                    "correct": true
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  }
+                ],
+                "explanation": "fronta – ostře vyjádřená hranice oddělující jednu vzduchovou hmotu od druhé"
+              },
+              {
+                "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+                    "correct": false
+                  },
+                  {
+                    "text": "pohybuje-li se jedna vzduchová hmota do druhé, fronta svírá malý úhel s povrchem Obr.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  }
+                ],
+                "explanation": "pohybuje-li se jedna vzduchová hmota do druhé, fronta svírá malý úhel s povrchem Obr."
+              },
+              {
+                "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.3/138 – SS + 2.49/55 + 2.50/56 z Netopil: Fyzická geografie I",
+                    "correct": true
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  }
+                ],
+                "explanation": "6.3/138 – SS + 2.49/55 + 2.50/56 z Netopil: Fyzická geografie I"
+              },
+              {
+                "question": "K tématu „Základy předpovědi počasí: zdroje dat pro…\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "počasí – okamžitý stav atmosféry (ve vrstvě od zemského povrchu po tropopauzu), charakterizované souborem meteorologických prvků (např. teplota, tlak a vlhkost…",
+                    "correct": false
+                  },
+                  {
+                    "text": "studená fronta – klín postupujícího studeného vzduchu, vynucený výstup vzduchu – cumulonimby Cb, bouřky, přeháňky Obr.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povětrnost – ráz počasí během několika dnů",
+                    "correct": false
+                  },
+                  {
+                    "text": "6.1 Putující cyklony a anticyklony",
+                    "correct": false
+                  }
+                ],
+                "explanation": "studená fronta – klín postupujícího studeného vzduchu, vynucený výstup vzduchu – cumulonimby Cb, bouřky, přeháňky Obr."
               }
             ]
           }
@@ -2878,6 +4550,336 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Klima vyžaduje dlouhé časové řady pozorování."
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Změny a kolísání klimatu: základní klimatotvorn…\"?",
+                "options": [
+                  {
+                    "text": "a) roční chod teploty vzduchu závisí na zeměpisné šířce (v návaznosti na insolaci)",
+                    "correct": false
+                  },
+                  {
+                    "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+                    "correct": false
+                  },
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": true
+                  },
+                  {
+                    "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vegetaci, pěstování země…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např."
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "7.1 Globální srážky Obr. 7.1/156-157 – SS nebo jiná mapa rozložení srážek",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: 7.1 Globální srážky Obr. 7.1/156-157 – SS nebo jiná mapa rozložení srážek"
+              },
+              {
+                "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": false
+                  },
+                  {
+                    "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+                    "correct": false
+                  },
+                  {
+                    "text": "7.2 Klimatické klasifikace",
+                    "correct": true
+                  },
+                  {
+                    "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "7.2 Klimatické klasifikace"
+              },
+              {
+                "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": false
+                  },
+                  {
+                    "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+                    "correct": false
+                  },
+                  {
+                    "text": "pomocí klimatických typů lze klasifikovat klimata z globálního hlediska:",
+                    "correct": true
+                  },
+                  {
+                    "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "pomocí klimatických typů lze klasifikovat klimata z globálního hlediska:"
+              },
+              {
+                "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": false
+                  },
+                  {
+                    "text": "a) konvenční klasifikace – vymezují typy klimatu podle předem konvenčně stanovených mezních hodnot jednoho nebo více meteorologických prvků (např.teplota vzduc…",
+                    "correct": true
+                  },
+                  {
+                    "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+                    "correct": false
+                  },
+                  {
+                    "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+                    "correct": false
+                  }
+                ],
+                "explanation": "a) konvenční klasifikace – vymezují typy klimatu podle předem konvenčně stanovených mezních hodnot jednoho nebo více meteorologických prvků (např.teplota vzduc…"
+              },
+              {
+                "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": false
+                  },
+                  {
+                    "text": "b) genetické klasifikace – opírají se o cirkulační klimatotvorné faktory (např.",
+                    "correct": true
+                  },
+                  {
+                    "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+                    "correct": false
+                  },
+                  {
+                    "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+                    "correct": false
+                  }
+                ],
+                "explanation": "b) genetické klasifikace – opírají se o cirkulační klimatotvorné faktory (např."
+              },
+              {
+                "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": false
+                  },
+                  {
+                    "text": "vzduchové hmoty, fronty) a klasifikační metoda je i metodou výkladu vzniku určitého klimatické typu",
+                    "correct": true
+                  },
+                  {
+                    "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+                    "correct": false
+                  },
+                  {
+                    "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+                    "correct": false
+                  }
+                ],
+                "explanation": "vzduchové hmoty, fronty) a klasifikační metoda je i metodou výkladu vzniku určitého klimatické typu"
+              },
+              {
+                "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": false
+                  },
+                  {
+                    "text": "7.2.1 Köppenova klasifikace",
+                    "correct": true
+                  },
+                  {
+                    "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+                    "correct": false
+                  },
+                  {
+                    "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+                    "correct": false
+                  }
+                ],
+                "explanation": "7.2.1 Köppenova klasifikace"
+              },
+              {
+                "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": false
+                  },
+                  {
+                    "text": "klasifikace klimatu od Wladimira Köppena (s různými následnými modifikacemi) je nejznámější konvenční klimatickou klasifikací → základ teplota vzduchu a srážky…",
+                    "correct": true
+                  },
+                  {
+                    "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+                    "correct": false
+                  },
+                  {
+                    "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+                    "correct": false
+                  }
+                ],
+                "explanation": "klasifikace klimatu od Wladimira Köppena (s různými následnými modifikacemi) je nejznámější konvenční klimatickou klasifikací → základ teplota vzduchu a srážky…"
+              },
+              {
+                "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": false
+                  },
+                  {
+                    "text": "hlavní klimatické pásy: a) A",
+                    "correct": true
+                  },
+                  {
+                    "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+                    "correct": false
+                  },
+                  {
+                    "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+                    "correct": false
+                  }
+                ],
+                "explanation": "hlavní klimatické pásy: a) A"
+              },
+              {
+                "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": false
+                  },
+                  {
+                    "text": "pás vlhkého tropického klimatu (průměrná teplota každého měsíce nad 18 ºC, bez zimního období, velké srážky převažující výpar)",
+                    "correct": true
+                  },
+                  {
+                    "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+                    "correct": false
+                  },
+                  {
+                    "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+                    "correct": false
+                  }
+                ],
+                "explanation": "pás vlhkého tropického klimatu (průměrná teplota každého měsíce nad 18 ºC, bez zimního období, velké srážky převažující výpar)"
+              },
+              {
+                "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": false
+                  },
+                  {
+                    "text": "b) B – pás suchého klimatu (výpar větší než srážky, bez přebytku vody – žádné stálé toky)",
+                    "correct": true
+                  },
+                  {
+                    "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+                    "correct": false
+                  },
+                  {
+                    "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+                    "correct": false
+                  }
+                ],
+                "explanation": "b) B – pás suchého klimatu (výpar větší než srážky, bez přebytku vody – žádné stálé toky)"
+              },
+              {
+                "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": false
+                  },
+                  {
+                    "text": "c) C – pás mírně teplého klimatu (omezen izotermou 18 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce, vyjádřená sezonalita)",
+                    "correct": true
+                  },
+                  {
+                    "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+                    "correct": false
+                  },
+                  {
+                    "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+                    "correct": false
+                  }
+                ],
+                "explanation": "c) C – pás mírně teplého klimatu (omezen izotermou 18 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce, vyjádřená sezonalita)"
+              },
+              {
+                "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": false
+                  },
+                  {
+                    "text": "pás mírně studeného (boreálního) klimatu (omezen izotermou 10 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce)",
+                    "correct": true
+                  },
+                  {
+                    "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+                    "correct": false
+                  },
+                  {
+                    "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+                    "correct": false
+                  }
+                ],
+                "explanation": "pás mírně studeného (boreálního) klimatu (omezen izotermou 10 ºC nejteplejšího a –3 ºC nejchladnějšího měsíce)"
+              },
+              {
+                "question": "K tématu „Změny a kolísání klimatu: základní klimat…\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "Globální klimata • klima – průměrné počasí v dané oblasti, které lze vyjádřit charakteristikami popisujícími stav atmosféry (např.",
+                    "correct": false
+                  },
+                  {
+                    "text": "e) E – pás polárního klimatu (teplota nejteplejšího měsíce pod 10 ºC) Obr.",
+                    "correct": true
+                  },
+                  {
+                    "text": "teplota, tlak, oblaka atd.) • nejdostupnější klimatické charakteristiky se týkají ve světovém měřítku teploty vzduchu a srážek, které ovlivňují přirozenou vege…",
+                    "correct": false
+                  },
+                  {
+                    "text": "klimata definovaná na základě teploty a srážek tak umožňují charakterizovat i mnohé rysy přírodního prostředí • klíčové poznatky:",
+                    "correct": false
+                  }
+                ],
+                "explanation": "e) E – pás polárního klimatu (teplota nejteplejšího měsíce pod 10 ºC) Obr."
               }
             ]
           }
@@ -3095,6 +5097,336 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "V údolích klesá k úrovni toků a jezer (prosakování)."
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: 14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Hydrosféra: Rozšíření a oběh vody na Zemi. Hydr…\"?",
+                "options": [
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …",
+                    "correct": true
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …"
+              },
+              {
+                "question": "K tématu „Hydrosféra: Rozšíření a oběh vody na Zemi…\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
+              },
+              {
+                "question": "K tématu „Hydrosféra: Rozšíření a oběh vody na Zemi…\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj."
+              },
+              {
+                "question": "K tématu „Hydrosféra: Rozšíření a oběh vody na Zemi…\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Hydrosféra: Rozšíření a oběh vody na Zemi…\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Hydrosféra: Rozšíření a oběh vody na Zemi…\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Hydrosféra: Rozšíření a oběh vody na Zemi…\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": true
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+              },
+              {
+                "question": "K tématu „Hydrosféra: Rozšíření a oběh vody na Zemi…\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
+              },
+              {
+                "question": "K tématu „Hydrosféra: Rozšíření a oběh vody na Zemi…\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj."
+              },
+              {
+                "question": "K tématu „Hydrosféra: Rozšíření a oběh vody na Zemi…\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…"
+              },
+              {
+                "question": "K tématu „Hydrosféra: Rozšíření a oběh vody na Zemi…\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "14.1.1 Hladina podzemní vody Obr. 14.4/361",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "14.1.1 Hladina podzemní vody Obr. 14.4/361"
+              },
+              {
+                "question": "K tématu „Hydrosféra: Rozšíření a oběh vody na Zemi…\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (pros…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (pros…"
+              },
+              {
+                "question": "K tématu „Hydrosféra: Rozšíření a oběh vody na Zemi…\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…"
+              },
+              {
+                "question": "K tématu „Hydrosféra: Rozšíření a oběh vody na Zemi…\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
               }
             ]
           }
@@ -3290,6 +5622,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Nachází se v pásmu provzdušnění nad hladinou podzemní vody."
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: 14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Hydrografie: Měrné jednotky odtoku. Hydrografic…\"?",
+                "options": [
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …",
+                    "correct": true
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …"
+              },
+              {
+                "question": "K tématu „Hydrografie: Měrné jednotky odtoku. Hydro…\" — které tvrzení je správné? (7)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…"
+              },
+              {
+                "question": "K tématu „Hydrografie: Měrné jednotky odtoku. Hydro…\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
+              },
+              {
+                "question": "K tématu „Hydrografie: Měrné jednotky odtoku. Hydro…\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj."
+              },
+              {
+                "question": "K tématu „Hydrografie: Měrné jednotky odtoku. Hydro…\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Hydrografie: Měrné jednotky odtoku. Hydro…\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Hydrografie: Měrné jednotky odtoku. Hydro…\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Hydrografie: Měrné jednotky odtoku. Hydro…\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": true
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+              },
+              {
+                "question": "K tématu „Hydrografie: Měrné jednotky odtoku. Hydro…\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
+              },
+              {
+                "question": "K tématu „Hydrografie: Měrné jednotky odtoku. Hydro…\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj."
+              },
+              {
+                "question": "K tématu „Hydrografie: Měrné jednotky odtoku. Hydro…\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…"
+              },
+              {
+                "question": "K tématu „Hydrografie: Měrné jednotky odtoku. Hydro…\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "14.1.1 Hladina podzemní vody Obr. 14.4/361",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "14.1.1 Hladina podzemní vody Obr. 14.4/361"
+              },
+              {
+                "question": "K tématu „Hydrografie: Měrné jednotky odtoku. Hydro…\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (pros…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (pros…"
+              },
+              {
+                "question": "K tématu „Hydrografie: Měrné jednotky odtoku. Hydro…\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…"
+              },
+              {
+                "question": "K tématu „Hydrografie: Měrné jednotky odtoku. Hydro…\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
               }
             ]
           }
@@ -3485,6 +6169,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Data slouží pro hydrologické bilance a povodňovou ochranu."
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: 14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Hydrometrie: Měření vodních stavů a průtoků\"?",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …",
+                    "correct": true
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …"
+              },
+              {
+                "question": "K tématu „Hydrometrie: Měření vodních stavů a průto…\" — které tvrzení je správné? (7)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…"
+              },
+              {
+                "question": "K tématu „Hydrometrie: Měření vodních stavů a průto…\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
+              },
+              {
+                "question": "K tématu „Hydrometrie: Měření vodních stavů a průto…\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj."
+              },
+              {
+                "question": "K tématu „Hydrometrie: Měření vodních stavů a průto…\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Hydrometrie: Měření vodních stavů a průto…\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Hydrometrie: Měření vodních stavů a průto…\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Hydrometrie: Měření vodních stavů a průto…\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": true
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+              },
+              {
+                "question": "K tématu „Hydrometrie: Měření vodních stavů a průto…\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
+              },
+              {
+                "question": "K tématu „Hydrometrie: Měření vodních stavů a průto…\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj."
+              },
+              {
+                "question": "K tématu „Hydrometrie: Měření vodních stavů a průto…\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…"
+              },
+              {
+                "question": "K tématu „Hydrometrie: Měření vodních stavů a průto…\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "14.1.1 Hladina podzemní vody Obr. 14.4/361",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "14.1.1 Hladina podzemní vody Obr. 14.4/361"
+              },
+              {
+                "question": "K tématu „Hydrometrie: Měření vodních stavů a průto…\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (pros…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (pros…"
+              },
+              {
+                "question": "K tématu „Hydrometrie: Měření vodních stavů a průto…\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…"
+              },
+              {
+                "question": "K tématu „Hydrometrie: Měření vodních stavů a průto…\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
               }
             ]
           }
@@ -3680,6 +6716,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Fluviální eroze a akumulace formují údolí a náplavy."
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: 14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Vodní režim řek: Režim průtoků a typizace řek p…\"?",
+                "options": [
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …",
+                    "correct": true
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …"
+              },
+              {
+                "question": "K tématu „Vodní režim řek: Režim průtoků a typizace…\" — které tvrzení je správné? (7)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…"
+              },
+              {
+                "question": "K tématu „Vodní režim řek: Režim průtoků a typizace…\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
+              },
+              {
+                "question": "K tématu „Vodní režim řek: Režim průtoků a typizace…\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj."
+              },
+              {
+                "question": "K tématu „Vodní režim řek: Režim průtoků a typizace…\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Vodní režim řek: Režim průtoků a typizace…\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Vodní režim řek: Režim průtoků a typizace…\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Vodní režim řek: Režim průtoků a typizace…\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": true
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+              },
+              {
+                "question": "K tématu „Vodní režim řek: Režim průtoků a typizace…\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
+              },
+              {
+                "question": "K tématu „Vodní režim řek: Režim průtoků a typizace…\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj."
+              },
+              {
+                "question": "K tématu „Vodní režim řek: Režim průtoků a typizace…\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…"
+              },
+              {
+                "question": "K tématu „Vodní režim řek: Režim průtoků a typizace…\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "14.1.1 Hladina podzemní vody Obr. 14.4/361",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "14.1.1 Hladina podzemní vody Obr. 14.4/361"
+              },
+              {
+                "question": "K tématu „Vodní režim řek: Režim průtoků a typizace…\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (pros…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (pros…"
+              },
+              {
+                "question": "K tématu „Vodní režim řek: Režim průtoků a typizace…\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…"
+              },
+              {
+                "question": "K tématu „Vodní režim řek: Režim průtoků a typizace…\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
               }
             ]
           }
@@ -3875,6 +7263,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Srážky doplňují zásoby v zóně saturace."
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: 14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Hydrologie podpovrchových vod: Zdroje vzniku po…\"?",
+                "options": [
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …",
+                    "correct": true
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …"
+              },
+              {
+                "question": "K tématu „Hydrologie podpovrchových vod: Zdroje vzn…\" — které tvrzení je správné? (7)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…"
+              },
+              {
+                "question": "K tématu „Hydrologie podpovrchových vod: Zdroje vzn…\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
+              },
+              {
+                "question": "K tématu „Hydrologie podpovrchových vod: Zdroje vzn…\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj."
+              },
+              {
+                "question": "K tématu „Hydrologie podpovrchových vod: Zdroje vzn…\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Hydrologie podpovrchových vod: Zdroje vzn…\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Hydrologie podpovrchových vod: Zdroje vzn…\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Hydrologie podpovrchových vod: Zdroje vzn…\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": true
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+              },
+              {
+                "question": "K tématu „Hydrologie podpovrchových vod: Zdroje vzn…\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
+              },
+              {
+                "question": "K tématu „Hydrologie podpovrchových vod: Zdroje vzn…\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj."
+              },
+              {
+                "question": "K tématu „Hydrologie podpovrchových vod: Zdroje vzn…\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…"
+              },
+              {
+                "question": "K tématu „Hydrologie podpovrchových vod: Zdroje vzn…\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "14.1.1 Hladina podzemní vody Obr. 14.4/361",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "14.1.1 Hladina podzemní vody Obr. 14.4/361"
+              },
+              {
+                "question": "K tématu „Hydrologie podpovrchových vod: Zdroje vzn…\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (pros…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (pros…"
+              },
+              {
+                "question": "K tématu „Hydrologie podpovrchových vod: Zdroje vzn…\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…"
+              },
+              {
+                "question": "K tématu „Hydrologie podpovrchových vod: Zdroje vzn…\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
               }
             ]
           }
@@ -4070,6 +7810,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Voda odtéká jen výparem nebo infiltrací."
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: 14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Hydrologie jezer a nádrží: Světové zásoby vody …\"?",
+                "options": [
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …",
+                    "correct": true
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …"
+              },
+              {
+                "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (7)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…"
+              },
+              {
+                "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
+              },
+              {
+                "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj."
+              },
+              {
+                "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": true
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+              },
+              {
+                "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
+              },
+              {
+                "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj."
+              },
+              {
+                "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…"
+              },
+              {
+                "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "14.1.1 Hladina podzemní vody Obr. 14.4/361",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "14.1.1 Hladina podzemní vody Obr. 14.4/361"
+              },
+              {
+                "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (pros…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (pros…"
+              },
+              {
+                "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…"
+              },
+              {
+                "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+                    "correct": false
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": true
+                  },
+                  {
+                    "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+                    "correct": false
+                  },
+                  {
+                    "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
               }
             ]
           }
@@ -4247,6 +8339,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Odlesňování a zemědělství mění podíl lesa v krajině."
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Co je fyzická geografie?\"?",
+                "options": [
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": true
+                  },
+                  {
+                    "text": "(Evropská agentura pro životní prostředí)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti"
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Jako krajina se označuje část zemského povrchu s typickou kombinací přírodních a kulturních prvků a charakteristickou scenerií",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: Jako krajina se označuje část zemského povrchu s typickou kombinací přírodních a kulturních prvků a charakteristickou scenerií"
+              },
+              {
+                "question": "K tématu „Co je fyzická geografie?\" — které tvrzení je správné? (7)",
+                "options": [
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": false
+                  },
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propustná přípovrchová vrstva sahající od vrcholků stromů po spodní hranici podzemní vody",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Propustná přípovrchová vrstva sahající od vrcholků stromů po spodní hranici podzemní vody"
+              },
+              {
+                "question": "K tématu „Co je fyzická geografie?\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": false
+                  },
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": false
+                  },
+                  {
+                    "text": "V kritické zóně dochází k pronikání živé a neživé přírody",
+                    "correct": true
+                  }
+                ],
+                "explanation": "V kritické zóně dochází k pronikání živé a neživé přírody"
+              },
+              {
+                "question": "K tématu „Co je fyzická geografie?\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": false
+                  },
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Komplexní vztahy v kritické zóně vytvářejí",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Komplexní vztahy v kritické zóně vytvářejí"
+              },
+              {
+                "question": "K tématu „Co je fyzická geografie?\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": false
+                  },
+                  {
+                    "text": "rozhraní mezi zemskou kůrou a svrchním pláštěm",
+                    "correct": true
+                  },
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": false
+                  }
+                ],
+                "explanation": "rozhraní mezi zemskou kůrou a svrchním pláštěm"
+              },
+              {
+                "question": "K tématu „Co je fyzická geografie?\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  },
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Co je fyzická geografie?\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  },
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Co je fyzická geografie?\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  },
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Co je fyzická geografie?\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": true
+                  },
+                  {
+                    "text": "(Evropská agentura pro životní prostředí)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti"
+              },
+              {
+                "question": "K tématu „Co je fyzická geografie?\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": true
+                  },
+                  {
+                    "text": "(Evropská agentura pro životní prostředí)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Lesnatost je dána způsobem využití země člověkem (odlesněním)"
+              },
+              {
+                "question": "K tématu „Co je fyzická geografie?\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": true
+                  },
+                  {
+                    "text": "(Evropská agentura pro životní prostředí)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les"
+              },
+              {
+                "question": "K tématu „Co je fyzická geografie?\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": false
+                  },
+                  {
+                    "text": "(Evropská agentura pro životní prostředí)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": false
+                  }
+                ],
+                "explanation": "(Evropská agentura pro životní prostředí)"
+              },
+              {
+                "question": "K tématu „Co je fyzická geografie?\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Jako krajina se označuje část zemského povrchu s typickou kombinací přírodních a kulturních prvků a charakteristickou scenerií",
+                    "correct": true
+                  },
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Jako krajina se označuje část zemského povrchu s typickou kombinací přírodních a kulturních prvků a charakteristickou scenerií"
+              },
+              {
+                "question": "K tématu „Co je fyzická geografie?\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": false
+                  },
+                  {
+                    "text": "krajina vzniklá přetvořením původní přírodní krajiny činností člověka",
+                    "correct": true
+                  },
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": false
+                  }
+                ],
+                "explanation": "krajina vzniklá přetvořením původní přírodní krajiny činností člověka"
+              },
+              {
+                "question": "K tématu „Co je fyzická geografie?\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "Lesnatost je dána způsobem využití země člověkem (odlesněním)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propustná přípovrchová vrstva sahající od vrcholků stromů po spodní hranici podzemní vody",
+                    "correct": true
+                  },
+                  {
+                    "text": "Nejvyšší druhová diverzita ptáků je v krajině, kde se střídají otevřené plochy a les",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vztah mezi počtem ptačích druhů a lesnatostí v oblasti",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Propustná přípovrchová vrstva sahající od vrcholků stromů po spodní hranici podzemní vody"
               }
             ]
           }
@@ -4423,6 +8867,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Složení se mění s hloubkou a tlakem."
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Vývoj litosféry\"?",
+                "options": [
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Klidná střední hladina moří, které jsou spojené i pod kontinenty",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Litosféra, její vznik, vývoj a procesy v ní probíhající"
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (6)",
+                "options": [
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": false
+                  },
+                  {
+                    "text": "Protože dosáhla stavu hydrostatické rovnováhy.",
+                    "correct": true
+                  },
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Protože dosáhla stavu hydrostatické rovnováhy."
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (7)",
+                "options": [
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": false
+                  },
+                  {
+                    "text": "Gutenbergova diskontinuita (plášť / jádro)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Gutenbergova diskontinuita (plášť / jádro)"
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": false
+                  },
+                  {
+                    "text": "Minerály: olivín, pyroxen, granát, spinel",
+                    "correct": true
+                  },
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Minerály: olivín, pyroxen, granát, spinel"
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": false
+                  },
+                  {
+                    "text": "intenzivní tektonická a vulkanická aktivita, orogeneze",
+                    "correct": true
+                  },
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "intenzivní tektonická a vulkanická aktivita, orogeneze"
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": false
+                  },
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  },
+                  {
+                    "text": "stacionární ložisko magmatu ve svrchním plášti pod oceánskou nebo kontinentální kůrou",
+                    "correct": true
+                  }
+                ],
+                "explanation": "stacionární ložisko magmatu ve svrchním plášti pod oceánskou nebo kontinentální kůrou"
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": false
+                  },
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": false
+                  },
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": false
+                  },
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Klidná střední hladina moří, které jsou spojené i pod kontinenty",
+                    "correct": false
+                  },
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Litosféra, její vznik, vývoj a procesy v ní probíhající"
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Klidná střední hladina moří, které jsou spojené i pod kontinenty",
+                    "correct": false
+                  },
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Prostorová variabilita mocnosti zemské kůry"
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": false
+                  },
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Klidná střední hladina moří, které jsou spojené i pod kontinenty",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Průměr na rovníku o 43 km větší než na pólu"
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": false
+                  },
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Klidná střední hladina moří, které jsou spojené i pod kontinenty",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Klidná střední hladina moří, které jsou spojené i pod kontinenty"
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": false
+                  },
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Obrázek ukazuje skutečný poměr velikosti Země a Měsíce",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Obrázek ukazuje skutečný poměr velikosti Země a Měsíce"
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": false
+                  },
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Protože dosáhla stavu hydrostatické rovnováhy.",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Protože dosáhla stavu hydrostatické rovnováhy."
+              },
+              {
+                "question": "K tématu „Vývoj litosféry\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "Litosféra, její vznik, vývoj a procesy v ní probíhající",
+                    "correct": false
+                  },
+                  {
+                    "text": "Prostorová variabilita mocnosti zemské kůry",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průměr na rovníku o 43 km větší než na pólu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Gutenbergova diskontinuita (plášť / jádro)",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Gutenbergova diskontinuita (plášť / jádro)"
               }
             ]
           }
@@ -4583,6 +9379,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Vrstvy mohou být ukloněny vůči horizontále."
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Horninový cyklus\"?",
+                "options": [
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": true
+                  },
+                  {
+                    "text": "hlavní (podstatné): &gt; 10 objemových %",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (6)",
+                "options": [
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "akcesorické (přídatné): ≤ 5 objemových %",
+                    "correct": true
+                  }
+                ],
+                "explanation": "akcesorické (přídatné): ≤ 5 objemových %"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (7)",
+                "options": [
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "primární: tvoří se při vzniku samotné horniny",
+                    "correct": true
+                  }
+                ],
+                "explanation": "primární: tvoří se při vzniku samotné horniny"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "sekundární: vznikají přeměnou z primárních (převážně zvětráváním)",
+                    "correct": true
+                  }
+                ],
+                "explanation": "sekundární: vznikají přeměnou z primárních (převážně zvětráváním)"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Zemskou kůru tvoří z převážné většiny 8 prvků",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Zemskou kůru tvoří z převážné většiny 8 prvků"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vrstvy jsou ukloněné vůči hlavní vrstevní ploše setu vrstev",
+                    "correct": true
+                  },
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Vrstvy jsou ukloněné vůči hlavní vrstevní ploše setu vrstev"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  },
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  },
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  },
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "hlavní (podstatné): &gt; 10 objemových %",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": true
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "hlavní (podstatné): &gt; 10 objemových %",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": true
+                  },
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "hlavní (podstatné): &gt; 10 objemových %",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": true
+                  },
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "hlavní (podstatné): &gt; 10 objemových %",
+                    "correct": true
+                  },
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": false
+                  }
+                ],
+                "explanation": "hlavní (podstatné): &gt; 10 objemových %"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "vedlejší (podružné): &lt; 10 objemových %",
+                    "correct": true
+                  },
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": false
+                  }
+                ],
+                "explanation": "vedlejší (podružné): &lt; 10 objemových %"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "akcesorické (přídatné): ≤ 5 objemových %",
+                    "correct": true
+                  },
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": false
+                  }
+                ],
+                "explanation": "akcesorické (přídatné): ≤ 5 objemových %"
+              },
+              {
+                "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+                    "correct": false
+                  },
+                  {
+                    "text": "primární: tvoří se při vzniku samotné horniny",
+                    "correct": true
+                  },
+                  {
+                    "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+                    "correct": false
+                  }
+                ],
+                "explanation": "primární: tvoří se při vzniku samotné horniny"
               }
             ]
           }
@@ -4746,6 +9894,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Endogenní síly vytvářejí zlomy, vrásnění a reliéf."
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km"
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Tektonické procesy\"?",
+                "options": [
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": false
+                  },
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": true
+                  },
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Nesoulad mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích"
+              },
+              {
+                "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (7)",
+                "options": [
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Pohyby částí zemské kůry a svrchního pláště, při kterých dochází k deformaci hornin",
+                    "correct": true
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": false
+                  },
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Pohyby částí zemské kůry a svrchního pláště, při kterých dochází k deformaci hornin"
+              },
+              {
+                "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Studuje endogenní procesy, geologické struktury a tvary reliéfu související s deformací hornin",
+                    "correct": true
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": false
+                  },
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Studuje endogenní procesy, geologické struktury a tvary reliéfu související s deformací hornin"
+              },
+              {
+                "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Typy tektonických procesů podle směrů působících sil",
+                    "correct": true
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": false
+                  },
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Typy tektonických procesů podle směrů působících sil"
+              },
+              {
+                "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": false
+                  },
+                  {
+                    "text": "Průsečnice vodorovné roviny s nakloněnou vrstevní plochou",
+                    "correct": true
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": false
+                  },
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Průsečnice vodorovné roviny s nakloněnou vrstevní plochou"
+              },
+              {
+                "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": false
+                  },
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": false
+                  },
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": false
+                  },
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": true
+                  },
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": false
+                  },
+                  {
+                    "text": "Nesoulad mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km"
+              },
+              {
+                "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  },
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": true
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": false
+                  },
+                  {
+                    "text": "Nesoulad mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích"
+              },
+              {
+                "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": false
+                  },
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": true
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": false
+                  },
+                  {
+                    "text": "Nesoulad mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Shoda mezi geologickými strukturami a tvary reliéfu"
+              },
+              {
+                "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": false
+                  },
+                  {
+                    "text": "Nesoulad mezi geologickými strukturami a tvary reliéfu",
+                    "correct": true
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": false
+                  },
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Nesoulad mezi geologickými strukturami a tvary reliéfu"
+              },
+              {
+                "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": false
+                  },
+                  {
+                    "text": "Puklina v hornině, podél které nastal pozorovatelný pohyb",
+                    "correct": true
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": false
+                  },
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Puklina v hornině, podél které nastal pozorovatelný pohyb"
+              },
+              {
+                "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": false
+                  },
+                  {
+                    "text": "Příklady působení endogenních a exogenních procesů",
+                    "correct": true
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": false
+                  },
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Příklady působení endogenních a exogenních procesů"
+              },
+              {
+                "question": "K tématu „Tektonické procesy\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "Stav nesouladu mezi geologickými strukturami a tvary zemského povrchu ve vrásových pohořích",
+                    "correct": false
+                  },
+                  {
+                    "text": "Pohyby částí zemské kůry a svrchního pláště, při kterých dochází k deformaci hornin",
+                    "correct": true
+                  },
+                  {
+                    "text": "Horninové těleso (alochton), které bylo přemístěno na jinou horninovou jednotku (autochton) alespoň na vzdálenost 5 km",
+                    "correct": false
+                  },
+                  {
+                    "text": "Shoda mezi geologickými strukturami a tvary reliéfu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Pohyby částí zemské kůry a svrchního pláště, při kterých dochází k deformaci hornin"
               }
             ]
           }
@@ -4915,6 +10415,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Gravitace spouští pohyb, ale eroze zahrnuje i transport."
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Zvětrávací procesy\"?",
+                "options": [
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": false
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": true
+                  },
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": false
+                  },
+                  {
+                    "text": "Soubor procesů vedoucích k fyzickému rozpadu a chemickému rozkladu hornin nacházejících se v blízkosti zemského povrchu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Snižování zemského povrchu, zmenšování výškových rozdílů"
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Soubor procesů vedoucích k fyzickému rozpadu a chemickému rozkladu hornin nacházejících se v blízkosti zemského povrchu",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: Soubor procesů vedoucích k fyzickému rozpadu a chemickému rozkladu hornin nacházejících se v blízkosti zemského povrchu"
+              },
+              {
+                "question": "K tématu „Zvětrávací procesy\" — které tvrzení je správné? (7)",
+                "options": [
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": false
+                  },
+                  {
+                    "text": "Fyzikální zvětrávání je ovlivněno texturou a strukturou hornin",
+                    "correct": true
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Fyzikální zvětrávání je ovlivněno texturou a strukturou hornin"
+              },
+              {
+                "question": "K tématu „Zvětrávací procesy\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": false
+                  },
+                  {
+                    "text": "Fyzikální zvětrávání urychluje chemické zvětrávání",
+                    "correct": true
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Fyzikální zvětrávání urychluje chemické zvětrávání"
+              },
+              {
+                "question": "K tématu „Zvětrávací procesy\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": false
+                  },
+                  {
+                    "text": "→ dochází ke zvětšování aktivního povrchu dostupného pro chemické reakce",
+                    "correct": true
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": false
+                  }
+                ],
+                "explanation": "→ dochází ke zvětšování aktivního povrchu dostupného pro chemické reakce"
+              },
+              {
+                "question": "K tématu „Zvětrávací procesy\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": false
+                  },
+                  {
+                    "text": "Procesy zahrnující objemové změny samotné horniny:",
+                    "correct": true
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Procesy zahrnující objemové změny samotné horniny:"
+              },
+              {
+                "question": "K tématu „Zvětrávací procesy\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Zvětrávací procesy\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Zvětrávací procesy\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Zvětrávací procesy\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": false
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": true
+                  },
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": false
+                  },
+                  {
+                    "text": "Soubor procesů vedoucích k fyzickému rozpadu a chemickému rozkladu hornin nacházejících se v blízkosti zemského povrchu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Snižování zemského povrchu, zmenšování výškových rozdílů"
+              },
+              {
+                "question": "K tématu „Zvětrávací procesy\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": false
+                  },
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": true
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Soubor procesů vedoucích k fyzickému rozpadu a chemickému rozkladu hornin nacházejících se v blízkosti zemského povrchu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Soubor procesů na svazích vyvolaných působením gravitace"
+              },
+              {
+                "question": "K tématu „Zvětrávací procesy\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": false
+                  },
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": true
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Soubor procesů vedoucích k fyzickému rozpadu a chemickému rozkladu hornin nacházejících se v blízkosti zemského povrchu",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci"
+              },
+              {
+                "question": "K tématu „Zvětrávací procesy\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": false
+                  },
+                  {
+                    "text": "Soubor procesů vedoucích k fyzickému rozpadu a chemickému rozkladu hornin nacházejících se v blízkosti zemského povrchu",
+                    "correct": true
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Soubor procesů vedoucích k fyzickému rozpadu a chemickému rozkladu hornin nacházejících se v blízkosti zemského povrchu"
+              },
+              {
+                "question": "K tématu „Zvětrávací procesy\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": false
+                  },
+                  {
+                    "text": "Mechanický rozpad horniny na menší částečky",
+                    "correct": true
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Mechanický rozpad horniny na menší částečky"
+              },
+              {
+                "question": "K tématu „Zvětrávací procesy\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": false
+                  },
+                  {
+                    "text": "Mechanické a chemické působení organizmů",
+                    "correct": true
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Mechanické a chemické působení organizmů"
+              },
+              {
+                "question": "K tématu „Zvětrávací procesy\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "Soubor procesů na svazích vyvolaných působením gravitace",
+                    "correct": false
+                  },
+                  {
+                    "text": "Fyzikální zvětrávání je ovlivněno texturou a strukturou hornin",
+                    "correct": true
+                  },
+                  {
+                    "text": "Snižování zemského povrchu, zmenšování výškových rozdílů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Odnos zvětralin nebo pevných skalních hornin vodou, větrem a ledovci",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Fyzikální zvětrávání je ovlivněno texturou a strukturou hornin"
               }
             ]
           }
@@ -5092,6 +10944,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Řádovost toků popisuje hierarchii v drenážní síti."
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Fluviální procesy\"?",
+                "options": [
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": true
+                  },
+                  {
+                    "text": "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek"
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Území, z něhož odtéká voda z atmosférických srážek nebo akumulovaná v ledovcích, ve stálé sněhové pokrývce, či permafrostu povrchovou i podzemní cestou do jedi…",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: Území, z něhož odtéká voda z atmosférických srážek nebo akumulovaná v ledovcích, ve stálé sněhové pokrývce, či permafrostu povrchovou i podzemní cestou do jedi…"
+              },
+              {
+                "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (7)",
+                "options": [
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Území, z něhož odtéká voda z atmosférických srážek nebo akumulovaná v ledovcích, ve stálé sněhové pokrývce, či permafrostu povrchovou i podzemní cestou do jedi…",
+                    "correct": true
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Území, z něhož odtéká voda z atmosférických srážek nebo akumulovaná v ledovcích, ve stálé sněhové pokrývce, či permafrostu povrchovou i podzemní cestou do jedi…"
+              },
+              {
+                "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Komponenty (proměnné) fluviálního systému",
+                    "correct": true
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Komponenty (proměnné) fluviálního systému"
+              },
+              {
+                "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Hlavní typy fluviálních sedimentů v povodí",
+                    "correct": true
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Hlavní typy fluviálních sedimentů v povodí"
+              },
+              {
+                "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Řádovost (hydrologické pořadí) vodních toků",
+                    "correct": true
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Řádovost (hydrologické pořadí) vodních toků"
+              },
+              {
+                "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": true
+                  },
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek"
+              },
+              {
+                "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": true
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Intenzita srážky překročí infiltrační kapacitu půdy"
+              },
+              {
+                "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": true
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Intenzita srážky nepřekročí infiltrační kapacitu půdy"
+              },
+              {
+                "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů",
+                    "correct": true
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů"
+              },
+              {
+                "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "suché vnitrozemské subtropické oblasti, polární oblasti",
+                    "correct": true
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "suché vnitrozemské subtropické oblasti, polární oblasti"
+              },
+              {
+                "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vrstva vody rovnoměrně rozložená po ploše povodí, která odteče za určité období",
+                    "correct": true
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Vrstva vody rovnoměrně rozložená po ploše povodí, která odteče za určité období"
+              },
+              {
+                "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+                    "correct": false
+                  },
+                  {
+                    "text": "Území, z něhož odtéká voda z atmosférických srážek nebo akumulovaná v ledovcích, ve stálé sněhové pokrývce, či permafrostu povrchovou i podzemní cestou do jedi…",
+                    "correct": true
+                  },
+                  {
+                    "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+                    "correct": false
+                  },
+                  {
+                    "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Území, z něhož odtéká voda z atmosférických srážek nebo akumulovaná v ledovcích, ve stálé sněhové pokrývce, či permafrostu povrchovou i podzemní cestou do jedi…"
               }
             ]
           }
@@ -5259,6 +11463,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Led a sníh modelují reliéf v chladných oblastech."
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…"
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Glaciální procesy\"?",
+                "options": [
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných srážek převyšují roční ú…",
+                    "correct": false
+                  },
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": true
+                  },
+                  {
+                    "text": "Při transformaci sněhu v led dochází ke změně hustoty",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": false
+                  }
+                ],
+                "explanation": "65,6 m ekvivalentu nárůstu mořské hladiny"
+              },
+              {
+                "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (7)",
+                "options": [
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": false
+                  },
+                  {
+                    "text": "V ledu zůstávají uzavřené bubliny vzduchu",
+                    "correct": true
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "V ledu zůstávají uzavřené bubliny vzduchu"
+              },
+              {
+                "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vhodné podmínky pro ledovce dány vysokou nadmořskou výškou",
+                    "correct": true
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Vhodné podmínky pro ledovce dány vysokou nadmořskou výškou"
+              },
+              {
+                "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vhodné podmínky pro ledovce dány vysokou zeměpisnou šířkou",
+                    "correct": true
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Vhodné podmínky pro ledovce dány vysokou zeměpisnou šířkou"
+              },
+              {
+                "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": false
+                  },
+                  {
+                    "text": "Čára oddělující akumulační a ablační zónu ledovce",
+                    "correct": true
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Čára oddělující akumulační a ablační zónu ledovce"
+              },
+              {
+                "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": false
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": true
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…"
+              },
+              {
+                "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "Při transformaci sněhu v led dochází ke změně hustoty",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": true
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  },
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": false
+                  }
+                ],
+                "explanation": "96 % tvoří ledovcové štíty Antarktidy a Grónska"
+              },
+              {
+                "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "Při transformaci sněhu v led dochází ke změně hustoty",
+                    "correct": false
+                  },
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": true
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": false
+                  }
+                ],
+                "explanation": "65,6 m ekvivalentu nárůstu mořské hladiny"
+              },
+              {
+                "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": false
+                  },
+                  {
+                    "text": "Při transformaci sněhu v led dochází ke změně hustoty",
+                    "correct": true
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Při transformaci sněhu v led dochází ke změně hustoty"
+              },
+              {
+                "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": false
+                  },
+                  {
+                    "text": "Ulehnutí sněhu (drobení vloček, sesedání)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Ulehnutí sněhu (drobení vloček, sesedání)"
+              },
+              {
+                "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": false
+                  },
+                  {
+                    "text": "Zmenšování povrchové plochy vloček (zaoblování)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Zmenšování povrchové plochy vloček (zaoblování)"
+              },
+              {
+                "question": "K tématu „Glaciální procesy\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "65,6 m ekvivalentu nárůstu mořské hladiny",
+                    "correct": false
+                  },
+                  {
+                    "text": "V ledu zůstávají uzavřené bubliny vzduchu",
+                    "correct": true
+                  },
+                  {
+                    "text": "Těleso pomalu tekoucího ledu, který vznikl během let na kontinentech tlakovou a teplotní přeměnou akumulovaného sněhu v oblastech, kde roční úhrny pevných sráž…",
+                    "correct": false
+                  },
+                  {
+                    "text": "96 % tvoří ledovcové štíty Antarktidy a Grónska",
+                    "correct": false
+                  }
+                ],
+                "explanation": "V ledu zůstávají uzavřené bubliny vzduchu"
               }
             ]
           }
@@ -5428,6 +11984,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Vítr ukládá písek do dun a návějů."
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Eolické procesy\"?",
+                "options": [
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Teplé i chladné suché (aridní a semiaridní) oblasti",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Tvary reliéfu, které vznikly působením větru"
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "3 druhy eolického transportu – rolování/posouvání,",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: 3 druhy eolického transportu – rolování/posouvání,"
+              },
+              {
+                "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (7)",
+                "options": [
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Obvykle jsou transportována zrna do velikosti písku",
+                    "correct": true
+                  },
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Obvykle jsou transportována zrna do velikosti písku"
+              },
+              {
+                "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "3 druhy eolického transportu – rolování/posouvání,",
+                    "correct": true
+                  },
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "3 druhy eolického transportu – rolování/posouvání,"
+              },
+              {
+                "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Prostorově neomezené ukládání materiálu, ale často kolem překážek",
+                    "correct": true
+                  },
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Prostorově neomezené ukládání materiálu, ale často kolem překážek"
+              },
+              {
+                "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Probíhá vytřídění a ukládání do vrstev",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Probíhá vytřídění a ukládání do vrstev"
+              },
+              {
+                "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Teplé i chladné suché (aridní a semiaridní) oblasti",
+                    "correct": false
+                  },
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Tvary reliéfu, které vznikly působením větru"
+              },
+              {
+                "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Teplé i chladné suché (aridní a semiaridní) oblasti",
+                    "correct": false
+                  },
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Podmínky za nichž se může uplatnit působení větru"
+              },
+              {
+                "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Teplé i chladné suché (aridní a semiaridní) oblasti",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)"
+              },
+              {
+                "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Teplé i chladné suché (aridní a semiaridní) oblasti",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Teplé i chladné suché (aridní a semiaridní) oblasti"
+              },
+              {
+                "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Větrná eroze a transport probíhá podobně jako ve fluviálním prostředí, ovšem…",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Větrná eroze a transport probíhá podobně jako ve fluviálním prostředí, ovšem…"
+              },
+              {
+                "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Menší hustota vzduchu ve srovnání s vodou snižuje transportní kapacitu",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Menší hustota vzduchu ve srovnání s vodou snižuje transportní kapacitu"
+              },
+              {
+                "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "Tvary reliéfu, které vznikly působením větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Podmínky za nichž se může uplatnit působení větru",
+                    "correct": false
+                  },
+                  {
+                    "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Obvykle jsou transportována zrna do velikosti písku",
+                    "correct": true
+                  }
+                ],
+                "explanation": "Obvykle jsou transportována zrna do velikosti písku"
               }
             ]
           }
@@ -5680,6 +12588,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "Biogenní činitelé mění horninu a tvoří profil půdy."
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Pedogeneze\"?",
+                "options": [
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": false
+                  },
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": true
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  },
+                  {
+                    "text": "půda vzniká působením půdotvorných faktorů, které podmiňují půdotvorné procesy • půdotvorné faktory: • matečná hornina • klima • organizmy • reliéf • čas",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236"
+              },
+              {
+                "question": "Které tvrzení odpovídá obsahu lekce?",
+                "options": [
+                  {
+                    "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+                    "correct": false
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": true
+                  },
+                  {
+                    "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Správně: 263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s."
+              },
+              {
+                "question": "Co je správné tvrzení k pojmu „hranice zrnitostních frakcí\"?",
+                "options": [
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": false
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  },
+                  {
+                    "text": "jíl <0,002 mm prach 0,002 – 0,02 mm písek 0,02 – 2,0 mm • půdní druh – určuje se podle zastoupení zrnitostních frakcí Označení půdy Obsah jílu (%) Skupinové Jednotlivé",
+                    "correct": true
+                  },
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Výklad: jíl <0,002 mm prach 0,002 – 0,02 mm písek 0,02 – 2,0 mm • půdní druh – určuje se podle zastoupení zrnitostních frakcí Označení půdy Obsah jílu (%) Skupinové Jednotlivé"
+              },
+              {
+                "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  },
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": false
+                  },
+                  {
+                    "text": "teplota nepřímé působení: prostřednictvím vegetace Srážky – intenzita promývání půdy → obsah živin Teplota – rychlost rozkladu rostlinného opadu a odumřelých k…",
+                    "correct": true
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "teplota nepřímé působení: prostřednictvím vegetace Srážky – intenzita promývání půdy → obsah živin Teplota – rychlost rozkladu rostlinného opadu a odumřelých k…"
+              },
+              {
+                "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  },
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": false
+                  },
+                  {
+                    "text": "bez činnosti organizmů by půdy nemohli vůbec vzniknout reliéf: pro vývoj půd má největší význam: a.",
+                    "correct": true
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  }
+                ],
+                "explanation": "bez činnosti organizmů by půdy nemohli vůbec vzniknout reliéf: pro vývoj půd má největší význam: a."
+              },
+              {
+                "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  },
+                  {
+                    "text": "terénní deprese reliéf ovlivňuje provlhčení půdy a její teplotu čas: různé fyzikální, chemické a biologické procesy vyžadují ke svému uplatnění určité časové r…",
+                    "correct": true
+                  },
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": false
+                  }
+                ],
+                "explanation": "terénní deprese reliéf ovlivňuje provlhčení půdy a její teplotu čas: různé fyzikální, chemické a biologické procesy vyžadují ke svému uplatnění určité časové r…"
+              },
+              {
+                "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Složení a vlastnosti půdy • půda je disperzní systém pevné + kapalné + plynné fáze procentuální zastoupení jednotlivých fází: pevná 50%, kapalná 20 – 30%, plyn…",
+                    "correct": true
+                  },
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Složení a vlastnosti půdy • půda je disperzní systém pevné + kapalné + plynné fáze procentuální zastoupení jednotlivých fází: pevná 50%, kapalná 20 – 30%, plyn…"
+              },
+              {
+                "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  },
+                  {
+                    "text": "organický podíl – minerální podíl silně převažuje nad organickým (45% - 5%) organický podíl obsahuje dvě složky: a.",
+                    "correct": true
+                  },
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": false
+                  }
+                ],
+                "explanation": "organický podíl – minerální podíl silně převažuje nad organickým (45% - 5%) organický podíl obsahuje dvě složky: a."
+              },
+              {
+                "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  },
+                  {
+                    "text": "živá organická hmota (edafon), b.",
+                    "correct": true
+                  },
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": false
+                  }
+                ],
+                "explanation": "živá organická hmota (edafon), b."
+              },
+              {
+                "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  },
+                  {
+                    "text": "2.1 Barva a zrnitost půdy",
+                    "correct": true
+                  },
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": false
+                  }
+                ],
+                "explanation": "2.1 Barva a zrnitost půdy"
+              },
+              {
+                "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  },
+                  {
+                    "text": "zděděním od matečné horniny, b.",
+                    "correct": true
+                  },
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": false
+                  }
+                ],
+                "explanation": "zděděním od matečné horniny, b."
+              },
+              {
+                "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  },
+                  {
+                    "text": "jíl <0,002 mm prach 0,002 – 0,02 mm písek 0,02 – 2,0 mm • půdní druh – určuje se podle zastoupení zrnitostních frakcí Označení půdy Obsah jílu (%) Skupinové Je…",
+                    "correct": true
+                  },
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": false
+                  }
+                ],
+                "explanation": "jíl <0,002 mm prach 0,002 – 0,02 mm písek 0,02 – 2,0 mm • půdní druh – určuje se podle zastoupení zrnitostních frakcí Označení půdy Obsah jílu (%) Skupinové Je…"
+              },
+              {
+                "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Hlinitopísčitá 10 – 20 Střední Písčitohlinitá 20 – 30",
+                    "correct": true
+                  },
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Hlinitopísčitá 10 – 20 Střední Písčitohlinitá 20 – 30"
+              },
+              {
+                "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  },
+                  {
+                    "text": "Hlinitá 30 – 45 Těžká Jílovitohlinitá 45 – 60",
+                    "correct": true
+                  },
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Hlinitá 30 – 45 Těžká Jílovitohlinitá 45 – 60"
+              },
+              {
+                "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  },
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": true
+                  },
+                  {
+                    "text": "půda vzniká působením půdotvorných faktorů, které podmiňují půdotvorné procesy • půdotvorné faktory: • matečná hornina • klima • organizmy • reliéf • čas",
+                    "correct": false
+                  }
+                ],
+                "explanation": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén)."
+              },
+              {
+                "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+                    "correct": false
+                  },
+                  {
+                    "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+                    "correct": false
+                  },
+                  {
+                    "text": "půda vzniká působením půdotvorných faktorů, které podmiňují půdotvorné procesy • půdotvorné faktory: • matečná hornina • klima • organizmy • reliéf • čas",
+                    "correct": true
+                  },
+                  {
+                    "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+                    "correct": false
+                  }
+                ],
+                "explanation": "půda vzniká působením půdotvorných faktorů, které podmiňují půdotvorné procesy • půdotvorné faktory: • matečná hornina • klima • organizmy • reliéf • čas"
               }
             ]
           }
@@ -5856,6 +13116,358 @@ export const gk: Field = {
                   }
                 ],
                 "explanation": "U-Pb datování zirkonů z australských hornin."
+              },
+              {
+                "question": "Které tvrzení patří k okruhu „Environmentální změny\"?",
+                "options": [
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (6)",
+                "options": [
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Červená barva – pozemský materiál (magma)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Červená barva – pozemský materiál (magma)"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (7)",
+                "options": [
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Zemský povrch vzniká pomalým, ale neustávajícím působením přírodních procesů; přepokládá stálost:",
+                    "correct": true
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Zemský povrch vzniká pomalým, ale neustávajícím působením přírodních procesů; přepokládá stálost:"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (8)",
+                "options": [
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Rychlosti vývoje (pomalé, postupné změny)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Rychlosti vývoje (pomalé, postupné změny)"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (9)",
+                "options": [
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Řada rysů zemského povrchu vznikla při rychlých událostech (kataklyzmatech), spíše než pozvolnou změnou",
+                    "correct": true
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Řada rysů zemského povrchu vznikla při rychlých událostech (kataklyzmatech), spíše než pozvolnou změnou"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (10)",
+                "options": [
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Tvářnost zemského povrchu a rychlost jeho změn se v minulosti lišila",
+                    "correct": true
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Tvářnost zemského povrchu a rychlost jeho změn se v minulosti lišila"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (11)",
+                "options": [
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Projdi výtah a vlastní poznámky z přednášky",
+                    "correct": true
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (12)",
+                "options": [
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+                    "correct": true
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (13)",
+                "options": [
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+                    "correct": true
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (14)",
+                "options": [
+                  {
+                    "text": "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (15)",
+                "options": [
+                  {
+                    "text": "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Způsob určení stáří: radiometrické (U-Pb)"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (16)",
+                "options": [
+                  {
+                    "text": "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (17)",
+                "options": [
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Stáří: období metamorfózy 3,7–4,0 Ga, vznik z granitoidů starých 4,313 Ga (Sm-Nd)"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (18)",
+                "options": [
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Horniny Měsíce převážně pozemského původu",
+                    "correct": true
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Horniny Měsíce převážně pozemského původu"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (19)",
+                "options": [
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Červená barva – pozemský materiál (magma)",
+                    "correct": true
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Červená barva – pozemský materiál (magma)"
+              },
+              {
+                "question": "K tématu „Environmentální změny\" — které tvrzení je správné? (20)",
+                "options": [
+                  {
+                    "text": "Lokalita: NW Territory, Kanada (pojmenování podle řeky Acasta)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Zemský povrch vzniká pomalým, ale neustávajícím působením přírodních procesů; přepokládá stálost:",
+                    "correct": true
+                  },
+                  {
+                    "text": "Lokalita: Jack Hills, W Austrálie (stáří 4,404 Ga)",
+                    "correct": false
+                  },
+                  {
+                    "text": "Způsob určení stáří: radiometrické (U-Pb)",
+                    "correct": false
+                  }
+                ],
+                "explanation": "Zemský povrch vzniká pomalým, ale neustávajícím působením přírodních procesů; přepokládá stálost:"
               }
             ]
           }

@@ -89,6 +89,358 @@
         }
       ],
       "explanation": "Vítr ukládá písek do dun a návějů."
+    },
+    {
+      "question": "Které tvrzení patří k okruhu „Eolické procesy\"?",
+      "options": [
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": false
+        },
+        {
+          "text": "Teplé i chladné suché (aridní a semiaridní) oblasti",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": false
+        },
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": true
+        }
+      ],
+      "explanation": "Tvary reliéfu, které vznikly působením větru"
+    },
+    {
+      "question": "Které tvrzení odpovídá obsahu lekce?",
+      "options": [
+        {
+          "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+          "correct": false
+        },
+        {
+          "text": "3 druhy eolického transportu – rolování/posouvání,",
+          "correct": true
+        },
+        {
+          "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+          "correct": false
+        },
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": false
+        }
+      ],
+      "explanation": "Správně: 3 druhy eolického transportu – rolování/posouvání,"
+    },
+    {
+      "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (7)",
+      "options": [
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": false
+        },
+        {
+          "text": "Obvykle jsou transportována zrna do velikosti písku",
+          "correct": true
+        },
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": false
+        }
+      ],
+      "explanation": "Obvykle jsou transportována zrna do velikosti písku"
+    },
+    {
+      "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (8)",
+      "options": [
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": false
+        },
+        {
+          "text": "3 druhy eolického transportu – rolování/posouvání,",
+          "correct": true
+        },
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": false
+        }
+      ],
+      "explanation": "3 druhy eolického transportu – rolování/posouvání,"
+    },
+    {
+      "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (9)",
+      "options": [
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": false
+        },
+        {
+          "text": "Prostorově neomezené ukládání materiálu, ale často kolem překážek",
+          "correct": true
+        },
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": false
+        }
+      ],
+      "explanation": "Prostorově neomezené ukládání materiálu, ale často kolem překážek"
+    },
+    {
+      "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (10)",
+      "options": [
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": false
+        },
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": false
+        },
+        {
+          "text": "Probíhá vytřídění a ukládání do vrstev",
+          "correct": true
+        }
+      ],
+      "explanation": "Probíhá vytřídění a ukládání do vrstev"
+    },
+    {
+      "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (11)",
+      "options": [
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": false
+        },
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": false
+        },
+        {
+          "text": "Projdi výtah a vlastní poznámky z přednášky",
+          "correct": true
+        }
+      ],
+      "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+    },
+    {
+      "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (12)",
+      "options": [
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": false
+        },
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": false
+        },
+        {
+          "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+          "correct": true
+        }
+      ],
+      "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+    },
+    {
+      "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (13)",
+      "options": [
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": false
+        },
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": false
+        },
+        {
+          "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+          "correct": true
+        }
+      ],
+      "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+    },
+    {
+      "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (14)",
+      "options": [
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": false
+        },
+        {
+          "text": "Teplé i chladné suché (aridní a semiaridní) oblasti",
+          "correct": false
+        },
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": true
+        }
+      ],
+      "explanation": "Tvary reliéfu, které vznikly působením větru"
+    },
+    {
+      "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (15)",
+      "options": [
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": false
+        },
+        {
+          "text": "Teplé i chladné suché (aridní a semiaridní) oblasti",
+          "correct": false
+        },
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": true
+        }
+      ],
+      "explanation": "Podmínky za nichž se může uplatnit působení větru"
+    },
+    {
+      "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (16)",
+      "options": [
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": false
+        },
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": false
+        },
+        {
+          "text": "Teplé i chladné suché (aridní a semiaridní) oblasti",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": true
+        }
+      ],
+      "explanation": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)"
+    },
+    {
+      "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (17)",
+      "options": [
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": false
+        },
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": false
+        },
+        {
+          "text": "Teplé i chladné suché (aridní a semiaridní) oblasti",
+          "correct": true
+        }
+      ],
+      "explanation": "Teplé i chladné suché (aridní a semiaridní) oblasti"
+    },
+    {
+      "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (18)",
+      "options": [
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": false
+        },
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": false
+        },
+        {
+          "text": "Větrná eroze a transport probíhá podobně jako ve fluviálním prostředí, ovšem…",
+          "correct": true
+        }
+      ],
+      "explanation": "Větrná eroze a transport probíhá podobně jako ve fluviálním prostředí, ovšem…"
+    },
+    {
+      "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (19)",
+      "options": [
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": false
+        },
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": false
+        },
+        {
+          "text": "Menší hustota vzduchu ve srovnání s vodou snižuje transportní kapacitu",
+          "correct": true
+        }
+      ],
+      "explanation": "Menší hustota vzduchu ve srovnání s vodou snižuje transportní kapacitu"
+    },
+    {
+      "question": "K tématu „Eolické procesy\" — které tvrzení je správné? (20)",
+      "options": [
+        {
+          "text": "Tvary reliéfu, které vznikly působením větru",
+          "correct": false
+        },
+        {
+          "text": "Podmínky za nichž se může uplatnit působení větru",
+          "correct": false
+        },
+        {
+          "text": "Dostupný nezpevněný materiál vhodné frakce (prach, písek)",
+          "correct": false
+        },
+        {
+          "text": "Obvykle jsou transportována zrna do velikosti písku",
+          "correct": true
+        }
+      ],
+      "explanation": "Obvykle jsou transportována zrna do velikosti písku"
     }
   ]
 }

@@ -89,6 +89,358 @@
         }
       ],
       "explanation": "Řádovost toků popisuje hierarchii v drenážní síti."
+    },
+    {
+      "question": "Které tvrzení patří k okruhu „Fluviální procesy\"?",
+      "options": [
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": true
+        },
+        {
+          "text": "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": false
+        }
+      ],
+      "explanation": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek"
+    },
+    {
+      "question": "Které tvrzení odpovídá obsahu lekce?",
+      "options": [
+        {
+          "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+          "correct": false
+        },
+        {
+          "text": "Území, z něhož odtéká voda z atmosférických srážek nebo akumulovaná v ledovcích, ve stálé sněhové pokrývce, či permafrostu povrchovou i podzemní cestou do jedi…",
+          "correct": true
+        },
+        {
+          "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+          "correct": false
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": false
+        }
+      ],
+      "explanation": "Správně: Území, z něhož odtéká voda z atmosférických srážek nebo akumulovaná v ledovcích, ve stálé sněhové pokrývce, či permafrostu povrchovou i podzemní cestou do jedi…"
+    },
+    {
+      "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (7)",
+      "options": [
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "Území, z něhož odtéká voda z atmosférických srážek nebo akumulovaná v ledovcích, ve stálé sněhové pokrývce, či permafrostu povrchovou i podzemní cestou do jedi…",
+          "correct": true
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": false
+        }
+      ],
+      "explanation": "Území, z něhož odtéká voda z atmosférických srážek nebo akumulovaná v ledovcích, ve stálé sněhové pokrývce, či permafrostu povrchovou i podzemní cestou do jedi…"
+    },
+    {
+      "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (8)",
+      "options": [
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "Komponenty (proměnné) fluviálního systému",
+          "correct": true
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": false
+        }
+      ],
+      "explanation": "Komponenty (proměnné) fluviálního systému"
+    },
+    {
+      "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (9)",
+      "options": [
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "Hlavní typy fluviálních sedimentů v povodí",
+          "correct": true
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": false
+        }
+      ],
+      "explanation": "Hlavní typy fluviálních sedimentů v povodí"
+    },
+    {
+      "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (10)",
+      "options": [
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "Řádovost (hydrologické pořadí) vodních toků",
+          "correct": true
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": false
+        }
+      ],
+      "explanation": "Řádovost (hydrologické pořadí) vodních toků"
+    },
+    {
+      "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (11)",
+      "options": [
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "Projdi výtah a vlastní poznámky z přednášky",
+          "correct": true
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": false
+        }
+      ],
+      "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+    },
+    {
+      "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (12)",
+      "options": [
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+          "correct": true
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": false
+        }
+      ],
+      "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+    },
+    {
+      "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (13)",
+      "options": [
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+          "correct": true
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": false
+        }
+      ],
+      "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+    },
+    {
+      "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (14)",
+      "options": [
+        {
+          "text": "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů",
+          "correct": false
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": true
+        },
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": false
+        }
+      ],
+      "explanation": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek"
+    },
+    {
+      "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (15)",
+      "options": [
+        {
+          "text": "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": true
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": false
+        }
+      ],
+      "explanation": "Intenzita srážky překročí infiltrační kapacitu půdy"
+    },
+    {
+      "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (16)",
+      "options": [
+        {
+          "text": "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": true
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": false
+        }
+      ],
+      "explanation": "Intenzita srážky nepřekročí infiltrační kapacitu půdy"
+    },
+    {
+      "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (17)",
+      "options": [
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů",
+          "correct": true
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": false
+        }
+      ],
+      "explanation": "rovníkové oblasti, monzunové oblasti, návětrné strany kontinentů"
+    },
+    {
+      "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (18)",
+      "options": [
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "suché vnitrozemské subtropické oblasti, polární oblasti",
+          "correct": true
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": false
+        }
+      ],
+      "explanation": "suché vnitrozemské subtropické oblasti, polární oblasti"
+    },
+    {
+      "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (19)",
+      "options": [
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "Vrstva vody rovnoměrně rozložená po ploše povodí, která odteče za určité období",
+          "correct": true
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": false
+        }
+      ],
+      "explanation": "Vrstva vody rovnoměrně rozložená po ploše povodí, která odteče za určité období"
+    },
+    {
+      "question": "K tématu „Fluviální procesy\" — které tvrzení je správné? (20)",
+      "options": [
+        {
+          "text": "Intenzita srážky nepřekročí infiltrační kapacitu půdy",
+          "correct": false
+        },
+        {
+          "text": "Území, z něhož odtéká voda z atmosférických srážek nebo akumulovaná v ledovcích, ve stálé sněhové pokrývce, či permafrostu povrchovou i podzemní cestou do jedi…",
+          "correct": true
+        },
+        {
+          "text": "Povrchový odtok vzniká v důsledku překročení schopnosti krajiny pojmout vodu ze srážek",
+          "correct": false
+        },
+        {
+          "text": "Intenzita srážky překročí infiltrační kapacitu půdy",
+          "correct": false
+        }
+      ],
+      "explanation": "Území, z něhož odtéká voda z atmosférických srážek nebo akumulovaná v ledovcích, ve stálé sněhové pokrývce, či permafrostu povrchovou i podzemní cestou do jedi…"
     }
   ]
 }

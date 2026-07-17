@@ -89,6 +89,358 @@
         }
       ],
       "explanation": "Vrstvy mohou být ukloněny vůči horizontále."
+    },
+    {
+      "question": "Které tvrzení patří k okruhu „Horninový cyklus\"?",
+      "options": [
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": true
+        },
+        {
+          "text": "hlavní (podstatné): &gt; 10 objemových %",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        }
+      ],
+      "explanation": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (6)",
+      "options": [
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "akcesorické (přídatné): ≤ 5 objemových %",
+          "correct": true
+        }
+      ],
+      "explanation": "akcesorické (přídatné): ≤ 5 objemových %"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (7)",
+      "options": [
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "primární: tvoří se při vzniku samotné horniny",
+          "correct": true
+        }
+      ],
+      "explanation": "primární: tvoří se při vzniku samotné horniny"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (8)",
+      "options": [
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "sekundární: vznikají přeměnou z primárních (převážně zvětráváním)",
+          "correct": true
+        }
+      ],
+      "explanation": "sekundární: vznikají přeměnou z primárních (převážně zvětráváním)"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (9)",
+      "options": [
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Zemskou kůru tvoří z převážné většiny 8 prvků",
+          "correct": true
+        }
+      ],
+      "explanation": "Zemskou kůru tvoří z převážné většiny 8 prvků"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (10)",
+      "options": [
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Vrstvy jsou ukloněné vůči hlavní vrstevní ploše setu vrstev",
+          "correct": true
+        },
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": false
+        }
+      ],
+      "explanation": "Vrstvy jsou ukloněné vůči hlavní vrstevní ploše setu vrstev"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (11)",
+      "options": [
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Projdi výtah a vlastní poznámky z přednášky",
+          "correct": true
+        },
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": false
+        }
+      ],
+      "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (12)",
+      "options": [
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+          "correct": true
+        },
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": false
+        }
+      ],
+      "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (13)",
+      "options": [
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+          "correct": true
+        },
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": false
+        }
+      ],
+      "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (14)",
+      "options": [
+        {
+          "text": "hlavní (podstatné): &gt; 10 objemových %",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": true
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        }
+      ],
+      "explanation": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (15)",
+      "options": [
+        {
+          "text": "hlavní (podstatné): &gt; 10 objemových %",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": true
+        },
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": false
+        }
+      ],
+      "explanation": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (16)",
+      "options": [
+        {
+          "text": "hlavní (podstatné): &gt; 10 objemových %",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": true
+        },
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": false
+        }
+      ],
+      "explanation": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (17)",
+      "options": [
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        },
+        {
+          "text": "hlavní (podstatné): &gt; 10 objemových %",
+          "correct": true
+        },
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": false
+        }
+      ],
+      "explanation": "hlavní (podstatné): &gt; 10 objemových %"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (18)",
+      "options": [
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        },
+        {
+          "text": "vedlejší (podružné): &lt; 10 objemových %",
+          "correct": true
+        },
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": false
+        }
+      ],
+      "explanation": "vedlejší (podružné): &lt; 10 objemových %"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (19)",
+      "options": [
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        },
+        {
+          "text": "akcesorické (přídatné): ≤ 5 objemových %",
+          "correct": true
+        },
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": false
+        }
+      ],
+      "explanation": "akcesorické (přídatné): ≤ 5 objemových %"
+    },
+    {
+      "question": "K tématu „Horninový cyklus\" — které tvrzení je správné? (20)",
+      "options": [
+        {
+          "text": "Velikost částic ve vrstvě se zvětšuje odspodu nahoru (negativní gradace)",
+          "correct": false
+        },
+        {
+          "text": "Velikost částic ve vrstvě se zmenšuje odspodu nahoru (pozitivní gradace)",
+          "correct": false
+        },
+        {
+          "text": "primární: tvoří se při vzniku samotné horniny",
+          "correct": true
+        },
+        {
+          "text": "těleso deskovitého tvaru vymezené vrstevními plochami, které se složením liší od podloží a nadloží",
+          "correct": false
+        }
+      ],
+      "explanation": "primární: tvoří se při vzniku samotné horniny"
     }
   ]
 }

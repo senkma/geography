@@ -1,173 +1,168 @@
 import { useMemo, useState } from "react";
-import type { Quiz } from "../types";
+import type { Quiz, QuizOption } from "../types";
+import { shuffle } from "../lib/shuffle";
 import { Icon } from "./Icon";
 
 function scoreMessage(score: number, total: number): { text: string; tone: string } {
   const pct = total ? (score / total) * 100 : 0;
-  if (pct === 100) return { text: "Výborně — všechno sedí!", tone: "perfect" };
-  if (pct >= 80) return { text: "Skvělá práce, jen drobnosti.", tone: "great" };
-  if (pct >= 60) return { text: "Solidní základ — projdi si vysvětlení.", tone: "good" };
-  if (pct >= 40) return { text: "Ještě procvič — lekci máš v hlavě z poloviny.", tone: "ok" };
-  return { text: "Zkus to znovu po přečtení lekce.", tone: "retry" };
+  if (pct === 100) return { text: "Perfektní!", tone: "perfect" };
+  if (pct >= 80) return { text: "Skvělá práce!", tone: "great" };
+  if (pct >= 60) return { text: "Solidní výsledek.", tone: "good" };
+  if (pct >= 40) return { text: "Ještě procvič.", tone: "ok" };
+  return { text: "Zkus to znovu.", tone: "retry" };
 }
 
-export function QuizView({ quiz }: { quiz: Quiz }) {
+type Props = {
+  quiz: Quiz;
+  onExit?: () => void;
+  onFinish?: () => void;
+};
+
+export function QuizView({ quiz, onExit, onFinish }: Props) {
+  const [step, setStep] = useState(0);
   const [answers, setAnswers] = useState<Record<number, number>>({});
-  const [submitted, setSubmitted] = useState(false);
-  const [active, setActive] = useState(0);
+  const [attempt, setAttempt] = useState(0);
+  const [revealed, setRevealed] = useState(false);
+  const [finished, setFinished] = useState(false);
+
+  const optionOrders = useMemo(() => {
+    const orders: Record<number, QuizOption[]> = {};
+    quiz.questions.forEach((question, i) => {
+      orders[i] = shuffle(question.options);
+    });
+    return orders;
+  }, [quiz, attempt]);
+
+  const total = quiz.questions.length;
+  const q = quiz.questions[step];
+  const options = optionOrders[step] ?? q.options;
+  const chosen = answers[step];
+  const isCorrect = chosen != null && options[chosen]?.correct;
 
   const score = useMemo(() => {
     let s = 0;
-    quiz.questions.forEach((q, i) => {
-      const chosen = answers[i];
-      if (chosen != null && q.options[chosen]?.correct) s += 1;
+    quiz.questions.forEach((question, i) => {
+      const pick = answers[i];
+      const opts = optionOrders[i] ?? question.options;
+      if (pick != null && opts[pick]?.correct) s += 1;
     });
     return s;
-  }, [answers, quiz.questions]);
+  }, [answers, optionOrders, quiz.questions]);
 
-  const total = quiz.questions.length;
-  const answered = Object.keys(answers).length;
-  const progress = total ? (answered / total) * 100 : 0;
   const result = scoreMessage(score, total);
+  const progressPct = finished ? 100 : ((step + (revealed ? 1 : 0)) / total) * 100;
 
-  function choose(qi: number, oi: number) {
-    if (submitted) return;
-    setAnswers((a) => ({ ...a, [qi]: oi }));
-    if (qi < total - 1) {
-      setTimeout(() => setActive(qi + 1), 180);
+  function pick(oi: number) {
+    if (revealed || finished) return;
+    setAnswers((a) => ({ ...a, [step]: oi }));
+    setRevealed(true);
+  }
+
+  function continueFlow() {
+    if (step < total - 1) {
+      setStep((s) => s + 1);
+      setRevealed(false);
+      return;
     }
+    setFinished(true);
+    onFinish?.();
   }
 
   function reset() {
+    setStep(0);
     setAnswers({});
-    setSubmitted(false);
-    setActive(0);
+    setAttempt((a) => a + 1);
+    setRevealed(false);
+    setFinished(false);
+  }
+
+  if (finished) {
+    return (
+      <div className="quiz-flow">
+        <div className="quiz-flow-progress" aria-hidden>
+          <div className="quiz-flow-progress-fill" style={{ width: "100%" }} />
+        </div>
+
+        <div className="quiz-flow-done animate-in">
+          <div className={`quiz-flow-done-badge quiz-flow-done-badge--${result.tone}`}>
+            {score}/{total}
+          </div>
+          <h2 className="quiz-flow-done-title">{result.text}</h2>
+          <p className="quiz-flow-done-sub">
+            {Math.round((score / total) * 100)} % správně
+          </p>
+          <div className="quiz-flow-done-actions">
+            <button type="button" className="btn btn-primary w-full" onClick={reset}>
+              Zkusit znovu
+            </button>
+            {onExit && (
+              <button type="button" className="btn w-full" onClick={onExit}>
+                Zpět na lekci
+              </button>
+            )}
+          </div>
+        </div>
+      </div>
+    );
   }
 
   return (
-    <div className="quiz-shell">
-      <header className="quiz-header">
-        <div className="quiz-header-icon">
-          <Icon name="quiz" className="w-5 h-5 text-[var(--accent-2)]" />
-        </div>
-        <div className="min-w-0 flex-1">
-          <h3 className="quiz-title">{quiz.title}</h3>
-          <p className="quiz-meta">
-            {total} {total === 1 ? "otázka" : total < 5 ? "otázky" : "otázek"}
-            {!submitted && ` · zodpovězeno ${answered}/${total}`}
-          </p>
-        </div>
-        {submitted && (
-          <div className={`quiz-score-badge quiz-score-badge--${result.tone}`}>
-            <span className="quiz-score-num">
-              {score}/{total}
-            </span>
-          </div>
-        )}
-      </header>
+    <div className="quiz-flow">
+      <div className="quiz-flow-progress" aria-hidden>
+        <div className="quiz-flow-progress-fill" style={{ width: `${progressPct}%` }} />
+      </div>
 
-      {!submitted && (
-        <div className="quiz-progress" aria-hidden>
-          <div className="quiz-progress-bar" style={{ width: `${progress}%` }} />
-        </div>
-      )}
+      <p className="quiz-flow-counter">
+        {step + 1} / {total}
+      </p>
 
-      {submitted && (
-        <div className={`quiz-result-banner quiz-result-banner--${result.tone}`}>
-          <p className="font-semibold">{result.text}</p>
-          <p className="text-sm opacity-90 mt-0.5">
-            Správně {score} z {total} ({Math.round((score / total) * 100)} %)
-          </p>
-        </div>
-      )}
+      <h2 className="quiz-flow-question">{q.question}</h2>
 
-      <div className="quiz-questions">
-        {quiz.questions.map((q, qi) => {
-          const chosen = answers[qi];
-          const isActive = !submitted && qi === active;
-          const isDone = answers[qi] != null;
+      <div className="quiz-flow-options">
+        {options.map((opt, oi) => {
+          const isChosen = chosen === oi;
+          const show = revealed && (isChosen || opt.correct);
+          let cls = "quiz-flow-option ";
+          if (show) {
+            cls += opt.correct ? "quiz-flow-option--correct" : "quiz-flow-option--wrong";
+          } else if (isChosen) {
+            cls += "quiz-flow-option--chosen";
+          }
 
           return (
-            <article
-              key={qi}
-              className={`quiz-question ${isActive ? "quiz-question--active" : ""} ${
-                isDone && !submitted ? "quiz-question--done" : ""
-              }`}
-              id={`quiz-q-${qi}`}
+            <button
+              key={oi}
+              type="button"
+              className={cls}
+              onClick={() => pick(oi)}
+              disabled={revealed}
             >
-              <div className="quiz-question-head">
-                <span className="quiz-question-num">{qi + 1}</span>
-                <p className="quiz-question-text">{q.question}</p>
-              </div>
-
-              <div className="quiz-options">
-                {q.options.map((opt, oi) => {
-                  const isChosen = chosen === oi;
-                  const showState = submitted && (isChosen || opt.correct);
-                  const correct = opt.correct;
-                  let cls = "quiz-option ";
-                  if (showState) {
-                    cls += correct
-                      ? "quiz-option--correct"
-                      : "quiz-option--wrong";
-                  } else if (isChosen) {
-                    cls += "quiz-option--chosen";
-                  }
-
-                  return (
-                    <button
-                      key={oi}
-                      type="button"
-                      onClick={() => choose(qi, oi)}
-                      className={cls}
-                      disabled={submitted}
-                    >
-                      <span className="quiz-option-letter">
-                        {submitted && correct ? (
-                          <Icon name="check" className="w-3.5 h-3.5" />
-                        ) : submitted && isChosen && !correct ? (
-                          <Icon name="x" className="w-3.5 h-3.5" />
-                        ) : (
-                          String.fromCharCode(65 + oi)
-                        )}
-                      </span>
-                      <span className="text-sm leading-snug">{opt.text}</span>
-                    </button>
-                  );
-                })}
-              </div>
-
-              {submitted && q.explanation && (
-                <p className="quiz-explanation">{q.explanation}</p>
-              )}
-            </article>
+              {opt.text}
+            </button>
           );
         })}
       </div>
 
-      <footer className="quiz-footer">
-        {submitted ? (
-          <button type="button" className="btn" onClick={reset}>
-            Zkusit znovu
+      {revealed && (
+        <div
+          className={`quiz-flow-feedback ${isCorrect ? "quiz-flow-feedback--ok" : "quiz-flow-feedback--bad"}`}
+        >
+          <div className="quiz-flow-feedback-head">
+            <Icon name={isCorrect ? "check" : "x"} className="w-5 h-5" />
+            <span>{isCorrect ? "Správně!" : "Špatně"}</span>
+          </div>
+          {q.explanation && (
+            <p className="quiz-flow-feedback-text">{q.explanation}</p>
+          )}
+          <button
+            type="button"
+            className="btn btn-primary w-full quiz-flow-continue"
+            onClick={continueFlow}
+          >
+            {step < total - 1 ? "Pokračovat" : "Dokončit"}
           </button>
-        ) : (
-          <>
-            <p className="text-xs text-[var(--text-dim)]">
-              {answered === total
-                ? "Vše zodpovězeno — můžeš vyhodnotit."
-                : "Klikni na odpověď — postupně projdeš všechny otázky."}
-            </p>
-            <button
-              type="button"
-              className="btn btn-primary disabled:opacity-40 disabled:cursor-not-allowed"
-              onClick={() => setSubmitted(true)}
-              disabled={answered < total}
-            >
-              Vyhodnotit
-            </button>
-          </>
-        )}
-      </footer>
+        </div>
+      )}
     </div>
   );
 }

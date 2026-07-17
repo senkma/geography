@@ -111,6 +111,336 @@
         }
       ],
       "explanation": "Geografie kombinuje prostorovou distribuci, vysvětlení a aplikaci poznatků."
+    },
+    {
+      "question": "Která odpověď nejlépe doplňuje: „Co je geografie\"?",
+      "options": [
+        {
+          "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+          "correct": false
+        },
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": true
+        },
+        {
+          "text": "Proč to tam je? Snaží se vysvětlit,",
+          "correct": false
+        },
+        {
+          "text": "proč jsou věci rozmístěné zrovna takovým způsobem",
+          "correct": false
+        }
+      ],
+      "explanation": "Výklad: Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím."
+    },
+    {
+      "question": "Které tvrzení patří k okruhu „Úvod do studia fyzické geografie: FG jako vědní…\"?",
+      "options": [
+        {
+          "text": "proč jsou věci rozmístěné zrovna takovým způsobem",
+          "correct": false
+        },
+        {
+          "text": "Proč to tam je? Snaží se vysvětlit,",
+          "correct": false
+        },
+        {
+          "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+          "correct": true
+        },
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": false
+        }
+      ],
+      "explanation": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí"
+    },
+    {
+      "question": "Která odpověď nejlépe doplňuje: „Co je fyzická geografie\"?",
+      "options": [
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": false
+        },
+        {
+          "text": "Úkolem fyzické geografie je vysvětlovat prostorové aspekty nejrůznějších přírodních jevů vázaných na litosféru, atmosféru, hydrosféru a biosféru. Geografie /Geography/",
+          "correct": true
+        },
+        {
+          "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+          "correct": false
+        },
+        {
+          "text": "Proč to tam je? Snaží se vysvětlit,",
+          "correct": false
+        }
+      ],
+      "explanation": "Výklad: Úkolem fyzické geografie je vysvětlovat prostorové aspekty nejrůznějších přírodních jevů vázaných na litosféru, atmosféru, hydrosféru a biosféru. Geografie /Geography/"
+    },
+    {
+      "question": "Co je správné tvrzení k pojmu „Objekt studia\"?",
+      "options": [
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": false
+        },
+        {
+          "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+          "correct": false
+        },
+        {
+          "text": "fyzickogeografická sféra Země",
+          "correct": true
+        },
+        {
+          "text": "Proč to tam je? Snaží se vysvětlit,",
+          "correct": false
+        }
+      ],
+      "explanation": "Výklad: fyzickogeografická sféra Země"
+    },
+    {
+      "question": "Které tvrzení odpovídá obsahu lekce?",
+      "options": [
+        {
+          "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+          "correct": false
+        },
+        {
+          "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+          "correct": true
+        },
+        {
+          "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+          "correct": false
+        },
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": false
+        }
+      ],
+      "explanation": "Správně: 2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
+    },
+    {
+      "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (11)",
+      "options": [
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": false
+        },
+        {
+          "text": "Fyzickogeografická sféra Země se skládá z jednotlivých geosfér:",
+          "correct": true
+        },
+        {
+          "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+          "correct": false
+        },
+        {
+          "text": "Proč to tam je? Snaží se vysvětlit,",
+          "correct": false
+        }
+      ],
+      "explanation": "Fyzickogeografická sféra Země se skládá z jednotlivých geosfér:"
+    },
+    {
+      "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (12)",
+      "options": [
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": false
+        },
+        {
+          "text": "a) zemská kůra s georeliéfem – nejsvrchnější vrstva pevného zemského tělesa, jejíž povrch se označuje jako georeliéf",
+          "correct": true
+        },
+        {
+          "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+          "correct": false
+        },
+        {
+          "text": "Proč to tam je? Snaží se vysvětlit,",
+          "correct": false
+        }
+      ],
+      "explanation": "a) zemská kůra s georeliéfem – nejsvrchnější vrstva pevného zemského tělesa, jejíž povrch se označuje jako georeliéf"
+    },
+    {
+      "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (13)",
+      "options": [
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": false
+        },
+        {
+          "text": "b) atmosféra – plynný obal Země (po ozonovou vrstvu)",
+          "correct": true
+        },
+        {
+          "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+          "correct": false
+        },
+        {
+          "text": "Proč to tam je? Snaží se vysvětlit,",
+          "correct": false
+        }
+      ],
+      "explanation": "b) atmosféra – plynný obal Země (po ozonovou vrstvu)"
+    },
+    {
+      "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (14)",
+      "options": [
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": false
+        },
+        {
+          "text": "c) hydrosféra – geosféra tvořená vodami oceánů a pevniny",
+          "correct": true
+        },
+        {
+          "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+          "correct": false
+        },
+        {
+          "text": "Proč to tam je? Snaží se vysvětlit,",
+          "correct": false
+        }
+      ],
+      "explanation": "c) hydrosféra – geosféra tvořená vodami oceánů a pevniny"
+    },
+    {
+      "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (15)",
+      "options": [
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": false
+        },
+        {
+          "text": "d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu",
+          "correct": true
+        },
+        {
+          "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+          "correct": false
+        },
+        {
+          "text": "Proč to tam je? Snaží se vysvětlit,",
+          "correct": false
+        }
+      ],
+      "explanation": "d) kryosféra – část zemské kůry a hydrosféry, jejíž teplota je po více než 2 roky pod bodem mrazu"
+    },
+    {
+      "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (16)",
+      "options": [
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": false
+        },
+        {
+          "text": "e) pedosféra – půdní pokryv na povrchu pevnin",
+          "correct": true
+        },
+        {
+          "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+          "correct": false
+        },
+        {
+          "text": "Proč to tam je? Snaží se vysvětlit,",
+          "correct": false
+        }
+      ],
+      "explanation": "e) pedosféra – půdní pokryv na povrchu pevnin"
+    },
+    {
+      "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (17)",
+      "options": [
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": false
+        },
+        {
+          "text": "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy",
+          "correct": true
+        },
+        {
+          "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+          "correct": false
+        },
+        {
+          "text": "Proč to tam je? Snaží se vysvětlit,",
+          "correct": false
+        }
+      ],
+      "explanation": "f) biosféra – geosféra s podmínkami pro život a trvale obydlena živými organismy"
+    },
+    {
+      "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (18)",
+      "options": [
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": false
+        },
+        {
+          "text": "fyzickogeografická + socioekonomická sféra = krajinná sféra Země",
+          "correct": true
+        },
+        {
+          "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+          "correct": false
+        },
+        {
+          "text": "Proč to tam je? Snaží se vysvětlit,",
+          "correct": false
+        }
+      ],
+      "explanation": "fyzickogeografická + socioekonomická sféra = krajinná sféra Země"
+    },
+    {
+      "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (19)",
+      "options": [
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": false
+        },
+        {
+          "text": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wil…",
+          "correct": true
+        },
+        {
+          "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+          "correct": false
+        },
+        {
+          "text": "Proč to tam je? Snaží se vysvětlit,",
+          "correct": false
+        }
+      ],
+      "explanation": "Literatura: Netopil, R. a kol. (1984): Fyzická geografie I. SPN, Praha. Kap. 1: s. 9-25. Strahler, A., Strahler, A. (1999): Introducing Physical Geography. Wil…"
+    },
+    {
+      "question": "K tématu „Úvod do studia fyzické geografie: FG jako…\" — které tvrzení je správné? (20)",
+      "options": [
+        {
+          "text": "Geografie se zaměřuje na prostorové uspořádání přírodních a společenských jevů na zemském povrchu a na interakce mezi společností a životním prostředím.",
+          "correct": false
+        },
+        {
+          "text": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ",
+          "correct": true
+        },
+        {
+          "text": "Kde to je? Studuje prostorové rozmístění (distribuci) věcí",
+          "correct": false
+        },
+        {
+          "text": "Proč to tam je? Snaží se vysvětlit,",
+          "correct": false
+        }
+      ],
+      "explanation": "2. GLOBÁLNÍ ENERGETICKÁ BILANCE ZEMĚ"
     }
   ]
 }

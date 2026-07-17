@@ -89,6 +89,358 @@
         }
       ],
       "explanation": "Voda odtéká jen výparem nebo infiltrací."
+    },
+    {
+      "question": "Které tvrzení odpovídá obsahu lekce?",
+      "options": [
+        {
+          "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+          "correct": false
+        },
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": true
+        },
+        {
+          "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+          "correct": false
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        }
+      ],
+      "explanation": "Správně: 14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+    },
+    {
+      "question": "Které tvrzení patří k okruhu „Hydrologie jezer a nádrží: Světové zásoby vody …\"?",
+      "options": [
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": false
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …",
+          "correct": false
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …",
+          "correct": true
+        },
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": false
+        }
+      ],
+      "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry výparem z půdy, část …"
+    },
+    {
+      "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (7)",
+      "options": [
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": false
+        },
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": false
+        },
+        {
+          "text": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…",
+          "correct": true
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        }
+      ],
+      "explanation": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…"
+    },
+    {
+      "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (8)",
+      "options": [
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": false
+        },
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": false
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": true
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        }
+      ],
+      "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
+    },
+    {
+      "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (9)",
+      "options": [
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": false
+        },
+        {
+          "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+          "correct": false
+        },
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": true
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        }
+      ],
+      "explanation": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj."
+    },
+    {
+      "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (10)",
+      "options": [
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": false
+        },
+        {
+          "text": "Projdi výtah a vlastní poznámky z přednášky",
+          "correct": true
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        },
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": false
+        }
+      ],
+      "explanation": "Projdi výtah a vlastní poznámky z přednášky"
+    },
+    {
+      "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (11)",
+      "options": [
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": false
+        },
+        {
+          "text": "Otevři přiložené PDF/PPT v materiálech lekce",
+          "correct": true
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        },
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": false
+        }
+      ],
+      "explanation": "Otevři přiložené PDF/PPT v materiálech lekce"
+    },
+    {
+      "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (12)",
+      "options": [
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": false
+        },
+        {
+          "text": "Propoj s předchozími a navazujícími okruhy v osnově",
+          "correct": true
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        },
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": false
+        }
+      ],
+      "explanation": "Propoj s předchozími a navazujícími okruhy v osnově"
+    },
+    {
+      "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (13)",
+      "options": [
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        },
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": true
+        },
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": false
+        },
+        {
+          "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+          "correct": false
+        }
+      ],
+      "explanation": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS"
+    },
+    {
+      "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (14)",
+      "options": [
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": false
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": true
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        },
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": false
+        }
+      ],
+      "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
+    },
+    {
+      "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (15)",
+      "options": [
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": false
+        },
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": true
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        },
+        {
+          "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+          "correct": false
+        }
+      ],
+      "explanation": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj."
+    },
+    {
+      "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (16)",
+      "options": [
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": false
+        },
+        {
+          "text": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…",
+          "correct": true
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        },
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": false
+        }
+      ],
+      "explanation": "pokud se voda nestačí vsakovat (intenzivní déšť nebo půda je nasycena), vzniká na povrchu plošný odtok – ron → ronové rýhy → erozní rýhy • při odtoku dochází k…"
+    },
+    {
+      "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (17)",
+      "options": [
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": false
+        },
+        {
+          "text": "14.1.1 Hladina podzemní vody Obr. 14.4/361",
+          "correct": true
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        },
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": false
+        }
+      ],
+      "explanation": "14.1.1 Hladina podzemní vody Obr. 14.4/361"
+    },
+    {
+      "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (18)",
+      "options": [
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": false
+        },
+        {
+          "text": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (pros…",
+          "correct": true
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        },
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": false
+        }
+      ],
+      "explanation": "hladina podzemní vody sahá nejvýše pod vrcholy kopců a rozvodí (souvisí se vsakováním) a klesá směrem k údolím, kde odpovídá úrovni řek, jezer nebo bažin (pros…"
+    },
+    {
+      "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (19)",
+      "options": [
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": false
+        },
+        {
+          "text": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…",
+          "correct": true
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        },
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": false
+        }
+      ],
+      "explanation": "je-li propustná vrstva mezi dvěma nepropustnými, je voda v propustné vrstvě pod tlakem a při navrtání nadložní vrstvy vystřikuje nad povrch – artéská voda (stu…"
+    },
+    {
+      "question": "K tématu „Hydrologie jezer a nádrží: Světové zásoby…\" — které tvrzení je správné? (20)",
+      "options": [
+        {
+          "text": "14. Sladká voda na kontinentech Obr. 14.1/359 – SS",
+          "correct": false
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": true
+        },
+        {
+          "text": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…",
+          "correct": false
+        },
+        {
+          "text": "systému povrchových a podpovrchových vod • srážky vypadávající na povrch se dostávají do půdy infiltrací, tj.",
+          "correct": false
+        }
+      ],
+      "explanation": "povrchová a podpovrchová voda tvoří jen malou část zásob vody v hydrosféře • oběh vody: výpar z oceánů a pevniny → srážky → část srážek se vrací do atmosféry v…"
     }
   ]
 }

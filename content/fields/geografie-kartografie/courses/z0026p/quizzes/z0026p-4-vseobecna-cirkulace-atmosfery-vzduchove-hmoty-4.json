@@ -111,6 +111,336 @@
         }
       ],
       "explanation": "Oceány jsou dominantním zdrojem vodní páry v hydrologickém cyklu."
+    },
+    {
+      "question": "Které tvrzení patří k okruhu „Všeobecná cirkulace atmosféry: Vzduchové hmoty.…\"?",
+      "options": [
+        {
+          "text": "Voda hraje klíčovou roli na Zemi z následujících příčin",
+          "correct": false
+        },
+        {
+          "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+          "correct": false
+        },
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": true
+        },
+        {
+          "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+          "correct": false
+        }
+      ],
+      "explanation": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil"
+    },
+    {
+      "question": "Které tvrzení odpovídá obsahu lekce?",
+      "options": [
+        {
+          "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+          "correct": false
+        },
+        {
+          "text": "a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např. soli)",
+          "correct": true
+        },
+        {
+          "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+          "correct": false
+        },
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": false
+        }
+      ],
+      "explanation": "Správně: a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např. soli)"
+    },
+    {
+      "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (8)",
+      "options": [
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": false
+        },
+        {
+          "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+          "correct": false
+        },
+        {
+          "text": "97 % tvoří slaná voda, 2,8 % sladká voda (mimo slaná jezera a vnitřní moře)",
+          "correct": true
+        },
+        {
+          "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+          "correct": false
+        }
+      ],
+      "explanation": "97 % tvoří slaná voda, 2,8 % sladká voda (mimo slaná jezera a vnitřní moře)"
+    },
+    {
+      "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (9)",
+      "options": [
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": false
+        },
+        {
+          "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+          "correct": false
+        },
+        {
+          "text": "Hlavní část sladké vody je vázána v ledovcových štítech a horských ledovcích (2,15 %) a podpovrchové vodě, hlavně podzemní (0, 63 %) – zbytek 0,02 %, takže sla…",
+          "correct": true
+        },
+        {
+          "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+          "correct": false
+        }
+      ],
+      "explanation": "Hlavní část sladké vody je vázána v ledovcových štítech a horských ledovcích (2,15 %) a podpovrchové vodě, hlavně podzemní (0, 63 %) – zbytek 0,02 %, takže sla…"
+    },
+    {
+      "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (10)",
+      "options": [
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": false
+        },
+        {
+          "text": "Zbytek 0,02 % se rozděluje na půdní vodu (v dosahu kořenů rostlin), povrchovou vodu (jezera, vodní toky, bažiny) a vodu v atmosféře.",
+          "correct": true
+        },
+        {
+          "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+          "correct": false
+        },
+        {
+          "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+          "correct": false
+        }
+      ],
+      "explanation": "Zbytek 0,02 % se rozděluje na půdní vodu (v dosahu kořenů rostlin), povrchovou vodu (jezera, vodní toky, bažiny) a vodu v atmosféře."
+    },
+    {
+      "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (11)",
+      "options": [
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": false
+        },
+        {
+          "text": "4. Atmosférická vlhkost a srážky • voda existuje ve třech skupenstvích – pevném (led), kapalném (voda), plynném (vodní pára) • při fázových změnách se spotřebo…",
+          "correct": true
+        },
+        {
+          "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+          "correct": false
+        },
+        {
+          "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+          "correct": false
+        }
+      ],
+      "explanation": "4. Atmosférická vlhkost a srážky • voda existuje ve třech skupenstvích – pevném (led), kapalném (voda), plynném (vodní pára) • při fázových změnách se spotřebo…"
+    },
+    {
+      "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (12)",
+      "options": [
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": false
+        },
+        {
+          "text": "4.1 Voda v globální perspektivě",
+          "correct": true
+        },
+        {
+          "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+          "correct": false
+        },
+        {
+          "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+          "correct": false
+        }
+      ],
+      "explanation": "4.1 Voda v globální perspektivě"
+    },
+    {
+      "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (13)",
+      "options": [
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": false
+        },
+        {
+          "text": "voda hraje klíčovou roli na Zemi z následujících příčin:",
+          "correct": true
+        },
+        {
+          "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+          "correct": false
+        },
+        {
+          "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+          "correct": false
+        }
+      ],
+      "explanation": "voda hraje klíčovou roli na Zemi z následujících příčin:"
+    },
+    {
+      "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (14)",
+      "options": [
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": false
+        },
+        {
+          "text": "a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např.",
+          "correct": true
+        },
+        {
+          "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+          "correct": false
+        },
+        {
+          "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+          "correct": false
+        }
+      ],
+      "explanation": "a) pokrývá 2/3 povrchu Země, funguje jako rezervoár tepla a jeho přerozdělování, stejně jako rezervoár různých složek (např."
+    },
+    {
+      "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (15)",
+      "options": [
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": false
+        },
+        {
+          "text": "b) voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému",
+          "correct": true
+        },
+        {
+          "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+          "correct": false
+        },
+        {
+          "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+          "correct": false
+        }
+      ],
+      "explanation": "b) voda vypadávající na pevninách jako déšť nebo sníh vytváří při odtoku na povrchu různé tvary a formy reliéfu a přenáší živiny od jednoho místa k druhému"
+    },
+    {
+      "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (16)",
+      "options": [
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": false
+        },
+        {
+          "text": "c) vodou v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému",
+          "correct": true
+        },
+        {
+          "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+          "correct": false
+        },
+        {
+          "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+          "correct": false
+        }
+      ],
+      "explanation": "c) vodou v atmosféře je přenášeno obrovské množství latentního tepla od jednoho místa k druhému"
+    },
+    {
+      "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (17)",
+      "options": [
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": false
+        },
+        {
+          "text": "4.1.1 Hydrosféra a hydrologický cyklus Obr. 4.2/78 – SS",
+          "correct": true
+        },
+        {
+          "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+          "correct": false
+        },
+        {
+          "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+          "correct": false
+        }
+      ],
+      "explanation": "4.1.1 Hydrosféra a hydrologický cyklus Obr. 4.2/78 – SS"
+    },
+    {
+      "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (18)",
+      "options": [
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": false
+        },
+        {
+          "text": "jezera, vodní toky, bažiny) a vodu v atmosféře • hydrologický cyklus – popisuje globální výměnu vody mezi jednotlivými rezervoáry:",
+          "correct": true
+        },
+        {
+          "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+          "correct": false
+        },
+        {
+          "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+          "correct": false
+        }
+      ],
+      "explanation": "jezera, vodní toky, bažiny) a vodu v atmosféře • hydrologický cyklus – popisuje globální výměnu vody mezi jednotlivými rezervoáry:"
+    },
+    {
+      "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (19)",
+      "options": [
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": false
+        },
+        {
+          "text": "a) výpar z oceánů a pevnin (plus transpirace) do atmosféry v podobě vodní páry, z oceánů šestkrát větší",
+          "correct": true
+        },
+        {
+          "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+          "correct": false
+        },
+        {
+          "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+          "correct": false
+        }
+      ],
+      "explanation": "a) výpar z oceánů a pevnin (plus transpirace) do atmosféry v podobě vodní páry, z oceánů šestkrát větší"
+    },
+    {
+      "question": "K tématu „Všeobecná cirkulace atmosféry: Vzduchové …\" — které tvrzení je správné? (20)",
+      "options": [
+        {
+          "text": "4.) Atmosférická vlhkost a srážky FG_3 Brázdil",
+          "correct": false
+        },
+        {
+          "text": "b) kondenzace nebo sublimace vodní páry v atmosféře, vypadávající v podobě srážek (srážky nad oceány asi čtyřikrát větší než nad pevninou)",
+          "correct": true
+        },
+        {
+          "text": "[Fig_4]Voda existuje ve třech skupenstvích – Pevné (led), Kapalné (voda), plynné (vodní pára)",
+          "correct": false
+        },
+        {
+          "text": "Při fázových změnách se spotřebovává nebo uvolňuje latentní teplo",
+          "correct": false
+        }
+      ],
+      "explanation": "b) kondenzace nebo sublimace vodní páry v atmosféře, vypadávající v podobě srážek (srážky nad oceány asi čtyřikrát větší než nad pevninou)"
     }
   ]
 }

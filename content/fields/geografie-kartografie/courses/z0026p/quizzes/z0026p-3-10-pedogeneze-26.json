@@ -89,6 +89,358 @@
         }
       ],
       "explanation": "Biogenní činitelé mění horninu a tvoří profil půdy."
+    },
+    {
+      "question": "Které tvrzení patří k okruhu „Pedogeneze\"?",
+      "options": [
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": false
+        },
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": true
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        },
+        {
+          "text": "půda vzniká působením půdotvorných faktorů, které podmiňují půdotvorné procesy • půdotvorné faktory: • matečná hornina • klima • organizmy • reliéf • čas",
+          "correct": false
+        }
+      ],
+      "explanation": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236"
+    },
+    {
+      "question": "Které tvrzení odpovídá obsahu lekce?",
+      "options": [
+        {
+          "text": "Výklad k tomuto okruhu neobsahuje tuto informaci.",
+          "correct": false
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": true
+        },
+        {
+          "text": "Toto tvrzení nelze z výkladu lekce ověřit.",
+          "correct": false
+        },
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        }
+      ],
+      "explanation": "Správně: 263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s."
+    },
+    {
+      "question": "Co je správné tvrzení k pojmu „hranice zrnitostních frakcí\"?",
+      "options": [
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": false
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        },
+        {
+          "text": "jíl <0,002 mm prach 0,002 – 0,02 mm písek 0,02 – 2,0 mm • půdní druh – určuje se podle zastoupení zrnitostních frakcí Označení půdy Obsah jílu (%) Skupinové Jednotlivé",
+          "correct": true
+        },
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        }
+      ],
+      "explanation": "Výklad: jíl <0,002 mm prach 0,002 – 0,02 mm písek 0,02 – 2,0 mm • půdní druh – určuje se podle zastoupení zrnitostních frakcí Označení půdy Obsah jílu (%) Skupinové Jednotlivé"
+    },
+    {
+      "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (8)",
+      "options": [
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        },
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": false
+        },
+        {
+          "text": "teplota nepřímé působení: prostřednictvím vegetace Srážky – intenzita promývání půdy → obsah živin Teplota – rychlost rozkladu rostlinného opadu a odumřelých k…",
+          "correct": true
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        }
+      ],
+      "explanation": "teplota nepřímé působení: prostřednictvím vegetace Srážky – intenzita promývání půdy → obsah živin Teplota – rychlost rozkladu rostlinného opadu a odumřelých k…"
+    },
+    {
+      "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (9)",
+      "options": [
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        },
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": false
+        },
+        {
+          "text": "bez činnosti organizmů by půdy nemohli vůbec vzniknout reliéf: pro vývoj půd má největší význam: a.",
+          "correct": true
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        }
+      ],
+      "explanation": "bez činnosti organizmů by půdy nemohli vůbec vzniknout reliéf: pro vývoj půd má největší význam: a."
+    },
+    {
+      "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (10)",
+      "options": [
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        },
+        {
+          "text": "terénní deprese reliéf ovlivňuje provlhčení půdy a její teplotu čas: různé fyzikální, chemické a biologické procesy vyžadují ke svému uplatnění určité časové r…",
+          "correct": true
+        },
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": false
+        }
+      ],
+      "explanation": "terénní deprese reliéf ovlivňuje provlhčení půdy a její teplotu čas: různé fyzikální, chemické a biologické procesy vyžadují ke svému uplatnění určité časové r…"
+    },
+    {
+      "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (11)",
+      "options": [
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        },
+        {
+          "text": "Složení a vlastnosti půdy • půda je disperzní systém pevné + kapalné + plynné fáze procentuální zastoupení jednotlivých fází: pevná 50%, kapalná 20 – 30%, plyn…",
+          "correct": true
+        },
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": false
+        }
+      ],
+      "explanation": "Složení a vlastnosti půdy • půda je disperzní systém pevné + kapalné + plynné fáze procentuální zastoupení jednotlivých fází: pevná 50%, kapalná 20 – 30%, plyn…"
+    },
+    {
+      "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (12)",
+      "options": [
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        },
+        {
+          "text": "organický podíl – minerální podíl silně převažuje nad organickým (45% - 5%) organický podíl obsahuje dvě složky: a.",
+          "correct": true
+        },
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": false
+        }
+      ],
+      "explanation": "organický podíl – minerální podíl silně převažuje nad organickým (45% - 5%) organický podíl obsahuje dvě složky: a."
+    },
+    {
+      "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (13)",
+      "options": [
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        },
+        {
+          "text": "živá organická hmota (edafon), b.",
+          "correct": true
+        },
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": false
+        }
+      ],
+      "explanation": "živá organická hmota (edafon), b."
+    },
+    {
+      "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (14)",
+      "options": [
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        },
+        {
+          "text": "2.1 Barva a zrnitost půdy",
+          "correct": true
+        },
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": false
+        }
+      ],
+      "explanation": "2.1 Barva a zrnitost půdy"
+    },
+    {
+      "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (15)",
+      "options": [
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        },
+        {
+          "text": "zděděním od matečné horniny, b.",
+          "correct": true
+        },
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": false
+        }
+      ],
+      "explanation": "zděděním od matečné horniny, b."
+    },
+    {
+      "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (16)",
+      "options": [
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        },
+        {
+          "text": "jíl <0,002 mm prach 0,002 – 0,02 mm písek 0,02 – 2,0 mm • půdní druh – určuje se podle zastoupení zrnitostních frakcí Označení půdy Obsah jílu (%) Skupinové Je…",
+          "correct": true
+        },
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": false
+        }
+      ],
+      "explanation": "jíl <0,002 mm prach 0,002 – 0,02 mm písek 0,02 – 2,0 mm • půdní druh – určuje se podle zastoupení zrnitostních frakcí Označení půdy Obsah jílu (%) Skupinové Je…"
+    },
+    {
+      "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (17)",
+      "options": [
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        },
+        {
+          "text": "Hlinitopísčitá 10 – 20 Střední Písčitohlinitá 20 – 30",
+          "correct": true
+        },
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": false
+        }
+      ],
+      "explanation": "Hlinitopísčitá 10 – 20 Střední Písčitohlinitá 20 – 30"
+    },
+    {
+      "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (18)",
+      "options": [
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        },
+        {
+          "text": "Hlinitá 30 – 45 Těžká Jílovitohlinitá 45 – 60",
+          "correct": true
+        },
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": false
+        }
+      ],
+      "explanation": "Hlinitá 30 – 45 Těžká Jílovitohlinitá 45 – 60"
+    },
+    {
+      "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (19)",
+      "options": [
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        },
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": true
+        },
+        {
+          "text": "půda vzniká působením půdotvorných faktorů, které podmiňují půdotvorné procesy • půdotvorné faktory: • matečná hornina • klima • organizmy • reliéf • čas",
+          "correct": false
+        }
+      ],
+      "explanation": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén)."
+    },
+    {
+      "question": "K tématu „Pedogeneze\" — které tvrzení je správné? (20)",
+      "options": [
+        {
+          "text": "Literatura Strahler, A. – Strahler, A. (1999): Introducing Physical Geography. Wiley, New York, 575 s. Kapitola: Global Soils, s. 236",
+          "correct": false
+        },
+        {
+          "text": "263. Tomášek, M. (2000): Půdy České republiky. ČGÚ, Praha, 67 s.",
+          "correct": false
+        },
+        {
+          "text": "půda vzniká působením půdotvorných faktorů, které podmiňují půdotvorné procesy • půdotvorné faktory: • matečná hornina • klima • organizmy • reliéf • čas",
+          "correct": true
+        },
+        {
+          "text": "pedosféra • pedosféra = soubor všech půd Země, který se vyvinul na styku litosféry, atmosféry, hydrosféry a biosféry (půda je hraniční fenomén).",
+          "correct": false
+        }
+      ],
+      "explanation": "půda vzniká působením půdotvorných faktorů, které podmiňují půdotvorné procesy • půdotvorné faktory: • matečná hornina • klima • organizmy • reliéf • čas"
     }
   ]
 }
